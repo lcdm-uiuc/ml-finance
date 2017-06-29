@@ -37,7 +37,7 @@ http://ieeexplore.ieee.org/document/7069923/
 2. Finished Replication of JW paper (as their dataset is different from notre dame data, data processing is still expected) --Mandy
 3. Continue downloading 8K data. -- David or Ty or Jake?
 4. Continue downloading twitter data. --Ty
-4. Stock price database? 
+4. Stock price database?   
 July 7: Meet with Laura Li to discuss the direction.
 ### Week 2 (July 14): 
 
