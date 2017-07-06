@@ -33,11 +33,12 @@ http://ieeexplore.ieee.org/document/7069923/
 2. Download 8K --David/Ty/Jake
 3. Download twitter data --Ty
 ### Week 1 (July 7): 
-1. Finished downloading the university of notre dame data. --Ty or David or Jake  
+1. Finished downloading the university of notre dame data. --Ty
 2. Finished Replication of JW paper (as their dataset is different from notre dame data, data processing is still expected) --Mandy
-3. Continue downloading 8K data. -- David or Ty or Jake?
-4. Continue downloading twitter data. --Ty
-4. Stock price database?   
+3. Download Stock price return -- David
+4. Continue downloading 8K data. -- Jake
+5. Continue downloading twitter data. --Ty
+   
 July 7: Meet with Laura Li to discuss the direction.
 ### Week 2 (July 14): 
 
