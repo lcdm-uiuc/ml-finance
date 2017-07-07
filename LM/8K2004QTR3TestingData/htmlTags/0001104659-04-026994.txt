@@ -1,0 +1,1855 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DwQl0gsvl514nl36PJZKsgNg1sZ/c4eh2zkK2FvEn5LlgQ9XeT+D3TvBuOxsWSJ3
+ 29jqSVBYKwzVTN6tGabEQg==
+
+<SEC-DOCUMENT>0001104659-04-026994.txt : 20040907
+<SEC-HEADER>0001104659-04-026994.hdr.sgml : 20040906
+<ACCEPTANCE-DATETIME>20040907170924
+ACCESSION NUMBER:		0001104659-04-026994
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040831
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040907
+DATE AS OF CHANGE:		20040907
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SCO GROUP INC
+		CENTRAL INDEX KEY:			0001102542
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				870662823
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-29911
+		FILM NUMBER:		041019144
+
+	BUSINESS ADDRESS:	
+		STREET 1:		355 S 520 W, SUITE 100
+		CITY:			LINDON
+		STATE:			UT
+		ZIP:			84042
+		BUSINESS PHONE:		8017654999
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CALDERA INTERNATIONAL INC/UT
+		DATE OF NAME CHANGE:	20001101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CALDERA SYSTEMS INC
+		DATE OF NAME CHANGE:	20000104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a04-10281_18k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US" link="blue" vlink="purple">
+
+<div>
+
+<div style="border:none;border-top:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES<br>
+SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington,
+D.C.&#160; 20549</font></b></p>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM 8-K</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p align="center" style="font-family:Times New Roman;margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT
+REPORT</font></b><b><font size="3" style="font-size:12.0pt;font-weight:bold;"><br>
+Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date of Report (Date of earliest event
+reported):&#160; <b><font style="font-weight:bold;">August&nbsp;31, 2004</font></b></font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">The SCO Group, Inc.</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant as
+specified in its charter)</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.92%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Delaware</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.14%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.9%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">0-29911</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.14%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.9%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">87-0662823</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.92%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other jurisdiction of<br>
+  incorporation)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.14%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.9%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission<br>
+  File Number)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.14%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.9%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS Employer<br>
+  Identification No.)</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" colspan="5" valign="top" style="padding:0in 0in 0in 0in;width:100.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" colspan="5" valign="top" style="padding:0in 0in 0in 0in;width:100.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">355 South 520 West<br>
+  Lindon, Utah 84042</font></b></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" colspan="5" valign="top" style="padding:0in 0in 0in 0in;width:100.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive offices,
+  including Zip Code) </font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="100%" colspan="5" valign="top" style="padding:0in 0in 0in 0in;width:100.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan="5" valign="top" style="padding:0in 0in 0in 0in;width:100.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Registrant&#146;s telephone number, including
+  area code:&nbsp; <b><font style="font-weight:bold;">(801) 765-4999</font></b></font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan="5" valign="top" style="padding:0in 0in 0in 0in;width:100.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan="5" valign="top" style="padding:0in 0in 0in 0in;width:100.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">N/A</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan="5" valign="top" style="padding:0in 0in 0in 0in;width:100.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Former name or former address, if changed
+  since last report)</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (<i><font style="font-style:italic;">see </font></i>General
+Instruction A.2. below):</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="font-family:Times New Roman;font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="font-family:Times New Roman;font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Soliciting material pursuant
+to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="font-family:Times New Roman;font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))</p>
+
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="font-family:Times New Roman;font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))</p>
+
+<div style="border:none;border-bottom:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt .25in;padding:0in;text-indent:-.25in;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\eudelhofen\04-10281-1\task181751\10281-1-ba.htm',USER='eudelho',CD='Sep  7 14:29 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-family:Times New Roman;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item
+2.02.</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Results of Operations
+and Financial Condition.</font></b></p>
+
+<p style="font-family:Times New Roman;font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On
+August&nbsp;31, 2004, The SCO Group, Inc. (the &#147;Company&#148;) conducted a
+conference call with investors concerning its financial results for the fiscal
+quarter ended July&nbsp;31, 2004.&#160; A copy
+of the transcript is attached hereto as Exhibit 99.1 and is incorporated herein
+by reference.&#160; The transcript was
+prepared by Shareholder.com and includes, where possible, corrections made by
+management of the Company of transcription errors.</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<h1 style="font-family:Times New Roman;font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item
+9.01.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Financial
+Statements and Exhibits.</font></h1>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="font-family:Times New Roman;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(c)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Exhibits.&#160;
+The following items are filed as exhibits to this report:</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="font-family:Times New Roman;margin:0in 0in .0001pt 1.0in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Transcript, dated August&nbsp;31, 2004,
+of the Company&#146;s conference call regarding its financial results for the fiscal
+quarter ended July&nbsp;31, 2004.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\eudelhofen\04-10281-1\task181751\10281-1-ba.htm',USER='eudelho',CD='Sep  7 14:29 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">SIGNATURES</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dated:&#160; September&nbsp;7, 2004</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr style="page-break-inside:avoid;">
+  <td width="55%" valign="top" style="padding:0in 0in 0in 0in;width:55.4%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="44%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:44.6%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">THE SCO GROUP, INC.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="55%" valign="top" style="padding:0in 0in 0in 0in;width:55.4%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="38%" valign="top" style="padding:0in 0in 0in 0in;width:38.1%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="55%" valign="top" style="padding:0in 0in 0in 0in;width:55.4%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>
+  </td>
+  <td width="38%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:38.1%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/&nbsp; Bert Young</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="55%" valign="top" style="padding:0in 0in 0in 0in;width:55.4%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Name:</font></p>
+  </td>
+  <td width="38%" valign="top" style="padding:0in 0in 0in 0in;width:38.1%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Bert
+  Young</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="55%" valign="top" style="padding:0in 0in 0in 0in;width:55.4%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title:</font></p>
+  </td>
+  <td width="38%" valign="top" style="padding:0in 0in 0in 0in;width:38.1%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Chief
+  Financial Officer</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\eudelhofen\04-10281-1\task181751\10281-1-ba.htm',USER='eudelho',CD='Sep  7 14:29 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">EXHIBIT INDEX</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="8%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:8.82%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit
+  No.</font></b></p>
+  </td>
+  <td width="1%" valign="bottom" style="padding:0in 0in 0in 0in;width:1.82%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="89%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:89.36%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Description</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:8.82%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="1%" valign="bottom" style="padding:0in 0in 0in 0in;width:1.82%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="89%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:89.36%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.82%;">
+  <p style="margin:0in 0in .0001pt 20.0pt;text-indent:-10.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>
+  </td>
+  <td width="1%" valign="bottom" style="padding:0in 0in 0in 0in;width:1.82%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="89%" valign="top" style="padding:0in 0in 0in 0in;width:89.36%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Transcript, dated
+  August&nbsp;31, 2004, of the Company&#146;s conference call regarding its
+  financial results for the fiscal quarter ended July&nbsp;31, 2004.</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\eudelhofen\04-10281-1\task181751\10281-1-ba.htm',USER='eudelho',CD='Sep  7 14:29 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a04-10281_1ex99d1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US" link="blue" vlink="purple">
+
+<div>
+
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">EXHIBIT 99.1</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="color:black;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-align:center;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">The SCO Group [SCOX]</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p align="center" style="font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;"><font style="color:black;font-weight:bold;letter-spacing:0pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Q3 2004 The SCO Group Earnings Conference Call<br></font></b></font><font style="color:black;letter-spacing:0pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font color="black" face="Times New Roman" style="color:windowtext;">31
+Aug 2004 17:00 (ET)</font></font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Operator:</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Good day, everyone and welcome to the SCO Group&#146;s Third Quarter 2004
+Earnings Conference Call. At this time, everyone is in a listen-only mode.
+Later a question and answer session will be opened. Today&#146;s call is being
+recorded. Participating on the call today are Darl McBride, President and Chief
+Executive Officer, and Bert Young, Chief Financial Officer. Each of you should
+have a copy of the press release issued this afternoon containing our third
+quarter and year-to-date results for fiscal year 2004 which we will be
+discussing further in this call. I wish to point out to the participants on
+today&#146;s conference call that the information provided during this call will
+include forward-looking statements within the meaning of the Private Securities
+Litigation Reform Act of 1995. These forward-looking statements are made only
+as of the date of this conference call and we undertake no obligation to update
+or revise the projections of revenue or other forward-looking information
+whether as a result of new information, future developments or otherwise. Our
+performance is subject to significant risks and uncertainties known and unknown
+that could cause our actual results to differ materially from those that may be
+anticipated by the forward-looking statements. These risks and uncertainties
+may cause our actual results, level of activity, performance or achievements to
+be materially different from any other projections or future results implied by
+these forward-looking statements. In particular, our projections of fourth
+quarter revenue for 2004 contain revenue from our SCOsource licensing
+initiative. This initiative and the underlying intellectual property are the
+subject of litigation. The projection of the SCOsource revenue and expenses is
+particularly difficult and subject to both known and unforeseen risks.
+Accordingly, you should not place undue reliance on projections of future
+revenue and expenses and results or other forward-looking statements. For a
+full discussion of these and other risks, please see our annual report on form
+10-k for the fiscal year ended October&nbsp;31, 2003 and our quarterly reports
+on form 10-Q for the first quarter ended January&nbsp;31, 2004. The second
+quarter ended April&nbsp;30, 2004 and other the filings we have made with the
+SEC, all of which are available at www.sco.com or on the SEC&#146;s Edgar database.
+I would now like to turn the call over to Mr. Darl McBride, President and Chief
+Executive Officer of the SCO Group, Inc.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Okay. Thanks a lot and thanks all of you for joining us on today&#146;s call.
+I would like to start off by apologizing for the delay in getting started. We
+had a couple of last minute details we had to take care of. I&#146;m pleased to say
+that the third quarter has been both an active and productive quarter for the
+company with greater detail to come we&#146;ve accomplished and in many cases
+exceeded almost every bar we set for ourselves last quarter. Most visibly, we
+restored profitability in our core Unix business and saw a nice uplift in
+SCOsource revenue. Additionally, we closed the BayStar transaction and put into
+place a shareholder rights plan, designed to ensure that our shareholders realize
+full value from their investment in the company. We believe accomplishing these
+two things will help stabilize our company&#146;s shareholder structure going
+forward. In summary, the quarter can best be described as one where the company
+was firing on all cylinders from improved performance in the Unix business to
+enhanced financial discipline and greater investment in our legal case. Before
+I turn the call over to Bert to review our third quarter financial results, I&#146;d
+like to point out that we remain steadfastly focused on driving a dual path of
+success in both the marketplace and in the courtroom and we&#146;ll take whatever
+steps are necessary to ensure both. So now let&#146;s turn the call over to Bert
+Young, our CFO, for an overview of the company&#146;s financial results.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group - CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Okay, Darl, thanks. The company reported revenue at 11.2 million for the
+third quarter fiscal year 2003 as opposed to 20.1 million for the comparable
+quarter the prior year. The net loss for the third quarter was 7.4 million
+compared to income of 3.1 million reported in the comparable quarter the prior
+year. Net income to common stockholders was 7.5 million or 38</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-align:center;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">cents per diluted common share for the third quarter fiscal year 2004.
+Included in this net income, the common stockholders for the third quarter was
+a contribution of capital of 15.5 million related to the repurchase and
+retirement of the remaining 40,000 shares of the company&#146;s series-A1
+convertible preferred stock in connection with BayStar. Revenue for the third
+quarter was derived from 678,000 in SCOsource licensing which represented a
+significant increase from revenue of 11,000 generated in the second quarter
+fiscal year 2004 and approximately 10.5 million from our Unix products and
+services. Revenue for Unix products and services was split at 53 percent in the
+Americas and 47 percent in the international group. As indicated in our press
+release, let me take a moment to reiterate that we&#146;ve increased our operating
+performance and restored profitability in our Unix business and generated
+operating income for the third quarter. The cost of revenue for the Unix
+business was 1.7 million resulting in a cost margin or gross margin of 8.8
+million or 84 percent. Costs and expenses for selling, marketing, R&amp;D, general
+administrative and non-cash amortization totaled 8.5 million. As a management
+team, we&#146;re extremely pleased with the progress we&#146;ve made in the business
+despite a challenging operating environment. Revenue from our SCOsource
+position relating to compliance licenses was 678,000 for the third quarter and
+709,000 year to date. This revenue was primarily from two sources including a
+transaction that was completed in a prior quarter and a newly signed license
+agreement in the third quarter. Due to confidentiality reasons, we&#146;re not
+disclosing specific terms of either of these license agreements. As in previous
+quarters, we&#146;re continuing to classify legal and professional fees and other
+costs and expenses that relate to the enforcement of our intellectual property
+rights as costs of revenue. For the third quarter, these costs were 7.3 million
+which reflects an unusually busy but very productive quarter for the company in
+the defense of its intellectual property. Operating costs for selling,
+marketing, R&amp;D support and general administrative totaled approximately.9
+million for SCOsource. And as I mentioned previously, in connection with the
+closing of the BayStar transaction in the third quarter, the company recorded a
+contribution of capital of 15.5 million which represents the difference in the
+carrying value of the series A shares and the fair value of the 2.1 million
+common shares and $13 million of cash that we issued. This contribution of
+capital classified as a dividend increased earnings to common stockholders in
+the third quarter fiscal year 2004. For the first three quarters of fiscal year
+2004, the company reported a net loss to common stockholders of 9.7 million or
+67 cents for basic and diluted common share on year-to-date revenue of 32.7
+million. This was down from revenue of 55 million for the first three quarters
+of fiscal year 2003 and net income to common stockholders of 6.9 million or 47
+cents per diluted common share.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Switching gears from our operating results and moving to the subject of
+streamlining costs and operations, let me say that we&#146;re pleased but not fully
+satisfied with our progress on this front. Continuing forward with our third
+quarter efforts, we then focused on bringing new levels of financial discipline
+to the company. In the fourth quarter, we will make additional adjustments in
+all of our operating functions on both the Unix and the SCOsource and we
+anticipate recording restructuring costs in quarter four related to these
+actions. We expect these adjustments will further increase the effectiveness of
+our company&#146;s operations. Management is prepared to monitor closely the
+company&#146;s cost structure to further ensure that the expense side is appropriate
+for the level of business activity and to ensure success in our litigation efforts.
+To that point, we&#146;re pleased to have entered into a letter of intent with
+Boies, Schiller and Flexner to revise our fee agreement with them to limit the
+overall cash costs of the legal fees associated with our company&#146;s litigation
+to a total of $31 million. Equally important the agreement also says that
+Boies, Schiller and Flexner has agreed to lead SCO&#146;s efforts through the
+duration and completion of the pending litigation. In return for this new fee
+agreement, we&#146;ve agreed to increase the contingency associated with any award
+on a scaled or sliding basis from 20 to 33 percent depending on the overall
+size of the award. We will release further details upon finalization of the
+agreement. This is obviously a big development for us with the 31 million cap
+in place it means the remaining capital we have can then be used for working
+capital and financing our efforts in the business going forward.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Finally, looking forward to the fourth quarter, we expect consolidated
+revenue to be in the range of 10 to 12 million. As previously indicated,
+SCOsource revenue remains extremely difficult to predict including the timing
+and level of revenue in the near term or in any given quarter. Operating
+expenses for the fourth quarter relating to our Unix products and services</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-align:center;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">exclusive of any restructure charges that may be incurred are
+anticipated to slightly decline from the third quarter. Costs and expenses for
+the fourth quarter for SCOsource including legal fees are expected to vary from
+quarter to quarter depending on the level of and activity surrounding our
+intellectual property claims and therefore are difficult to predict. The
+company will take the necessary steps to protect our valuable Unix intellectual
+property and aggressively pursue our legal claims. Finally, our cash and
+available-for-sale securities were 43 million as of July&nbsp;31, 2004 and we
+will continue to pursue our Unix business goals, enforce our intellectual
+property rights and pursue our litigation. So Darl, I&#146;ll turn the time back
+over to you.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Thanks for that update, Bert. The legal team has done a great job of
+preparing our cases and allowing the rest of the team to concentrate on running
+our business. I&#146;d like to spend the remainder of the call addressing our
+business performance and prospects. As you know by now, we are pleased with the
+cost adjustments we have made in our Unix business and its return to
+profitability despite a challenging operating environment. Between Unix
+products and services, we provided additional support to more than 25 existing
+customers, some of the more notable customers would include companies like ADP,
+Bell Communications, Kroger, McDonalds, Samsung, Telecom Italia, TJ Maxx and
+Zales. These deals were primarily related to our UnixWare and Open Server
+technology. Importantly the third quarter saw the launch of a number of new
+Unix OS products. These include UnixWare 7.1.4 and Smallfoot embedded Unix.
+UnixWare 7.1.4 represents a major upgrade to the product line with the addition
+of web service capabilities, increased security and greater hardware support
+from industry-leading vendors such as Dell, HP, Intel, Acer, HCL, Fujitsu,
+Siemens and many others. Our Smallfoot embedded Unix brings the same
+reliability that&#146;s found in our Unix operating systems to the point of sale,
+gaming and many other small device market. We also recently introduced SCO
+Office Server 4.1. The company&#146;s new email and collaboration product. The SCO
+Office Server has seen marked interest in the marketplace. All of these
+products have been well received by our customer base and we believe that they
+will provide some revenue opportunities in the coming quarters. On deck and on
+track for calendar Q1 2005 is a major upgrade to Open Server. This is a code
+name Legend. We provided many of the attendees at SCO Forum, our recent annual
+conference, with a sneak peek at many of the capabilities that will be added to
+this new version of Open Server and the feedback was overwhelmingly positive.
+We believe that the release of Legend will strengthen the overall ecosystem of
+partners, developers, customers and resellers that rely on Open Server and also
+present SCO with opportunities to upgrade our current install base. While our
+recent product releases have marked the largest across the board, group product
+enhancements from the company in several years, we are committed to a continued
+investment in our business towards delivering unique product solutions for our
+customers.</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-indent:.5in;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Now shifting gears from Unix to SCOsource, we
+are certainly pleased that the increased revenue and the business from the
+prior quarter though we would continue to caution that forecasting these
+revenues is very difficult. On this, I&#146;ll reiterate that we believe there is
+value in our Unix licensing business and that we are offering our customers and
+potential customers a value they must be made aware of. There is continued
+interest in the licensing of our Unix technology and we believe that when our
+legal claims are substantiated in a court of law that demand for this licensing
+business will see an increase. Some end users have chosen not to wait for a
+court resolution and we&#146;ve accommodated their requests to license our
+intellectual property now. On the topic of our litigation, the past quarter was
+one of increased investment in our cases. While our legal costs came in higher
+than previous quarters, we believe that this was money well spent and Bert
+mentioned we have a solution in terms of how we manage those costs going
+forward. In particular, our litigation against IBM is progressing as planned
+and we look forward to having our case heard before a jury in the U.S. District
+Court starting in 14 months. In the meantime, we&#146;re in the process of putting a
+plan in place that will help us to better manage our legal costs from quarter
+to quarter. At this point, we have our eye on two developments that we feel
+have the potential to accelerate our SCOsource revenue growth. The first is any
+action by the court that suggests Novell copyrights are unfounded. Despite an increase
+in SCOsource revenues and the accrual of additional SCOsource customers, we
+continue to believe that Novell&#146;s claims have greatly impacted our</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-align:center;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">ability to realize traction in this business. When the Novell case is
+resolved, we believe this will help create a healthier SCOsource licensing
+pipeline moving forward. The other development involves the risks, the Linux
+development process. A study was recently released by open source risk
+management that claimed that Linux potentially infringes on 283 software
+patents and while SCO litigation hasn&#146;t involved patents, it does give an
+indication regarding some of the problems that have existed for years with the
+Linux development process. SCO believes that this development process has also
+been responsible for the misappropriation of SCO&#146;s intellectual property into
+Linux. We believe that upon a favorable court judgment, demand for SCO&#146;s Unix
+licensing business could increase. We believe the intellectual property is the
+core of the technology company. We believe our intellectual property has been
+infringed upon and we will vigorously defend our IP at every turn. If you
+followed our company closely, you&#146;ve seen that we&#146;re laser focused on this
+issue and have no intention of backing down.</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-indent:.5in;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Lastly, it is noted in my opening remarks we
+were pleased to have closed on the BayStar Capital transaction and to have
+introduced the shareholder rights plan. As Bert touched on the BayStar
+transaction, I&#146;ll briefly address the shareholder rights plan. On
+August&nbsp;10, the Board approved a shareholder rights plan. At its simplest,
+the plan is put in place to ensure SCO shareholders realize fair value from
+their investment in the company. The rights plan is designed to ensure that our
+stockholders realize the long-term value of their investment in the company and
+is similar to those adopted by over two-thirds of the Fortune 200. The plan
+will not prevent a takeover attempt but should encourage anyone seeking to
+acquire the company to negotiate fair value directly with the Board of
+Directors. It&#146;s important to point out we have not introduced this plan in
+response to any specific interest in or offer made for the company. More than
+two-thirds of the Fortune 200 do have these plans in place and while this plan
+is recently put in, we believe that this will basically keep any outside offers
+or potential takeovers that are not in the best interest of the shareholders at
+bay.</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-indent:.5in;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">So in summary, we&#146;ve accomplished a great deal
+of the goals we set before us during the last quarter. The company&#146;s Unix
+business achieved profitability and added to the company&#146;s cash balance. We
+increased SCOsource revenues. We&#146;ve protected the company from an undervalue
+bid by implementing a shareholder rights plan. We&#146;ve clarified our shareholder
+structure by removing the rights and references associated with the BayStar
+deal and have retired their preferred shares. We continue to deliver on our
+product development and marketing plans and we believe that we&#146;ll provide new
+sales opportunities for the company in the future. And then last, but certainly
+not least, we talked about the letter of intent we&#146;ve entered into with Boies,
+Schiller and Flexner that will give us much more flexibility and sustaining
+power as the cases move forward. It also obviously demonstrates the belief that
+they have in our case. our litigation is on tract and progressing as expected
+through the court system and with that we are fully funded to follow this
+through through its full conclusion. So I&#146;ll now turn the call over to the
+operator and let&#146;s open up the phone lines for questions.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Operator:</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Thank you, sir. If you would like to ask a question on today&#146;s call, you
+may do so by pressing star, one on your touchtone telephone. Again, that is
+star, one to ask a question. If you&#146;re on the speakerphone, please make sure
+your mute function is turned off to allow your signal to reach our equipment.
+Once again, that is star one to ask a question. We&#146;ll pause a moment to
+assemble our roster. Once again, that is star, one to ask a question. And we do
+ask that you limit yourself to one question.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Questions and Answers</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Operator:</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">And we&#146;ll take our first question from Dion Cornett with Decatur Jones.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Dion Cornett, Decatur Jones - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Congrats on the sequential pickup in business.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Thanks, Dion.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Dion Cornett, Decatur Jones -
+Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Just if I can sneak in two here that the first one has to do with the
+negotiated fee settlement. Bert, can you give me an explanation. You report $43
+million in cash and securities, that $31 million cap, how is that counted
+against fees already paid and how does that relate to the roughly $8 million in
+deferred legal comp your showing on the balance sheet?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group - CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Okay. So the 43 million in cash we that have, of that 31 million will be
+allocated towards this agreement. Some of that is for fees that we&#146;ve already
+incurred. The majority of it will be over time over the next year and year,
+year and a bit and we&#146;re still flushing out all the details on it&#151;so some of it
+applies to what we&#146;ve already incurred, some of it will apply going forward.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Dion Cornett, Decatur Jones -
+Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">So the bottom line is no matter what happens in the courts, you will
+have $12 million left over after legal expenses.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group - CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Exactly.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Right.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Dion Cornett, Decatur Jones -
+Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Okay. And then the next question may be a little bit tougher. A number
+of recent articles have come out where purportedly independent legal experts,
+and law firms have expressed uncertainty about your case. Could you describe
+what precautions you&#146;ve taken to protect your shareholders from what could be
+perceived as bad legal advice?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">You&#146;re talking about...</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group - CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">So you&#146;re saying some experts think we don&#146;t have a good case and I
+think what we&#146;ve done to protect ourselves is picked one of the best firms in
+the country and top-notch litigators and professionals and...</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">I think, Dionne, to take that on, I believe that if you look at the
+claim that we have, we&#146;re moving forward very nicely through the court system.
+At every turn of the way, there are IBM-sponsored websites out there that claim
+that the next claim is going to be the one that SCO&#146;s going down. I mean,
+they&#146;ve been saying this for a year and the cases keep moving through. Like
+Bert said, we retained one of America&#146;s if not one of the world&#146;s best
+litigators. They have a lot of confidence in our cases and we look forward to
+having those cases tried in the courtrooms.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Dion Cornett, Decatur Jones -
+Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Maybe I need to be a little bit more specific. I mean, attorneys from
+Car &amp; Farrell, Gray, Cary, Ware and Freidenrich, Kirkpatrick, Holland,
+Allan, Tompkins and Cary, the list goes on and I don&#146;t know what the
+reasoning&#151;what purposes these people may have in common but these are all
+respected law firms that have expressed skepticism, Judge Kimball and his last
+finding used the word substantial doubt with respect to the transfer of
+copyright. There seems to be a&#151;and I don&#146;t know if it&#146;s right or wrong&#151;I&#146;m just
+saying to the outside observer, there seems to be a plethora of legal opinion
+that stand counters what</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-align:center;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">you&#146;re hearing from Boies. Have you guys made any efforts to quietly
+contact other third-party intellectual property firms to get, you know, just as
+you would going to the doctor and get sort of a second opinion.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Well, just so you&#146;re aware, as we go through these legal bills, there
+are multiple law firms involved in this, Dion. There are multiple intellectual
+property law firms involved in this and these are good intellectual property
+law firms. So absolutely Boies has surrounded himself with a strong set of
+legal talent as they&#146;ve gone through these cases. Now with respect to our
+detractors out there, I would come back and ask them the question, have they
+reviewed the material that is in front of the courts right now. I can guarantee
+you they haven&#146;t reviewed it all because many key pieces are under seal. As I
+said on my last call, there is a wide gap between what the judge and the two
+parties, between IBM and SCO are looking at, and what the world is currently
+seeing. As this gap is closed, we&#146;re very confident about what the so-called
+pundits will think about SCO&#146;s case.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Dion Cornett, Decatur Jones -
+Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Thank you and congrats again on the improvements in the core business.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Thanks, Dion.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Operator</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">We&#146;ll take our next question from Steven Vaughan-Nichols with eWeek.com.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Steven Vaughan-Nichols, eWeek.com -
+Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Hi there. I have two relatively minor questions. Hopefully you can get
+them both. The first is in regards to the shareholders rights plan, you said
+earlier that was not a response to any expected earning deals currently on the
+table. Is this though in response to the past efforts by BayStar where BayStar
+clearly had a distinct idea that SCO should dedicate itself strictly to its intellectual
+property litigation and an attempt to ensure that a situation similar to the
+BayStar one which dragged out for months won&#146;t happen again.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yeah, clearly our position on this is that we&#146;re just trying to make
+sure that shareholders realize fair value from their investment in the company
+that the rights plan part is really designed to ensure that stockholders get
+this long-term value and to make sure that someone isn&#146;t able to come in with a
+less than friendly takeover attempt to put the company and the shareholders at
+risk vis-&#224;-vis something that we would view to be a fair deal. So again, it&#146;s
+not directed at any particular camp per se but it is&#151;the share price right
+now&#151;we are concerned about somebody that would try to be opportunistic and I
+get asked this question quite frequently, Steven, but what&#146;s to keep IBM or
+what&#146;s to keep some other company from coming in and taking you guys out at a
+much lower price than what you even have on your claims on the table. This will
+help deal with some of those issues.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Steven Vaughan-Nichols, eWeek.com -
+Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Okay. My second question is considering your reorganization in the
+fourth quarter, are you all looking at layoffs? At reductions in force?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Well, I mean, some of those things are always things we look at
+quarterly on a quarter-to-quarter basis. I think a majority of what we have in
+mind for quarter four has to do with office closings and downsizing of some
+offices both here in the U.S. and then primarily overseas.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Steven Vaughan-Nichols, eWeek.com -
+Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Very good. Thank you very much.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Operator</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">We&#146;ll take our next question from Maureen O&#146;Gara with Client Server
+News.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#150; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Gentlemen, how are you?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Good, how are you Maureen?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">So this idea about the shareholder rights plan has nothing to do with
+anything essentially. I don&#146;t think they&#146;re going to play in Peoria.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Well...</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Is it the price of the stock that&#146;s alarming you?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Absolutely. I mean, we&#146;re very concerned about the current prices of
+stock vis-&#224;-vis what we think the long-term value of the company is and the
+disparity between those two right now is definitely at the core of why we put
+this plan in place.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">So what would it take to buy you with the poison pill?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">We&#146;re not here to talk about that right now.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">The Board determines the fair value.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">The Board determines the fair value.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">I&#146;m sorry, what determines fair value?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">The Board.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Oh, the Board. Okay.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">If offers were to come in, then that would be up to the Board to sit
+down and review that and ultimately take that to shareholders.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">And you&#146;re already contemplating restructuring costs but we&#146;re not sure
+exactly what they are aside from closing a few offices overseas.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Right.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yeah.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">But you do have too many people for a company of this size.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Well, we&#146;ve been taking some of those reductions all along, in fact,
+almost every quarter we have reductions happening there. We want to make sure
+that our balance in costs can continue to drive profits in the business for the
+revenue that we&#146;re bringing in but also deliver good products and services to
+our customers.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">How many folks do you have currently?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">At the end of the quarter, about 230 people.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">How much money have you paid to Boies that will go towards this credit?
+I don&#146;t know how else to express it&#151;towards the credit so to speak, towards
+this $31 million?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Well, we&#146;re not going to disclose details of how much we paid any one of
+our vendors.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Well, I mean, each quarter you&#146;ve said how much you paid in legal bills.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yeah, so this quarter we&#146;ve had just over $7 million in total legal
+bills.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">That&#146;s just for the quarter. What is your&#151;since you began on this
+expedition, how much have you paid for your legal representation? That&#146;s just a
+summary of what you&#146;ve announced each quarter.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">If you go back and just pull up the last&#151;I think I&#146;ve got five quarters
+here on my list&#151;it&#146;s just over $15 million.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">15?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yeah.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Now this $31 million allocated, that&#146;s just for Boies or that&#146;s for all
+of these other law firms as well?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">All of the law firms.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Okay. So they&#146;ve all bought into this $31 million allocation?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Working with Boies, Boies will work with law firms that will work with
+them and they&#146;ll manage all of our effort going forward.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Think of Boies as the general contractor at this point.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">So right. And I think that&#146;s what he&#146;s always been, isn&#146;t it?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yeah. The difference here is you&#146;re not a cost plus model, you&#146;re really
+on something that goes to final conclusion and then beyond if there&#146;s appeals.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Maureen O&#146;Gara, Client Server News &#151; Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">What are these lawyers likely to make in the final analysis, however? I
+mean, because this $31 million is only part of what they&#146;re making, right?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Well, yeah. I mean, the fees that we&#146;re paying are part of it. The fee
+agreement we already have that is public. Provides 20 percent of any settlement
+that we achieve would go to the law firms and be offset by the amounts we&#146;ve
+already paid them. In other words, the amounts we paid them would be deducted
+from that 20 percent. As we move forward, our agreement, our letter of intent
+with Boies and the other law firms contemplates a sliding scale that could go
+anywhere from 20 percent to 33 percent depending upon the size of the
+settlement and would include a credit of fees paid. So the way it works, the
+more we get, the more they make to a certain degree. I mean, it does decrease
+over time but they&#146;re going to be a key part of us achieving success in this.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Operator</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">If you&#146;d like to ask a question, you may do so by pressing star, one on
+your touchtone telephone. And we do ask that you limit yourself to one
+question. Once again, that is star, one to ask a question and we&#146;ll take our
+next question from Michael Singer with Jupiter Media(?).</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Michael Singer - Jupiter Media -
+Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Gentlemen, hi. I&#146;m just looking over some of the financials at this
+point and I&#146;m curious on how you&#146;re seeing the software development coming
+along and if you are seeing other opportunities with other investment groups
+besides BayStar at this point?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">We actually had some interest from some other folks. We don&#146;t have an
+immediate need for capital but we have had some interest on the heels of the
+BayStar deal being resolved and so there is clearly interest out there but we
+haven&#146;t pursued it fully at this point.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Michael Singer - Jupiter Media -
+Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Okay, thanks.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yep.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Operator</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">And we&#146;ll take our next question from Larry Solomon with Capital
+Guardian.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Larry Solomon - Capital Guardian
+- - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yes. Just to be clear, Darl, the 15 million in legal fees that you&#146;ve
+paid so far goes against the 31 million so your future expenditures would be 16
+million more?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">The Boies-related expenses would tie into that. There are some firms
+that wouldn&#146;t fit in under that agreement, right Bert?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yeah, so Larry, when I say 15, that includes costs for a number of
+things that would not be offset against the contingency.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Larry Solomon - Capital Guardian
+- - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Would not be. But are...</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">But a majority of that cost would be offset.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Larry Solomon - Capital Guardian
+- - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Okay. So if all of them applied against it, then that would imply 16
+million more relative to your 43.5 million that you have on the balance sheet
+so that would imply that you&#146;d have $27 million left less the amounts that
+you&#146;ve paid to firms other than Boies?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yeah, so let me clarify because the way you&#146;re asking the question, I&#146;m
+not sure we have been clear. The 31 million that we&#146;ll commit is from basically
+this point going forward. In other words, it doesn&#146;t totally take into account
+that 15 million. Now some of that 15 million is not paid yet so it does include
+that.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Larry Solomon - Capital Guardian
+- - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Okay.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">So if you will, we&#146;ll basically allocate in our minds this 31 million,
+we&#146;ll finalize terms under which that 31 million will be paid out over time and
+some of that 31 million is for bills that we&#146;ve already recognized as expenses
+but just have not yet paid. But it really doesn&#146;t offset that 15
+million&#151;doesn&#146;t offset against the 31 million maybe only 8 million of it.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Larry Solomon - Capital Guardian
+- - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Maybe 8 million of it. So that means there&#146;d be 23 million more that you
+might pay compared to your 43.5 million on the balance sheet?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Correct.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Larry Solomon - Capital Guardian
+- - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Okay. So you would have something like $20 million of cash after the $31
+million roughly.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">No. No. I don&#146;t think that&#146;s the right way. So we have 43 million at the
+end of the quarter and we will allocate 31 million of that. We&#146;ll pay some now
+and some over time, but that&#146;s all we&#146;ll pay on the legal expense then&#151;31
+million.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">They&#146;re basically on a cap, Larry, on the legal fees of 31 million.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Larry Solomon - Capital Guardian
+- - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yeah, I understand that part. I understand that part. So the 8 million,
+that&#146;s the accrued compensation the law firms that&#146;s on your balance sheet.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Correct.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Larry Solomon - Capital Guardian
+- - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">So you have not paid it yet but you have been billed for it. So...</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yeah. Right.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Larry Solomon - Capital Guardian
+- - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">I get it. Okay.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">And so it leaves really 12 million in the business.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Larry Solomon - Capital Guardian
+- - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Got it. And just another quick question. In terms of the legal action
+and the court responses so far, can you just sort of summarize the responses
+that you&#146;ve gotten back from the court that have been positive to your case?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Sure, I&#146;d be glad to do that. If you go look at&#151;let&#146;s take a summary of
+the case. Let&#146;s start with IBM going back. On April&nbsp;19th I believe it was,
+the judge came out&#151;the magistrate in that case came out&#151;I think it was
+March&nbsp;6th, somewhere in that time frame&#151;came out and ruled that SCO had
+shown good faith in its discovery process, in its claims process. We put some
+things on the table, then ordered IBM to come out and deliver to us all of
+Palmisano and Ludowskiburger&#146;s documents, emails, etc., as well as a bunch of
+other executives&#151;an order for them to give us AIX and Dynix ordered a bunch of
+different witnesses&#151;there were a bunch of things that were in there&#151;but that
+was a very positive development, and on April&nbsp;19th, we actually received
+some very good information and we&#146;ve been working through that. Now even though
+the judge ordered delivery of all that material, IBM has still been significantly
+deficient in meeting the judge&#146;s order and that&#146;s why you see motions back and
+forth right now that will be heard on September 14th and 15th in Utah with
+respect to continued motions to compel to get them just live up to the judge&#146;s
+orders. But the order itself was very positive and the results of that order
+have been positive for the company to date and we look forward to some more
+discover. In the Novell case, there was Novell had filed a Motion to Dismiss.
+That case obviously was not dismissed. The case is moving on and now Novell has
+filed another Motion to Dismiss so we look forward to hearing that. You know in
+the Daimler case, you had a situation where we claimed that they had a
+responsibility to certify their compliance with the Unix contract. After we
+sued them, they came back and certified. We continued the case because we
+wanted some other questions answered. The judge disagreed that we could go
+after those additional questions but left open the possibility that we could go
+back after them for damages and various things with respect to having to sue
+them to get them to certify. In the AutoZone case, the case was stayed but the
+judge came back and said you get 90 days of discovery to go in and figure out
+if you want to file a preliminary juncture. We&#146;re going through that process
+right now. So again, there are a number of cases here in the various dockets
+but there have been a number of positive developments for the hearings. Now if
+we look at what&#146;s coming up, everybody here on the call and otherwise should
+tune into the hearings that are going to be held on September&nbsp;14th and the
+15th. The 14th is going to be as we said about motions to compel on discovery
+that we show that we&#146;re owed that they haven&#146;t delivered to us. The 15th is
+going to be a hearing on a couple of things. One is on the IBM case regarding
+one of their motions for partial summary judgment which we feel good about and
+the other one is with respect to the next hearing on the Novell case. So we
+look forward to those. We believe that in the IBM case that there are a lot of
+things that you can go out there and read but the characterization that IBM is
+trying to maneuver behind some legacy AT&amp;T contracts is misguided and we
+think that some of the things that they&#146;ve tried to do in the courtroom is not
+going to work in terms of summary judgment motions. They have motions that are
+directly at odds with the plain language of the license agreements. They have
+another motion that depends on the testimony of witnesses that in prior cases
+under oath have given directly contradictory testimony on the very issue that&#146;s
+at stake here in our cases and then we look forward to having those
+contradictions brought up. So in another event, they&#146;ve taken the fine print of
+the contracts that we have, they&#146;ve come out sorry to say, you can&#146;t protect
+your</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-align:center;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">property unless it&#146;s literal implementation. So in other words, they&#146;re
+trying to say the contracts that we&#146;ve signed have less value than a typical
+copyright violation. So there are a variety of things here that we feel very
+positive that when we get into a courtroom the things will be put on the table
+and our litigators feel confident about getting in and having those cases
+heard.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Operator</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Once again, that is star, one to ask a question. Again, if you are on a
+speakerphone, please make sure your mute button is turned off to allow your
+signal to reach our equipment. Once again, that is star, one for questions. And
+we&#146;ll take our next question from Stephen Shankland with CNET.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Stephen Shankland, CNET - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Hi folks. I&#146;m curious. On this cap payment arrangement with Boies,
+Schiller and Flexner, is it fair to say that you&#146;re replacing cash payments
+with contingency payments when you look at the sliding scale arrangement that
+goes instead of from being 20 percent it&#146;s a sliding scale between 20 and 33
+really if that&#146;s what you foresee it will be when it&#146;s finalized. And also,
+what are the factors that go into where that shows up on that 20 to 33 percent?
+Is that just on the gross magnitude of some judgment or are there other factors
+in there as well?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yes, so let me address that. At a certain sense, you can think of it as
+replacing cash with contingency although we&#146;re still going to spend a lot of
+our cash and direct that cash resource to the cases. But you&#146;re right. In a
+certain sense, the long-term obligation that may exist there will be covered
+with the contingency. The sliding nature of it will have to do with judgments
+and settlement amounts. So a different amount then would be the different
+amounts that would be paid on the contingency. And as we finalize all these
+details, this will all be made public and we&#146;ll have to file the definitive
+agreement as we conclude that here in the next few weeks.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Stephen Shankland, CNET - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Okay. And then what&#151;Darl, when you&#146;re talking about the possibility for
+a new investment that there are some people that are interested, what would
+trigger that new investment? Is there some level of cash or expenses that would
+trigger you to get interested in that as opposed to just give you that warm,
+happy glow inside?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Cash is all good, right? I think with the structuring that we have right
+now where we&#146;re throwing off positive cash on the Unix business and now we have
+the costs contained on the litigation front, I think the triggering event for
+additional capital would probably revolve around future growth prospects for
+the company whether you&#146;re going outside to look at additional products or acquisitions
+or what have you, whether you have an internal product that you wanted to try
+and take and run up the growth curve. So the core business is moving along,
+stable, throwing off cash, litigation business is now in control from a cost
+standpoint. I think it would tie into some kind of growth initiative, but we&#146;re
+not saying that that&#146;s what we&#146;re here to announce right now but that if
+something came along that front, then we&#146;d probably consider that.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Stephen Shankland, CNET - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Thanks. And do you guys consider $7.9 million as sort of a high water
+mark for your monthly expenses on the SCOsource front?</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yes, we do view that as a high water mark. The important thing going
+forward is the water mark is not going to be as significantly impactful on the
+company per se given that we have a partner in here to help manage the water
+level if you will.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:maroon;font-weight:bold;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Stephen Shankland, CNET - Analyst</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Thank you.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yes.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Operator</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">And due to time constraints, this does conclude today&#146;s question and
+answer session. At this time, I&#146;d like to turn the call over to Mr. Darl
+McBride for any additional comments or closing remarks.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Bert, go ahead.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Bert Young, SCO Group &#151; CFO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Yeah, let me just make one clarification when we were talking about
+restructuring costs and downsizing of offices. Let me clarify that what we&#146;re
+talking about is primarily moving from larger offices into smaller offices. We
+are contemplating&#151;not contemplating&#151;we&#146;ve announced a couple of smaller offices
+that will close but in Europe, our office in Spain for example, our office in
+Italy&#151;but our primary offices will continue and the real movement there will be
+from a large office costing a lot of money into a smaller office that costs a
+lot less. So I just wanted to clarify that.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Darl McBride, SCO Group - President &amp; CEO</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Okay, great. So to summarize the call today, we&#146;re very enthused about
+where we sit at this point. If you go back to the first call today, Dion asked
+an interesting question about where the public perception on this is, we&#146;ve
+taken the response as a management team that we can&#146;t fight back against the
+boisterous nature of a lot of people that are trying to shout us down. What
+we&#146;ve tried to say is we&#146;re not going to get into a shouting match. We&#146;re not
+going to get into an industry brawl. We feel like the company has had
+injustices done to it and we&#146;ve taken those claims and put them in front of the
+appropriate courts. We look forward to getting those claims heard. We feel
+confident in where those go. We give a few responses here on these calls only
+because there are a lot of investors who wanted to get some basic information.
+So in response to a lot of IBM&#146;s allies that do like to come in and weigh in
+against&#151;get some basic remarks here, but other than that, we&#146;re going to keep
+our arguments confined to the courtroom. Now with respect to those courtroom
+arguments, I do invite you to stay tuned. I invite you to stay tuned and watch
+closely the bouncing ball here inside of the courtroom over the coming weeks. I
+know that we&#146;re certainly looking forward to here as a management team. As we
+finish this quarter then, this call. We feel like we&#146;ve had a productive third
+quarter across all segments of our business. As we stated earlier, we&#146;re
+laser-focused on winning in the courtroom, on renovating our SCO Unix product
+line and on protecting the rights of our shareholders. Thanks for joining our
+call today.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;">Operator</font></b></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">And this does conclude today&#146;s conference call. At this time you may
+disconnect.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<p style="color:black;letter-spacing:0pt;margin:0in 0in .0001pt;position:relative;text-decoration:none;text-shadow:none;top:0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">END</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\kyang\04-10281-1\task181805\10281-1-mm.htm',USER='kyangb',CD='Sep  7 15:41 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

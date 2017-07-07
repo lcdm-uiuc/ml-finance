@@ -1,0 +1,416 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KRYJ7NgJlZApEpnQd16GbqMD1J/YuDlBNYmxVSJOdWEdGYEVj2mAgqwSiFpxWG8q
+ AtImCLK7as4D5s1h9ltTiA==
+
+<SEC-DOCUMENT>0000068270-04-000241.txt : 20040909
+<SEC-HEADER>0000068270-04-000241.hdr.sgml : 20040909
+<ACCEPTANCE-DATETIME>20040909163101
+ACCESSION NUMBER:		0000068270-04-000241
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040831
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040909
+DATE AS OF CHANGE:		20040909
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RUBY TUESDAY INC
+		CENTRAL INDEX KEY:			0000068270
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				630475239
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			0604
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12454
+		FILM NUMBER:		041023267
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 W CHURCH ST
+		CITY:			MARYVILLE
+		STATE:			TN
+		ZIP:			37801
+		BUSINESS PHONE:		2053443000
+
+	MAIL ADDRESS:	
+		STREET 1:		150 W CHURCH ST
+		CITY:			MARYVILLE
+		STATE:			TN
+		ZIP:			37801
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORRISON RESTAURANTS INC/
+		DATE OF NAME CHANGE:	19930923
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORRISON RESTAURANTS INC
+		DATE OF NAME CHANGE:	19930923
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORRISON INC /DE/
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8-k1qtr05.htm
+<DESCRIPTION>SALES & UPDATED DILUTED EARNINGS PER SHARE 0105.
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<!-- MARKER FORMAT-SHEET="Page Rule Double" FSL="Default" -->
+<HR ALIGN=center WIDTH=100% SIZE=3 NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<A NAME=A001></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=5>UNITED STATES <BR>SECURITIES AND
+EXCHANGE COMMISSION<br>WASHINGTON, D.C. 20549 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Footnote Rule-TNR" FSL="Project" -->
+<HR SIZE=1 NOSHADE WIDTH=15% ALIGN=center>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Default" -->
+<A NAME=A003></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=5>FORM 8-K </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Footnote Rule-TNR" FSL="Project" -->
+<HR SIZE=1 NOSHADE WIDTH=15% ALIGN=center>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<A NAME=A004></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=4>CURRENT REPORT<br>PURSUANT TO SECTION 13 OR 15(d)<br>OF THE SECURITIES
+EXCHANGE ACT OF 1934  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<A NAME=A005></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date
+of Report (Date of Earliest Event Reported): September 9, 2004 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Default" -->
+<A NAME=A006></A>
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=5><b>RUBY TUESDAY, INC.</b><br> </FONT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Exact Name of Registrant as Specified in Charter) </FONT></p>
+<br>
+<TABLE align=center CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=600>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=32% ALIGN=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Georgia</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TD>
+     <TD WIDTH=31% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1-12454</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TD>
+     <TD WIDTH=37% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>63-0475239</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(State of Incorporation)</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Commission File Number)</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(IRS Employer Identification No.)</FONT></TD></TR>
+</TABLE>
+<br>
+
+<TABLE width=100% BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="TOP">
+     <TD align=right width=5%><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD align=center width=95%><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b> 150 West Church Avenue<br> Maryville, Tennessee 37801</b>
+<br>(Address of principal executive offices)</FONT></TD></TR>
+</TABLE>
+<br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 4- TNR" FSL="Workstation" -->
+     <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+          <TR VALIGN=TOP>
+          <TD ALIGN=RIGHT WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2> </FONT></TD>
+          <TD ALIGN=center WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>(865) 379-5700</B><br>(Registrant&#146;s telephone number, including area code) </FONT></TD>
+          </TR>
+          </TABLE>
+          <BR>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+Registrant under any of the following provisions: </FONT></P>
+
+<IMG SRC="blank_checkbox.jpg" ALIGN="LEFT" TITLE="blank checkbox" ALT="blank checkbox">
+<!-- MARKER FORMAT-SHEET="Reg Cover Table 2 Col 10" FSL="Project" -->
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0" BORDER="0">
+<TR VALIGN="TOP">
+<TD ALIGN="CENTER" WIDTH="1%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+<TD ALIGN="LEFT" WIDTH="99%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<IMG SRC="blank_checkbox.jpg" ALIGN="LEFT" TITLE="blank checkbox" ALT="blank checkbox">
+<!-- MARKER FORMAT-SHEET="Reg Cover Table 2 Col 10" FSL="Project" -->
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0" BORDER="0">
+<TR VALIGN="TOP">
+<TD ALIGN="CENTER" WIDTH="1%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+<TD ALIGN="LEFT" WIDTH="99%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<IMG SRC="blank_checkbox.jpg" ALIGN="LEFT" TITLE="blank checkbox" ALT="blank checkbox">
+<!-- MARKER FORMAT-SHEET="Reg Cover Table 2 Col 10" FSL="Project" -->
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0" BORDER="0">
+<TR VALIGN="TOP">
+<TD ALIGN="CENTER" WIDTH="1%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+<TD ALIGN="LEFT" WIDTH="99%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<IMG SRC="blank_checkbox.jpg" ALIGN="LEFT" TITLE="blank checkbox" ALT="blank checkbox">
+<!-- MARKER FORMAT-SHEET="Reg Cover Table 2 Col 10" FSL="Project" -->
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0" BORDER="0">
+<TR VALIGN="TOP">
+<TD ALIGN="CENTER" WIDTH="1%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+<TD ALIGN="LEFT" WIDTH="99%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Page Rule Double" FSL="Default" -->
+<HR ALIGN=center WIDTH=100% SIZE=3 NOSHADE>
+<BR><BR>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+<BR><BR>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<A NAME=A007></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>ITEM 2.02. RESULTS OF
+OPERATIONS AND FINANCIAL CONDITION. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+September 9, 2004, the Registrant issued a press release announcing its first quarter
+fiscal 2005 same-store sales and providing updated diluted earnings per share guidance. A
+copy of the press release is attached hereto as Exhibit 99.1. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<A NAME=A008></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>ITEM 9.01. FINANCIAL
+STATEMENTS AND EXHIBITS. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Default" -->
+<A NAME=A009></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)
+Exhibits.</b></FONT></P>
+
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TH align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2><u>EXHIBIT</u></FONT></TH>
+     <TH align=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2><u>DESCRIPTION</u></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=10% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.1</FONT></TD>
+     <TD WIDTH=90% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Press Release dated September 9, 2004 (this press release is being furnished pursuant to Item 2.02</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=10% ALIGN=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=90% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>of Form 8-K).</FONT></TD></TR>
+</TABLE>
+<br>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 3 Left-TNR" FSL="Project" -->
+<P ALIGN="center"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SIGNATURES</FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+<TABLE WIDTH=600 CELLSPACING=0 CELLPADDING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=72%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=1%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=27%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;<BR>Ruby
+Tuesday, Inc.<BR>(Registrant)
+</FONT></TD>
+</TR>
+</TABLE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Signature (Single)" FSL="Project" -->
+<TABLE WIDTH=600 CELLSPACING=0 CELLPADDING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=72%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=1%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=27%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;<BR>
+<BR>BY:<u> /s/ Marguerite N. Duffy</u><BR>Marguerite N. Duffy<BR>Senior Vice President and<BR>Chief Financial Officer</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+<A NAME=A010></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date: September 9, 2004 </FONT></P>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 2; page: 2" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+<BR><BR>
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>blank_checkbox.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 blank_checkbox.jpg
+M_]C_X``02D9)1@`!`0$`2`!(``#_VP!#``8$!08%!`8&!08'!P8("A`*"@D)
+M"A0.#PP0%Q08&!<4%A8:'24?&ALC'!86("P@(R8G*2HI&1\M,"TH,"4H*2C_
+MVP!#`0<'!PH("A,*"A,H&A8:*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H
+M*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"C_P``1"``0`!`#`2(``A$!`Q$!_\0`
+M%0`!`0````````````````````?_Q``<$``"`P$``P`````````````!`@,$
+M!08`(S'_Q``4`0$`````````````````````_\0`%!$!````````````````
+M`````/_:``P#`0`"$0,1`#\`LG)<W5WJ%_0T[_0/9?6TH_5NW845([L\:*J)
+M*%4!54``#YXZWFZN#0H:&9?Z!+*:V;'[=V[,C))=@C=61Y2K`JS`@@_?')=)
+M5P:%_/TZ'0)936TI/5A79D9)+L\B,KI$58%64@@G[XZWI*N]0H9^90Z![+ZV
+7;)[<*["BI'=@D=F=X@J@*K$DD?/`_]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>same-storesales_1qtr05.htm
+<DESCRIPTION>SAME-STORE PRESS RELEASE 1ST QTR 05
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Default" -->
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>NEWS RELEASE<BR>FOR IMMEDIATE
+RELEASE </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Default" -->
+<H1 ALIGN=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>RUBY TUESDAY, INC. ANNOUNCES FIRST QUARTER FISCAL 2005 SAME-STORE SALES AND PROVIDES UPDATED DILUTED EARNINGS PER SHARE GUIDANCE
+</FONT></H1>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>MARYVILLE, TN &#150; September 9,
+2004</B> &#150; Ruby Tuesday, Inc. today announced that first quarter fiscal 2005
+same-store sales at domestic franchise Ruby Tuesday restaurants increased 3.9%, while
+same-store sales at Company-owned Ruby Tuesday restaurants decreased 2.7%. The Company
+estimates that same-store sales were negatively affected by approximately 0.3% at domestic
+franchise restaurants and 0.4% at Company-owned restaurants as a result of the Labor Day
+weekend being included in the first quarter in fiscal 2004, while in fiscal 2005 Labor Day
+weekend will be included in the second quarter. The Company now anticipates approximately
+19% diluted earnings per share growth for the first quarter of fiscal 2005, compared to
+the 22% growth the Company had originally projected. While Company-owned same-store sales
+were less than originally projected, the Company&#146;s share of franchising income was
+higher than anticipated as a result of their same-store sales performance. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Sandy Beall, the Company&#146;s
+Chairman and Chief Executive Officer, commented, &#147;We are disappointed with the sales
+performance, which we believe is partly attributable to the overall environment. It
+appears that, during the quarter, the consumer felt some strain as we overlapped the tax
+stimulus packages from the prior year at a time of higher gas prices and interest costs,
+and continued economic uncertainty. Regarding factors we can control, we made a conscious
+decision to reduce menu prices, and had no media presence during the quarter. On August
+31<SUP>st</SUP>, we rolled out our Fall menu, which includes some exciting new items and
+offers even better value, and we improved our focus on both our salad bar and alcohol
+programs. We are in a difficult sales environment, but we believe our operations, people,
+facilities and price/value proposition are in the best shape ever. We are ready to welcome
+new guests from</FONT></P>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<p align=center>-2-</p>
+<hr size=3 noshade>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2> our $20 million annual brand building advertising campaign, which begins
+September 16<SUP>th</SUP> and will affect 75% of our Company-owned markets. We
+expect sales to build slowly over the next twelve months as we increase top of mind
+awareness of the Ruby Tuesday brand with consumers.&#148;</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The Company will provide updated
+guidance for the remainder of the fiscal year in conjunction with its release of first
+quarter results on the evening of October 4<SUP>th</SUP>, 2004 and will host a conference
+call the following morning (October 5<SUP>th</SUP>) at 8:30am Eastern Time. </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=600>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=63% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>For more information, contact:</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=63% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Price Cooper</FONT></TD>
+     <TD WIDTH=37% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Phone: 865-379-5700</FONT></TD></TR>
+     </TABLE>
+<br>
+<br>
+<br>
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A002></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=1><B><I>Special Note Regarding
+Forward-Looking Information </I></B></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=1><B><I>This press release contains
+various &#147;forward-looking statements&#148; which represent the Company&#146;s
+expectations or beliefs concerning future events, including the following: future
+financial performance and unit growth (both Company-owned and franchised), future capital
+expenditures, future borrowings and repayment of debt, and payment of dividends. The
+Company cautions that a number of important factors could, individually or in the
+aggregate, cause actual results to differ materially from those included in the
+forward-looking statements, including, without limitation, the following: consumer
+spending trends and habits; mall-traffic trends; increased competition in the casual
+dining restaurant market; weather conditions in the regions in which Company-owned and
+franchised restaurants are operated; consumers&#146; acceptance of the Company&#146;s
+development prototypes; laws and regulations affecting labor and employee benefit costs;
+costs and availability of food and beverage inventory; the Company&#146;s ability to
+attract qualified managers, franchisees and team members; changes in the availability of
+capital; impact of adoption of new accounting standards; and general economic conditions.</I></B> </FONT></P>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

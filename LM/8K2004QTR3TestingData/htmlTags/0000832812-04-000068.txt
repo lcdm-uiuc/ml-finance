@@ -1,0 +1,648 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FfB5nQdrFrS2SkWZWnN7GduQyUvJTZCv9qroHkQ++A1gAjMP5GlJ5xnnN1yaP/u8
+ Bgo4kUMLSKJ+1iDbx6QZBg==
+
+<SEC-DOCUMENT>0000832812-04-000068.txt : 20040825
+<SEC-HEADER>0000832812-04-000068.hdr.sgml : 20040825
+<ACCEPTANCE-DATETIME>20040824192815
+ACCESSION NUMBER:		0000832812-04-000068
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040824
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040825
+DATE AS OF CHANGE:		20040824
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KINDERCARE LEARNING CENTERS INC /DE
+		CENTRAL INDEX KEY:			0000832812
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-CHILD DAY CARE SERVICES [8351]
+		IRS NUMBER:				630941966
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-17098
+		FILM NUMBER:		04995171
+
+	BUSINESS ADDRESS:	
+		STREET 1:		650 NE HOLLADAY STREET
+		STREET 2:		SUITE 1400
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97232
+		BUSINESS PHONE:		(503) 872-1300
+
+	MAIL ADDRESS:	
+		STREET 1:		650 NE HOLLADAY STREET
+		STREET 2:		SUITE 1400
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97232
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>klc8k823.htm
+<DESCRIPTION>CURRENT REPORT - EARNINGS
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" link="#807331" vlink="#FF0000">
+  <hr noshade size="3">
+  <p align=center><font face="Times New Roman, Times, serif" size="3"> <b>UNITED
+    STATES<br>
+    SECURITIES AND EXCHANGE COMMISSION<br>
+    Washington, DC 20549</b></font></p>
+  <p align=center><font face="Times New Roman, Times, serif" size="5"><b>Form
+    8-K</b></font></p>
+  <p align=center><font face="Times New Roman, Times, serif" size="3"><b>CURRENT
+    REPORT<br>
+    Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934</b></font></p>
+  <table align=center width=640 cellspacing=10 cellpadding=1>
+    <tr>
+      <td colspan=3>
+
+      <div align="center"><font face="Times New Roman, Times, serif" size="2">Date
+        of Report (Date of earliest event reported):&nbsp;&nbsp;&nbsp;<b>August 24, 2004</b></font></div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan=3>
+
+      <div align="center"><img src="kclogosm.gif" width="109" height="96"></div>
+      </td>
+    </tr>
+    <tr>
+      <td align=center colspan=3><b><font face="Times New Roman, Times, serif" size="+3">KinderCare
+        Learning Centers, Inc.</font></b><br>
+        <font face="Times New Roman, Times, serif" size="2">(Exact name of registrant
+        as specified in its charter) </font></td>
+    </tr>
+    <tr>
+      <td colspan=3>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align=CENTER width="208"><font face="Times New Roman, Times, serif" size="3"><b>Delaware</b></font>
+        <hr noshade>
+        <font face="Times New Roman, Times, serif" size="2"> (State or other jurisdiction
+        <br>
+        of incorporation)</font></td>
+      <td align="CENTER" width="217"><font face="Times New Roman, Times, serif" size="3"><b>333-42137</b></font>
+        <hr noshade>
+        <font face="Times New Roman, Times, serif" size="2">(Commission<br>
+        File Number)</font></td>
+      <td align="CENTER" width="195"><font face="Times New Roman, Times, serif" size="3"><b>63-0941966</b></font>
+        <hr noshade>
+        <font face="Times New Roman, Times, serif" size="2">(IRS Employer <br>
+        Identification No.)</font></td>
+    </tr>
+  </table>
+  <table align=center width=640 cellspacing="10">
+    <tr>
+      <td align=center height="48"><font face="Times New Roman, Times, serif" size="3"><b>650
+        NE Holladay Street, Suite 1400<br>
+        Portland, OR 97232</b></font>
+        <hr noshade width="60%">
+        <font face="Times New Roman, Times, serif" size="2">(Address of principal
+        executive offices, zip code)</font><font face="Times New Roman, Times, serif" size="2">
+        </font></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <table align=center width=640 cellspacing="10">
+    <tr>
+      <td colspan=2>
+        <div align="center"><font face="Times New Roman, Times, serif" size="2">Registrant's
+          telephone number, including area code</font><font face="Times New Roman, Times, serif" size="3">:
+          <b>(503) 872-1300</b></font></div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan=2>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align=center colspan=2>
+        <hr noshade width="60%">
+        <font size="2">(Former name or former address, if changed since last report)
+        </font></td>
+    </tr>
+  </table>
+  <p>Check the appropriate box below if the Form 8-K filing is intended to simultaneous
+satisfy the filing obligation of the registrant under any of the following provisions:</p>
+<p>[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</p>
+<p>[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)<br>
+<p>[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</p>
+<p>[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</p>
+
+  <hr noshade size="3">
+<p><font face="Times New Roman, Times, serif" size="3"><b>Item 2.02. Results of
+  Operations and Financial Condition.</b></font></p>
+
+<p><font face="Times New Roman, Times, serif" size="3">On August 23, 2004, KinderCare
+  Learning Centers, Inc., issued a press release describing its results of operations
+  for its fourth quarter and fiscal 2004. A copy of the press release
+  is attached as Exhibit 99 to this report.</font></p>
+
+  <p><font face="Times New Roman, Times, serif" size="3"><b>Item 9.01. Financial
+    Statements and Exhibits.</b></font></p>
+
+<p><font face="Times New Roman, Times, serif" size="3">The press release is being furnished to the
+SEC and shall not be deemed to be "filed" for any purpose.</font></P>
+<p><font face="Times New Roman, Times, serif" size="3">Exhibit 99.1 - Press release,   dated August 23, 2004.</font></p>
+
+<hr noshade size="3">
+  <br>
+  <p align=center><font face="Times New Roman, Times, serif" size="3"><b>SIGNATURE</b></font></p>
+  <p><font face="Times New Roman, Times, serif" size="3">Pursuant to the requirements
+    of the Securities Exchange Act of 1934, the registrant has duly caused this
+    report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+<p><font face="Times New Roman, Times, serif" size="3">Date: August 24, 2004</font></p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%">&nbsp;</td>
+      <td width="50%">
+        <div align="center">
+          <p><font face="Times New Roman, Times, serif" size="4"><b>KinderCare
+            Learning Centers, Inc.<br>
+            <br>
+            </b></font></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">&nbsp;</td>
+      <td width="50%">
+        <div align="center"><font face="Times New Roman, Times, serif" size="3"><b>/s/
+          DAVID J. JOHNSON</b></font></div>
+        <hr noshade>
+        <div align="center"><font face="Times New Roman, Times, serif" size="3">
+          David J. Johnson, Chief Executive Officer and<br>
+          Chairman of the Board of Directors</font></div>
+      </td>
+    </tr>
+  </table>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>kcx99823.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>KinderCare Fourth Quarter and Fiscal 2004 Results</TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF text=#000000>
+<table width=680 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td>
+<p align=center><img src="kclogosm.gif" width=109 height=96></p>
+<p><i>For more information contact:</i></p>
+
+<p>KinderCare Learning Centers, Inc.<br>
+Jill Eiland, Senior Director of Public Relations<br>
+(503) 872-1519<br>
+<br>
+Ref: NR11904</p>
+
+<p align=center><b>KinderCare Announces Fourth Quarter and Fiscal 2004 Results</b></p>
+
+<p><b>(Portland, Ore.) &#150; August 23, 2004</b> &#150;
+KinderCare Learning Centers, Inc. announces net
+revenues of $210.0 million in the fourth quarter of fiscal 2004, an increase of
+$7.4 million, or 3.7%, from the same period last year. The increase was due to
+higher tuition rates, offset by reduced occupancy, as well as additional net
+revenues generated by the newly opened centers. Comparable center net revenues
+increased $4.6 million, or 2.3%. </p>
+
+<p>The average weekly tuition
+rate grew $8.18 or 5.6%, from the same period last year to $154.51, due
+primarily to tuition increases. Occupancy declined 1.8 percentage points to
+64.1% due primarily to reduced full-time equivalent attendance within the
+population of older centers. </p>
+
+<p>During the fourth quarter
+of fiscal 2004, operating income was $21.6 million, a decrease of $1.5 million,
+or 6.4%, from the same period last year. The decrease in operating income was
+due primarily to overall higher expense for salaries, wages and benefits and
+increased asset impairment charges included in depreciation expense, offset by
+cost controls. Operating income as a percentage of net revenues in the fourth
+quarters of fiscal 2004 and 2003 was 10.3% and 11.4%, respectively. </p>
+
+<p>Net income was $8.3 million
+during the fourth quarter of fiscal 2004 compared to $3.4 million in the same
+period last year, an increase of 147.3%. The most significant reason for the
+increase was the absence in fiscal 2004 of a $4.0 million, after taxes,
+write-down of a minority investment ($6.7 million before taxes), which was
+recorded in the fourth quarter of fiscal 2003. For the fourth quarter of fiscal
+2004 basic and diluted net income per share were both $0.42. Basic and diluted
+net income per share were both $0.17 for the fourth quarter of fiscal 2003. </p>
+
+<p>EBITDAR increased $10.0
+million, or 23.5%, to $52.7 million, during the fourth quarter of fiscal 2004,
+from the same period last year. The increase was primarily due to higher tuition
+rates and the absence of a write-down of a minority investment. As a percentage
+of net revenues, EBITDAR was 25.1% and 21.1% for the fourth quarters of fiscal
+2004 and 2003, respectively. <p>
+
+<p>Our cash balance was $58.9
+million at May 28, 2004, an increase of $24.3 million from the third quarter of
+fiscal 2004. The increase was due to increased cash flow from sale-leaseback
+proceeds and operating activities. Our total debt was $488.8 million at May 28,
+2004, a decrease of $28.3 million from the third quarter of fiscal 2004. The
+decrease was primarily the result of redemption of $15.0 million of aggregate
+principal amount of our 9.5% senior subordinated notes and an $11.0 million
+reduction in borrowings under our revolving credit facility. Capital
+expenditures were $16.1 million in the fourth quarter of fiscal 2004, an
+increase of $2.7 million from the same period last year. </p>
+
+<p>During both of the fourth
+quarters of fiscal 2004 and fiscal 2003, four centers were opened. We closed
+nine centers during the fourth quarter of fiscal 2004 compared to four centers
+in the same period last year. </p>
+
+<p><b>Fiscal Year 2004</b></p>
+
+<p>Net revenues for fiscal
+2004, were $855.9 million, an increase of $21.3 million, or 2.5%, over the same
+period last year. The increase was due to higher tuition rates, offset by
+reduced occupancy, as well as additional net revenues generated by the newly
+opened centers. Comparable center net revenues increased $4.2 million, or 0.5%. </p>
+
+<p>The average weekly tuition
+rate grew $8.19, or 5.7%, from the same period last year to $152.64 due
+primarily to tuition increases. Occupancy declined 2.9 percentage points to
+60.4% due primarily to reduced full-time equivalent attendance within the
+population of older centers. </p>
+
+<p>During fiscal 2004,
+operating income was $72.0 million, a decrease of $0.9 million or 1.2%. The
+decrease was due primarily to increased rent expense largely as a result of the
+sale-leaseback program, offset by cost controls. As a percentage of net
+revenues, operating income was 8.4% and 8.7% in fiscal 2004 and 2003,
+respectively. </p>
+
+<p>Net income was $14.7
+million in fiscal 2004, an increase of $1.3 million, or 9.6%, from the same
+period last year. Net income as a percentage of net revenues was 1.7% and 1.6%
+in fiscal 2004 and 2003, respectively. The slight improvement in margin was due
+primarily to control over costs. Basic and diluted net income per share were
+$0.75 and $0.74, respectively, in fiscal 2004. For fiscal 2003, basic and
+diluted net income per share were $0.68 and $0.67, respectively. </p>
+
+<p>EBITDAR was $189.9 million
+in the fiscal 2004, an increase of $13.1 million over the same period last year.
+As a percentage of net revenues, EBITDAR was 22.2% in fiscal 2004 compared to
+21.2% in fiscal 2003. The increase was due primarily to higher tuition rates,
+control over costs and the absence in fiscal year 2004 of a charge for the
+write-down of a minority investment, which was recorded in fiscal 2003. EBITDAR
+represents earnings before interest expense, investment income, income taxes,
+depreciation, amortization, rent and related components of discontinued
+operations. </p>
+
+<p>Our total debt was $488.8 million at May 28, 2004, an increase of $33.7
+million from May 30, 2003, while our cash balance increased $40.8 million to
+$58.9 million over the same period due primarily to net proceeds received from
+our sale-leaseback program and cash provided by operating activities. The
+increase in our debt was largely the result of our debt refinancing in July
+2003, which included financing the acquisition of the centers included in our
+former $97.9 million synthetic lease facility, offset by the repurchase and
+redemption of $110.6 million aggregate principal amount of our 9.5% senior
+subordinated notes. Capital expenditures were $58.4 million in fiscal 2004, a
+decrease of $24.7 million from the same period last year, which was primarily
+due to a reduction in spending for new center development.
+</p>
+
+<p>During fiscal 2004, 16 new
+centers were opened compared to 28 in the same period last year. In addition, we
+completed the acquisition of one center in fiscal 2004. During fiscal 2004, 41
+centers were closed compared to 28 in the same period last year. </p>
+
+<p><b>Non-GAAP Financial Measures</b><p>
+
+<p>A non-GAAP financial
+measure is a numerical measure of historical or future financial performance,
+financial position or cash flows that excludes or includes amounts, or is
+subject to adjustments that have the effect of excluding or including amounts,
+from the most directly comparable measure calculated and presented in accordance
+with generally accepted accounting principles (&#147;GAAP&#148;). At the end of
+this release, we have provided a reconciliation of EBITDA and EBITDAR, non-GAAP
+measures of our liquidity, to cash provided by operating activities, the most
+comparable GAAP financial measure. </p>
+
+<p>We believe EBITDA and
+EBITDAR are useful tools for certain investors and creditors for measuring our
+ability to meet debt service requirements. Additionally, management uses EBITDA
+and EBITDAR for purposes of reviewing our results of operations on a more
+comparable basis. EBITDA and EBITDAR do not represent cash flow from operations
+as defined by GAAP, are not necessarily indicative of cash available to fund all
+cash flow needs and should not be considered alternatives to net income under
+GAAP for purposes of evaluating our results of operations. </p>
+
+<p><b>Comparable Centers</b></p>
+
+<p>A center is included in
+comparable center net revenues when it has been open and operated by us at least
+one year and it has not been rebuilt or permanently relocated within that year.
+Therefore, a center is considered comparable during the first four-week period
+it has prior year net revenues. Non-comparable centers include those that have
+been closed. </p>
+
+<p><b>Discontinued Operations</b></p>
+
+<p>Discontinued operations
+represents the operating results for all periods presented of the 69 centers
+closed since fiscal 2002. </p>
+
+<p><b>Fiscal Calendar</b></p>
+
+<p>Our fiscal year ends on the
+Friday closest to May 31. The first fiscal quarter is comprised of 16 weeks,
+while the second, third and fourth quarters are each comprised of 12 weeks. </p>
+
+<p><b>Conference Call</b></p>
+
+<p>We will host a conference
+call on Tuesday, August 24, 2004 at 10:00 a.m. Pacific Time, at 1.888.417.7531
+(reference: KinderCare) to discuss our fiscal 2004 results. Replays will be
+available through Monday, August 30, 2004 at 1.800.642.1687, access
+identification number 9264015. This call will also be streamed over the
+internet, accessible via http://www.kindercare.com/about_ir, at the webcast
+listing. Replays will be available at our website for 90 days from the date of
+the call. </p>
+
+<p><b>About Us</b></p>
+
+<p>We are the leading
+for-profit provider of early childhood education and care services in the United
+States. At August 6, 2004, we served approximately 114,000 children and their
+families at 1,230 child care centers. At our child care centers, education and
+care services are provided to infants and children up to twelve years of age.
+However, the majority of the children we serve are from six weeks to five years
+old. The total licensed capacity at our centers was approximately 165,000 at
+August 6, 2004. </p>
+
+<p>We operate child care centers under two brands as follows: </p>
+
+<ul>
+<li>
+<p>KinderCare &#150; At August 6, 2004, we operated 1,160 KinderCare centers. The
+brand was established in 1969 and includes centers in 39 states. </p>
+</li>
+<li>
+<p>Mulberry &#150; We operated 70 Mulberry centers at August 6, 2004, which are
+located primarily in the northeast region of the United States and southern
+California. In addition, we had four service contracts to operate before-and
+after-school programs.</p>
+</li>
+</ul>
+
+<p>We also partner with
+companies to provide on- or near-site care to help employers attract and retain
+employees. Included in our 1,230 centers at August 6, 2004 are 44
+employer-sponsored centers. </p>
+
+<p>In addition to our
+center-based child care operations, our wholly-owned subsidiary, KC Distance
+Learning, Inc., owns and operates a distance learning company serving teenagers
+and young adults in three business units as follows: Keystone National High
+School, Learning and Evaluation Center and iQ Academies. </p>
+
+<p>We are based in Portland,
+Oregon. Our internet website addresses include <i>kindercare.com,
+kindercareatwork.com</i> and <i>mulberrychildcare.com</i>. Information about KC
+Distance Learning, Inc.&#145;s educational programs is available at
+<i>kcdistancelearning.com, keystonehighschool.com, creditmakeup.com,
+iqacademies.com</i> and <i>go2iq.com.</i></p>
+</td>
+</tr>
+</table>
+<br>
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+<br>
+<table width=680 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td>
+<pre><b>KinderCare Learning Centers, Inc. and Subsidiaries
+Financial and Operating Highlights</b>
+(In thousands, except per share amounts and child care center data)
+
+                                          <b>Twelve Weeks Ended              Fiscal Year Ended
+                                      ---------------------------    ---------------------------
+                                      May 28, 2004   May 30, 2003    May 28, 2004   May 30, 2003</b>
+                                      ------------   ------------    ------------   ------------
+<b>Results of operations:</b>
+Revenues, net.......................  $    209,962   $    202,529    $    855,933   $    834,655
+                                      ------------   ------------    ------------   ------------
+Operating expenses:
+  Salaries, wages and benefits......       113,345        106,356         470,314        460,013
+  Depreciation and amortization.....        16,460         13,708          61,665         56,832
+  Rent..............................        13,338         12,170          54,784         51,379
+  Provision for doubtful accounts...         1,965            306           6,559          4,907
+  Other.............................        43,228         46,882         190,621        188,638
+                                      ------------   ------------    ------------   ------------
+    Total operating expenses........       188,336        179,422         783,943        761,769
+                                      ------------   ------------    ------------   ------------
+      Operating income..............        21,626         23,107          71,990         72,886
+Investment income...................            49            205             265            420
+Interest expense....................        (8,190)        (9,241)        (39,753)       (41,032)
+Loss on the early extinguishment
+  of debt...........................          (552)            --          (5,761)            --
+Loss on minority investment.........            --         (6,700)             --         (6,700)
+Dividend income.....................            --             --             496             --
+                                      ------------   ------------    ------------   ------------
+Income before income taxes and
+  discontinued operations...........        12,933          7,371          27,237         25,574
+Income tax expense..................        (5,115)        (2,920)        (11,167)       (10,128)
+                                      ------------   ------------    ------------   ------------
+    Income before discontinued
+      operations....................         7,818          4,451          16,070         15,446
+Discontinued operations, net of
+  income tax........................           492         (1,091)         (1,370)        (2,031)
+                                      ------------   ------------    ------------   ------------
+        Net income..................  $      8,310   $      3,360    $     14,700   $     13,415
+                                      ============   ============    ============   ============
+
+<b>Basic net income per share:</b>
+  Income before discontinued
+    operations......................  $       0.40   $       0.23    $       0.82   $       0.78
+  Discontinued operations, net......          0.02          (0.06)          (0.07)         (0.10)
+                                      ------------   ------------    ------------   ------------
+    Net income......................  $       0.42   $       0.17    $       0.75   $       0.68
+                                      ============   ============    ============   ============
+<b>Diluted net income per share:</b>
+  Income before discontinued
+    operations......................  $       0.40   $       0.22    $       0.81   $       0.77
+  Discontinued operations, net......          0.02          (0.05)          (0.07)         (0.10)
+                                      ------------   ------------    ------------   ------------
+    Net income......................  $       0.42   $       0.17    $       0.74   $       0.67
+                                      ============   ============    ============   ============
+
+Weighted average common shares
+  outstanding:
+    Basic...........................        19,722         19,661          19,701         19,701
+    Diluted.........................        19,837         19,935          19,966         19,908
+
+<b>Other financial data:</b>
+Net cash provided by operating
+  activities........................  $     35,669   $     29,613    $     93,651   $     77,513
+EBITDAR.............................        52,689         42,666         189,850        176,713
+EBITDA..............................        39,293         30,176         134,423        123,386
+Capital expenditures................        16,138         13,383          58,436         83,114
+Cash at the end of period...........        58,898         18,066          58,898         18,066
+Total debt at the end of period.....       488,779        455,080         488,779        455,080
+
+<b>Child care center data:</b>
+Average weekly tuition rate.........  $     154.51   $     146.33    $     152.64   $     144.45
+Occupancy...........................          64.1%          65.9%           60.4%          63.3%
+Licensed capacity at end of period..       166,000        167,000         166,000        167,000
+Number of centers at end of period..         1,240          1,264           1,240          1,264
+</pre>
+</td>
+</tr>
+</table>
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+<br>
+<table width=680 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td>
+<pre><b>KinderCare Learning Centers, Inc. and Subsidiaries
+Reconciliation of Non-GAAP Financial Measures</b>
+(In thousands)
+
+                                          <b>Twelve Weeks Ended              Fiscal Year Ended
+                                      ---------------------------    ---------------------------
+                                      May 28, 2004   May 30, 2003    May 28, 2004   May 30, 2003</b>
+                                      ------------   ------------    ------------   ------------
+<b>EBITDA and EBITDAR:</b>
+Net cash provided by operating
+  activities........................  $     35,669   $     29,613    $     93,651   $     77,513
+Income tax expense..................         5,115          2,920          11,167         10,128
+Deferred income taxes...............         7,432         16,592          16,535         10,968
+Interest expense, net...............         8,693          9,036          45,249         40,612
+Effect of discontinued operations
+  on interest and taxes.............           342           (716)           (952)        (1,332)
+Change in operating assets and
+  liabilities.......................       (19,351)       (27,294)        (32,830)       (14,000)
+Other non-cash items................         1,393             25           1,603           (503)
+                                      ------------   ------------    ------------   ------------
+  EBITDA............................        39,293         30,176         134,423        123,386
+Rent expense........................        13,338         12,170          54,784         51,379
+Rent expense from discontinued
+  operations........................            58            320             643          1,948
+                                      ------------   ------------    ------------   ------------
+  EBITDAR...........................  $     52,689   $     42,666    $    189,850   $    176,713
+                                      ============   ============    ============   ============
+</PRE>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>kclogosm.gif
+<TEXT>
+begin 644 kclogosm.gif
+M1TE&.#EA;0!@`.8``/___P````@```@("!```!`0$!@``!@8&!@A(2$``"$(
+M`"$A(2D``"D(`"DI*2DQ,3$``#$(`#$Q,3$Q.3D(`#DY.4((`$)"0DH(`$H0
+M`$I*2DI24E(0`%)24E):6EH0`%I:6F,0`&-C8VL0`&MK:W,0`',8`'-S<WL0
+M`'L8`'M[>X08`(2$A(P8`(R,C)08`)08")0A`)0A")24E)PA`)PA")R<G*4A
+M"*6EI:TA"*VMK;4A"+6UM;TA"+TI"+V]O<8I",;&QLXI",[.SM8I"-;6UMXI
+M"-XQ"-[>WN<I".<Q".?GY^\Q"._O[_<Q"/?W]_\Q"/\Y"/___P("`@("`@("
+M`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("
+M`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("
+M`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`B'Y!```````
+M+`````!M`&``AO___P````@```@("!```!`0$!@``!@8&!@A(2$``"$(`"$A
+M(2D``"D(`"DI*2DQ,3$``#$(`#$Q,3$Q.3D(`#DY.4((`$)"0DH(`$H0`$I*
+M2DI24E(0`%)24E):6EH0`%I:6F,0`&-C8VL0`&MK:W,0`',8`'-S<WL0`'L8
+M`'M[>X08`(2$A(P8`(R,C)08`)08")0A`)0A")24E)PA`)PA")R<G*4A"*6E
+MI:TA"*VMK;4A"+6UM;TA"+TI"+V]O<8I",;&QLXI",[.SM8I"-;6UMXI"-XQ
+M"-[>WN<I".<Q".?GY^\Q"._O[_<Q"/?W]_\Q"/\Y"/___P("`@("`@("`@("
+M`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("
+M`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("
+M`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@?^@`""@X2%AH>(
+MB80G`3:*CY"1DI.4DCP!F$.5FYR=GHD#F)A%GZ6FIX=-#I@"HCJHL+&<%9@[
+M41RB)+*[O(A!F`914$RB`2R]R+VT`3?"42O%2,G3J!J8*\)04%$PH@=+U.&=
+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
+,&9#@`AT@\R`"`0`[
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

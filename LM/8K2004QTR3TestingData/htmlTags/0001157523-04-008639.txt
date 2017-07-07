@@ -1,0 +1,460 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IPtDregCwFzRt+p86OWYZFaXoxvNNbAiBooeFvVm+Z2GaAoAZXYoIOci1AGWMu+Z
+ 30Rs2hM5bx5NlKJEiG+kRQ==
+
+<SEC-DOCUMENT>0001157523-04-008639.txt : 20040920
+<SEC-HEADER>0001157523-04-008639.hdr.sgml : 20040920
+<ACCEPTANCE-DATETIME>20040920160622
+ACCESSION NUMBER:		0001157523-04-008639
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040920
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040920
+DATE AS OF CHANGE:		20040920
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RED HAT INC
+		CENTRAL INDEX KEY:			0001087423
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				061364380
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26281
+		FILM NUMBER:		041037650
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1801 VARSITY DRIVE
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27606
+		BUSINESS PHONE:		9197543700
+
+	MAIL ADDRESS:	
+		STREET 1:		1801 VARSITY DR
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27606
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a4723636.txt
+<DESCRIPTION>RED HAT, INC. 8-K
+<TEXT>
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+- --------------------------------------------------------------------------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+     Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+                       Date of Report: September 20, 2004
+
+                                  RED HAT, INC.
+- --------------------------------------------------------------------------------
+
+
+           Delaware                   000-26281                   06-1364380
+- --------------------------------------------------------------------------------
+    State or Other Juris-            (Commission                (IRS Employer
+    diction of Incorporation          File Number)           Identification No.)
+
+
+    1801 Varsity Drive, Raleigh, NC                                  27606
+- --------------------------------------------------------------------------------
+ (Address of Principal Executive Offices)                          (Zip Code)
+
+        Registrant's telephone number, including area code: 919-754-3700
+
+                                 Not Applicable
+- --------------------------------------------------------------------------------
+          (Former Name or Former Address, if Changed Since Last Report)
+
+
+     Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+|_|  Written communications pursuant to Rule 425 under the Securities Act (17
+     CFR 230.425)
+
+|_|  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+     240.14a-12)
+
+|_|  Pre-commencement communications pursuant to Rule 14d-2(b) under the
+     Exchange Act (17 CFR 240.14d-2(b))
+
+|_|  Pre-commencement communications pursuant to Rule 13e-4(c) under the
+     Exchange Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+
+Item 2.02. Results of Operations and Financial Condition
+
+     On September 20, 2004, Red Hat, Inc. announced its financial results for
+the quarter ended August 31, 2004. The full text of the press release issued in
+connection with the announcement is furnished as Exhibit 99.1 to this Current
+Report on Form 8-K.
+
+     The information furnished pursuant to Item 2.02 of this Form 8-K (including
+Exhibit 99.1) shall not be deemed "filed" for purposes of Section 18 of the
+Securities Exchange Act of 1934 (the "Exchange Act") or otherwise subject to the
+liabilities of that section, nor shall it be deemed incorporated by reference in
+any filing under the Securities Act of 1933 or the Exchange Act, except as
+expressly set forth by specific reference in such a filing.
+
+Item 9.01. Financial Statements and Exhibits
+
+(c)  Exhibits
+
+     The following exhibit relating to Item 2.02 shall be deemed to be
+     furnished, and not filed:
+
+     99.1  Press Release dated September 20, 2004.
+
+
+<PAGE>
+
+
+                                    SIGNATURE
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+
+                                                  Red Hat, Inc.
+
+Date: September 20, 2004                          By: /s/ Charles E. Peters, Jr.
+                                                      --------------------------
+                                                          Charles E. Peters, Jr.
+
+
+<PAGE>
+
+
+                                  EXHIBIT INDEX
+
+Exhibit No.              Description
+- -----------              -----------
+  99.1                   Press release dated September 20, 2004
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a4723636ex991.txt
+<DESCRIPTION>RED HAT, INC. EXHIBIT 99.1
+<TEXT>
+                                                                    Exhibit 99.1
+
+                  Red Hat Reports Fiscal Second Quarter Results
+
+     RALEIGH, N.C.--(BUSINESS WIRE)--Sept. 20, 2004--
+
+        144,000 Subscriptions, 31% Sequential Growth in Operating Income,
+       12% Sequential Growth in Deferred Revenue, and $31 Million in Cash
+                 Flow from Operations Highlight a Strong Quarter
+
+     Red Hat, Inc. (Nasdaq:RHAT), the world's leading provider of open source
+solutions to the enterprise, today announced financial results for the second
+quarter ended August 31, 2004.
+     Revenue for the second quarter of fiscal 2005 was $46.3 million, 60% higher
+than the second quarter of fiscal 2004 and a sequential increase of 11% when
+compared to $41.8 million in the first quarter of fiscal 2005.
+     For the second quarter of fiscal 2005, the company reported net income of
+$11.8 million, or $0.06 per share. This represents an increase of 225% over net
+income in the same quarter a year ago, and an increase of 8% over net income of
+$10.9 million, or $0.06 per share, in the prior quarter.
+     The company generated $30.8 million, or $0.16 per share, in cash flow from
+operations during the second quarter of fiscal 2005. The company ended the
+quarter with cash and investments totaling $997.7 million.
+     In the second quarter of fiscal 2005, the company increased its deferred
+revenue balance to $99.7 million, a sequential increase of $11 million, or 12%,
+as compared to the first quarter of fiscal 2005.
+
+     Highlights for the second quarter include:
+
+   Sales of subscriptions of Red Hat Enterprise Linux reached 144,000
+   units, including:
+     115,000 subscriptions to enterprise IT servers, which includes
+      new subscriptions and renewals.
+     29,000 new subscriptions to HPC/hosting marketplace and desktops.
+   Operating profit increased to $6.7 million, or 15% of total
+   revenue.
+   10% addition to the workforce as the company expands globally.
+
+     "We continue to see strong demand for our offerings, as reflected in our
+results. The company executed successfully across the global business", stated
+Charlie Peters, Executive Vice President and Chief Financial Officer.
+
+     About Red Hat, Inc.
+
+     Red Hat, the world's leading open source and Linux provider. Red Hat is
+headquartered in Raleigh, N.C. With satellite offices spanning the globe. Red
+Hat is leading Linux and open source solutions into the mainstream by making
+high quality, low cost technology accessible. Red Hat provides operating system
+software along with middleware, applications and management solutions. Red Hat
+also offers support, training, and consulting services to its customers
+worldwide and through top-tier partnerships. Red Hat's Open Source strategy
+offers customers a long term plan for building infrastructures that are based on
+and leverage open source technologies with focus on security and ease of
+management. Learn more: http://www.redhat.com. For investor inquiries, contact
+Gabriel Szulik at Red Hat, (919) 754-4439.
+
+     Forward-Looking Statements
+
+     Any statements in this press release about future expectations, plans and
+prospects for the Company, including statements containing the words "believes,"
+"anticipates," "plans," "expects," "will," and similar expressions, constitute
+forward-looking statements within the meaning of The Private Securities
+Litigation Reform Act of 1995. Actual results may differ materially from those
+indicated by such forward-looking statements as a result of various important
+factors, including: the factors discussed in our most recent Quarterly Report on
+Form 10-Q filed with the SEC (a copy of which may be accessed through the SEC's
+website at http://www.sec.gov), reliance upon strategic relationships,
+management of growth, the possibility of undetected software errors, the risks
+of economic downturns generally, and in Red Hat's industry specifically, the
+risks associated with competition and competitive pricing pressures and the
+viability of the Internet. In addition, the forward-looking statements included
+in this press release represent the Company's views as of the date of this press
+release and these views could change. However, while the Company may elect to
+update these forward-looking statements at some point in the future, the Company
+specifically disclaims any obligation to do so. These forward-looking statements
+should not be relied upon as representing the Company's views as of any date
+subsequent to the date of the press release.
+
+
+                             RED HAT, INC.
+                 CONSOLIDATED STATEMENTS OF OPERATIONS
+               (In thousands - except per share amounts)
+
+
+                                  Three Months Ended  Six Months Ended
+                                  ------------------  ----------------
+                                        Aug. 31,          Aug. 31,
+                                     2004     2003     2004     2003
+                                  ------------------  ----------------
+                                      (Unaudited)
+Subscription and services revenue:
+ Subscription:
+  Enterprise technologies          $33,941  $14,202  $63,909  $26,074
+  Retail                               561    3,947      936    7,768
+  Embedded                             423      490      648    1,136
+                                   -------- -------- -------- --------
+
+   Total subscription revenue       34,925   18,639   65,493   34,978
+                                   -------- -------- -------- --------
+ Services:
+  Enterprise technologies           10,492    9,147   20,978   18,186
+  Embedded development
+   services                            907    1,173    1,617    1,919
+                                   -------- -------- -------- --------
+
+   Total services revenue           11,399   10,320   22,595   20,105
+                                   -------- -------- -------- --------
+
+      Total subscription and
+       services revenue             46,324   28,959   88,088   55,083
+                                   -------- -------- -------- --------
+
+Cost of subscription and services revenue:
+ Subscription:
+  Enterprise technologies and
+   retail                            2,807    2,083    4,720    4,687
+  Embedded                              62       90      131      219
+                                   -------- -------- -------- --------
+
+   Total cost of subscription
+    revenue                          2,869    2,173    4,851    4,906
+                                   -------- -------- -------- --------
+ Services:
+  Enterprise technologies            5,241    4,976   10,727    9,841
+  Embedded development services        736      695    1,613    1,479
+                                   -------- -------- -------- --------
+
+   Total cost of services
+    revenue                          5,977    5,671   12,340   11,320
+                                   -------- -------- -------- --------
+
+      Total cost of
+       subscription and
+       services revenue              8,846    7,844   17,191   16,226
+                                   -------- -------- -------- --------
+
+Gross profit enterprise
+ technologies and retail            36,946   20,237   70,376   37,500
+Gross profit embedded                  532      878      521    1,357
+                                   -------- -------- -------- --------
+
+ Gross profit on enterprise
+  technologies, retail and
+  embedded revenue                  37,478   21,115   70,897   38,857
+
+Operating expense:
+ Sales and marketing                14,856    9,516   27,970   18,052
+ Research and development            8,387    6,104   15,470   11,883
+ General and administrative          6,181    4,356   12,646    8,415
+ Stock-based compensation and
+  amortization of intangibles        1,310      598    2,923    1,500
+                                   -------- -------- -------- --------
+
+  Total operating expense           30,734   20,574   59,009   39,850
+                                   -------- -------- -------- --------
+
+Income (loss) from operations        6,744      541   11,888     (993)
+Other income (expense), net          4,440    3,097   10,213    5,678
+                                   -------- -------- -------- --------
+
+Income before provision for
+ income taxes                       11,184    3,638   22,101    4,685
+Provision for income taxes            (641)       -     (641)       -
+                                   -------- -------- -------- --------
+
+Net income                         $11,825   $3,638  $22,742   $4,685
+                                   ======== ======== ======== ========
+
+
+Net income per share:
+ Basic                               $0.06    $0.02    $0.12    $0.03
+ Diluted                             $0.06    $0.02    $0.12    $0.03
+
+Weighted average shares
+ outstanding:
+ Basic                             183,422  172,127  182,952  171,636
+ Diluted                           195,391  182,377  195,429  181,185
+
+                             RED HAT, INC.
+                      CONSOLIDATED BALANCE SHEETS
+                            (In thousands)
+
+   ASSETS
+                                                  Aug. 31,   Feb. 29,
+                                                   2004        2004
+                                               ----------  ----------
+
+Assets:
+ Cash and investments in debt securities       $997,749    $941,384
+ Accounts receivable, net                        32,997      38,346
+ Estimated earnings in excess of billings         6,354       4,326
+ Inventory                                        2,779       2,794
+ Prepaid expenses and other assets               26,592      25,642
+ Property and equipment, net                     30,701      29,448
+ Goodwill and identifiable intangibles,
+  net                                            69,662      69,713
+                                         --------------- -----------
+
+   Total assets                              $1,166,834  $1,111,653
+                                         =============== ===========
+
+  LIABILITIES AND STOCKHOLDERS' EQUITY
+Liabilities:
+ Accounts payable                                $7,340      $7,154
+ Accrued expenses                                15,575      15,619
+ Deferred revenue                                99,735      73,696
+ Deferred lease credits                           5,275       5,359
+ Convertible notes                              600,000     600,000
+ Other liabilities                                  894       1,436
+                                         --------------- -----------
+
+   Total liabilities                            728,819     703,264
+Commitments and contingencies                         -           -
+Stockholders' equity:
+ Noncontrolling interest in subsidiary              404         359
+ Preferred stock                                      -           -
+ Common stock                                        18          18
+ Additional paid-in capital                     708,704     695,722
+ Deferred compensation                           (6,895)     (9,293)
+ Accumulated deficit                           (254,482)   (277,224)
+ Treasury stock, at cost                         (7,436)     (7,436)
+ Accumulated other comprehensive income          (2,298)      6,243
+                                         --------------- -----------
+
+   Total stockholders' equity                   438,015     408,389
+                                         --------------- -----------
+
+   Total liabilities and stockholders'
+    equity                                   $1,166,834  $1,111,653
+                                         =============== ===========
+
+   Note: Balance sheet as presented above is not classified with
+regard to GAAP maturities of assets and liabilities.
+
+
+                             RED HAT, INC.
+                           CASH FLOW SUMMARY
+                            (In thousands)
+
+                                                     Three    Three
+                                                     Months   Months
+                                                     Ended    Ended
+                                                    Aug. 31,  Aug.31,
+                                                     2004      2003
+                                                ---------- ---------
+
+Net income                                        $11,825    $3,638
+Non-cash expenses                                   3,898     2,506
+Net change in working capital items                15,030     4,247
+                                                ---------- ---------
+
+Net cash provided by operating activities          30,753    10,391
+
+Cash flows from investing activities:
+          Purchases of property and equipment      (2,570)   (2,351)
+          Net change in market value of debt
+           securities                               4,198    (4,055)
+                                                ---------- ---------
+
+Net cash used in investing activities               1,628    (6,406)
+
+Net cash provided by financing activities             890     2,742
+                                                ---------- ---------
+
+Net increase in cash and investments               33,271     6,727
+Cash and investments at beginning of period       964,478   300,006
+                                                ---------- ---------
+
+Cash and investments at end of period            $997,749  $306,733
+                                                ========== =========
+
+   Note: The cash flow summary presented above does not seperately
+identify the impact on cash and cash equivalents of changes in foreign
+currency exchange rates.
+
+
+    CONTACT: Red Hat, Inc.
+             Company Contact, Leigh Day, 919-754-4369;
+             lday@redhat.com
+              or
+             Investor Contact: Gabriel Szulik, 919-754-4439;
+             gszulik@redhat.com
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

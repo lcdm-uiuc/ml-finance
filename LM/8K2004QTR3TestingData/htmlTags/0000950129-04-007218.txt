@@ -1,0 +1,865 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ I6NUSEmPG1beu2YyW4psrZ6aOXvTYzLhd5sIr89ylIsI8B08G87X2tMYSAza8Q9u
+ GvXv1B9J+Zjj1/wfpGimtw==
+
+<SEC-DOCUMENT>0000950129-04-007218.txt : 20040921
+<SEC-HEADER>0000950129-04-007218.hdr.sgml : 20040921
+<ACCEPTANCE-DATETIME>20040921164410
+ACCESSION NUMBER:		0000950129-04-007218
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040920
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040921
+DATE AS OF CHANGE:		20040921
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KB HOME
+		CENTRAL INDEX KEY:			0000795266
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATIVE BUILDERS [1531]
+		IRS NUMBER:				953666267
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09195
+		FILM NUMBER:		041039654
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10990 WILSHIRE BLVD
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90024
+		BUSINESS PHONE:		3102314000
+
+	MAIL ADDRESS:	
+		STREET 1:		10990 WILSHIRE BLVD
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90024
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KAUFMAN & BROAD HOME CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>v01955e8vk.htm
+<DESCRIPTION>KB HOME - DATED SEPTEMBER 20, 2004
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 12pt"><B>CURRENT REPORT</B>
+
+
+<DIV align="center" style="font-size: 12pt"><B>Pursuant to Section&nbsp;13 OR 15 (d)&nbsp;of The Securities Exchange Act of 1934</B></DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Date of Report: September&nbsp;20, 2004<BR>
+(Date of earliest event reported)</B>
+
+
+<P align="center" style="font-size: 24pt"><B>KB HOME</B>
+
+<DIV align="center" style="font-size: 10pt"><B>(Exact name of registrant as specified in charter)</B></DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="85%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="31%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>1-9195</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>95-3666267</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction of<BR>
+incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer Identification No.)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>10990 Wilshire Boulevard, Los Angeles, California 90024</B><BR>
+(Address of principal executive offices)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Zip Code)
+
+
+
+<P align="center" style="font-size: 10pt"><B>Registrant&#146;s telephone number, including area code: (310)&nbsp;231-4000</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Not Applicable</B>
+
+
+<DIV align="center" style="font-size: 10pt">(Former name or former address, if changed since last report)</DIV>
+
+
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form&nbsp;8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+
+
+<P align="left" style="font-size: 10pt">&#091; &#093; Written communications pursuant to Rule&nbsp;425 under the Securities Act (17
+CFR 230.425)
+
+
+
+<P align="left" style="font-size: 10pt">&#091; &#093; Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR
+240.14a-12)
+
+
+
+<P align="left" style="font-size: 10pt">&#091; &#093; Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))
+
+
+
+<P align="left" style="font-size: 10pt">&#091; &#093; Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">Item&nbsp;2.02 Results of Operations and Financial Condition</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#001">Item&nbsp;9.01 Financial Statements and Exhibits</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURE</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003">EXHIBIT INDEX</A></TD></TR>
+<TR><TD colspan="9"><A HREF="v01955exv99w1.txt">Exhibit 99.1</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link1 "Item&nbsp;2.02 Results of Operations and Financial Condition" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;2.02 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Results of Operations and Financial Condition</B>
+
+
+
+<P align="left" style="font-size: 10pt">On September&nbsp;20, 2004, KB Home issued a press release announcing its results of
+operations for the three months and nine months ended August&nbsp;31, 2004. A copy
+of the press release is furnished as Exhibit&nbsp;99.1 to this report and is
+incorporated herein.
+
+
+<P align="left" style="font-size: 10pt">The information in this
+report, including Exhibit 99.1 attached hereto, shall not be deemed
+to be &#147;filed&#148; for purposes of Section 18 of the Securities and
+Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;), or
+otherwise subject to the liabilities of that Section, and shall not
+be incorporated by reference into any filing under the Securities Act
+of 1933, as amended, or the Exchange Act, except as shall be
+expressly set forth by specific reference in such a filing.
+
+
+<!-- link1 "Item&nbsp;9.01 Financial Statements and Exhibits" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Financial Statements and Exhibits</B>
+
+
+
+<P align="left" style="font-size: 10pt"><B>(c)&nbsp;Exhibits</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press release dated
+September&nbsp;20, 2004 announcing KB&nbsp;Home&#146;s results of operations for the three months and nine months
+ended August&nbsp;31, 2004.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">2
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link1 "SIGNATURE" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURE</B>
+
+
+
+<P align="left" style="font-size: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report
+to be signed on its behalf by the undersigned hereunto duly authorized.
+
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date: September 21, 2004<BR>
+<BR>
+<BR>
+</TD>
+</TR><TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">KB Home<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000">/s/ Domenico Cecere
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Domenico Cecere&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2">Senior Vice President and Chief Financial Officer</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">3
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "EXHIBIT INDEX" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>EXHIBIT INDEX</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="10%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="90%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center"><B>Exhibit No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press release dated
+September&nbsp;20, 2004 announcing KB&nbsp;Home&#146;s
+results of operations for the three months and nine months ended August&nbsp;31,
+2004.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">4
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>v01955exv99w1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 99.1
+
+                       [KB HOME PRESS RELEASE LOGO]
+
+FOR RELEASE, MONDAY, SEPTEMBER 20, 2004     FOR FURTHER INFORMATION CONTACT:
+2:00 P.M. PACIFIC DAYLIGHT TIME             Kelly Masuda, Investor Relations
+                                            (310) 231-4184 or kmasuda@kbhome.com
+                                            Derrick Hall, Media Contact
+                                            (310) 231-4142 or dmhall@kbhome.com
+
+   KB HOME REPORTS RECORD THIRD QUARTER RESULTS; RAISES 2004 EARNINGS ESTIMATE
+          REVENUES OF $1.75 BILLION, UP 21%; EPS INCREASES 22% TO $2.84
+            NET ORDERS UP 23%; BACKLOG INCREASES 42% TO $4.82 BILLION
+                  COMPANY FORECASTS EPS GROWTH OF 27% FOR 2005
+
+Los Angeles, CA, September 20, 2004 - KB Home (NYSE: KBH), one of the largest
+homebuilders in the United States and France, today announced record financial
+results for its third quarter ended August 31, 2004. Highlights include:
+
+   -  The Company achieved strong top-line growth in the third quarter of
+      2004 with total revenues of $1.75 billion, up 21% from $1.44 billion
+      posted in 2003. Housing revenues increased 24% to $1.72 billion in the
+      quarter, driven by higher unit deliveries which rose 17% to 8,041 units
+      and a 5% increase in the average selling price to $214,400.
+
+   -  Substantial earnings growth in the quarter was driven by higher unit
+      volume and the expansion of the Company's construction operating margin.
+      Net income for the third quarter of 2004 totaled $117.9 million,
+      increasing 20% from $97.8 million in the third quarter of 2003. The
+      Company's diluted earnings per share increased to $2.84 for the three
+      months ended August 31, 2004, up 22% from $2.33 for the three months ended
+      August 31, 2003.
+
+   -  Company-wide net orders for the third quarter increased 23% to 8,982,
+      up from 7,319 net orders reported for the same quarter of 2003.
+      Year-over-year net order growth was driven by higher net orders from each
+      of the Company's geographic regions. Recent acquisitions and de novo
+      growth have significantly expanded the Company's territory in the Central
+      and Southeast regions and set the stage for continued net order momentum.
+
+   -  Backlog at August 31, 2004, in terms of both units and dollars, was the
+      highest of any quarter-end in the Company's history. The dollar value of
+      backlog at August 31, 2004 totaled approximately $4.82 billion, up 42%
+      from August 31, 2003, and represents a strong pipeline of future revenues
+      for the remainder of 2004 and into 2005. The Company's unit backlog at
+      August 31, 2004 stood at 21,928, an increase of 5,356 units or 32% from
+      16,572 units at August 31, 2003.
+
+   -  The Company's favorable financial performance through the first nine
+      months of 2004 and positive outlook
+
+                                       5
+<PAGE>
+
+      for the remainder of the year and 2005 have prompted an increase in
+      expected earnings to $11.00 per diluted share for 2004 from the Company's
+      previous estimate. This represents an increase of 25% from the $8.80
+      earnings per diluted share generated in 2003. The Company also issued
+      initial earnings guidance for 2005 of $14.00 per diluted share, a 27%
+      increase over the forecasted 2004 diluted earnings per share.
+
+            "The strength of KB Home's third quarter net income and earnings per
+share is the direct result of our excellent top-line growth in unit deliveries
+and revenues combined with the expansion of our margins," said Bruce Karatz,
+chairman and chief executive officer. "The performance of our core homebuilding
+business also benefited from our geographic diversity and growing wide-array of
+attached and detached product offerings, appealing to first-time and move-up
+homebuyers, as well as active adults and luxury buyers. As current market
+conditions remained solid and supported the underlying fundamental demand for
+housing, unit deliveries in nearly all of our geographic regions exceeded prior
+year results in the third quarter. We anticipate this performance to continue in
+the fourth quarter, delivering outstanding results for the full year."
+
+            Total revenues for the third quarter of 2004 rose to $1.75 billion,
+up 21% from $1.44 billion in the third quarter of 2003. Housing revenues
+increased 24% in the period to $1.72 billion, up from $1.39 billion in the
+year-earlier period as a result of increases in both unit volume and average
+selling prices. Unit deliveries rose 17% to 8,041 in the third quarter of 2004
+from 6,850 in the same quarter of 2003. The Company's overall average selling
+price rose 5% to $214,400 in 2004 from $203,600 in 2003. Year-over-year growth
+in the Company's average selling price reflected increases in all of its
+domestic geographic regions.
+
+            "Our strategic investments in markets across the country over the
+past several quarters have laid the necessary groundwork for achieving our
+long-term growth goals," Karatz said. "We fully expect these investments to
+translate into higher community counts, revenues and earnings in the future.
+Demand for new homes should remain healthy as we expect the nation's economy to
+improve, consumer confidence to increase, household incomes to rise, and
+favorable demographic trends to continue to drive new household formations.
+Based on both our ability to deliver a rising number of new homes and our
+assessment of likely market conditions for the remainder of this year and into
+2005, we have increased our earnings estimate for 2004 to $11.00 per diluted
+share and are forecasting a 27% increase in earnings to $14.00 per diluted share
+for 2005."
+
+            Construction operating income rose to $190.8 million in the third
+quarter of 2004, a 39% increase from $137.3 million in the year-earlier quarter.
+The improvement was largely due to higher unit volume and an expanded operating
+margin. The Company's housing gross margin increased 130 basis points to 24.1%
+for the three months ended August 31, 2004, up from 22.8% for the same period of
+2003 primarily due to the favorable pricing environment as well as operating
+efficiencies achieved. The Company's construction operating margin increased to
+11.0% in the third quarter of 2004 from 9.7% in the third quarter of 2003. Net
+income rose to an all-time third quarter high of $117.9 million in 2004, up 20%
+from $97.8 million in the third quarter of 2003.
+
+            "KB Home's operating margin exhibited substantial growth in the
+third quarter primarily as a result of a higher housing gross margin," Karatz
+said. "We have leveraged the increase in our revenues by managing our costs in
+accordance with our operational business model to drive margin growth. Our
+success in quickly and effectively integrating recently acquired businesses also
+contributed to the improved profit margin."
+
+            The Company's backlog value totaled approximately $4.82 billion at
+August 31, 2004, a 42% increase compared to $3.40 billion at August 31, 2003.
+Total backlog units at August 31, 2004 rose 32% year-over-year to
+
+                                       6
+<PAGE>
+
+21,928 units reflecting increases in all geographic regions in which the Company
+operates. This backlog growth resulted from a 23% increase in net orders for the
+quarter ended August 31, 2004 to 8,982, up from the 7,319 net orders posted for
+the same quarter of 2003. All geographic regions generated favorable
+year-over-year comparisons.
+
+            "Net order activity during the third quarter increased significantly
+from the prior year quarter and drove the tremendous increase in our backlog
+which represents future revenues," Karatz said. "With a record third quarter
+backlog supporting our projections for the remainder of 2004, we operate from a
+great vantage point as we move forward. Furthermore, as of quarter end we owned
+or controlled a diverse inventory pipeline comprised of more than 160,000 lots
+in attractive markets across the United States, which further enhances our
+optimism for the longer-term in this land-constrained environment."
+
+            During the first nine months of 2004, the Company delivered 21,361
+homes, up 16% from the 18,457 delivered in the first nine months of 2003. Total
+revenues for the first three quarters of 2004 reached $4.67 billion, up 17% from
+$3.98 billion in the first three quarters of 2003. The Company's construction
+operating margin improved 150 basis points to 10.3% for the nine months ended
+August 31, 2004 and fueled a 27% increase in net income to $294.2 million from
+$232.0 million for the nine months ended August 31, 2003. Diluted earnings per
+share for the first three quarters of 2004 set a new Company record of $6.98,
+advancing 27% from the prior record of $5.51 per share in the same period of
+2003.
+
+THE CONFERENCE CALL ON THE THIRD QUARTER 2004 EARNINGS WILL BE BROADCAST LIVE
+TOMORROW AT 8:00 A.M. PACIFIC DAYLIGHT TIME, 11:00 A.M. EASTERN DAYLIGHT TIME.
+TO LISTEN, PLEASE GO TO THE INVESTOR RELATIONS SECTION OF THE COMPANY'S WEB SITE
+AT KBHOME.COM.
+
+Building homes for nearly half a century, KB Home is one of America's premier
+homebuilders with domestic operating divisions in some of the fastest-growing
+regions and states: West Coast--California; Southwest--Arizona, Nevada and New
+Mexico; Central--Colorado, Illinois, Indiana and Texas; and Southeast--Florida,
+Georgia, North Carolina and South Carolina. Kaufman & Broad S.A., the Company's
+majority-owned subsidiary, is one of the largest homebuilders in France. In
+fiscal 2003, the Company delivered homes to 27,331 families in the United States
+and France. It also operates a full-service mortgage company for the convenience
+of its buyers. Founded in 1957, and winner of the 2004 American Business Award
+for Best Overall Company, KB Home is a Fortune 500 company listed on the New
+York Stock Exchange under the ticker symbol "KBH." For more information about
+any of KB Home's new home communities, call 888-KB-HOMES or visit kbhome.com.
+
+Except for the historical information contained herein, certain matters
+discussed in this press release are "forward-looking statements" as defined in
+the Private Securities Litigation Reform Act of 1995, including any statements
+concerning future financial performance, business and prospects, and future
+Company actions and their expected results. These forward-looking statements are
+subject to risks, uncertainties and assumptions including, but not limited to,
+the continued impact of terrorist activities and U.S. response, accelerating
+recessionary trends and other adverse changes in general economic conditions,
+material prices, labor costs, interest rates, the secondary market for loans,
+consumer confidence, competition, currency exchange rates (insofar as they
+affect the Company's operations in France), environmental factors, government
+regulations affecting the Company's operations, the availability and cost of
+land in desirable areas, unanticipated violations of Company policy,
+unanticipated legal proceedings, and conditions in the capital, credit and
+homebuilding markets. See the Company's Annual Report on Form 10-K and its
+Annual Report to Shareholders for the year ended November 30, 2003 and its other
+filings for a further discussion of these and other risks and uncertainties
+applicable to the Company's business.
+
+                                      # # #
+                                 (TABLES FOLLOW)
+                                      # # #
+
+                                       7
+<PAGE>
+
+                                     KB HOME
+                        CONSOLIDATED STATEMENTS OF INCOME
+       For the Nine Months and Three Months Ended August 31, 2004 and 2003
+              (In Thousands, Except Per Share Amounts - Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                              Nine Months                 Three Months
+                                                      --------------------------    --------------------------
+                                                         2004           2003           2004          2003
+                                                      -----------    -----------    -----------    -----------
+<S>                                                   <C>            <C>            <C>            <C>
+TOTAL REVENUES                                        $ 4,672,087    $ 3,977,313    $ 1,748,292    $ 1,442,259
+                                                      ===========    ===========    ===========    ===========
+CONSTRUCTION:
+
+  Revenues                                            $ 4,639,509    $ 3,920,387    $ 1,739,538    $ 1,418,075
+  Costs and expenses                                   (4,162,432)    (3,574,058)    (1,548,757)    (1,280,729)
+                                                      -----------    -----------    -----------    -----------
+  Operating income                                        477,077        346,329        190,781        137,346
+  Interest income                                           2,978          2,041            782            568
+  Interest expenses, net of amounts capitalized           (14,633)       (18,398)        (3,827)        (2,400)
+  Minority interests                                      (41,174)       (12,690)       (18,535)        (3,995)
+  Equity in pretax of unconsolidated joint ventures         9,264          1,453          5,600            764
+                                                      -----------    -----------    -----------    -----------
+  Construction pretax income                              433,512        318,735        174,801        132,283
+                                                      -----------    -----------    -----------    -----------
+MORTGAGE BANKING:
+  Revenues:
+      Interest income                                       7,930         11,089          2,935          3,026
+      Other                                                24,648         45,837          5,819         21,158
+                                                      -----------    -----------    -----------    -----------
+                                                           32,578         56,926          8,754         24,184
+  Expenses:
+      Interest                                             (3,069)        (5,132)        (1,104)        (1,294)
+      General and administrative                          (23,853)       (24,201)        (6,497)        (9,158)
+                                                      -----------    -----------    -----------    -----------
+  Mortgage banking pretax income                            5,656         27,593          1,153         13,732
+                                                      -----------    -----------    -----------    -----------
+TOTAL PRETAX INCOME                                       439,168        346,328        175,954        146,015
+Income taxes                                             (145,000)      (114,300)       (58,100)       (48,200)
+                                                      -----------    -----------    -----------    -----------
+NET INCOME                                            $   294,168    $   232,028    $   117,854    $    97,815
+                                                      ===========    ===========    ===========    ===========
+BASIC EARNINGS PER SHARE                              $      7.51    $      5.87    $      3.03    $      2.51
+                                                      ===========    ===========    ===========    ===========
+DILUTED EARNINGS PER SHARE                            $      6.98    $      5.51    $      2.84    $      2.33
+                                                      ===========    ===========    ===========    ===========
+BASIC AVERAGE SHARES OUTSTANDING                           39,186         39,560         38,916         38,895
+                                                      ===========    ===========    ===========    ===========
+DILUTED AVERAGE SHARES OUTSTANDING                         42,150         42,135         41,494         41,946
+                                                      ===========    ===========    ===========    ===========
+</TABLE>
+
+                                       8
+<PAGE>
+
+                                     KB HOME
+                           CONSOLIDATED BALANCE SHEETS
+                           (In Thousands - Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                           August 31,      November 30,    August 31,
+                                                             2004             2003            2003
+                                                           ----------      -----------     ----------
+<S>                                                        <C>             <C>             <C>
+ASSETS
+
+CONSTRUCTION:
+  Cash and cash equivalents                                $    1,947      $  116,555      $   50,387
+  Receivables                                                 400,593         430,266         369,088
+  Inventories                                               4,059,936       2,883,482       2,867,152
+  Investments in unconsolidated joint ventures                122,440          32,797          29,142
+  Deferred income taxes                                       155,912         165,896         158,329
+  Goodwill                                                    244,315         228,999         215,520
+  Other assets                                                149,661         124,751         129,395
+                                                           ----------      ----------      ----------
+                                                            5,134,804       3,982,746       3,819,013
+                                                           ----------      ----------      ----------
+MORTGAGE BANKING:
+  Cash and cash equivalents                                    36,821          21,564          20,124
+  Receivables                                                 190,256         219,532         264,185
+  Other assets                                                 13,893          12,017          13,428
+                                                           ----------      ----------      ----------
+                                                              240,970         253,113         297,737
+                                                           ----------      ----------      ----------
+TOTAL ASSETS                                               $5,375,774      $4,235,859      $4,116,750
+                                                           ==========      ==========      ==========
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CONSTRUCTION:
+  Accounts payable                                         $  598,359      $  554,387      $  523,089
+  Accrued expenses and other liabilities                      621,091         574,527         441,925
+  Mortgages and notes payable                               2,030,606       1,253,932       1,442,171
+                                                           ----------      ----------      ----------
+                                                            3,250,056       2,382,846       2,407,185
+                                                           ----------      ----------      ----------
+MORTGAGE BANKING:
+  Accounts payable and accrued expenses                        82,056          31,858          34,537
+  Notes payable                                                97,328         132,225         162,670
+  Collateralized mortgage obligations secured by
+   mortgage-backed securities                                   5,140           6,848           8,603
+                                                           ----------      ----------      ----------
+                                                              184,524         170,931         205,810
+                                                           ----------      ----------      ----------
+Minority interests                                            116,068          89,231          77,458
+Stockholders' equity                                        1,825,126       1,592,851       1,426,297
+                                                           ----------      ----------      ----------
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY                 $5,375,774      $4,235,859      $4,116,750
+                                                           ==========      ==========      ==========
+</TABLE>
+
+                                       9
+<PAGE>
+
+                                     KB HOME
+                            SUPPLEMENTAL INFORMATION
+       For the Nine Months and Three Months Ended August 31, 2004 and 2003
+                           (In Thousands - Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                 Nine Months                          Three Months
+                                                        -----------------------------         -----------------------------
+CONSTRUCTION REVENUES:                                     2004               2003               2004               2003
+                                                        ----------         ----------         ----------         ----------
+<S>                                                     <C>                <C>                <C>                <C>
+ Housing                                                $4,600,145         $3,802,426         $1,723,861         $1,394,434
+ Commercial                                                 16,726            105,638              7,602             15,246
+ Land                                                       22,638             12,323              8,075              8,395
+                                                        ----------         ----------         ----------         ----------
+   Total                                                $4,639,509         $3,920,387         $1,739,538         $1,418,075
+                                                        ==========         ==========         ==========         ==========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                 Nine Months                          Three Months
+                                                        -----------------------------         -----------------------------
+COSTS AND EXPENSES:                                        2004               2003               2004              2003
+                                                        ----------         ----------         ----------         ----------
+<S>                                                     <C>                <C>                <C>                <C>
+Construction and land costs
+  Housing                                               $3,520,683         $2,961,413         $1,308,487         $1,075,924
+  Commercial                                                12,976             83,645              5,764             13,244
+  Land                                                      19,100             11,247              5,136              8,221
+                                                        ----------         ----------         ----------         ----------
+   Subtotal                                              3,552,759          3,056,305          1,319,387          1,097,389
+Selling, general and administrative expenses               609,673            517,753            229,370            183,340
+                                                        ----------         ----------         ----------         ----------
+   Total                                                $4,162,432         $3,574,058         $1,548,757         $1,280,729
+                                                        ==========         ==========         ==========         ==========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                 Nine Months                          Three Months
+                                                        -----------------------------         -----------------------------
+INTEREST EXPENSES:                                         2004               2003               2004               2003
+                                                        ----------         ----------         ----------         ----------
+<S>                                                     <C>                <C>                <C>                <C>
+  Interest incurred                                     $  101,605         $   89,674         $   37,325         $   28,540
+  Interest capitalized                                     (86,972)           (71,276)           (33,498)           (26,140)
+                                                        ----------         ----------         ----------         ----------
+   Interest expense                                     $   14,633         $   18,398         $    3,827         $    2,400
+                                                        ==========         ==========         ==========         ==========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                 Nine Months                          Three Months
+                                                        -----------------------------         -----------------------------
+OTHER INFORMATION:                                         2004               2003               2004              2003
+                                                        ----------         ----------         ----------         ----------
+<S>                                                     <C>                <C>                <C>               <C>
+  Depreciation and amortization                         $   15,469         $   15,942         $    5,021         $    5,503
+  Amortization of previously capitalized interest           54,184             46,863             19,684             16,649
+                                                        ==========         ==========         ==========         ==========
+</TABLE>
+
+                                       10
+<PAGE>
+
+                                     KB HOME
+                            SUPPLEMENTAL INFORMATION
+      For the Nine Months and Three Months Ended August 31, 2004 and 2003
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                  Nine Months                          Three Months
+                                                          ---------------------------           --------------------------
+AVERAGE SALES PRICE:                                        2004               2003               2004             2003
+                                                          --------           --------           --------          --------
+<S>                                                       <C>                <C>                <C>               <C>
+  West Coast                                              $399,500           $352,200           $407,900          $351,400
+  Southwest                                                198,100            177,300            199,600           180,000
+  Central                                                  148,400            149,100            148,800           146,300
+  Southeast                                                169,200            157,000            172,000           155,100
+  France                                                   206,800            200,900            199,200           201,400
+                                                          --------           --------           --------          --------
+   Total                                                  $215,400           $206,000           $214,400          $203,600
+                                                          ========           ========           ========          ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                  Nine Months                          Three Months
+                                                          ---------------------------           --------------------------
+UNIT DELIVERIES:                                            2004               2003               2004              2003
+                                                          --------           --------           --------          --------
+<S>                                                       <C>                <C>                <C>               <C>
+  West Coast                                                 3,643              3,763              1,333             1,339
+  Southwest                                                  5,337              4,685              1,884             1,731
+  Central                                                    5,974              5,075              2,432             1,851
+  Southeast                                                  3,308              2,312              1,263             1,017
+  France                                                     3,099              2,622              1,129               912
+                                                            ------             ------              -----            ------
+   Total                                                    21,361             18,457              8,041             6,850
+                                                            ======             ======              =====            ======
+  Unconsolidated Joint Ventures:                               601                144                277                59
+                                                            ======             ======              =====            ======
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                  Nine Months                          Three Months
+                                                          ---------------------------           --------------------------
+NET ORDERS:                                                 2004               2003               2004              2003
+                                                          --------           --------           --------          --------
+<S>                                                       <C>                <C>                <C>               <C>
+  West Coast                                                 4,720              4,663              1,526             1,410
+  Southwest                                                  6,430              5,881              2,025             1,912
+  Central                                                    7,606              5,889              2,204             1,913
+  Southeast                                                  5,277              2,900              1,892             1,130
+  France                                                     3,729              2,932              1,335               954
+                                                            ------             ------              -----             -----
+   Total                                                    27,762             22,265              8,982             7,319
+                                                            ======             ======              =====             =====
+  Unconsolidated Joint Ventures:                               748                394                148               136
+                                                            ======             ======              =====             =====
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                               August 31, 2004                        August 31, 2003
+                                                          ---------------------------           --------------------------
+BACKLOG DATA:                                          Backlog Units       Backlog value      Backlog Units     Backlog value
+                                                       -------------       -------------      -------------     -------------
+<S>                                                    <C>                 <C>                <C>               <C>
+ (Dollars in thousands)
+  West Coast                                                 3,718           $1,522,970            3,280          $1,142,247
+  Southwest                                                  4,956              987,632            3,991             729,195
+  Central                                                    5,357              806,894            4,473             643,354
+  Southeast                                                  4,201              765,654            2,353             389,373
+  France                                                     3,696              735,504            2,475             497,475
+                                                            ------           ----------           ------          ----------
+   Total                                                    21,928           $4,818,654           16,572          $3,401,644
+                                                            ======           ==========           ======          ==========
+  Unconsolidated Joint Ventures:                               838           $  147,233              295          $   47,726
+                                                            ======           ==========           ======          ==========
+</TABLE>
+
+                                       11
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

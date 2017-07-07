@@ -1,0 +1,475 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BEjiYL+A0msfn2kpTMjmP3BtZRTpey2mQILFNSPt+YiwzylrET/B9H2+6eGDDztU
+ JuSFHwLfecXtnCGAlGqCZw==
+
+<SEC-DOCUMENT>0001171843-04-000297.txt : 20040923
+<SEC-HEADER>0001171843-04-000297.hdr.sgml : 20040923
+<ACCEPTANCE-DATETIME>20040923160122
+ACCESSION NUMBER:		0001171843-04-000297
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040923
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20040923
+DATE AS OF CHANGE:		20040923
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HUBEI PHARMACEUTICAL GROUP LTD
+		CENTRAL INDEX KEY:			0001009919
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS METAL ORES [1090]
+		IRS NUMBER:				880419476
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25553
+		FILM NUMBER:		041042922
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SUITE 201-1166 ALBERNI STREET
+		CITY:			VANCOUVER BRITISH CO
+		STATE:			A1
+
+	MAIL ADDRESS:	
+		STREET 1:		SUITE 201-1166 ALBERNI STREET
+		CITY:			VANCOUVER BRITISH CO
+		STATE:			A1
+		ZIP:			999999999
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PAN ASIA COMMUNICATIONS CORP
+		DATE OF NAME CHANGE:	19990224
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>document.htm
+<DESCRIPTION>FORM 8-K FILING DOCUMENT
+<TEXT>
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-US">
+<head>
+  <title>Form 8-K Filing</title>
+</head>
+
+<body>
+
+<p align="center">
+  <font size="5">
+    <b>UNITED STATES<br>SECURITIES AND EXCHANGE COMMISSION<br></b>
+  </font>
+</p>
+
+<p align="center">
+  <font size="3">
+    <b>Washington, D.C. 20549</b><br>
+  </font>
+</p>
+
+
+<hr noshade="1" width="150" align="center">
+<p align="center">
+  <font size="5">
+    <b>FORM 8-K</b><br>
+  </font>
+</p>
+
+
+<hr noshade="1" width="150" align="center">
+<p align="center">
+  <font size="3">
+    <b>CURRENT REPORT</b><br>
+  </font>
+</p>
+
+
+<p align="center">
+  <font size="3">
+    <b>Pursuant to Section&nbsp;13 OR 15(d) of<br>The Securities Exchange Act of 1934</b><br>
+  </font>
+</p>
+
+
+<p align="center">
+  <font size="3">
+    <b>September 23, 2004</b><br>
+	(Date of earliest event reported)
+  </font>
+</p>
+
+<hr noshade="1" width="150" align="center">
+
+<p align="center">
+  <font size="5">
+    <b>Hubei Pharmaceutical Group Ltd.</b>
+  </font>
+   <br> <font size="2">
+    (Exact name of registrant as specified in its charter)
+  </font>
+</p>
+
+
+
+
+<!-- Registrant's State of Inc, File and IRS Number -->
+<table cellpadding="0" border="0" width="100%" cellspacing="0">
+
+   <tr valign="top">
+    <td width="32%" align="center">
+      <br> <font size="2">
+        <b>NEVADA</b>
+      </font>
+    </td>
+     <td width="3%">
+      &nbsp;
+    </td>
+     <td width="32%" align="center">
+      <br> <font size="2">
+        <b>000-25553</b>
+      </font>
+    </td>
+     <td width="3%">
+      &nbsp;
+    </td>
+     <td width="32%" align="center">
+      <br> <font size="2">
+        <b>88-0419476</b>
+      </font>
+    </td>
+  </tr>
+
+   <tr valign="top">
+    <td width="32%" align="center">
+      <font size="2">
+        (State or other jurisdiction<br>of incorporation)
+      </font>
+    </td>
+     <td width="3%">
+      &nbsp;
+    </td>
+     <td width="32%" align="center">
+      <font size="2">
+        (Commission File Number)
+      </font>
+    </td>
+     <td width="3%">
+      &nbsp;
+    </td>
+     <td width="32%" align="center">
+      <font size="2">
+        (IRS Employer Identification No.)
+      </font>
+    </td>
+  </tr>
+
+</table>
+
+
+<!-- Registrant's Postal Addess and Zip Code -->
+<br><br><table cellpadding="0" border="0" width="100%" cellspacing="0">
+
+   <tr valign="top">
+    <td width="19%">
+      &nbsp;
+    </td>
+     <td width="47%" align="center">
+      <br> <font size="2">
+        <b>410 Park Avenue, 15th Floor, New York, NY</b>
+      </font>
+    </td>
+     <td width="2%">
+      &nbsp;
+    </td>
+     <td width="13%" align="center">
+      <br> <font size="2">
+        <b>10022</b>
+      </font>
+    </td>
+     <td width="19%">
+      &nbsp;
+    </td>
+  </tr>
+
+   <tr valign="top">
+    <td width="19%">
+      &nbsp;
+    </td>
+     <td width="47%" align="center">
+      <font size="2">
+        (Address of principal executive offices)
+      </font>
+    </td>
+     <td width="2%">
+      &nbsp;
+    </td>
+     <td width="13%" align="center">
+      <font size="2">
+        (Zip Code)
+      </font>
+    </td>
+     <td width="19%">
+      &nbsp;
+    </td>
+  </tr>
+
+</table>
+<p align="center">
+  <font size="2">
+    Registrant's telephone number, including area code: &nbsp;
+    <b>(604) 881-2899</b>
+  </font>
+</p>
+
+<p align="center">
+  <font size="2">
+
+  </font>
+</p>
+
+<!-- Simultaneous filing obligation checkboxes -->
+<br><br><table cellpadding="0" border="0" width="100%" cellspacing="0">
+	<tr valign="top">
+		<td width="5%">&nbsp;</td>
+		<td><font size="2">
+			[  &nbsp; ]
+		</font></td>
+		<td><font size="2">
+			Written communications pursuant to Rule 425
+			under the Securities Act (17 CFR 230.425)
+		</font></td>
+	</tr>
+	<tr valign="top">
+		<td width="5%">&nbsp;</td>
+		<td><font size="2">
+			[  &nbsp; ]
+		</font></td>
+		<td><font size="2">
+			Soliciting material pursuant to Rule 14a-12(b) under
+			the Exchange Act (17 CFR 240.14a-12(b))
+		</font></td>
+	</tr>
+	<tr valign="top">
+		<td width="5%">&nbsp;</td>
+		<td><font size="2">
+			[  &nbsp; ]
+		</font></td>
+		<td><font size="2">
+			Pre-commencement communications pursuant to Rule 14d-2(b)
+			under the Exchange Act (17 CFR 240.14d-2(b))
+		</font></td>
+	</tr>
+	<tr valign="top">
+		<td width="5%">&nbsp;</td>
+		<td><font size="2">
+			[  &nbsp; ]
+		</font></td>
+		<td><font size="2">
+			Pre-commencement communications pursuant to Rule 13e-4(c)
+			under the Exchange Act (17 CFR 240.13e-4(c))
+		</font></td>
+	</tr>
+</table>
+
+<hr noshade="1">
+<p>
+  <font size="3">
+    <b>Item 2.02 Results of Operations and Financial Condition</b>
+  </font>
+</p>
+
+<p>
+  <font size="2">
+    On September 23, 2004 the Registrant issued a press release, a copy of which is attached hereto as Exhibit 99.1 and is incorporated here in by reference.
+  </font>
+</p>
+
+<p>
+  <font size="3">
+    <b>Item 9.01. Financial Statements and Exhibits.</b>
+  </font>
+</p>
+
+<p>
+  <font size="2">
+    (c) &nbsp; &nbsp; Exhibit 99.1.  Press release dated September 23, 2004
+  </font>
+</p>
+
+<!-- Exhibit Listing -->
+<hr noshade="1">
+<br>
+<table cellpadding="6" border="0" width="100%" cellspacing="0">
+  <tr valign="top">
+    <td width="20">&nbsp;</td>
+    <td colspan="2"><b><font size="3">Exhibit Index</font></b></td>
+  </tr>
+  <tr valign="top">
+    <td width="20">&nbsp;</td>
+    <td width="30" align="center"><font size="2">99.1</font></td>
+    <td width="300"><font size="2">Press release dated September 23, 2004</font></td>
+  </tr>
+</table>
+<br> <br> <br> <br> <br> <br>
+
+
+<hr noshade="1">
+
+<!-- Registrant's Signature -->
+<p align="center">
+  <font size="3">
+	<b>SIGNATURE</b>
+  </font>
+</p>
+
+<p>
+  <font size="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities
+	Exchange Act of 1934, the registrant has duly caused this report to be
+	signed on its behalf by the undersigned hereunto duly authorized.
+  </font>
+</p>
+
+<table cellpadding="0" border="0" width="100%" cellspacing="0">
+   <tr valign="top">
+    <td width="47%">
+      &nbsp;
+    </td>
+     <td width="5%">
+      &nbsp;
+    </td>
+     <td width="47%" align="center">
+      <font size="2">
+        <b>Hubei Pharmaceutical Group Ltd.</b>
+      </font>
+       <hr noshade="1"> <font size="2">
+        (Registrant)<br><br>
+      </font>
+    </td>
+  </tr>
+
+   <tr valign="top">
+    <td width="47%" align="center">
+      <font size="2">
+        <b>September 23, 2004</b>
+      </font>
+       <hr noshade="1"> <font size="2">
+        (Date)
+      </font>
+    </td>
+     <td width="5%">
+      &nbsp;
+    </td>
+     <td width="47%" align="center">
+      <font size="2">
+        <b>/s/ &nbsp; H. Y. (REID) LI</b>
+      </font>
+       <hr noshade="1"> <font size="2">
+        H. Y. (Reid) Li
+      </font>
+       <br> <font size="2">
+        <i>President and Chief Executive Officer</i>
+      </font>
+    </td>
+  </tr>
+
+</table>
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>newsrelease.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<html>
+  <head>
+    <title>Hubei Pharmaceutical Group Reports Second Quarter Operational Profit of $681,666</title>
+  </head>
+  <body><p align="right">EXHIBIT 99.1</p><h3 align="center">Hubei Pharmaceutical Group Reports Second Quarter Operational Profit of $681,666</h3>
+<p>
+NEW YORK, Sept. 23, 2004 (PRIMEZONE) --
+</p>
+<pre>
+
+ ---------------------------------------------------------------------
+ Operational Results          Second Quarter           Six Months
+ at a Glance
+ ---------------------------------------------------------------------
+                             2004       2003        2004       2003
+                          ---------- ----------  ---------- ----------
+
+ Revenues                 $1,851,276         --   1,937,809         --
+   Cost of Goods            -976,246         --  -1,024,286         --
+                          ----------             ----------
+ Gross Profit             $  875,030         --     913,523         --
+   General and
+     Administrative
+     Expenses               -193,364   -127,870    -352,086   -109,120
+                          ---------- ----------  ---------- ----------
+ Net Operational Income   $  681,666   (127,870) $  561,437   (109,120)
+ ---------------------------------------------------------------------
+</pre>
+<p>
+To download a printable version of our most recent quarterly report click here:  http://HBPharmaGroup.com/040922/10QSB.PDF
+</p>
+<p>
+Hubei Pharmaceutical Group (OTCBB:HBEI) today reported second quarter net income from operations of $ 681,666, compared with a small operating loss for the same period in 2003. Total revenues were $1.85 million versus no operating revenue a year ago and in all periods prior to that. Net income for the period after recording a non-cash, non-recurrent expense associated with disposal of an earlier joint venture was $34,281.
+</p>
+<p>
+&quot;Overall, our operating performance for the quarter was good and we are very excited to have turned the corner to profitability; however, delays in completing our negotiations for the most recent acquisition also delayed our participation in revenues until the last two months of the quarter so there is significant room for improvement,&quot; said Reid Li, president and Chief Executive Officer.
+</p>
+<p>
+Operating revenues included in the current income statement were derived solely from the new joint venture which is only in partial production and included only the two months during which the company owned its interest in the joint venture. These revenues were generated from production in our facility producing pharmaceuticals in injectable form. Construction of a second facility that will produce pharmaceuticals in other forms including tablets, capsules and oral liquids is nearly completed. Upon completion and GMP certification it will be used to commercialize additional pharmaceutical licenses owned by the joint venture as well as to produce and introduce to the market several new Biotech pharmaceuticals for which patents and/or production licenses are pending.
+</p>
+<p>
+&quot;Although we did record a non-operational expense of about four hundred and twenty-five thousand dollars on disposal of an earlier joint venture interest, this results from non-cash items and we are at the same time released from a commitment to invest a total of about 4.8 million dollars and to issue an additional 15 million shares. We saw an opportunity to recover cash and to eliminate the dilutive effects the project would have had on proceeds from the most recent acquisition and other acquisitions we may consider in the future. Really, an opportunity presented itself to restructure our interests in China based upon our reputation and achievements to date placing myself and other members of the team in a much stronger negotiating position than we were a year earlier. The net effect is extremely positive for our shareholders,&quot; Mr. Li went on to say.
+</p>
+<p>
+Our most recent acquisition of a 60% interest in the Hubei Tongji Benda Ebei Pharmaceutical Co. Ltd. joint venture fits well into our overall strategy. It has a successful legacy dating back into the mid 1970's and has operated as a private enterprise since 2001. The owner/managers have proven themselves in a privatized, entrepreneurial environment, and are an essential part of ongoing operations providing continuity of a successful management team and other resources. The joint venture ranks about seventh overall in China in the production of small format injectables and is expected to be the largest producer in Central China once current renovations and increases to production capacity are completed. We have initially purchased an interest in the dosage division and will also be acting as sales agent domestically and internationally for the bulk products division still owned by the minority partners. There are many opportunities to expand the scope of the joint venture to include some or all of the minorit
+y partners' other interests as funding allows. In addition to a production and distribution base of 79 high-tech pharmaceutical products in injectable forms, the new joint venture expects, in its first year of operation, to complete patenting and production licensing of several biotech pharmaceuticals in other forms to be used in the treatment of Cancer and Diabetes. Construction of new production facilities for the additional forms is nearly complete and GMP certification is expected in the fourth quarter after which the company will apply for a production license for the diabetes product. Testing has been completed and a patent applied for on the Yanlong Anti-cancer Oral Liquid(tm). This represents the culmination of years of research by our chief scientist, Dr. Li Yan, himself an internationally published and recognized authority on the morphology of certain tumors.
+</p>
+<p>
+Hubei Pharmaceutical Group is engaged in the acquisition of pharmaceutical development, production and distribution facilities in China. Its shares are listed on the Frankfurt Stock Exchange under the symbol HUQ and in the US, on the OTCBB, under the symbol HBEI. We expect to announce other significant milestones in the near future.
+</p>
+<p>
+Legal Notice: This press release may contain forward-looking statements, particularly as related to the business plans of the company, that are within the meaning of Section 27A of the Securities Act of 1933 and Sections 21E of the Securities Exchange Act of 1934 subject to the safe harbour created by these sections. Actual results may differ materially from the company's expectations and estimates.
+</p>
+<pre>
+CONTACT:
+Corporate Development:
+Hubei Pharmaceutical Group Ltd.
+Eric Fletcher, 604-881-2899 ext 300
+Fax: 604-881-2892
+Eric@HBPharmaGroup.com
+
+
+Corporate Communications:
+Hubei Pharmaceutical Group Ltd.
+Howard Milne, 604-881-2899 ext 220
+Fax: 604-881-2892
+Howard@HBPharmaGroup.com
+</pre>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

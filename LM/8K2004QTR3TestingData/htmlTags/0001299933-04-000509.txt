@@ -1,0 +1,896 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SBnf49u3OTJrRxVABP6a1JA6hOYVObmRfmpo7xV7HNljslLJy9dyip0Xuiy6UWPM
+ wmZjkfaasrkZltYZ1naXTg==
+
+<SEC-DOCUMENT>0001299933-04-000509.txt : 20040903
+<SEC-HEADER>0001299933-04-000509.hdr.sgml : 20040903
+<ACCEPTANCE-DATETIME>20040903161345
+ACCESSION NUMBER:		0001299933-04-000509
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040903
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040903
+DATE AS OF CHANGE:		20040903
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ELECTRONICS FOR IMAGING INC
+		CENTRAL INDEX KEY:			0000867374
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER COMMUNICATIONS EQUIPMENT [3576]
+		IRS NUMBER:				943086355
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-18805
+		FILM NUMBER:		041017099
+
+	BUSINESS ADDRESS:	
+		STREET 1:		303 VELOCITY WAY
+		CITY:			FOSTER CITY
+		STATE:			CA
+		ZIP:			94404
+		BUSINESS PHONE:		6503573500
+
+	MAIL ADDRESS:	
+		STREET 1:		303 VELOCITY WAY
+		CITY:			FOSTER CITY
+		STATE:			CA
+		ZIP:			94404
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>htm_641.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- CoverPageHeader start -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> Electronics for Imaging, Inc. (Form: 8-K) </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P>
+<!-- CoverPageHeader end --><!-- CoverPageTitle START -->
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<HR NOSHADE>
+<P>
+<P ALIGN="CENTER">
+<FONT SIZE="4">
+		UNITED STATES<BR>
+	SECURITIES AND EXCHANGE COMMISSION
+</FONT>
+<BR>
+<FONT SIZE="2">
+	WASHINGTON, D.C. 20549
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="5">
+	FORM 8-K
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="3">
+	CURRENT REPORT
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+</FONT>
+</P>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Date of Report (Date of Earliest Event Reported):
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	September 3, 2004
+</FONT>
+</TD>
+</TR>
+</TABLE>
+<BR>
+</CENTER>
+<!-- CoverPageTitle END --><!-- CoverPageRegistrant START -->
+<P ALIGN="CENTER">
+<FONT SIZE="6">
+	Electronics for Imaging, Inc.
+</FONT>
+<FONT SIZE="2">
+<BR>__________________________________________<BR>
+	(Exact name of registrant as specified in its charter)
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="36%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="27%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="27%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Delaware
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	000-18805
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	94-3086355
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________________<BR>
+	(State or other jurisdiction
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________<BR>
+	(Commission
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+______________<BR>
+	(I.R.S. Employer
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	of incorporation)
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	File Number)
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Identification No.)
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	303 Velocity Way, Foster City, CA
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	94404
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_________________________________<BR>
+	(Address of principal executive offices)
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+___________<BR>
+	(Zip Code)
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Registrant&#146;s telephone number, including area code
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	650-357-3500
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Not Applicable
+<BR>______________________________________________<BR>
+	Former name or former address, if changed since last report
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+<!-- CoverPageRegistrant END --><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 2.02. Results of Operations and Financial Condition.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+On September 3, 2004, Electronics for Imaging, Inc. issued a press release and held a conference call regarding the Company's business outlook for the second half of 2004. <br><br>A copy of the press release issued by the Company on September 3, 2004 is filed herewith as exhibit 99.1 and is incorporated herein by reference. <br><br>
+</FONT>
+</P>
+<!-- Item END --><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 9.01. Financial Statements and Exhibits.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+(c) Exhibits. The following items are filed as exhibits to this report: <br>99.1 Press Release dated September 3, 2004, regarding Electronics for Imaging, Inc&#146;s business outlook for the second half of 2004.
+</FONT>
+</P>
+<!-- Item END --><BR><BR><BR><BR>
+<P ALIGN="LEFT" STYLE="FONT-SIZE: 10PT">
+The information in this Form 8-K and Exhibit shall not be deemed
+filed for purposes of Section&nbsp;18 of the Securities Exchange Act of 1934, nor shall it be
+deemed incorporated by reference in any such filing under the Securities Act of
+1933, except as shall be expressly set forth by specific reference in such
+filing.
+</P><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- SignatureHeader START -->
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+<B>
+	SIGNATURES
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+	Pursuant to the requirements of the Securities Exchange Act of 1934, the
+	registrant has duly caused this report to be signed on its behalf by the
+	undersigned hereunto duly authorized.
+</FONT>
+</P>
+<!-- SignatureHeader END --><!-- Signature START -->
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="19%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="43%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD COLSPAN="3" VALIGN="TOP" ALIGN="LEFT">
+<FONT SIZE="2">
+	Electronics for Imaging, Inc.
+<BR>
+	(Registrant)
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	September 3, 2004
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	By:
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Joseph Cutts
+</I>
+<BR>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<HR SIZE="1" NOSHADE>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Name: Joseph Cutts
+</I>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Title: Chief Financial Officer and Chief Operating Officer
+</I>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<!-- Signature END --><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><P ALIGN="CENTER">
+<FONT SIZE="2">
+	Exhibit&nbsp;Index
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="8%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+<TD WIDTH="77%">
+	&nbsp;
+</TD>
+</TR>
+
+<BR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Exhibit No.
+</B>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Description
+</B>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="CENTER">
+<HR SIZE="1" NOSHADE>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="CENTER">
+<HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+</TD>
+</TR>
+
+
+
+
+
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP" WIDTH="8%" nowrap>
+<FONT SIZE="2">
+<DIV ALIGN="LEFT">
+	EX-99.1
+</DIV>
+</FONT>
+</TD>
+<TD WIDTH="15%">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+<FONT SIZE="2">
+Press Release
+</FONT>
+</TD>
+</TR></TABLE></CENTER><!-- HTMLFooter START -->
+</BODY>
+</HTML>
+<!-- HTMLFooter END -->
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> EX-99.1 </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="51%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="21%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="22%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B><I>For more information:</I></B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="left"><B><I>Investor Relations</I></B><BR></TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Joseph Cutts</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="left">JoAnn Horne<BR></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Chief Financial Officer</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="left">Market Street Partners<BR></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">EFI</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">415-445-3235</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="left" style="font-size: 10pt">650-357-3500
+
+
+<P align="center" style="font-size: 10pt"><FONT style="font-size=12pt"><B>EFI PROVIDES 2</B><sup><B>nd</sup> HALF BUSINESS OUTLOOK</B></FONT>
+
+
+
+<P align="left" style="font-size: 12pt">FOSTER CITY, Calif. &#150; September&nbsp;3, 2004 &#150; EFI, (NASDAQ: EFII), the world leader in digital imaging
+and print management solutions for commercial and enterprise printing, today provided an outlook
+for the second half of 2004. Based on preliminary estimates, EFI currently expects third quarter
+revenues in the range of $97&nbsp;million to $100&nbsp;million and pro forma net income per diluted share,
+which excludes the impact of amortization of acquisition-related intangibles and other
+non-recurring charges and gains, of $0.12 to $0.14. Third quarter GAAP net income per diluted share
+is estimated at $0.07 to $0.09.
+
+
+<P align="left" style="font-size: 12pt">For the fourth quarter revenues are expected to be in the range of $98&nbsp;million to $103&nbsp;million with
+pro forma net income per diluted share of $0.12 to $0.16. Fourth quarter GAAP net income per
+diluted share is estimated at $0.08 to $0.12.
+
+
+<P align="left" style="font-size: 12pt">The company attributed the results to lower than anticipated revenue in its print controller
+businesses.
+
+
+<P align="left" style="font-size: 12pt">The company will be hosting a conference call on Friday, September&nbsp;3, 2004 at 9:00 a.m. Eastern
+Time. To participate in the conference call please dial 1-800-359-9787 domestically and
+706-634-1521 internationally. The live webcast and the replay can be accessed at www.efi.com.
+
+
+<P align="left" style="font-size: 12pt"><B>About our Pro Forma Net Income and Adjustments</B>
+<BR>
+To supplement our consolidated financial results prepared under generally accepted accounting
+principles (&#147;GAAP&#148;), we use a pro forma measure of net income that is GAAP net income adjusted to
+exclude certain costs, expenses and gains. Our pro forma net income gives an indication of our
+baseline performance before gains, losses or other charges that are considered by management to be
+outside of our core operating results. In addition, pro forma net income is among the primary
+indicators management uses as a basis for planning and forecasting future periods. These measures
+are not in accordance with, or an alternative for, GAAP and may be materially different from pro
+forma measures used by other companies. We compute pro forma net income by adjusting GAAP net
+income with the impact of amortization of acquisition-related intangibles, and other non-recurring
+charges and gains. The presentation of this additional information should not be considered in
+isolation or as a substitute for net income prepared in</FONT><FONT style="font-size=11pt"> accordance with GAAP. </FONT><FONT style="font-size=12pt">In the
+third and fourth quarter of 2004, the expected amortization of acquisition related intangibles, net
+of tax benefit, would lead to a $0.04 to $0.05 per share reduction from the pro forma earnings per
+share amount.</FONT>
+
+
+<P align="left" style="font-size: 12pt"><B>Safe Harbor for Forward Looking Statements</B>
+<BR>
+The statements: &#148; EFI currently expects third quarter revenues in the range of $97&nbsp;million to $100
+million and pro forma net income per diluted share, which excludes the impact of amortization of
+acquisition-related intangibles and other non-recurring charges and gains, of $0.12 to $0.14. Third
+quarter, GAAP net income per diluted share is estimated at $0.07 to $0.09&#148; and &#147;For the fourth
+quarter revenues are expected to be in the range of $98&nbsp;million to $103&nbsp;million with pro forma net
+income per diluted share of $0.12 to $0.16. Fourth quarter, GAAP net income per diluted share is
+estimated at $0.08 to $0.12&#148; are forward-looking statements within the meaning of Section&nbsp;27A of
+the Securities Act of 1933, as amended and Section&nbsp;21E of the Securities and Exchange Act of 1934,
+as amended. Past performance is not necessarily indicative of future results. Forward Looking
+Statements are subject to certain risks and uncertainties that could cause actual future results to
+differ materially, including, but not necessarily limited to, the following: (1)&nbsp;Management&#146;s
+ability to forecast revenues and control expenses, especially on a quarterly basis, continues to be
+a challenge. Unexpected declines in revenue without a corresponding and timely decline in expenses
+could have a material adverse effect on results of operations; (2)&nbsp;current world wide
+financial/economic difficulties continue including variations in foreign exchange rates; (3)
+variations in growth rates or declines in the printing and imaging market across various geographic
+regions may cause a material impact in our results; (4)&nbsp;changes in historic customer order
+patterns, including changes in customer and channel inventory levels may cause a material impact in
+our results; (5)&nbsp;changes in the mix of products sold leads to variations in results; (6)&nbsp;market
+acceptance of new products and contribution to EFI&#146;s revenue cannot be assured; (7)&nbsp;delays in
+product delivery can cause quarterly revenues and income to fall significantly short of anticipated
+levels; (8)&nbsp;competition and/or market factors in the various markets may pressure EFI to reduce
+prices on certain products; (9)&nbsp;competition with products internally developed by EFI&#146;s customers
+may result in declines in EFI sales and revenues; (10)&nbsp;excess or obsolete inventory and variations
+in inventory valuation may cause a material impact in our results; (11)&nbsp;continued success in
+technological advances, including development and implementation of new processes and strategic
+products for specific market segments may not be assured; (12)&nbsp;timely and qualitative execution in
+the manufacturing of products may not be assured; (13)&nbsp;litigation involving intellectual property
+or other matters may cause a material impact in our results; (14)&nbsp;our ability to adequately service
+our debt and dilution of earnings if the company&#146;s convertible debenture is treated on an &#147;as
+converted basis&#148; for purposes of calculating diluted earnings per share; (15)&nbsp;other risk factors
+listed from time to time in the company&#146;s SEC reports. EFI undertakes no obligation to update
+information contained in this release. For further information regarding risks and uncertainties
+associated with EFI&#146;s business, please refer to the Risk Factors section (entitled &#147;Factors That
+Could Adversely Affect Performance&#146;&#146;) of EFI Corporation&#146;s SEC filings, including, but not limited
+to, its annual report on Form 10-K and quarterly reports on Form 10-Q, copies of which may be
+obtained by contacting EFI Corporation&#146;s Investor Relations Department at 650-357-3828 or email at
+investor.relations@efi.com or EFI&#146;s Investor Relations website at http://www.efi.com.
+
+
+<P align="left" style="font-size: 12pt"><B>About EFI</B>
+
+
+<P align="left" style="font-size: 12pt">EFI (www.efi.com) is the world leader in digital imaging and print management solutions for
+commercial and enterprise printing. EFI&#146;s award-winning technologies offer document management
+tools from creation to print, including high fidelity color and black and white Fiery&#174; print
+servers that can output up to 2000 ppm; powerful production workflow and print management
+information software solutions for increased performance and cost efficiency; and an array of
+business-critical enterprise and mobile printing solutions. EFI maintains 25 offices worldwide.
+
+
+
+<P align="center" style="font-size: 10pt; display: none">
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

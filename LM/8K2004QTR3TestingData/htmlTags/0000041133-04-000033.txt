@@ -1,0 +1,1523 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JyVAH9qAb9BE6uyK2Aq7ez1ZX7LNaOSAJ0haN3eRexlxHx7M79JcRfjVpoyNMLwa
+ qAURkMx2fOEmmYOUu1fBMQ==
+
+<SEC-DOCUMENT>0000041133-04-000033.txt : 20040902
+<SEC-HEADER>0000041133-04-000033.hdr.sgml : 20040902
+<ACCEPTANCE-DATETIME>20040902083755
+ACCESSION NUMBER:		0000041133-04-000033
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040902
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20040902
+DATE AS OF CHANGE:		20040902
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GERBER SCIENTIFIC INC
+		CENTRAL INDEX KEY:			0000041133
+		STANDARD INDUSTRIAL CLASSIFICATION:	SPECIAL INDUSTRY MACHINERY, NEC [3559]
+		IRS NUMBER:				060640743
+		STATE OF INCORPORATION:			CT
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05865
+		FILM NUMBER:		041012334
+
+	BUSINESS ADDRESS:	
+		STREET 1:		83 GERBER RD WEST
+		CITY:			SOUTH WINDSOR
+		STATE:			CT
+		ZIP:			06074
+		BUSINESS PHONE:		8606441551
+
+	MAIL ADDRESS:	
+		STREET 1:		83 GERBER ROAD WEST
+		CITY:			SOUTH WINDSOR
+		STATE:			CT
+		ZIP:			06074
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GERBER SCIENTIFIC INSTRUMENT CO
+		DATE OF NAME CHANGE:	19781210
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>fy05q1results8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>FORM 8-K</TITLE>
+</HEAD>
+<BODY>
+
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=638>
+<TR><TD VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">UNITED STATES SECURITIES AND EXCHANGE COMMISSION</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">WASHINGTON, D.C.  20549</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">FORM 8-K</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">CURRENT REPORT</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">PURSUANT TO SECTION 13 OR 15 (d) OF<BR>
+THE SECURITIES EXCHANGE ACT OF 1934</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">Date of Report (Date of earliest event reported):  (September 2, 2004)</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<U><P ALIGN="CENTER">GERBER SCIENTIFIC, INC.</U><BR>
+(Exact name of Registrant as specified in its charter)</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="47%" VALIGN="TOP" COLSPAN=2>
+<U><P ALIGN="CENTER">CONNECTICUT</U></TD>
+<TD WIDTH="28%" VALIGN="TOP" COLSPAN=4>
+<U><P ALIGN="CENTER">1-5865</U></TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<U><P ALIGN="CENTER">06-0640743</U></TD>
+</TR>
+<TR><TD WIDTH="47%" VALIGN="TOP" COLSPAN=2>
+<P ALIGN="CENTER">(State or other jurisdiction of incorporation or organization)</TD>
+<TD WIDTH="28%" VALIGN="TOP" COLSPAN=4>
+<P ALIGN="CENTER">(Commission File No.)</TD>
+<TD WIDTH="25%" VALIGN="TOP">
+<P>(I.R.S. Employer Identification No.)</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP" COLSPAN=4>
+<U><P ALIGN="CENTER">83 Gerber Road West, South Windsor, Connecticut</U></TD>
+<TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>
+<U><P ALIGN="CENTER">06074</U></TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP" COLSPAN=4>
+<P ALIGN="CENTER">(Address of principal executive offices)</TD>
+<TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>
+<P ALIGN="CENTER">(Zip Code)</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="58%" VALIGN="TOP" COLSPAN=4>
+<P>Registrant's Telephone Number, including area code:</TD>
+<TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>
+<U><P ALIGN="CENTER">(860-644-1551)</U></TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<U><P ALIGN="CENTER">Not Applicable</U></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">(Former name or former address, if changes since last report)</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="25%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<B><P>&nbsp;</P>
+<P>Item 2.02.     Results of Operations and Financial Condition </P>
+</B>
+<P>On September 2, 2004, Gerber Scientific, Inc. issued a press release announcing its fiscal 2005 first quarter results. The press release is attached hereto as Exhibit 99.1. </P>
+
+<P>&nbsp;</P>
+<FONT FACE="Arial" SIZE=3><P>&nbsp;</P>
+<U><P>&nbsp;</P>
+</U></FONT><P ALIGN="CENTER">SIGNATURES</P>
+
+<P>&nbsp;</P>
+<P>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+
+<P>&nbsp;</P>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=638>
+<TR><TD WIDTH="37%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="63%" VALIGN="TOP" COLSPAN=4>
+<U><P>GERBER SCIENTIFIC, INC.</U></TD>
+</TR>
+<TR><TD WIDTH="37%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="31%" VALIGN="TOP" COLSPAN=2>
+<P ALIGN="CENTER">(Registrant)</TD>
+<TD WIDTH="15%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="37%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="63%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="37%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="63%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="37%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="63%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP">
+<P>Date:</TD>
+<TD WIDTH="28%" VALIGN="TOP">
+<U><P>September 2, 2004</U></TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<P>By:</TD>
+<TD WIDTH="56%" VALIGN="TOP" COLSPAN=3>
+<U><P>/s/ Shawn M. Harrington</U></TD>
+</TR>
+<TR><TD WIDTH="37%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="56%" VALIGN="TOP" COLSPAN=3>
+<P>Shawn M. Harrington<BR>
+Executive Vice President<BR>
+(Principal Financial and Accounting Officer)</TD>
+</TR>
+<TR><TD WIDTH="37%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="63%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<FONT FACE="Arial"><P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit99_1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>EXHIBIT 99.1</TITLE>
+</HEAD>
+<BODY>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=2 WIDTH=638>
+<TR>
+  <TD height="51" VALIGN="TOP">&nbsp;</TD>
+  <TD VALIGN="TOP"><div align="right"><font face="Arial, Helvetica, sans-serif">EXHIBIT 99.1 </font></div></TD>
+</TR>
+<TR><TD WIDTH="50%" VALIGN="TOP">  <P><font size="2" face="Arial">For Immediate Release</font></TD>
+<TD WIDTH="50%" VALIGN="TOP">  <P ALIGN="RIGHT"><font size="2" face="Arial">Contact:&nbsp;&nbsp;Shawn M. Harrington</font></TD>
+</TR>
+<TR><TD WIDTH="50%" VALIGN="TOP">  <P><font size="2" face="Arial">September 2, 2004</font></TD>
+<TD WIDTH="50%" VALIGN="TOP">  <P ALIGN="RIGHT"><font size="2" face="Arial">(860) 644-1551</font></TD>
+</TR>
+</TABLE>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=2 WIDTH=638>
+<TR><TD>
+<P ALIGN="CENTER"></P>
+
+<P>&nbsp;</P>
+
+<P ALIGN="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><b>GERBER SCIENTIFIC, INC. ANNOUNCES FISCAL 2005 FIRST QUARTER RESULTS</b></font></P>
+<font size="2" face="Arial, Helvetica, sans-serif"></FONT>
+<P ALIGN="CENTER"><font size="2" face="Arial, Helvetica, sans-serif"><strong><em>EPS Improves to $0.03; Gerber Technology and Gerber Coburn<br>
+</em></strong></font><em><strong><font size="2" face="Arial, Helvetica, sans-serif">Post Higher Revenue; Business Expansion in China Continues</font></strong></em></P>
+<P>&nbsp;</P>
+
+<P ALIGN="JUSTIFY"><font size="2" face="Arial"><strong>SOUTH WINDSOR, CT -- Gerber Scientific, Inc. (NYSE: GRB)</strong> today reported fiscal 2005 first quarter earnings of $0.03 per diluted share on revenue of $127.7 million versus earnings of $0.02 per diluted share on revenue of $129.0 million in the prior year comparable period.  Included in the fiscal 2005 results were pre-tax restructuring charges of $1.9 million relating to a factory relocation and the sublease of a dormant facility.  Foreign currency translation had the effect of increasing revenue by approximately $4.2 million in the fiscal 2005 first quarter compared to the fiscal 2004 period.</P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">Commenting on the quarter, Marc T. Giles, president and chief executive officer, said, "I was pleased with the Company's performance this quarter.  Without the restructuring charges recorded in the quarter, first quarter operating income increased over last year despite the overall revenue decrease, which reflects the continuing success of our cost control and productivity improvement efforts.  We saw growth in our gross margin - both year-over-year and sequentially by quarter.  We anticipate continuing margin improvement as we benefit from the operating leverage associated with our cost reduction initiatives.</font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">Order rates continued to be strong in our Gerber Technology business and we achieved year-over-year revenue growth in both our Gerber Technology and Gerber Coburn businesses.  Strong competition continued to suppress equipment sales in our Sign Making and Specialty Graphics segment, which we are addressing through both internal development and strategic OEM relationships.  Sales of aftermarket products in this segment are providing stability.</font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">We remain on track with our turnaround plan and we commenced the relocation of our Gerber Coburn operations in Muskogee, Oklahoma in June 2004, which was previously announced.  This action caused us to record a restructuring charge relating primarily to severance amounting to $1.4 million.  We anticipate additional charges of up to $5.0 million for the remainder of this fiscal year in connection with this relocation and the restructuring of our Spandex business.</font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">The $26.8 million repayment of our debt during fiscal 2004 resulted in lower interest expense of $1.0 million this quarter compared to last year.  We will continue to benefit in future periods from lower interest rates associated with the July 9, 2004 amendment to our credit facilities."</font></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">In the fiscal 2005 first quarter, Gerber:</font></P>
+<P ALIGN="JUSTIFY"></P>
+<UL>
+  <P ALIGN="JUSTIFY"><LI><font size="2" face="Arial">Reported improved operating margins despite lower revenue, indicating the effectiveness of cost control programs implemented.</font></LI>
+  <font size="2" face="Arial">
+  </P>
+</font><LI><font size="2" face="Arial">Amended its credit facilities to include more favorable terms.</font></LI>
+  <font size="2" face="Arial">
+  </P>
+</font><LI><font size="2" face="Arial">Continued to reduce its debt and realized $1.0 million of year-over-year interest expense savings.</font></LI>
+  <font size="2" face="Arial">
+  </P>
+</font><LI><font size="2" face="Arial">Commenced the relocation of the Gerber Coburn operations in Muskogee, Oklahoma resulting in a $1.4 million restructuring charge.</font></LI>
+  <font size="2" face="Arial">
+  </P>
+</font><LI><font size="2" face="Arial">Benefited from continued new order entry momentum in the Gerber Technology business.</font></LI>
+  <font size="2" face="Arial">
+  </P>
+</font><LI><font size="2" face="Arial">Continued to expand its business in China.</font></LI>
+  <font size="2" face="Arial">
+  </P>
+  </font>
+</UL>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2"><b><font face="Arial">Fiscal 2005 First Quarter Consolidated Results</font></b></font></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">Fiscal 2005 first quarter revenue and order entry were $127.7 million and $129.8 million, respectively, versus $129.0 million and $130.5 million in the prior year comparable periods.  Foreign currency translation had the effect of increasing revenue approximately $4.2 million in the fiscal 2005 first quarter versus the prior year comparable period.  Gerber's backlog of orders increased $2.1 million to $38.0 million during the fiscal 2005 first quarter.  This increase occurred in the Apparel and Flexible Materials segment and we expect these orders to be converted to revenue during the fiscal 2005 second quarter.  </font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">Fiscal 2005 first quarter gross margin of 34.5 percent increased 0.5 percentage points from the prior year comparable period and increased 1.1 percentage points after adjusting for service costs recorded as selling, general, and administrative expenses (S,G,&amp;A) in the prior year comparable period.  The higher gross margin was the result of operating leverage from our cost reduction efforts, higher prices, and mitigated costs as a result of our hedging activities.  These effects were partially offset by lower business volume and a product mix favoring lower margin equipment products.  The service cost adjustment was caused by better visibility resulting from the November 1, 2003 implementation of SAP for the Ophthalmic Lens Processing segment. </font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">Consolidated operating income was $3.1 million in the fiscal 2005 first quarter versus $4.6 million in the prior year comparable period.  Restructuring charges of $1.9 million more than offset the effect of improved gross margin, lower pension expense, and savings from cost control.  Of these charges, approximately $1.4 million related to the relocation of Gerber Coburn's operations in Muskogee, Oklahoma and $0.4 million related to an adjustment to a previously established lease accrual.</font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">Other expenses in the fiscal 2005 first quarter decreased $0.8 million from the prior year comparable period primarily because of lower losses incurred on the translation of foreign currency denominated transactions.  Also included in other expenses in the fiscal 2004 first quarter was the write-off of deferred financing charges of $0.3 million associated with the Company's prior credit facility that did not recur in fiscal 2005.</font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">Fiscal 2005 first quarter interest expense decreased $1.0 million from the prior year comparable period, which was largely the result of lower average debt balances.  </font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">The Company's consolidated income tax rate was 17.1 percent compared to the statutory rate of 35.0 percent.  The difference from the statutory rate was primarily attributable to benefits related to export tax incentives and foreign tax planning strategies.</font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2"><b><font face="Arial">Fiscal 2005 First Quarter Segment Results</font></b></font></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">Segment profit (defined as segment earnings before interest and taxes - see attached segment information for reconciliation to GAAP measure) for the fiscal 2005 first quarter was $6.4 million versus $8.0 million in the prior year comparable period.</font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2"><i><font face="Arial">Sign Making and Specialty Graphics</font></i></font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">The Sign Making and Specialty Graphics segment reported fiscal 2005 first quarter revenue of $68.7 million, which was a decrease of $4.1 million from the prior year comparable period.  Adjusting for the effect of foreign currency translation, fiscal 2005 first quarter revenue was $7.3 million lower than the prior year comparable period.  The decrease was primarily the result of strong competition from inkjet products.  The fiscal 2004 first quarter also included revenue of $2.4 million representing sales to a large office supply retailer that did not, and were not expected to, repeat this year. </font></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">Fiscal 2005 first quarter segment profit decreased $2.6 million from the prior year comparable period primarily because of lower business volume.  Higher restructuring expenses of $0.4 million related to a change in assumptions concerning a previously established lease accrual also contributed to the lower segment profit.  Favorable foreign currency effects, savings from cost control, and lower pension expense partially offset the segment profit decline.</font></P>
+<P ALIGN="JUSTIFY"></P>
+
+<P ALIGN="JUSTIFY"><font size="2" face="Arial"><em>Apparel and Flexible Materials</em></font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">The Apparel and Flexible Materials segment reported fiscal 2005 first quarter revenue of $39.8 million, which was an increase of $2.2 million from the prior year comparable period.  Foreign currency translation had the effect of increasing revenue by $0.7 million in the fiscal 2005 first quarter versus the prior year comparable period.  The higher revenue reflected improved North American, Asian, and Latin American markets and this increase occurred across all product lines except for the multi-ply cutter line.  Delays in the shipment of multi-ply cutter orders at the end of the first quarter contributed to the $2.7 million increase in segment backlog.        </font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">Fiscal 2005 first quarter segment profit of $4.6 million increased $1.6 million from the prior year comparable period, which was primarily the result of higher volume, favorable foreign currency effects, savings from cost control, favorable pricing, and lower pension expense.  A product mix favoring lower margin equipment was a partial offset.    </font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">The Chinese market has grown to be the second largest for Gerber Technology, the business comprising the Apparel and Flexible Materials segment, following the United States.  New orders for the Far East region grew approximately 20 percent in the fiscal 2005 first quarter versus the prior year comparable period and were driven by increased Chinese business levels.  On September 7, 2004, Gerber Technology will open an Advanced Technology Center in Shanghai, where its Far East regional operations will be based.  This facility will also provide the infrastructure needed by Gerber's other operating segments to expand into the Chinese market.  Gerber Technology operates through 24 locations (including ten independent agents) within greater China and has more than 1,500 customers operating more than 5,000 systems.  Gerber Technology plans to increase to over 200 the number of personnel in China by the end of fiscal 2005.</font></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial"><br>
+    <em>Ophthalmic Lens Processing</em></font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">The Ophthalmic Lens Processing segment reported fiscal 2005 first quarter revenue of $19.2 million, which was an increase of $0.7 million from the prior year comparable period.  Foreign currency translation had the effect of increasing revenue by $0.3 million in the fiscal 2005 first quarter from the prior year comparable period.  The increase reflected higher aftermarkets revenue, while equipment revenue was flat compared to the prior year. </font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">Fiscal 2005 first quarter segment loss of $0.6 million increased $0.6 million from the prior year comparable period.  The segment loss was caused by the $1.4 million restructuring charge associated with the relocation of the Muskogee, Oklahoma facility.  The favorable effects of cost control, product mix, lower pension expense, and higher prices partially offset the impact of the restructuring charge.  </font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2"><i><font face="Arial">Corporate Expenses</font></i></font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">Corporate expenses, net of other income, of $3.5 million in the fiscal 2005 first quarter decreased $0.9 million from the prior year comparable period.  The decrease was primarily the result of fiscal 2004 first quarter costs associated with the settled SEC investigation and credit facility amendments that did not recur, as well as lower fiscal 2005 first quarter pension expense.</font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2"><b><font face="Arial">Financial Condition</font></b></font></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">The Company's total debt decreased $1.1 million during the fiscal 2005 first quarter.  Cash provided by operating activities was $2.7 million in the fiscal 2005 first quarter versus cash used for operating activities of $8.6 million during the prior year comparable period.  This variance was caused primarily by incentive bonus payments made during the fiscal 2004 first quarter that did not recur this year.  </font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">At July 31, 2004, the Company had $6.5 million in cash and cash equivalents and $57.9 million in debt.  Gerber's net debt (defined as total debt less cash and cash equivalents) was lowered $1.3 million during the fiscal 2005 first quarter to $51.4 million.  The ratio of net debt to capital (defined as the sum of net debt plus shareholders' equity) was 30.1 percent at July 31, 2004 compared to 30.9 percent at April 30, 2004.</font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial">As previously announced, the Company amended its revolver and term loan credit agreements on July 9, 2004.  These amendments, among other changes, reduced the weighted-average annual interest rates accruing on the Company's outstanding term loans by 3.75 percent and improved certain operating and financial covenants.  The amendments also modified operating covenants to permit the Company, within specified limits, to prepay the term loans more frequently, make business acquisitions, pay dividends, and repurchase its common stock.  Please refer to the Company's annual report on Form 10-K filed with the SEC on July 14, 2004 for additional information.</font></P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial"><b><u>About Gerber Scientific, Inc.</u></b></font></P>
+<font size="2" face="Arial">
+<P ALIGN="JUSTIFY">Gerber Scientific, Inc.  is a leading supplier of sophisticated automated manufacturing systems for sign making and specialty graphics, apparel and flexible materials, and ophthalmic lens processing.  Headquartered in South Windsor, Connecticut, the Company operates through four businesses: Gerber Scientific Products, Spandex Ltd., Gerber Technology, and Gerber Coburn.</P>
+</font>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><font size="2" face="Arial"><b><i><u>Safe Harbor Statement:</u></i></b></font></P>
+<font size="2" face="Arial"><i></I>
+Statements contained in this news release regarding the Company's expected financial condition, revenue, cash flow, operating results, cost savings, operational efficiencies and other potential benefits of its turnaround initiatives, business strategy and other planned events and expectations are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that involve risks and uncertainties.  Actual future results or events may differ from these forward-looking statements.  Readers are referred to the documents filed by the Company with the Securities and Exchange Commission, including the Company's annual report on Form 10-K for the fiscal year ended April 30, 2004, for a discussion of important risks that could cause actual results to differ from those contained or implied in the forward-looking statements.  These risks include, but are not limited to, the following:</font>
+<P ALIGN="JUSTIFY">
+<UL><LI><font size="2"><font face="Arial, Helvetica, sans-serif">Delays in new product development and commercialization.</font></font></LI>
+<font size="2"><font face="Arial, Helvetica, sans-serif">
+</P>
+</font></font><LI><font size="2"><font face="Arial, Helvetica, sans-serif">Delays in product introductions, product defects or loss of market focus caused by efforts to lower the Company's cost platform.</font></font></LI>
+<font size="2"><font face="Arial, Helvetica, sans-serif">
+</P>
+</font></font><LI><font size="2"><font face="Arial, Helvetica, sans-serif">Reliance on manufacturers or suppliers to timely supply parts or aftermarket consumables to the Company's specifications.</font></font></LI>
+<font size="2"><font face="Arial, Helvetica, sans-serif">
+</P>
+</font></font><LI><font size="2"><font face="Arial, Helvetica, sans-serif">Fluctuations in currency exchange rates that cause the Company's financial results to decline.</font></font></LI>
+<font size="2"><font face="Arial, Helvetica, sans-serif">
+</P>
+</font></font><LI><font size="2"><font face="Arial, Helvetica, sans-serif">Financial and operating covenants associated with the Company's primary credit facilities.</font></font></LI>
+<font size="2"><font face="Arial, Helvetica, sans-serif">
+</P>
+</font></font><LI><font size="2"><font face="Arial, Helvetica, sans-serif">Intense competition in each of the Company's operating segments.</font></font></LI>
+<font size="2"><font face="Arial, Helvetica, sans-serif">
+</P>
+</font></font><LI><font size="2"><font face="Arial, Helvetica, sans-serif">Sign shops' transition to lower-cost ink jet imaging systems, calendered vinyls, and digital media systems.</font></font></LI>
+<font size="2"><font face="Arial, Helvetica, sans-serif">
+</P>
+</font></font><LI><font size="2"><font face="Arial, Helvetica, sans-serif">Phasing out of apparel trade quotas as of January 1, 2005.</font></font></LI>
+<font size="2"><font face="Arial, Helvetica, sans-serif">
+</P>
+</font></font><LI><font size="2"><font face="Arial, Helvetica, sans-serif">Non-recurring orders from key customers.</font></font></LI>
+<font size="2"><font face="Arial, Helvetica, sans-serif">
+</P>
+</font></font><LI><font size="2"><font face="Arial, Helvetica, sans-serif">Delays caused by facility relocations.</font></font></LI>
+<font size="2"><font face="Arial, Helvetica, sans-serif">
+</P>
+</font>
+</font>
+</UL>
+</td></tr>
+</table>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=595>
+  <TR><td>
+<B><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P>
+</B><P ALIGN="CENTER"><b><font size="2">GERBER SCIENTIFIC, INC. AND SUBSIDIARIES<BR>
+    CONSOLIDATED STATEMENTS OF OPERATIONS</font></b></P><P ALIGN="CENTER"><b><font size="2">(Unaudited)</font></b></P></td></tr></table>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=4 WIDTH=595>
+<TR><TD WIDTH="65%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="35%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=2><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Three Months Ended<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 31,</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<U><FONT SIZE=2><P>In thousands (except per share data)</U></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2004&nbsp;</U></FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003&nbsp;</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<B><FONT SIZE=2><P>Revenue:</B></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Product sales </FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$&nbsp;110,944&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$&nbsp;114,689&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Service sales</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;16,742&nbsp;</U></FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;14,268&nbsp;</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=13>
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;127,686&nbsp;</U></FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" HEIGHT=13><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=13>
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;128,957&nbsp;</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<B><FONT SIZE=2><P>Costs and Expenses:</B></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost of product sold</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">73,959&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">77,635&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost of service sold </FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">9,716&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">7,494&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selling, general and administrative</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">32,888&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">33,033&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research and development</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">6,113&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">6,191&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Restructuring charges </FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,894&nbsp;</U></FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;124,570&nbsp;</U></FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;124,353&nbsp;</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>Operating income</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">3,116&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">4,604&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>Other expense</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(198)</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">(1,016)</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>Interest expense</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;(2,077)</U></FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;(3,103)</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="3%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>Earnings before income taxes</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">841&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">485&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>Provision for income taxes</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;144&nbsp;</U></FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<U><FONT SIZE=2><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;122&nbsp;</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<B><FONT SIZE=2><P>Net earnings </B></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;697&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;363&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">=======</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">=======</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<B><FONT SIZE=2><P>Earnings per share of common stock:</B></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.03&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.02&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diluted</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.03&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.02&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dividends</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="3%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=7><P></P></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<B><FONT SIZE=2><P>Average shares outstanding:</B></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">22,235</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">22,173</FONT></TD>
+</TR>
+<TR><TD WIDTH="65%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diluted</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">22,433</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="RIGHT">22,473</FONT></TD>
+</TR>
+</TABLE>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=595>
+  <TR><td>
+<FONT SIZE=2>
+<B><P ALIGN="CENTER">&nbsp;</P>
+<P ALIGN="CENTER">&nbsp;</P>
+<P ALIGN="CENTER">&nbsp;</P>
+</B><P ALIGN="CENTER"><b><font size="2">GERBER SCIENTIFIC, INC. AND SUBSIDIARIES<BR>
+  CONSOLIDATED BALANCE SHEETS</font></b></P>
+<b></b><B>
+</B><P ALIGN="CENTER"><b><font size="2">(Unaudited)</font></b></P></td></tr></table>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=614>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><u><font size="2"><BR>
+    In thousands, except share data</font></u></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="CENTER"><font size="2">July 31,<U><br>
+    &nbsp;&nbsp;&nbsp;2004&nbsp;&nbsp;</U></font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="CENTER"><font size="2">April 30,<U><br>
+    &nbsp;&nbsp;&nbsp;2004&nbsp;&nbsp;</U></font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><b><font size="2">Assets:</font></b></TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><b><font size="2">Current Assets:</font></b></TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cash and cash equivalents</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;&nbsp;6,537&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;&nbsp;&nbsp;6,371&nbsp;</font></TD>
+  </TR>
+  <TR>
+    <TD WIDTH="66%" VALIGN="TOP"><P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accounts receivable, net of allowance for doubtful accounts <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  of $8,525 and $7,812, respectively</font></DIR>
+  </TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2"><BR>
+    86,457&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2"><BR>
+    90,453&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inventories</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">54,526&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">49,696&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deferred income taxes</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">4,106&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">3,930&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prepaid expenses and other current assets</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8,004&nbsp;</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7,377&nbsp;</font></u></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;159,630&nbsp;</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;157,827&nbsp;</font></u></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><b><font size="2">Property, Plant and Equipment</font></b></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">125,969&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">124,385&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Less accumulated depreciation</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;84,719&nbsp;</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;81,811&nbsp;</font></u></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;41,250&nbsp;</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;42,574&nbsp;</font></u></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><b><font size="2">Intangible Assets:</font></b></TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goodwill</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">51,053&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">50,910&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prepaid pension cost</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">1,989&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">1,989&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Patents and other intangible assets, net of accumulated &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;amortization</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2"><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6,102&nbsp;</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2"><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6,111&nbsp;</font></u></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;59,144&nbsp;</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;59,010&nbsp;</font></u></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><b><font size="2">Deferred Income Taxes</font></b></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">20,584&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">19,738&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><b><font size="2">Other Assets</font></b></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7,292&nbsp;</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7,737&nbsp;</font></u></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$287,900&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$286,886&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">=======</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">=======</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><b><font size="2">Liabilities and Shareholders' Equity</font></b></TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><b><font size="2">Current Liabilities:</font></b></TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short-term line of credit</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;124&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current portion of long-term debt</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">21,831&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">12,509&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accounts payable</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">40,312&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">43,397&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accrued compensation and benefits</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">17,153&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">14,334&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other accrued liabilities</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">16,601&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">17,135&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deferred revenue </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">13,967&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">13,514&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advances on sales contracts</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,061&nbsp;</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,028&nbsp;</font></u></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;110,925&nbsp;</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;102,041&nbsp;</font></u></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><b><font size="2">Noncurrent Liabilities:</font></b></TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accrued pension benefit liability</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">16,323&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">15,264&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other liabilities</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">5,439&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">5,467&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Long-term debt</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;36,060&nbsp;</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;46,512&nbsp;</font></u></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;57,822&nbsp;</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;67,243&nbsp;</font></u></TD>
+  </TR>
+</TABLE>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=614>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><b><font size="2">Contingencies and Commitments:</font></b></TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><b><font size="2">Shareholders' Equity:</font></b></TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preferred stock, no par value; authorized 10,000,000<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shares; no shares issued</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2"><BR>
+    ---&nbsp;&nbsp;&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2"><BR>
+    ---&nbsp;&nbsp;&nbsp;&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Common stock, $1.00 par value; authorized 65,000,000<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shares; issued 22,961,377 and 22,935,638 shares</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2"><BR>
+&nbsp;22,961&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2"><BR>
+&nbsp;22,936&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paid-in capital</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">&nbsp;43,349&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">&nbsp;43,408&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retained earnings</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">&nbsp;74,143&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">&nbsp;73,446&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Treasury stock, at cost (705,001 and 713,853 shares, <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;respectively)</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2"><BR>
+  (14,497)</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2"><BR>
+  (14,679)</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unamortized value of restricted stock grants</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">(139)</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">(81)</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+  <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accumulated other comprehensive loss </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;(6,664)</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;(7,428)</font></u></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;119,153&nbsp;</font></u></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;117,602&nbsp;</font></u></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$287,900&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$286,886&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">=======</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">=======</font></TD>
+  </TR>
+</TABLE>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=595>
+  <TR><td>
+<FONT SIZE=2><FONT FACE="CG Times"><P>&nbsp;</P>
+<P>&nbsp;</P>
+</FONT><B><P ALIGN="CENTER">&nbsp;</P>
+<P ALIGN="CENTER">GERBER SCIENTIFIC, INC. AND SUBSIDIARIES<BR>
+CONSOLIDATED STATEMENTS OF CASH FLOWS</P>
+<P ALIGN="CENTER">(Unaudited)</P>
+</B></td></tr></table>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=614>
+  <TR><TD WIDTH="66%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="34%" VALIGN="TOP" COLSPAN=3>
+  <FONT SIZE=3>&nbsp;</FONT>  <P ALIGN="CENTER"><font size="2">Three Months Ended<BR>
+    July 31,</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="3%" VALIGN="TOP">&nbsp;</TD>
+  <TD WIDTH="16%" VALIGN="TOP">&nbsp;</TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+    <font size="2"><U>
+    <P>In thousands</U>
+    </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;2004&nbsp;</U>
+    </font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;2003&nbsp;</U>
+    </font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=24>
+    <font size="2"><B>
+    <P>Cash Provided by (Used for):</B>
+    </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=24><P><font size="2"></font></P></TD>
+  <TD WIDTH="3%" VALIGN="TOP" HEIGHT=24><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=24><P><font size="2"></font></P></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+    <font size="2"><B>
+    <P>Operating Activities:</B>
+    </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net earnings</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;697&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;363&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adjustments to reconcile net earnings <BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to cash provided by (used for) operating activities:</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Depreciation and amortization </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">2,790&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">2,978&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Restructuring charges</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">1,894&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">---&nbsp;&nbsp;&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deferred income taxes</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(1,068)</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(214)</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other non-cash items</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">440&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">917&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Changes in operating accounts:</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Receivables</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">4,506&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">1,975&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inventories</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(4,678)</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(1,136)</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prepaid expenses</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(599)</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(1,250)</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accounts payable and accrued expenses</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;(1,261)</U>
+    </font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;(12,281)</U>
+    </font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="3%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+    <font size="2"><B>
+    <P>Provided by (Used for) Operating Activities</B>
+    </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2,721&nbsp;</U>
+    </font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;(8,648)</U>
+    </font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="3%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+    <font size="2"><B>
+    <P>Investing Activities:</B>
+    </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additions to property, plant, and equipment</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(1,072)</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(512)</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intangible and other assets</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(91)</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(274)</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=19>    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proceeds from sale of promissory note</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=19>
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp;</U>
+    </font></TD>
+  <TD WIDTH="3%" VALIGN="TOP" HEIGHT=19><P><font size="2"><font size="2"></font></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=19>
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;994&nbsp;</U>
+    </font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="3%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+    <font size="2"><B>
+    <P>(Used for) Provided by Investing Activities</B>
+    </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;(1,163)</U>
+    </font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;208&nbsp;</U>
+    </font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="3%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+    <font size="2"><B>
+    <P>Financing Activities:</B>
+    </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Borrowings under Term Loans</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">---&nbsp;&nbsp;&nbsp;&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">65,000&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Repayments of borrowings under Term Loans</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(10,452)</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(824)</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net change in revolvers</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">9,322&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(60,310)</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net short-term financing</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(126)</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">---&nbsp;&nbsp;&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Debt issue costs</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">---&nbsp;&nbsp;&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(5,604)</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exercise of stock options</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">91&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">34&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other common stock activity</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(93)</U>
+    </font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;51&nbsp;</U>
+    </font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="3%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+    <font size="2"><B>
+    <P>(Used for) Financing Activities</B>
+    </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;(1,258)</U>
+    </font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;(1,653)</U>
+    </font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=10><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=10><P><font size="2"></font></P></TD>
+  <TD WIDTH="3%" VALIGN="TOP" HEIGHT=10><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=10><P><font size="2"></font></P></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=22>    <P><font size="2">Effect of exchange rate changes on cash</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=22>    <P ALIGN="RIGHT"><font size="2">(134)</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP" HEIGHT=22><P><font size="2"><font size="2"></font></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=22>    <P ALIGN="RIGHT"><font size="2">173&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"><font size="2"></font></font></P></TD>
+  <TD WIDTH="3%" VALIGN="TOP" HEIGHT=13><P><font size="2"><font size="2"></font></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"><font size="2"></font></font></P></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+    <font size="2"><B>
+    <P>Increase (Decrease) in Cash and Cash Equivalents</B>
+    </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">166&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">(9,920)</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">    <P><font size="2">Cash and Cash Equivalents, Beginning of Period</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6,371&nbsp;</U>
+    </font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">
+    <font size="2"><U>
+    <P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;20,697&nbsp;</U>
+    </font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"><font size="2"></font></font></P></TD>
+  <TD WIDTH="3%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP">
+    <font size="2"><B>
+    <P>Cash and Cash Equivalents, End of Period</B>
+    </font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;&nbsp;&nbsp;6,537&nbsp;</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="16%" VALIGN="TOP">    <P ALIGN="RIGHT"><font size="3">$&nbsp;&nbsp;10,777&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13>    <P ALIGN="RIGHT"><font size="3">=======</font></TD>
+  <TD WIDTH="3%" VALIGN="TOP" HEIGHT=13><P><font size="2"></font></P></TD>
+  <TD WIDTH="16%" VALIGN="TOP" HEIGHT=13>    <P ALIGN="RIGHT"><font size="3">=======</font></TD>
+  </TR>
+</TABLE>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=595>
+  <TR><td>
+<B><P ALIGN="CENTER">&nbsp;</P>
+<P ALIGN="CENTER">GERBER SCIENTIFIC, INC. AND SUBSIDIARIES<BR>
+  SEGMENT INFORMATION</P>
+<P ALIGN="CENTER">(Unaudited)</P>
+</B>
+<P ALIGN="JUSTIFY"></P></td></tr></table>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=595>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <P><font size="2"><BR>
+  </font></TD>
+  <TD WIDTH="42%" VALIGN="TOP" COLSPAN=2>
+  <P ALIGN="CENTER"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Three Months Ended<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 31,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <U></U>  <P><u><font size="2">In thousands</font></u>
+  <u></u></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <U></U>  <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2004&nbsp;</font></u>
+  <u></u></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <U></U>  <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003&nbsp;</font></u>
+  <u></u></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <P><font size="2">Segment revenue:</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <P><font size="2">Sign Making and Specialty Graphics</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;68,725&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;72,841&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <P><font size="2">Apparel and Flexible Materials</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">39,764&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">37,607&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <P><font size="2">Ophthalmic Lens Processing</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <U></U>  <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;19,197&nbsp;</font></u>
+  <u></u></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <U></U>  <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;18,509&nbsp;</font></u>
+  <u></u></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$127,686&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$128,957&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">=======</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">=======</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <P><font size="2">Segment profit (loss):</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <P><font size="2">Sign Making &amp; Specialty Graphics</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;&nbsp;&nbsp;2,460&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;&nbsp;&nbsp;5,069&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <P><font size="2">Apparel &amp; Flexible Materials</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">4,561&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">2,973&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <P><font size="2">Ophthalmic Lens Processing</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <U></U>  <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(593)</font></u>
+  <u></u></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <U></U>  <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(41)</font></u>
+  <u></u></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">6,428&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">8,001&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <P><font size="2">Corporate expenses, net of other income</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">(3,510)</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">(4,413)</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <P><font size="2">Interest expense</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <U></U>  <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;(2,077)</font></u>
+  <u></u></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <U></U>  <P ALIGN="RIGHT"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;(3,103)</font></u>
+  <u></u></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+  <P><font size="2">Earnings before income taxes</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;841&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;485&nbsp;</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="18%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">=======</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP">
+  <P ALIGN="RIGHT"><font size="2">=======</font></TD>
+  </TR>
+  <TR><TD WIDTH="58%" VALIGN="TOP">
+
+<P><font size="2"></font></TD>
+  <TD WIDTH="18%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  <TD WIDTH="24%" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+</TABLE>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=2 WIDTH=638>
+<TR><TD>
+<P><font size="2" face="Arial, Helvetica, sans-serif">Segment profit for the three months ended July 31, 2004 included restructuring charges of $1.4 million for the Ophthalmic Lens Processing operating segment and $0.4 million for the Sign Making and Specialty Graphics operating segment.</font></P><B><FONT FACE="CG Times"><P>&nbsp;</P>
+</B></FONT><FONT FACE="Arial" SIZE=3>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<P>&nbsp;</P>
+<B><P>&nbsp;</P></B></FONT>
+</td></tr>
+</table>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

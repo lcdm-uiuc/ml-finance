@@ -1,0 +1,359 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GcmESGsBsvr2LRxkQXANNzbiMffVdZM2AhMfiejAR1hZnRykMAiJtuKoB11QRaC2
+ QEsT6LGvtQXqsvRGqnAidQ==
+
+<SEC-DOCUMENT>0001076542-04-000219.txt : 20040827
+<SEC-HEADER>0001076542-04-000219.hdr.sgml : 20040827
+<ACCEPTANCE-DATETIME>20040827142954
+ACCESSION NUMBER:		0001076542-04-000219
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040823
+ITEM INFORMATION:		Completion of Acquisition or Disposition of Assets
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040827
+DATE AS OF CHANGE:		20040827
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHINA ENERGY SAVINGS TECHNOLOGY, INC.
+		CENTRAL INDEX KEY:			0001119601
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				860995730
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-31047
+		FILM NUMBER:		041002088
+
+	BUSINESS ADDRESS:	
+		STREET 1:		22/F MORRISON COMMERCIAL BUILDING
+		STREET 2:		31 MORRISON HILL ROAD
+		CITY:			WANCHAI, HONG KONG
+		STATE:			F4
+		ZIP:			00000
+		BUSINESS PHONE:		852-2891-3130
+
+	MAIL ADDRESS:	
+		STREET 1:		22/F MORRISON COMMERCIAL BUILDING
+		STREET 2:		31 MORRISON HILL ROAD
+		CITY:			WANCHAI, HONG KONG
+		STATE:			F4
+		ZIP:			00000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RIM HOLDINGS INC
+		DATE OF NAME CHANGE:	20020819
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RIM COM INC
+		DATE OF NAME CHANGE:	20000714
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>p0826-8k.txt
+<DESCRIPTION>FORM 8-K - AUGUST 23, 2004
+<TEXT>
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                               -----------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+        Date of Report (Date of earliest event reported): August 23, 2004
+
+                               -----------------
+
+                      CHINA ENERGY SAVINGS TECHNOLOGY, INC.
+               (Exact name of registrant as specified in charter)
+
+            NEVADA                     000-31047                 86-0995730
+(State or other jurisdiction of   (Commission File No.)        (IRS Employee
+ incorporation or organization)                              Identification No.)
+
+                        22/F Morrison Commercial Building
+                              31 Morrison Hill Road
+                            WanChai, Hong Kong, China
+                    (Address of Principal Executive Offices)
+
+                                  852-2891-3130
+                            (Issuer Telephone Number)
+
+                                Rim Holdings Inc.
+                                  (Former Name)
+
+
+
+Check  the  appropriate  box  below  if the  Form  8-K  filing  is  intended  to
+simultaneously  satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)
+
+[ ] Soliciting  material  pursuant to Rule 14a-12(b)  under the Exchange Act (17
+CFR 240.14a-12(b))
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+Act (17 CFR 240.13e-4(c))
+
+================================================================================
+<PAGE>
+
+FORWARD LOOKING STATEMENTS
+
+     This Form 8-K and other reports filed by Registrant  from time to time with
+the Securities and Exchange  Commission  (collectively the "Filings") contain or
+may contain  forward  looking  statements  and  information  that are based upon
+beliefs of, and information  currently available to, Registrant's  management as
+well as estimates and assumptions made by Registrant's management.  When used in
+the filings the words "anticipate",  "believe",  "estimate", "expect", "future",
+"intend",  "plan" or the negative of these terms and similar expressions as they
+relate  to  Registrant  or  Registrant's  management  identify  forward  looking
+statements.  Such statements reflect the current view of Registrant with respect
+to future events and are subject to risks, uncertainties,  assumptions and other
+factors relating to Registrant's industry,  Registrant's  operations and results
+of operations and any businesses that may be acquired by Registrant.  Should one
+or more of these risks or  uncertainties  materialize,  or should the underlying
+assumptions prove incorrect,  actual results may differ significantly from those
+anticipated, believed, estimated, expected, intended or planned.
+
+     Although Registrant believes that the expectations reflected in the forward
+looking  statements are reasonable,  Registrant cannot guarantee future results,
+levels  of  activity,  performance  or  achievements.   Except  as  required  by
+applicable law,  including the securities laws of the United States,  Registrant
+does not intend to update any of the forward-looking statements to conform these
+statements to actual results.
+
+ITEM 2.01.  COMPLETION OF ACQUISITION OR DISPOSITION OF ASSETS.
+
+The  following  discussion  is provided  solely for the purpose of correcting an
+error in  Registrant's  Amendment No. 1 to the Current  Report on Form 8-K filed
+with the commission on August 20, 2004 (the "Prior Report").
+
+In the  discussion  under Item 2 under the heading  "Intellectual  Properties"on
+page 6 of the Prior  Report and under the  heading  "Certain  Relationships  and
+Related  Transactions,"  on page 17 of the Prior Report,  the Registrant  stated
+that "SDTD and SDID has a royalty  free  license to use 2 Canadian  patents from
+Imperial Canadian Overseas Capital Corporation ("ICOC").  Mr. Ian Cheng Yi Feng,
+President and C.E.O of SDID, is a shareholder  and director of ICOC. The license
+expires in December, 2011." These statements are erroneous.
+
+The Registrant  wishes to clarify both the content and the errors in translation
+from Chinese to English as follows:
+
+Mr. Ian Cheng Yi Feng  first  explored  energy  savings  software  in 1999 for a
+Canadian company called Imperial Canadian Overseas Capital Corporation ("ICOC").
+ICOC  then  sold and  transferred  the  initial  software  technology  it had to
+Shenzhen Baobo Industrial (now SDTD) pursuant to a Technology Transfer Agreement
+dated December 2001 for  consideration  of RMB$2 million.  This is a transfer of
+technology,  not patent.  This agreement provided for a termination in December,
+2011.  This agreement was  subsequently  amended on January 3, 2003 to eliminate
+the  termination  date and  changed  the  term to  permanently  effective.  This
+agreement  also  provides  that  SDTD has the  right  to  further  develop  this
+technology to create its own  intellectual  properties and SDTD has the right to
+transfer,  trade,  use and make it SDTD's  patent.  ICOC  further  declares  and
+undertakes in this  agreement that it has never applied and will never apply for
+any patent covering the initial software technology in any countries.
+
+With this  technology,  SDTD put together the  technicians  and  programmers and
+developed  the chip set that is the heart of the  intelligence  control  circuit
+
+                                       2
+<PAGE>
+
+board Switching System used in Starway's products. Subsequently, Mr. Cheng Ming,
+a shareholder and director of SDTD,  applied for a patent in China covering this
+technology in April, 2003 and was granted preliminary  approval of the patent by
+the Chinese intellectual property agency on September 19, 2003. All rights under
+such  patent were then  transferred  to SDTD by Mr.  Cheng Ming on December  19,
+2003.
+
+ITEM 2.02.  RESULTS OF OPERATIONS AND FINANCIAL CONDITION.
+
+On August 23, 2004, the  Registrant  announced its results for the quarter ended
+June 30, 2004. A copy of the press release is attached as an exhibit.
+
+In addition, the Registrant wishes to clarify errors in translation in the press
+release from Chinese to English.  The press release  erroneously stated that the
+results were audited. The results,  however, were not in fact audited but merely
+reviewed by the Registrant's auditors. Further, the press release stated that on
+August 25, 2004,  the  Registrant  was to issue a convertible  note.  Such note,
+however,  has  already  been issued and what was to occur on August 25, 2004 was
+the conversion of such note into common stock of the Registrant.
+
+ITEM 3.02.  UNREGISTERED SALES OF EQUITY SECURITIES
+
+On August 25, 2004, the Company issued 11,451,336 shares of common stock, in the
+aggregate, to EuroFaith Holdings, Inc.'s assignees and 3 individuals pursuant to
+a conversion of outstanding  convertible notes held by EuroFaith Holdings,  Inc.
+and the 3 individuals.  This  transaction was effected under Section 4(2) of the
+Securities Act of 1933, as amended and  appropriate  legends were affixed to the
+share certificate and other instruments issued in such transaction.
+
+
+ITEM 9.    FINANCIAL STATEMENT AND EXHIBITS.
+
+Exhibit
+Number     Description
+- -------    -----------
+
+ 99.1      Press Release
+
+
+                                       3
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the  requirements  of the Securities  Exchange Act of 1934, the
+Registrant  has duly  caused  this  Report  to be  signed  on its  behalf by the
+undersigned hereunto duly authorized.
+
+
+                                        China Energy Savings Technology, Inc.
+
+
+                                        By: /s/ Lee Kam Man
+                                            ---------------------------------
+                                                      Lee Kam Man
+                                                          CEO
+
+Dated: August 27, 2004
+
+
+                                       4
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>p0826_ex99-1.txt
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+                                                                    EXHIBIT 99.1
+
+
+UPDATE ON ACQUISITION OF ENERGY SAVINGS PROJECT IN CHINA BY RIM HOLDINGS
+Monday August 23, 9:53 am ET
+
+NEW YORK,  Aug. 23  /Xinhua-PRNewswire-FirstCall/  -- Rim  Holdings,  Inc.  (OTC
+Bulletin  Board:  RIMI  -  NEWS)  announced  today  that  it has  completed  due
+diligence,  audit and consolidation of accounts in respect of the acquisition of
+50% stake in Starway.  The following actions are scheduled to be taken by August
+25, 2004.
+
+    *  Change of name of Rim to China Energy Savings Technology, Inc
+    *  Change of trading symbol from RIMI to CEST
+    *  20 for 1 reverse stock split
+    *  Issuance of $120 million convertible promissory note eligible for
+       conversion of 11,153,669 shares post reverse split) of Rim for closing
+       the 50% Starway deal.
+
+Starway holds 100% interest in Shenzhen Dicken  Industrial  Development  Limited
+("SDID"). The core business of SDID is the development,  manufacture and sale of
+energy  savings  products in China.  All the energy  savings  products have been
+patented  in  China.  Due  diligence  has  been  completed  by Rim on the  above
+acquisition.  SDID  products  and energy  saving  technology  are leading in the
+industry.  Different  from other  products found in the market that are hardware
+for  stabilizing  the voltage,  SDID  products  are  composed of smart  chipsets
+developed by  technicians  and  programmers  from Canada and China over the last
+four years. The chipsets are used to form the new component,  "Smart Module", an
+intelligence  circuit control board. Used with hardware,  the Smart Module helps
+stabilize the voltage. The savings is then 2 times other products in the market,
+ranging  from 28% to 34% and even  reaches 60% in some cases.  As spurred by the
+record  high oil  prices  around  the  globe and the coal  price in China,  both
+resources are in excess  demand.  Together with the economic wheel of China kept
+turning  rapidly,  the energy crisis in China can hardly be resolved in the next
+few years. The only solution that Chinese government has is energy savings. This
+explains why SDID's products are widely used and highly recommended  amongst the
+Chinese authorities. The products have obtained government awards of achievement
+and  relevant  certificates.  In order to further  enhance  its  energy  savings
+business,  SDID  contemplate  investing and  developing a wind energy project in
+Xinjiang  Province,  China  by  the  end  of  2004.  The  project  has  obtained
+preliminary  approval of Xinjiang  government and is enjoying  taxation and land
+use privileges.
+
+In view of the above,  the net profit of Starway of 2002 since  commencement  of
+business  of SDID is $1.79  million and that of 2003 is $8.9  million.  From the
+audited  management  account,  the net  profit  for the  first 6 months  of 2004
+reached  $13.1  million.  The estimated net profit for the year 2004 will exceed
+$26  million.  The PE ratio  will be 14 basing on the total  outstanding  shares
+after the stock split and the closing  price $0.75 of Rim as at August 20, 2004.
+The net profit is on the rise for the coming years.
+
+About Rim Holdings. Inc.
+
+Rim Holdings,  Inc. was  organized in Nevada on February 14, 2000.  Prior to the
+transaction,  Rim was a  holding  company  holding  all of the  shares of Rimmer
+
+<PAGE>
+
+Computers,  Inc. Rimmer is an approved  technical  service provider for computer
+hardware and  software  system  manufacturers  such as Novell,  Microsoft,  IBM,
+Compaq, Hewlett Packard, Cisco and others.  Following the transaction,  Rim will
+hold all of the  Starway  shares  acquired in the  transaction,  taking over the
+management right of Starway.  Starway is engaged in the  manufacturing and sales
+of advanced technology  energy-saving products in the PRC. According to the test
+reports by various PRC  authorities  including  National Center of Supervision &
+Inspection on Electric Light Source Quality  (Shanghai) issued in September 2002
+and Shenzhen Academy of Metrology & Quality  Inspection issued in December 2002,
+the energy saving products of Shenzhen Dicken Group have the energy saving rates
+ranging from  approximately 25% to 45%. The energy saving projects  conducted by
+Starway Group mostly  relate to public or street  lighting  systems,  government
+administration units, shopping malls, supermarkets,  restaurants,  factories and
+oil fields,  etc. There are small and  large-scaled  projects:  the small-scaled
+projects  relate to  restaurants,  shops and small  arcades  through the sale of
+equipment,  and the  large-scaled  projects  relate  to  large  shopping  malls,
+supermarkets, factories and public bodies through the provision and installation
+of equipment over a term usually extended for years.
+
+For more information, please contact:
+Ms Stella Sim (Tel.: 852 28913130),
+Rim Holdings, Inc.
+
+Statements  contained  in this press  release that are not based upon current or
+historical fact are forward-looking in nature. Such  forward-looking  statements
+reflect the current  views of  management  with respect to future events and are
+subject to certain risks,  uncertainties and assumptions.  Readers are cautioned
+not to place undue reliance on these forward-looking  statements,  which reflect
+management's  analysis  only as of the date hereof.  The company  undertakes  no
+obligation to publicly revise these forward-looking statements to reflect events
+or  circumstances  that arise after the date thereof.  Readers should  carefully
+review the risks  described  in the 8-K/A the  company  filed on August 20, 2004
+with the  Securities  and Exchange  Commission  for due diligence and the fiscal
+years ended  December 31, 2003 and December 31, 2002.  The  unaudited  financial
+statements  for the first 6 months ended June 30, 2004 will be listed out in the
+10Q to be filed shortly.
+
+
+                                       2
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

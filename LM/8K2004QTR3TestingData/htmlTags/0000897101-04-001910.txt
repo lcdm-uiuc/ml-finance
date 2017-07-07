@@ -1,0 +1,1394 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LZBPeulXqKoXXqycsdj48vd6qa6aXvN+PfuD3EEl5P3OG/wqa8frUFPaQ4IbMMXw
+ RFGl9eDIhB9jaAveQagAzw==
+
+<SEC-DOCUMENT>0000897101-04-001910.txt : 20040921
+<SEC-HEADER>0000897101-04-001910.hdr.sgml : 20040921
+<ACCEPTANCE-DATETIME>20040921080949
+ACCESSION NUMBER:		0000897101-04-001910
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040921
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040921
+DATE AS OF CHANGE:		20040921
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GENERAL MILLS INC
+		CENTRAL INDEX KEY:			0000040704
+		STANDARD INDUSTRIAL CLASSIFICATION:	GRAIN MILL PRODUCTS [2040]
+		IRS NUMBER:				410274440
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0525
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01185
+		FILM NUMBER:		041038402
+
+	BUSINESS ADDRESS:	
+		STREET 1:		NUMBER ONE GENERAL MILLS BLVD
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55426
+		BUSINESS PHONE:		(763) 764-7600
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 1113
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55440
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>genmills044485_8k.htm
+<TEXT>
+
+<html>
+<head>
+<title>General Mills, Inc. Form 8-K dated September 21, 2004</title>
+</head>
+<body>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3>SECURITIES AND EXCHANGE COMMISSION </FONT>
+<BR><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Washington, D.C. 20549 </FONT></P>
+
+     <P ALIGN=CENTER>_________________ </P>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=5>FORM 8-K </FONT></P>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3>CURRENT REPORT </FONT></P>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3>PURSUANT TO
+SECTION 13 OR 15(d) OF THE
+<BR>SECURITIES EXCHANGE ACT OF 1934</font></P>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date of Report
+(Date of earliest event reported):&nbsp;&nbsp;&nbsp;&nbsp;September 21, 2004
+</FONT></P>
+<BR>
+
+<P align=center>
+<IMG SRC="gm-logobw.jpg">
+</P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=700>
+<TR VALIGN=Top>
+<TD colspan=5 align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="4"><B>GENERAL MILLS, INC.</B> </FONT></TD></TR>
+<TR>
+<TD colspan=5><HR ALIGN=LEFT WIDTH=100% SIZE=1 NOSHADE></TD><TD></TD></TR>
+<TR VALIGN=Top>
+<TD colspan=5 align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Exact Name of Registrant as Specified in Charter)</font></TD></TR>
+
+<TR VALIGN=Top>
+     <TD WIDTH=27% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR><BR>Delaware</FONT></TD>
+     <TD WIDTH=8% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=27% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR><BR>1-1185</FONT></TD>
+     <TD WIDTH=8% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=27% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR><BR>41-0274440</FONT></TD>
+     <TD WIDTH=1% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+<TD><HR ALIGN=LEFT WIDTH=100% SIZE=1 NOSHADE></TD><TD></TD>
+<TD><HR ALIGN=LEFT WIDTH=100% SIZE=1 NOSHADE></TD><TD></TD>
+<TD><HR ALIGN=LEFT WIDTH=100% SIZE=1 NOSHADE></TD><TD></TD></TR>
+<TR VALIGN=Top>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(State of Incorporation)</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Commission</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(IRS Employer</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Top>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>File Number)</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Identification No.)</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Top>
+     <TD colspan=3 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR><BR>Number One General Mills Boulevard</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Top>
+     <TD colspan=3 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Minneapolis, Minnesota</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>55426</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Top>
+     <TD colspan=3 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Mail: P.O. Box 1113)</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Mail: 55440)</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+<TD colspan=3><HR ALIGN=LEFT WIDTH=100% SIZE=1 NOSHADE></TD><TD></TD>
+<TD><HR ALIGN=LEFT WIDTH=100% SIZE=1 NOSHADE></TD><TD></TD></TR>
+<TR VALIGN=Top>
+     <TD colspan=3 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Address of Principal Executive Offices)</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Zip Code)</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Registrant&#146;s telephone number, including area code:&nbsp;&nbsp;&nbsp;&nbsp;(763) 764-7600 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the following provisions: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[&nbsp;&nbsp;&nbsp;]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written communications
+pursuant to Rule 425 under the Securities Act (17CFR230.425) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[&nbsp;&nbsp;&nbsp;]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17CFR240.14a-12) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[&nbsp;&nbsp;&nbsp;]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17CFR240.14d-2(b)) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[&nbsp;&nbsp;&nbsp;]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17CFR240.13e-4(c)) </FONT></P>
+
+
+<BR><BR><BR><BR>
+<!-- MARKER FORMAT-SHEET="Para Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></P>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR>
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 2.02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Results of Operations and Financial Condition. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>On September 21, 2004, General Mills, Inc. issued a press release reporting
+financial results for its first quarter ended August 29, 2004. A copy of the press release is attached hereto as Exhibit 99.1 and
+incorporated herein by reference. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The information in this current Report on Form 8-K and the exhibit attached
+hereto shall not be deemed to be filed for the purposes of Section 18 of the Securities and Exchange Act of 1934, as amended, or
+otherwise subject to liabilities of that Section 11 and 12(a)(2) of the Securities Act of 1933, as amended, and shall not be
+deemed to be incorporated by reference into any registration statement or other document filed pursuant to the Securities Act of
+1933, as amended. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 9.01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements and Exhibits. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Exhibits</U>.&nbsp;&nbsp;&nbsp;The following exhibit is filed as part of this report: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Level 2" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=7%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=93%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;99.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press release of General Mills, Inc. dated September 21, 2004.  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<!-- MARKER FORMAT-SHEET="Para Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></P>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURE </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements
+of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dated: September 21, 2004  </FONT></P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=top>
+     <TD WIDTH=60% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+     <TD WIDTH=40% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>GENERAL MILLS, INC.</FONT></TD></TR>
+<TR VALIGN=top>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><br>By: <U>/s/ Siri S. Marshall&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: Siri S. Marshall
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title:&nbsp;&nbsp;&nbsp;Senior Vice President, Corporate Affairs<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;General Counsel </FONT></TD></TR>
+</TABLE>
+<BR>
+
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<!-- MARKER FORMAT-SHEET="Para Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></P>
+
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>EXHIBIT INDEX </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=700 align=center>
+<TR VALIGN=Bottom>
+     <TH ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="1">Exhibit<BR><U>Number</U> </FONT></TH>
+     <TH ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Description</U> </FONT></TH></TR>
+<TR><TD>&nbsp;</TD></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=20% ALIGN=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.1</FONT></TD>
+     <TD WIDTH=80% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Press release of General Mills, Inc. dated September 21, 2004.</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>gm-logobw.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 gm-logobw.jpg
+M_]C_X``02D9)1@`!`@$`2`!(``#_[0((4&AO=&]S:&]P(#,N,``X0DE-`^D`
+M`````'@``P```$@`2``````"V`(H_^'_X@+Y`D8#1P4H`_P``@```$@`2```
+M```"V`(H``$```!D`````0`#`P,````!)P\``0`!````````````````:`@`
+M&0&0```````````````````````````````````````````X0DE-`^T`````
+M`!``2`````$``0!(`````0`!.$))300-```````$````>#A"24T#\P``````
+M"```````````.$))300*```````!```X0DE-)Q````````H``0`````````"
+M.$))30/U``````!(`"]F9@`!`&QF9@`&```````!`"]F9@`!`*&9F@`&````
+M```!`#(````!`%H````&```````!`#4````!`"T````&```````!.$))30/X
+M``````!P``#_____________________________`^@`````____________
+M_________________P/H`````/____________________________\#Z```
+M``#_____________________________`^@``#A"24T$"```````$`````$`
+M``)````"0``````X0DE-!!0```````0````!.$))300&```````'``(!`0`!
+M`0#_X@Q824-#7U!23T9)3$4``0$```Q(3&EN;P(0``!M;G1R4D="(%A96B`'
+MS@`"``D`!@`Q``!A8W-P35-&5`````!)14,@<U)'0@``````````````````
+M]M8``0````#3+4A0("``````````````````````````````````````````
+M`````````````````````!%C<')T```!4````#-D97-C```!A````&QW='!T
+M```!\````!1B:W!T```"!````!1R6%E:```"&````!1G6%E:```"+````!1B
+M6%E:```"0````!1D;6YD```"5````'!D;61D```"Q````(AV=65D```#3```
+M`(9V:65W```#U````"1L=6UI```#^````!1M96%S```$#````"1T96-H```$
+M,`````QR5%)#```$/```"`QG5%)#```$/```"`QB5%)#```$/```"`QT97AT
+M`````$-O<'ER:6=H="`H8RD@,3DY."!(97=L971T+5!A8VMA<F0@0V]M<&%N
+M>0``9&5S8P`````````2<U)'0B!)14,V,3DV-BTR+C$``````````````!)S
+M4D="($E%0S8Q.38V+3(N,0``````````````````````````````````````
+M````````````````````````````6%E:(````````/-1``$````!%LQ865H@
+M`````````````````````%A96B````````!OH@``./4```.06%E:(```````
+M`&*9``"WA0``&-I865H@````````)*````^$``"VSV1E<V,`````````%DE%
+M0R!H='1P.B\O=W=W+FEE8RYC:```````````````%DE%0R!H='1P.B\O=W=W
+M+FEE8RYC:```````````````````````````````````````````````````
+M``````````!D97-C`````````"Y)14,@-C$Y-C8M,BXQ($1E9F%U;'0@4D="
+M(&-O;&]U<B!S<&%C92`M('-21T(``````````````"Y)14,@-C$Y-C8M,BXQ
+M($1E9F%U;'0@4D="(&-O;&]U<B!S<&%C92`M('-21T(`````````````````
+M````````````9&5S8P`````````L4F5F97)E;F-E(%9I97=I;F<@0V]N9&ET
+M:6]N(&EN($E%0S8Q.38V+3(N,0``````````````+%)E9F5R96YC92!6:65W
+M:6YG($-O;F1I=&EO;B!I;B!)14,V,3DV-BTR+C$`````````````````````
+M`````````````'9I97<``````!.D_@`47RX`$,\4``/MS``$$PL``UR>````
+M`5A96B```````$P)5@!0````5Q_G;65A<P`````````!````````````````
+M`````````H\````"<VEG(`````!#4E0@8W5R=@````````0`````!0`*``\`
+M%``9`!X`(P`H`"T`,@`W`#L`0`!%`$H`3P!4`%D`7@!C`&@`;0!R`'<`?`"!
+M`(8`BP"0`)4`F@"?`*0`J0"N`+(`MP"\`,$`Q@#+`-``U0#;`.``Y0#K`/``
+M]@#[`0$!!P$-`1,!&0$?`24!*P$R`3@!/@%%`4P!4@%9`6`!9P%N`74!?`&#
+M`8L!D@&:`:$!J0&Q`;D!P0')`=$!V0'A`>D!\@'Z`@,"#`(4`AT")@(O`C@"
+M00)+`E0"70)G`G$">@*$`HX"F`*B`JP"M@+!`LL"U0+@`NL"]0,``PL#%@,A
+M`RT#.`-#`T\#6@-F`W(#?@.*`Y8#H@.N`[H#QP/3`^`#[`/Y!`8$$P0@!"T$
+M.P1(!%4$8P1Q!'X$C`2:!*@$M@3$!-,$X03P!/X%#04<!2L%.@5)!5@%9P5W
+M!88%E@6F!;4%Q075!>4%]@8&!A8&)P8W!D@&609J!GL&C`:=!J\&P`;1!N,&
+M]0<'!QD'*P<]!T\'80=T!X8'F0>L![\'T@?E!_@("P@?"#((1@A:"&X(@@B6
+M"*H(O@C2".<(^PD0"24).@E/"60)>0F/":0)N@G/">4)^PH1"B<*/0I4"FH*
+M@0J8"JX*Q0K<"O,+"PLB"SD+40MI"X`+F`NP"\@+X0OY#!(,*@Q##%P,=0R.
+M#*<,P`S9#/,-#0TF#4`-6@UT#8X-J0W##=X-^`X3#BX.20YD#G\.FPZV#M(.
+M[@\)#R4/00]>#WH/E@^S#\\/[!`)$"800Q!A$'X0FQ"Y$-<0]1$3$3$13Q%M
+M$8P1JA')$>@2!Q(F$D429!*$$J,2PQ+C$P,3(Q-#$V,3@Q.D$\43Y10&%"<4
+M211J%(L4K13.%/`5$A4T%585>!6;%;T5X!8#%B86219L%H\6LA;6%OH7'1=!
+M%V47B1>N%](7]Q@;&$`891B*&*\8U1CZ&2`911EK&9$9MQG=&@0:*AI1&G<:
+MGAK%&NP;%!L[&V,;BANR&]H<`APJ'%(<>QRC',P<]1T>'4<=<!V9'<,=[!X6
+M'D`>:AZ4'KX>Z1\3'SX?:1^4'[\?ZB`5($$@;""8(,0@\"$<(4@A=2&A(<XA
+M^R(G(E4B@B*O(MTC"B,X(V8CE"/"(_`D'R1-)'PDJR3:)0DE."5H)9<EQR7W
+M)B<F5R:')K<FZ"<8)TDG>B>K)]PH#2@_*'$HHBC4*08I."EK*9TIT"H"*C4J
+M:"J;*L\K`BLV*VDKG2O1+`4L.2QN+*(LURT,+4$M=BVK+>$N%BY,+H(NMR[N
+M+R0O6B^1+\<O_C`U,&PPI##;,1(Q2C&",;HQ\C(J,F,RFS+4,PTS1C-_,[@S
+M\30K-&4TGC38-1,U336'-<(U_38W-G(VKC;I-R0W8#><-]<X%#A0.(PXR#D%
+M.4(Y?SF\.?DZ-CIT.K(Z[SLM.VL[JCOH/"<\93RD/.,](CUA/:$]X#X@/F`^
+MH#[@/R$_83^B/^)`(T!D0*9`YT$I06I!K$'N0C!"<D*U0O=#.D-]0\!$`T1'
+M1(I$SD42155%FD7>1B)&9T:K1O!'-4=[1\!(!4A+2)%(UTD=26-)J4GP2C=*
+M?4K$2PQ+4TN:2^),*DQR3+I-`DU*39--W$XE3FY.MT\`3TE/DT_=4"=0<5"[
+M40914%&;4>92,5)\4L=3$U-?4ZI3]E1"5(]4VU4H5755PE8/5EQ6J5;W5T17
+MDE?@6"]8?5C+61I9:5FX6@=:5EJF6O5;15N56^5<-5R&7-9=)UUX7<E>&EYL
+M7KU?#U]A7[-@!6!78*I@_&%/8:)A]6))8IQB\&-#8Y=CZV1`9)1DZ64]99)E
+MYV8]9I)FZ&<]9Y-GZ6@_:)9H[&E#:9II\6I(:I]J]VM/:Z=K_VQ7;*]M"&U@
+M;;EN$FYK;L1O'F]X;]%P*W"&<.!Q.G&5<?!R2W*F<P%S77.X=!1T<'3,=2AU
+MA77A=CYVFW;X=U9WLW@1>&YXS'DJ>8EYYWI&>J5[!'MC>\)\(7R!?.%]07VA
+M?@%^8G["?R-_A'_E@$>`J($*@6N!S8(P@I*"](-7@[J$'82`A..%1X6KA@Z&
+M<H;7ASN'GX@$B&F(SHDSB9F)_HIDBLJ+,(N6B_R,8XS*C3&-F(W_CF:.SH\V
+MCYZ0!I!ND-:1/Y&HDA&2>I+CDTV3MI0@E(J4])5?E<F6-):?EPJ7=9?@F$R8
+MN)DDF9"9_)IHFM6;0INOG!R<B9SWG62=TIY`GJZ?'9^+G_J@::#8H4>AMJ(F
+MHI:C!J-VH^:D5J3'I3BEJ:8:IHNF_:=NI^"H4JC$J3>IJ:H<JH^K`JMUJ^FL
+M7*S0K42MN*XMKJ&O%J^+L`"P=;#JL6"QUK)+LL*S.+.NM"6TG+43M8JV`;9Y
+MMO"W:+?@N%FXT;E*N<*Z.[JUNRZ[I[PAO)N]%;V/O@J^A+[_OWJ_]<!PP.S!
+M9\'CPE_"V\-8P]3$4<3.Q4O%R,9&QL/'0<>_R#W(O,DZR;G*.,JWRS;+MLPU
+MS+7--<VUSC;.ML\WS[C0.="ZT3S1OM(_TL'31-/&U$G4R]5.U='65=;8UUS7
+MX-ADV.C9;-GQVG;:^]N`W`7<BMT0W9;>'-ZBWRG?K^`VX+WA1.',XE/BV^-C
+MX^OD<^3\Y83F#>:6YQ_GJ>@RZ+SI1NG0ZEOJY>MPZ_OLANT1[9SN*.ZT[T#O
+MS/!8\.7Q<O'_\HSS&?.G]#3TPO50]=[V;?;[]XKX&?BH^3CYQ_I7^N?[=_P'
+M_)C]*?VZ_DO^W/]M____[@`A061O8F4`9(`````!`P`0`P(#!@``````````
+M`````/_;`(0`"`8&!@8&"`8&"`P(!P@,#@H("`H.$`T-#@T-$!$,#`P,#`P1
+M#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`$)"`@)"@D+"0D+#@L-"PX1
+M#@X.#A$1#`P,#`P1$0P,#`P,#!$,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,
+M#`P,_\(`$0@`)``;`P$B``(1`0,1`?_$`(L```,!`0$```````````````8'
+M"``#!0$!`````````````````````!```@$#`P4!````````````!08'`P04
+M(!47``$A`A(6$0`!`P$&`P<#!0`````````"`0,$$@`1(A,4!3(5!B$Q0E)B
+M(S-R5!80D;)#)!(!````````````````````(/_:``P#`0$"$0,1````<$FV
+M!(8Y#J2RD(%H1L\\-2-\!'E+W##:J6`,?__:``@!`@`!!0#5_]H`"`$#``$%
+M`-7_V@`(`0$``04`=SM594Z(!D<`T-/_`']$KE./_@^&M6$*U`&V.*EW1:+%
+M=Q[+\VX2HZ-[+?TV<P8;[LLU0CO57`6[^O%;_'0V*U<E-$G@#@CC8[AS+QEC
+M7>%DQ5Q-N?CK_]H`"`$"`@8_`%__V@`(`0,"!C\`7__:``@!`0$&/P#=M\CB
+MA/PV%)A"2],PE1MM23RB9BJVWWKF5/21RH@644EPE><4U_J[%$1;OX:@\K=I
+MTCJ[<*(FTR6X[$Z2I$5#PHH,J6(SH+A]!>4;5\]8IHS*KG+J*LNK@\^&T[9)
+MJJD><R3)D/>-283'U`6)+3>FYCZAM^[(*D3)(K,MM@T-LZ>,"`_"5)?4%HL:
+M;'D1=BE2%E1LQM6VWWE;$<U")!5ZEKXRX!\'%:^Y+OQ'-ON2_._(+K_WPV<Z
+M=Z(<>CQ$=*/$;A89$A0O0GC>3$`+<1I238`W\ECVR<Y*W7=8JN,92N'+<3)J
+M)T6U17*A"DRP8;;7ON],-L28,X0CDT-".1Q0HJ&K?<"J?92&'VZK:'MIT/+[
+M_3K>8?SL^UO#+@Z;/@ON-BBN"VZES<IA"PGX'@\X6<ZGC=8,S9#C)-B,X@CF
+MVKBH1GEN4.9BW4</FL'2O3+B2VB>%Z9+`5%I$;O(6FKT&M5-:S-$H^JV=IG=
+M1R3GF307#J\C*[ODTG^G+X[-_F%?-Z%T6@NUU';=??[>35]S@XLO%8]!FZ6_
+@V\^G,N]5&&T;GVIYO6.FYA1H<R_#=E>*_P"Z]K]/_]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>genmills044485_ex99-1.htm
+<TEXT>
+
+<html>
+<head>
+<title>Exhibit 99.1 to General Mills, Inc. Form 8-K dated September 21, 2004</title>
+</head>
+<body>
+
+<DIV style="margin-left:72pt; margin-right:72pt;">
+
+<!-- MARKER FORMAT-SHEET="Head Right" FSL="Default" -->
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit 99.1 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FOR IMMEDIATE RELEASE </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>September 21, 2004 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Right" FSL="Default" -->
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U><B>Contacts</B></U><B>:</B>&nbsp;&nbsp;&nbsp;&nbsp;(Media) Marybeth Thorsgaard (763) 764-6364
+<BR>(Analysts) Kris Wenker (763) 764-2607 </FONT> </P>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3>GENERAL MILLS REPORTS RESULTS FOR FISCAL 2005 FIRST QUARTER </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Net Sales Increased 3 Percent to $2.59 Billion </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Net Earnings of $183 Million Reflect Previously Announced <BR>Commodity Cost Increases, Restructuring Expenses  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Company Reaffirms Fiscal 2005 Earnings Expectations </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MINNEAPOLIS, MINN. &#150;
+General Mills, Inc. (NYSE: GIS) today reported results for the first quarter of fiscal 2005. Net sales for the 13 weeks ended Aug.
+29, 2004, grew 3 percent to $2.59 billion, in line with 3 percent growth in worldwide unit volume. Earnings after tax were $183
+million, down from $227 million last year due to significant increases in commodity and other input costs, and costs related to
+restructuring actions taken during the quarter. Diluted earnings per share (EPS) declined from 59 cents in last year&#146;s first
+quarter to 47 cents this year. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net results for both years
+include certain identified costs (described in detail below). These costs in fiscal 2005 are the restructuring and other exit
+costs identified on the consolidated statements of earnings, and associated expenses included in cost </FONT></P>
+
+
+</DIV><BR>
+<!-- MARKER FORMAT-SHEET="Para Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=1>-more-</FONT></P>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR><DIV style="margin-left:72pt; margin-right:72pt;">
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>of sales. These costs totaled $45 million pretax, $29 million after tax. Last
+year&#146;s first quarter included $15 million pretax, $10 million after tax of Pillsbury merger-related costs in selling, general
+and administrative expenses. Excluding these identified costs from both periods, first quarter diluted EPS would total 55 cents in
+2005 and 62 cents in 2004. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chairman and Chief Executive
+Officer Steve Sanger said, &#147;Our plans called for earnings below year-ago levels in the first quarter, as our higher commodity
+costs are not yet being offset by our pricing actions and productivity initiatives. This was particularly true for our U.S. Retail
+segment, where response to our first-quarter merchandising programs was stronger than planned. In addition, more than half of this
+year&#146;s planned restructuring expense fell in the first quarter. In the second quarter, we expect pricing and productivity
+savings to begin contributing to our bottom line, resulting in renewed earnings growth.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>Restructuring, Other Exit and Merger-related Costs</U>
+
+<BR>General Mills recorded certain identified costs in the first quarter of both 2005 and 2004. We separately identify these costs
+because we believe doing so improves the comparability of year-to-year results of operations. In 2005, these expenses included
+restructuring and other exit costs resulting from the announced closure or realignment of five manufacturing facilities, and
+expenses included in cost of sales primarily associated with the accelerated depreciation of assets at two of the affected
+facilities (described below following the Consolidated Statements of Earnings). In 2004, </FONT></P>
+
+</DIV><BR>
+<!-- MARKER FORMAT-SHEET="Para Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=1>-more-</FONT></P>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR><DIV style="margin-left:72pt; margin-right:72pt;">
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>identified items included costs relating to the Pillsbury merger (such as
+consulting, system conversions, relocation, training and communications). </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A reconciliation of earnings
+and EPS with and without these costs appears in the table below. Earnings and EPS excluding identified items are measures of
+performance that are not defined by generally accepted accounting principles (GAAP) and should be viewed in addition to, and not
+in lieu of, our net earnings and diluted EPS as reported on a GAAP basis. Please refer to our consolidated financial statements
+and accompanying footnotes for additional information regarding our classification of these items and for presentation of results
+in accordance with GAAP. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>FIRST QUARTER EARNINGS SUMMARY </B>
+<BR>(in millions, except per share data)  </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=600>
+<TR VALIGN=Bottom>
+     <TH COLSPAN=3><FONT FACE="Times New Roman, Times, Serif" SIZE=1></FONT></TH>
+     <TH COLSPAN=2><FONT FACE="Times New Roman, Times, Serif" SIZE=1>2005 </FONT><HR SIZE=1 COLOR=BLACK NOSHADE></TH><TH></TH>
+     <TH COLSPAN=2><FONT FACE="Times New Roman, Times, Serif" SIZE=1>2004 </FONT><HR SIZE=1 COLOR=BLACK NOSHADE></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=68% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Earnings After Tax</B> </FONT></TD>
+     <TD WIDTH=1% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=4% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=1% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD WIDTH=8% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+        <TD WIDTH=7% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=1% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD WIDTH=8% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+        <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Before identified items</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 212</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 237</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Restructuring and other exit costs</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(26</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Associated costs <SUP>(1)</SUP></FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(3</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Merger-related costs <SUP>(2)</SUP></FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(10</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net Earnings</B> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;</B> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;</B> </FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 183</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 227</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><BR><B>Avg. Diluted Shares Outstanding</B> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;</B> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;</B> </FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>387</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>382</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><BR><B>Diluted Earnings per Share</B> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;</B> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;</B> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Before identified items</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .55</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .62</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Restructuring and other exit costs</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(.07</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Associated costs <SUP>(1)</SUP></FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(.01</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Merger-related costs <SUP>(2)</SUP></FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(.03</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diluted EPS</B> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;</B> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;</B> </FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .47</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .59</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR><TD>&nbsp;</TD></TR>
+<TR>
+<TD colspan=4><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+<SUP>(1)</SUP>&nbsp;&nbsp;&nbsp;&nbsp;Primarily accelerated depreciation included in cost of sales <SUP>
+<BR>(2)</SUP>&nbsp;&nbsp;&nbsp;&nbsp;Included in selling, general and administrative expense  </FONT></TD>
+</TR>
+
+
+</TABLE>
+<BR><BR><BR>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>U.S. Retail Segment Results</U>
+
+<BR>Net sales for General Mills&#146; domestic retail operations grew 2 percent to $1.76 billion for the quarter, as 4 percent
+unit volume growth and modest contributions from pricing and </FONT></P>
+
+</DIV><BR>
+<!-- MARKER FORMAT-SHEET="Para Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=1>-more-</FONT></P>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR><DIV style="margin-left:72pt; margin-right:72pt;">
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>mix were partially offset by higher promotional expense in the period. This
+promotional spending included introductory support for 92 new items as well as increased expense to maintain previously committed
+merchandising programs following recent list price increases. Operating profits declined to $354 million, reflecting higher
+commodity costs and promotional spending, plus $9 million pretax expense associated with the voluntary recall of two Pop Secret
+popcorn flavors introduced in May. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pillsbury USA made the
+strongest contribution to domestic retail unit volume growth, with an 11 percent overall increase led by Totino&#146;s pizza and
+hot snacks, and Pillsbury refrigerated cookies and biscuits. Big G cereal volume rose 3 percent, led by the successful
+introduction of reduced-sugar versions of Cinnamon Toast Crunch, Trix and Cocoa Puffs, and by growth on established brands such as
+Honey Nut Cheerios and Cinnamon Toast Crunch. Baking Products volume was up 13 percent, helped by good merchandising in
+supercenter and club channels, and contributions from new products. Yoplait yogurt volume grew 8 percent behind strength in the
+Go-Gurt line and good performance from our Light and Whips! varieties. Meals volume was flat compared to 7 percent growth last
+year. Snacks unit volume fell 1 percent, compared to 8 percent growth in last year&#146;s first quarter. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consumer purchases of the
+company&#146;s products also grew in the quarter, as composite retail sales for major product lines were up 2 percent. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>Bakeries and Foodservice Segment Results</U>
+
+<BR>First quarter net sales for the company&#146;s Bakeries and Foodservice segment fell 2 percent to $421 million. Unit volume
+declined 5 percent. That was partially offset by </FONT></P>
+
+</DIV><BR>
+<!-- MARKER FORMAT-SHEET="Para Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=1>-more-</FONT></P>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR><DIV style="margin-left:72pt; margin-right:72pt;">
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>pricing, mix and trade spending efficiency. Volumes in convenience stores and
+vending channels grew by 33 percent, but unit volumes declined 11 percent in bakery channels, and shipments to restaurants and
+foodservice distributors were down 7 percent. Operating profits totaled $23 million, down from $29 million in last year&#146;s
+first quarter due to lower volumes and higher supply chain costs. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>International Segment Results</U>
+
+<BR>Net sales for General Mills&#146; consolidated international businesses grew 10 percent to $404 million. Unit volume increased
+3 percent, with gains in Canada, Asia and Latin America more than offsetting a slight decline in Europe. Foreign exchange added 4
+points of sales growth. Operating profits grew to $36 million in fiscal 2005, up from $24 million last year. About half of this
+profit growth is because recognized marketing expense is lower year-over-year in this period.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>Joint Venture Summary</U>
+
+<BR>Earnings after tax from joint ventures totaled $26 million in the first quarter, compared to $20 million a year earlier.
+Profits for our Cereal Partners Worldwide (CPW) joint venture with Nestl&eacute; and our Snack Ventures Europe (SVE) joint venture
+with PepsiCo together totaled $20 million, up 33 percent from the first quarter a year ago. That growth was driven by an 8 percent
+volume gain for CPW. SVE volume fell by 2 percent, compared to a 13 percent gain in last year&#146;s first quarter. Unit volumes
+for the H&auml;agen-Dazs joint ventures in Asia grew by 5 percent. 8<SUP>th</SUP> Continent, the company&#146;s joint venture with </FONT></P>
+
+</DIV><BR>
+<!-- MARKER FORMAT-SHEET="Para Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=1>-more-</FONT></P>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR><DIV style="margin-left:72pt; margin-right:72pt;">
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dupont, achieved more than 50 percent volume growth and a 4 point increase in
+dollar share of the refrigerated soymilk category. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>Corporate Items</U>
+
+<BR>Interest expense for the quarter totaled $113 million, 16 percent below last year&#146;s first quarter due to lower debt
+levels. The effective tax rate for the first quarter excluding identified costs was 34.8 percent, consistent with the
+company&#146;s expectations for the full year. Diluted shares outstanding grew 1.3 percent to 387 million. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>Outlook</U>
+
+<BR>Looking ahead, Sanger said, &#147;We are focused on realizing the benefits of our earlier pricing actions and capturing
+savings through our productivity initiatives. With the successful execution of those efforts and with our innovative lineup of new
+products, we expect the second quarter to show good progress toward our annual goals.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sanger said the company
+continues to target low-single-digit net sales growth for fiscal 2005, which includes one less week than fiscal 2004. The company
+also reaffirmed its estimate for full-year diluted EPS of $2.75 to $2.80. This estimate includes identified items expense of
+approximately 10 to 15 cents per share. </FONT></P>
+
+
+</DIV><BR><BR><BR><BR><BR><BR><BR><BR>
+<!-- MARKER FORMAT-SHEET="Para Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=1>-more-</FONT></P>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR><DIV style="margin-left:72pt; margin-right:72pt;">
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2">General Mills will hold a briefing for investors today, September 21, 2004,
+beginning at 8:30 a.m. EDT. You may access the web cast from General Mills&#146; corporate home page: <U>www.generalmills.com</U>. </FONT> </P>
+
+<BR><BR><BR><BR><BR><BR>
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=1>This press release contains forward-looking statements within the meaning of
+The Private Securities Litigation Reform Act of 1995 that are based on management&#146;s current expectations and assumptions.
+These forward-looking statements, including the statements under the caption &#147;Outlook&#148; and statements made by Mr.
+Sanger, are subject to certain risks and uncertainties that could cause actual results to differ materially from the potential
+results discussed in the forward-looking statements. In particular, our predictions about future volume and earnings could be
+affected by a variety of factors, including: competitive dynamics in the consumer foods industry and the markets for our products,
+including new product introductions, advertising activities, pricing actions and promotional activities of our competitors;
+product development and innovations; consumer acceptance of new products and product improvements; changes in customer demand for
+our products; changes in consumer behavior, trends and preferences, including weight loss trends; effectiveness of advertising,
+marketing and promotional programs; consumer perception of health-related issues, including obesity; changes in purchasing and
+inventory levels of significant customers; acquisitions or dispositions of businesses or assets; changes in capital structure;
+changes in laws and regulations, including changes in accounting standards; ability to achieve productivity improvements; economic
+conditions, including changes in inflation rates, interest rates or tax rates; benefit plan expenses due to changes in plan asset
+values and/or discount rates used to determine plan liabilities; fluctuation in the cost and availability of supply chain
+resources, including raw materials, packaging and energy; foreign economic conditions, including currency rate fluctuations;
+political unrest in foreign markets and economic uncertainty due to terrorism or war. Our predictions about future debt reduction
+could be affected by a variety of factors including items listed above that could impact future earnings. Our debt reduction goals
+could also be affected by changes in economic conditions, including interest rates, laws and regulations. The company undertakes
+no obligations to publicly revise any forward-looking statements to reflect future events or circumstances. </FONT></P>
+
+</DIV><BR>
+<!-- MARKER FORMAT-SHEET="Para Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=1>xxxx</FONT></P>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR><DIV style="margin-left:72pt; margin-right:72pt;">
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>GENERAL MILLS, INC.
+<BR>CONSOLIDATED STATEMENTS OF EARNINGS
+<BR>(Unaudited) (In Millions, Except per Share Data) </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=600 align=center>
+<TR VALIGN=Bottom>
+     <TH COLSPAN=3><FONT FACE="Times New Roman, Times, Serif" SIZE=1></FONT></TH>
+     <TH COLSPAN=5><FONT FACE="Times New Roman, Times, Serif" SIZE=1>13 weeks Ended</FONT><HR SIZE=1 COLOR=BLACK NOSHADE></TH></TR>
+<TR VALIGN=Bottom>
+     <TH COLSPAN=3><FONT FACE="Times New Roman, Times, Serif" SIZE=1></FONT></TH>
+     <TH COLSPAN=3><FONT FACE="Times New Roman, Times, Serif" SIZE=1>August 29,<BR>2004 </FONT><HR SIZE=1 COLOR=BLACK NOSHADE></TH>
+     <TH COLSPAN=3><FONT FACE="Times New Roman, Times, Serif" SIZE=1>August 24,<BR>2003 </FONT><HR SIZE=1 COLOR=BLACK NOSHADE></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=70% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Net Sales</FONT></TD>
+     <TD WIDTH=1% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=3% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=1% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD WIDTH=8% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 2,585</FONT></TD>
+        <TD WIDTH=6% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=1% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD WIDTH=8% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 2,518</FONT></TD>
+        <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Costs &amp; Expenses:</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Cost of sales</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,581</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,474</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Selling, general and administrative</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>611</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>591</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Interest, net</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>113</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>134</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Restructuring and other exit costs</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>40</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total Costs and Expenses</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2,345</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2,199</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Earnings before Taxes and Earnings from Joint Ventures</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>240</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>319</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Income Taxes</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>83</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>112</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Earnings from Joint Ventures</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>26</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>20</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Net Earnings</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 183</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 227</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Earnings per Share &#150; Basic</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .48</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .61</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Average Number of Shares &#150; Basic</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>379</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>372</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Earnings per Share &#150; Diluted</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .47</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .59</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Average Number of Shares &#150; Assuming Dilution</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>387</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>382</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD></TR>
+<TR VALIGN=TOP>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Note:  </FONT></TD></TR>
+<TR VALIGN=TOP>
+<TD colspan=9><P align=left style="margin-left:12pt;"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>In the first quarter of
+fiscal 2005, we recorded restructuring and other exit costs of $40&nbsp;million, consisting of $38&nbsp;million of charges
+associated with first-quarter supply chain initiatives to further increase asset utilization and reduce manufacturing and sourcing
+costs, and $2 million of charges associated with restructuring actions previously announced. The supply chain actions, affecting a
+total of 323 employees, included decisions to: close our flour milling plant in Vallejo, California; close our par-baked bread
+plant in Medley, Florida; relocate bread production from our Swedesboro, New Jersey plant; relocate a portion of our cereal
+production from Cincinnati, Ohio; and close our snacks foods plant in Iowa City, Iowa.
+<BR><BR>
+These supply chain actions are also resulting in certain associated expenses, primarily adjustments to the depreciable life of the
+assets necessary to reflect the shortened asset lives which now coincide with the final production dates at the Cincinnati and
+Iowa City plants. These associated expenses are being recorded as cost of sales. In the first quarter of fiscal 2005, the expense
+recorded in cost of sales was $5 million. </FONT></P></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+</DIV><BR>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR><DIV style="margin-left:72pt; margin-right:72pt;">
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>GENERAL MILLS, INC.
+<BR>OPERATING SEGMENTS
+<BR>(Unaudited) (In Millions) </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=600>
+<TR VALIGN=Bottom>
+     <TH COLSPAN=3><FONT FACE="Times New Roman, Times, Serif" SIZE=1></FONT></TH>
+     <TH COLSPAN=5><FONT FACE="Times New Roman, Times, Serif" SIZE=1>13 weeks Ended </FONT><HR SIZE=1 COLOR=BLACK NOSHADE></TH></TR>
+<TR VALIGN=Bottom>
+     <TH COLSPAN=3><FONT FACE="Times New Roman, Times, Serif" SIZE=1></FONT></TH>
+     <TH COLSPAN=3><FONT FACE="Times New Roman, Times, Serif" SIZE=1>August 29,<BR>2004 </FONT><HR SIZE=1 COLOR=BLACK NOSHADE></TH>
+     <TH COLSPAN=3><FONT FACE="Times New Roman, Times, Serif" SIZE=1>August 24,<BR>2003 </FONT><HR SIZE=1 COLOR=BLACK NOSHADE></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=68% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Net Sales:</FONT></TD>
+     <TD WIDTH=1% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=3% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=1% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD WIDTH=9% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+        <TD WIDTH=6% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=1% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD WIDTH=9% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+        <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;U.S. Retail</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 1,760</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 1,723</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;Bakeries and Foodservice</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>421</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>428</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;International</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>404</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>367</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 2,585</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 2,518</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Operating Profit:</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;U.S. Retail</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 354</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 399</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;Bakeries and Foodservice</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>23</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>29</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;International</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>36</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>24</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>413</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>452</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Unallocated corporate items</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(20</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Restructuring and other exit costs</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(40</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Interest, net</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(113</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(134</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Earnings before taxes and earnings</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from Joint Ventures</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 240</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 319</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD></TR>
+</TABLE>
+<BR>
+
+
+
+
+
+</DIV><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR><DIV style="margin-left:72pt; margin-right:72pt;">
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>GENERAL MILLS, INC.
+<BR>CONSOLIDATED CONDENSED BALANCE SHEETS
+<BR>(Unaudited) (In Millions) </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=600>
+<TR VALIGN=Bottom>
+     <TH COLSPAN=3><FONT FACE="Times New Roman, Times, Serif" SIZE=1></FONT></TH>
+     <TH COLSPAN=2><FONT FACE="Times New Roman, Times, Serif" SIZE=1>August 29,<BR>2004 </FONT><HR SIZE=1 COLOR=BLACK NOSHADE></TH><TH></TH>
+     <TH COLSPAN=2><FONT FACE="Times New Roman, Times, Serif" SIZE=1>August 24,<BR>2003 </FONT><HR SIZE=1 COLOR=BLACK NOSHADE></TH><TH></TH>
+     <TH COLSPAN=2><FONT FACE="Times New Roman, Times, Serif" SIZE=1>May 30,<BR>2004 </FONT><HR SIZE=1 COLOR=BLACK NOSHADE></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=55% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>ASSETS</FONT></TD>
+     <TD WIDTH=1% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=1% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD WIDTH=9% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+        <TD WIDTH=5% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=1% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD WIDTH=9% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+        <TD WIDTH=5% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=1% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD WIDTH=9% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+        <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Current Assets:</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Cash and cash equivalents</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 480</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 565</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 751</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Receivables</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,053</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,047</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,010</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Inventories</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,246</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,334</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,063</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Prepaid expenses and other</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>160</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>169</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>222</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Deferred income taxes</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>185</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>195</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>169</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;Total Current Assets</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,124</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,310</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,215</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Land, Buildings and Equipment</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,347</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,032</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,319</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Less accumulated depreciation</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(2,282</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(2,035</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(2,208</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;Net Land, Buildings and Equipment</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,065</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2,997</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,111</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Goodwill</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6,693</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6,653</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6,684</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Other Intangible Assets</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,638</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,620</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,641</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Other Assets</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,831</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,812</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,797</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Total Assets</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 18,351</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 18,392</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 18,448</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>LIABILITIES AND EQUITY</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Current Liabilities:</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Accounts payable</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 1,086</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 1,258</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 1,110</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Current portion of debt</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>180</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>82</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>233</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Notes payable</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>456</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,364</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>583</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Other current liabilities</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>801</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>657</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>831</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;Total Current Liabilities</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2,523</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,361</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2,757</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Long-term Debt</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>7,426</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>7,523</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>7,410</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Deferred Income Taxes</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,787</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,701</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,773</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Other Liabilities</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>943</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,098</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>961</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;Total Liabilities</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>12,679</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>13,683</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>12,901</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Minority Interests</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>299</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>300</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>299</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Stockholders&#146; Equity:</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Common stock</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,695</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,698</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,680</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Retained earnings</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,787</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,204</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,722</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Less common stock in treasury</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(3,887</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(4,125</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(3,921</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Unearned compensation</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(89</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(48</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(89</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;Accumulated other comprehensive income</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(133</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(320</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(144</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;Total Stockholders&#146; Equity</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,373</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>4,409</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,248</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Total Liabilities and Equity</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 18,351</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 18,392</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD><TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 18,448</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD>
+     <TD COLSPAN=2 ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=2></TD><TD></TD></TR>
+<TR>
+<TD colspan=12><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>Note:&nbsp;&nbsp;&nbsp;&nbsp;Certain prior-period amounts have
+been reclassified to conform with the current period presentation. </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+</DIV><BR>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+
+</BODY>
+</HTML>
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,559 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RjfO0vGCH3FtlklzKieRttispoQJuHtw9Ha8sZG5KSA1n32gRd3NIHGen22kNcHT
+ 6PGyIypQ/kDbL0W2c745Pg==
+
+<SEC-DOCUMENT>0001171843-04-000299.txt : 20040927
+<SEC-HEADER>0001171843-04-000299.hdr.sgml : 20040927
+<ACCEPTANCE-DATETIME>20040927163948
+ACCESSION NUMBER:		0001171843-04-000299
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040927
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20040927
+DATE AS OF CHANGE:		20040927
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TOTAL ENTERTAINMENT RESTAURANT CORP
+		CENTRAL INDEX KEY:			0001035374
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				522016614
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1229
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22753
+		FILM NUMBER:		041047579
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9300 EAST CENTRAL AVENUE
+		STREET 2:		SUITE 100
+		CITY:			WICHITA
+		STATE:			KS
+		ZIP:			67206
+		BUSINESS PHONE:		2147540414
+
+	MAIL ADDRESS:	
+		STREET 1:		9300 EAST CENTRAL AVENUE
+		STREET 2:		SUITE 100
+		CITY:			WICHITA
+		STATE:			KS
+		ZIP:			67206
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EATERTAINMENT INC
+		DATE OF NAME CHANGE:	19970310
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>document.htm
+<DESCRIPTION>FORM 8-K FILING DOCUMENT
+<TEXT>
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-US">
+<head>
+  <title>Form 8-K Filing</title>
+</head>
+
+<body>
+
+<p align="center">
+  <font size="5">
+    <b>UNITED STATES<br>SECURITIES AND EXCHANGE COMMISSION<br></b>
+  </font>
+</p>
+
+<p align="center">
+  <font size="3">
+    <b>Washington, D.C. 20549</b><br>
+  </font>
+</p>
+
+
+<hr noshade="1" width="150" align="center">
+<p align="center">
+  <font size="5">
+    <b>FORM 8-K</b><br>
+  </font>
+</p>
+
+
+<hr noshade="1" width="150" align="center">
+<p align="center">
+  <font size="3">
+    <b>CURRENT REPORT</b><br>
+  </font>
+</p>
+
+
+<p align="center">
+  <font size="3">
+    <b>Pursuant to Section&nbsp;13 OR 15(d) of<br>The Securities Exchange Act of 1934</b><br>
+  </font>
+</p>
+
+
+<p align="center">
+  <font size="3">
+    <b>September 27, 2004</b><br>
+	(Date of earliest event reported)
+  </font>
+</p>
+
+<hr noshade="1" width="150" align="center">
+
+<p align="center">
+  <font size="5">
+    <b>TOTAL ENTERTAINMENT RESTAURANT CORP.</b>
+  </font>
+   <br> <font size="2">
+    (Exact name of registrant as specified in its charter)
+  </font>
+</p>
+
+
+
+
+<!-- Registrant's State of Inc, File and IRS Number -->
+<table cellpadding="0" border="0" width="100%" cellspacing="0">
+
+   <tr valign="top">
+    <td width="32%" align="center">
+      <br> <font size="2">
+        <b>DELAWARE</b>
+      </font>
+    </td>
+     <td width="3%">
+      &nbsp;
+    </td>
+     <td width="32%" align="center">
+      <br> <font size="2">
+        <b>000-22753</b>
+      </font>
+    </td>
+     <td width="3%">
+      &nbsp;
+    </td>
+     <td width="32%" align="center">
+      <br> <font size="2">
+        <b>52-2016614</b>
+      </font>
+    </td>
+  </tr>
+
+   <tr valign="top">
+    <td width="32%" align="center">
+      <font size="2">
+        (State or other jurisdiction<br>of incorporation)
+      </font>
+    </td>
+     <td width="3%">
+      &nbsp;
+    </td>
+     <td width="32%" align="center">
+      <font size="2">
+        (Commission File Number)
+      </font>
+    </td>
+     <td width="3%">
+      &nbsp;
+    </td>
+     <td width="32%" align="center">
+      <font size="2">
+        (IRS Employer Identification No.)
+      </font>
+    </td>
+  </tr>
+
+</table>
+
+
+<!-- Registrant's Postal Addess and Zip Code -->
+<br><br><table cellpadding="0" border="0" width="100%" cellspacing="0">
+
+   <tr valign="top">
+    <td width="19%">
+      &nbsp;
+    </td>
+     <td width="47%" align="center">
+      <br> <font size="2">
+        <b>9300 EAST CENTRAL AVENUE, SUITE 100, WICHITA, KANSAS</b>
+      </font>
+    </td>
+     <td width="2%">
+      &nbsp;
+    </td>
+     <td width="13%" align="center">
+      <br> <font size="2">
+        <b>67206</b>
+      </font>
+    </td>
+     <td width="19%">
+      &nbsp;
+    </td>
+  </tr>
+
+   <tr valign="top">
+    <td width="19%">
+      &nbsp;
+    </td>
+     <td width="47%" align="center">
+      <font size="2">
+        (Address of principal executive offices)
+      </font>
+    </td>
+     <td width="2%">
+      &nbsp;
+    </td>
+     <td width="13%" align="center">
+      <font size="2">
+        (Zip Code)
+      </font>
+    </td>
+     <td width="19%">
+      &nbsp;
+    </td>
+  </tr>
+
+</table>
+<p align="center">
+  <font size="2">
+    Registrant's telephone number, including area code: &nbsp;
+    <b>(316) 634-0505</b>
+  </font>
+</p>
+
+<p align="center">
+  <font size="2">
+
+  </font>
+</p>
+
+<!-- Simultaneous filing obligation checkboxes -->
+<br><br><table cellpadding="0" border="0" width="100%" cellspacing="0">
+	<tr valign="top">
+		<td width="5%">&nbsp;</td>
+		<td><font size="2">
+			[  &nbsp; ]
+		</font></td>
+		<td><font size="2">
+			Written communications pursuant to Rule 425
+			under the Securities Act (17 CFR 230.425)
+		</font></td>
+	</tr>
+	<tr valign="top">
+		<td width="5%">&nbsp;</td>
+		<td><font size="2">
+			[  &nbsp; ]
+		</font></td>
+		<td><font size="2">
+			Soliciting material pursuant to Rule 14a-12(b) under
+			the Exchange Act (17 CFR 240.14a-12(b))
+		</font></td>
+	</tr>
+	<tr valign="top">
+		<td width="5%">&nbsp;</td>
+		<td><font size="2">
+			[  &nbsp; ]
+		</font></td>
+		<td><font size="2">
+			Pre-commencement communications pursuant to Rule 14d-2(b)
+			under the Exchange Act (17 CFR 240.14d-2(b))
+		</font></td>
+	</tr>
+	<tr valign="top">
+		<td width="5%">&nbsp;</td>
+		<td><font size="2">
+			[  &nbsp; ]
+		</font></td>
+		<td><font size="2">
+			Pre-commencement communications pursuant to Rule 13e-4(c)
+			under the Exchange Act (17 CFR 240.13e-4(c))
+		</font></td>
+	</tr>
+</table>
+
+<hr noshade="1">
+<p>
+  <font size="3">
+    <b>Item 2.02 Results of Operations and Financial Condition</b>
+  </font>
+</p>
+
+<p>
+  <font size="2">
+    On September 27, 2004 the Registrant issued a press release, a copy of which is attached hereto as Exhibit 99.1 and is incorporated here in by reference.
+  </font>
+</p>
+
+<p>
+  <font size="3">
+    <b>Item 9.01. Financial Statements and Exhibits.</b>
+  </font>
+</p>
+
+<p>
+  <font size="2">
+    (c) &nbsp; &nbsp; Exhibit 99.1.  Press release dated September 27, 2004
+  </font>
+</p>
+
+<!-- Exhibit Listing -->
+<hr noshade="1">
+<br>
+<table cellpadding="6" border="0" width="100%" cellspacing="0">
+  <tr valign="top">
+    <td width="20">&nbsp;</td>
+    <td colspan="2"><b><font size="3">Exhibit Index</font></b></td>
+  </tr>
+  <tr valign="top">
+    <td width="20">&nbsp;</td>
+    <td width="30" align="center"><font size="2">99.1</font></td>
+    <td width="300"><font size="2">Press release dated September 27, 2004</font></td>
+  </tr>
+</table>
+<br> <br> <br> <br> <br> <br>
+
+
+<hr noshade="1">
+
+<!-- Registrant's Signature -->
+<p align="center">
+  <font size="3">
+	<b>SIGNATURE</b>
+  </font>
+</p>
+
+<p>
+  <font size="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities
+	Exchange Act of 1934, the registrant has duly caused this report to be
+	signed on its behalf by the undersigned hereunto duly authorized.
+  </font>
+</p>
+
+<table cellpadding="0" border="0" width="100%" cellspacing="0">
+   <tr valign="top">
+    <td width="47%">
+      &nbsp;
+    </td>
+     <td width="5%">
+      &nbsp;
+    </td>
+     <td width="47%" align="center">
+      <font size="2">
+        <b>TOTAL ENTERTAINMENT RESTAURANT CORP.</b>
+      </font>
+       <hr noshade="1"> <font size="2">
+        (Registrant)<br><br>
+      </font>
+    </td>
+  </tr>
+
+   <tr valign="top">
+    <td width="47%" align="center">
+      <font size="2">
+        <b>September 27, 2004</b>
+      </font>
+       <hr noshade="1"> <font size="2">
+        (Date)
+      </font>
+    </td>
+     <td width="5%">
+      &nbsp;
+    </td>
+     <td width="47%" align="center">
+      <font size="2">
+        <b>/s/ &nbsp; JAMES K. ZIELKE</b>
+      </font>
+       <hr noshade="1"> <font size="2">
+        James K. Zielke
+      </font>
+       <br> <font size="2">
+        <i>Chief Financial Officer, Secretary, and Treasurer (Duly Authorized Officer)</i>
+      </font>
+    </td>
+  </tr>
+
+</table>
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>newsrelease.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<html>
+  <head>
+    <title>Total Entertainment Restaurant Corp. Reports Financial Results for the Fiscal Quarter Ended September 7, 2004</title>
+  </head>
+  <body><p align="right">EXHIBIT 99.1</p><h3 align="center">Total Entertainment Restaurant Corp. Reports Financial Results for the Fiscal Quarter Ended September 7, 2004</h3>
+<p>
+WICHITA, Kan., Sept. 27, 2004 (PRIMEZONE) -- Total Entertainment Restaurant Corp. (Nasdaq:TENT) announced record revenues for the twelve-week third quarter ended September 7, 2004.
+</p>
+<pre>
+
+
+ Highlights for the twelve-week third quarter ended September 7, 2004
+ compared to the twelve-week third quarter ended September 9, 2003:
+
+ - Total revenues increased 24.5% to $31,461,000
+ - Net income was $322,000 versus net income of $480,000 for the
+   prior period
+ - Diluted earnings per share was $0.03 versus diluted earnings
+   per share of $0.05 for the prior period
+ - Average weekly sales per restaurant increased 4.3% to $36,926
+ - New units (open less than 18 months) generated 31.9% higher
+   average weekly sales than units in the 18-month comp base
+ - Comparable store sales increased 1.3%
+ - Three (3) new units were opened
+
+ Highlights for the thirty-six week period ended September 7, 2004
+ compared to the thirty-six week period ended September 9, 2003:
+
+ - Total revenues increased 24.4% to $96,449,000
+ - Net income was $2,480,000 versus $3,983,000 for the prior period
+ - An asset impairment charge of $2,365,000 ($1,514,000 net of tax
+   or $0.14 per share) was taken during the second quarter
+ - Net income excluding the asset impairment charge was $3,994,000
+   versus $3,983,000 for the prior period
+ - Diluted earnings per share were $0.24 versus diluted earnings per
+   share of $0.39 for the prior period
+ - Diluted earnings per share excluding the asset impairment charge
+   were $0.38 versus $0.39 for the prior period
+ - Average weekly sales per restaurant increased 4.9% to $39,644
+ - New units (open less than 18 months) generated 32.6% higher average
+   weekly sales than units in the 18-month comp base
+ - Comparable store sales increased 1.0%
+ - Eight (8) new units were opened
+</pre>
+<p>
+During the third quarter, the Company opened three (3) new restaurants-Edison, NJ; Tulsa, OK; and Chattanooga, TN. The Company also opened a restaurant in Bloomingdale, IL on September 16, 2004. The Company has now opened nine (9) restaurants during the 2004 fiscal year and plans to open two (2) more bringing the total number of new restaurants in 2004 to eleven (11). Fiscal 2005 development is underway as contracts have been executed on five (5) sites, and negotiations have begun on seven (7) additional sites.
+</p>
+<p>
+The Company currently operates 73 restaurants under the &quot;Fox and Hound&quot; and &quot;Bailey's&quot; brand names that each provide a social gathering place offering high quality food, drinks and entertainment in an upscale, casual environment.
+</p>
+<p>
+Chief Executive Officer, Steven M. Johnson, and Chief Financial Officer, James K. Zielke, will host a conference call at 10:00 a.m. EDT on September 28, 2004 to discuss the fiscal 2004 third quarter earnings release. The call in number is 1-888-730-9140 and the confirmation code is &quot;TENT&quot;. A recorded replay of the conference call will be available beginning September 28, 2004 through October 12, 2004. The replay call in number is 1-888-568-0802.
+</p>
+<p>
+This press release contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are intended to be covered by the safe harbors created thereby. Although the Company believes that the assumptions underlying the forward-looking statements contained herein are reasonable, any of the assumptions could be inaccurate, and, therefore, there can be no assurance that the forward-looking statements included in this report will prove to be accurate. Our actual results may differ materially from the forward-looking statements contained herein. Factors that could cause actual results to differ from the results discussed in the forward-looking statements include, but are not limited to, potential increases in food, alcohol, labor, and other operating costs, changes in competition, the inability to find suitable new locations, changes in consumer preferences or spending patterns, changes in 
+demographic trends, the effectiveness of our operating and growth initiatives and promotional efforts, and changes in government regulation. Further information about the factors that might affect the Company's financial and other results are included in the Company's 10-K and 10-Q, filed with the Securities and Exchange Commission. In light of the significant uncertainties inherent in the forward-looking statements included herein, the inclusion of such information should not be regarded as a representation by the Company or any other person that the objectives and plans of the Company will be achieved.
+</p>
+<pre>
+
+                 Total Entertainment Restaurant Corp.
+     Unaudited Summary Financial Data for the Third Quarter 2004
+              ($ in thousands except per share amounts)
+
+                     Condensed Income Statements
+
+                                      For the twelve weeks ended
+                               September 7, 2004    September 9, 2003
+                               -----------------    -----------------
+                                   $         %          $         %
+                               --------    -----    --------    -----
+ Food and beverage             $ 29,414     93.5    $ 23,273     92.1
+ Entertainment and other          2,047      6.5       1,995      7.9
+                               --------    -----    --------    -----
+  Total net sales                31,461    100.0      25,268    100.0
+
+ Costs and expenses:
+  Costs of sales                  8,697     27.6       6,650     26.3
+  Restaurant operating
+   expenses                      18,495     58.8      14,353     56.8
+  Depreciation and
+   amortization                   1,662      5.3       1,485      5.9
+  Preopening costs                  558      1.8         526      2.1
+  Asset Impairment                   --       --          --       --
+                               --------    -----    --------    -----
+   Restaurant costs and
+    expenses                     29,412     93.5      23,014     91.1
+                               --------    -----    --------    -----
+ Restaurant operating income      2,049      6.5       2,254      8.9
+ General and administrative
+  expenses                        1,523      4.8       1,441      5.7
+ Loss on disposal of assets          --       --          25      0.1
+                               --------    -----    --------    -----
+ Income from operations             526      1.7         788      3.1
+ Other income/expense:
+  Other income/(expense)             --       --          --       --
+  Interest expense                  (59)    (0.2)        (60)    (0.2)
+                               --------    -----    --------    -----
+ Income before income taxes         467      1.5         728      2.9
+ Income tax expense                 145      0.5         248      1.0
+                               --------    -----    --------    -----
+ Net income                    $    322      1.0    $    480      1.9
+                               ========    =====    ========    =====
+ Earnings per share:
+  Basic                        $   0.03             $   0.05
+  Diluted                      $   0.03             $   0.05
+
+ Shares used in computing
+  earnings per share
+  (in thousands):
+   Basic                          9,909                9,754
+   Diluted                       10,369               10,213
+
+ Restaurants open at
+  end of period                      72                   60
+
+ Comparable sales growth            1.3%                (2.8)%
+
+
+                 Analysis of Components of Net Income
+                    and Earnings per Share Amounts
+                 -------------------------------------
+
+ Net earnings excluding
+  asset impairment             $    322             $    480
+   Provision for asset
+    impairment, net of tax           -                    -
+                               --------             --------
+  Net income                   $    322             $    480
+                               ========             ========
+
+ Diluted earnings per share:
+  Net earnings excluding
+   asset impairment            $   0.03             $   0.05
+  Provision for asset
+   impairment, net of tax           -                    -
+
+  Net income                   $   0.03             $   0.05
+                               ========             ========
+
+
+</pre>
+<pre>
+CONTACT:
+Total Entertainment Restaurant Corp.
+Jim Zielke
+InvestorRelations@totent.com
+316/634-0505 x 6221
+</pre>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,1968 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LWJBcnngQpAMvh8+iWqD2QiLSKWthCTypMiIOEWBcF2xX65WXgZLLiYKADZ2JS/U
+ HtLZU6IIytlaBUQteftycg==
+
+<SEC-DOCUMENT>0001194396-04-000084.txt : 20040922
+<SEC-HEADER>0001194396-04-000084.hdr.sgml : 20040922
+<ACCEPTANCE-DATETIME>20040922160411
+ACCESSION NUMBER:		0001194396-04-000084
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040922
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20040922
+DATE AS OF CHANGE:		20040922
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COGNOS INC
+		CENTRAL INDEX KEY:			0000746782
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				980119485
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	033-72402
+		FILM NUMBER:		041041299
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3755 RIVERSIDE DR
+		STREET 2:		PO BOX 9707
+		CITY:			OTTAWA ONTARIO CAN K
+		STATE:			A6
+		ZIP:			00000
+		BUSINESS PHONE:		6137381440
+
+	MAIL ADDRESS:	
+		STREET 1:		3755 RIVERSIDE DR
+		STREET 2:		POST OFFICE BOX 9707
+		CITY:			ONTARIO
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cognos8k_76055.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<html>
+<head>
+<title>Cognos Form 8-K</title>
+</head>
+<body>
+
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<A NAME=A102></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SECURITIES AND
+EXCHANGE COMMISSION </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<A NAME=A103></A>
+     <H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif"
+SIZE=2>Washington, D.C. 20549 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<A NAME=A104></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<A NAME=A105></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<A NAME=A106></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to Section&nbsp;13
+or 15(d) of the<BR>
+Securities Exchange Act of 1934 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date of Report <I>(Date
+of earliest event reported):</I> September 22, 2004  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<A NAME=A108></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>COGNOS INCORPORATED</B><BR>
+<I>(Exact name of
+registrant as specified in its charter)</I> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<A NAME=A110></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Canada  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Three Quarters Rule" FSL="Default" -->
+     <HR ALIGN=CENTER WIDTH=35% SIZE=1 NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Head Center Italic" FSL="Default" -->
+<A NAME=A111></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><I>(State or other
+jurisdiction of incorporation)</I> </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=48% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>0-16006</B> </FONT></TD>
+     <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;</B> </FONT></TD>
+     <TD WIDTH=48% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>98-0119485</B> </FONT></TD>
+     <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;</B> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><I>(Commission File Number No.)</I> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><I>&nbsp;</I> </FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><I>(IRS Employer Identification No.)</I> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1" FSL="Default" -->
+<A NAME=A112></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3755 Riverside Drive<BR>
+P.O. Box 9707, Station T<BR>
+Ottawa, Ontario, Canada<BR>
+K1G 4K9 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Three Quarters Rule" FSL="Default" -->
+     <HR ALIGN=CENTER WIDTH=35% SIZE=1 NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Head Center Italic" FSL="Default" -->
+<A NAME=A116></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><I>(Address of
+principal executive offices)</I> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Registrant&#146;s
+telephone number, including area code:  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+<A NAME=A117></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(613) 738-1440 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Three Quarters Rule" FSL="Default" -->
+     <HR ALIGN=CENTER WIDTH=25% SIZE=1 NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<A NAME=A118></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U><B>Not Applicable</B></U><BR>
+(Former
+Name or Former Address, if Changed Since Last Report) </FONT> </P>
+
+
+
+
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions (See General Instruction A.2. below): </FONT></P>
+
+
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#141;&nbsp;&nbsp;&nbsp;&nbsp;Written communications pursuant
+to Rule 425 under the Securities Act (17 CFR 230.425) <BR>
+&#141;&nbsp;&nbsp;&nbsp;&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) <BR>
+&#141;&nbsp;&nbsp;&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) <BR>
+&#141;&nbsp;&nbsp;&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c)) </FONT></P>
+
+
+
+
+
+
+<PAGE>
+
+
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<A NAME=A001></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 2.02&nbsp;&nbsp;&nbsp;&nbsp;Results of
+Operations and Financial Condition </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>On September 22, 2004, Cognos
+Incorporated issued a press release announcing its financial results for the second
+quarter of fiscal 2005 ended August 31, 2004. The text of the press release is included as
+Exhibit 99.1 to this Form 8-K. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to the rules and regulations
+of the Securities and Exchange Commission, such exhibit and the information set forth
+therein and herein is deemed to be furnished and shall not be deemed to be filed. </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2 </FONT></P>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+<A NAME=A002></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURE </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to the requirements of the
+Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=600>
+<TR VALIGN=Bottom>
+     <TD WIDTH=48% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=48% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>COGNOS INCORPORATED</B> </FONT></TD>
+     <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Registrant)</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dated: September 22, 2004</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2">By: <U>/s/ Tom Manley&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tom Manley</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior Vice President, Finance &amp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Administration and Chief</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Officer</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3 </FONT></P>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+<A NAME=A003></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>EXHIBIT INDEX </FONT></H1>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=600>
+<TR VALIGN=Bottom>
+     <TD WIDTH=20% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>Exhibit No.</U> </FONT></TD>
+        <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT></TD>
+     <TD WIDTH=76% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>Description</U> </FONT></TD>
+     <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.1</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Press release dated September 22, 2004</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>4 </FONT></P>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>cognosex99_176055.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+
+
+
+
+<html>
+<head>
+<title>Cognos 2004 News Releases</title>
+</head>
+
+<body>
+
+
+
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P ALIGN="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit 99.1 </FONT></P>
+
+
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"> </FONT></TH>
+     <TH ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>Investor Relations Contact:</U></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="50%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD WIDTH="50%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">John Lawlor, Cognos</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">613-738-3503</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>john.lawlor@cognos.com</U></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD></TR>
+
+
+<TR VALIGN="TOP">
+     <Td><FONT FACE="Times New Roman, Times, Serif" SIZE="2"> </FONT></Td>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B><U>Media Relations Contact:</U></B> </FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="50%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD WIDTH="50%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Sean Reid, Cognos</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">613-738-1440 Ext. 3260</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>sean.reid@cognos.com</U></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD></TR>
+</TABLE>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Cognos<SUP>&reg; </SUP>Delivers Record Second Quarter Revenue and Earnings</B> </FONT> </P>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>21 Percent Growth in License Revenue Drives 52 Percent Increase in Net Income</B> </FONT> </P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Ottawa, ON &amp; Burlington, MA,
+September 22, 2004 &#150; </B>Cognos Incorporated (Nasdaq: COGN;&nbsp;TSX: CSN &#150; all
+figures in U.S. dollars), the world leader in business intelligence (BI) and corporate
+performance management (CPM) solutions, today announced record results for its second
+quarter of fiscal year 2005, ended August 31, 2004. </FONT></P>
+
+
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Revenue for the quarter was $185.2
+million, an increase of 17 percent from the second quarter of last fiscal year, when
+revenue was $158.2 million. Net income for the quarter was $27.6 million, resulting in
+diluted earnings per share of $0.30. This is an increase of 52 percent compared with net
+income of $18.2 million and diluted earnings per share of $0.20 in the second quarter of
+last fiscal year. </FONT></P>
+
+
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>License revenue achieved strong
+growth in the quarter, reaching $75.4 million. This was an increase of 21 percent compared
+with license revenue of $62.2 million in the second quarter of last fiscal year. </FONT></P>
+
+
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Revenue for the first six months of
+fiscal year 2005, ended August 31, 2004, was $358.8 million, an increase of 16 percent
+compared with revenue of $308.7 million for the first six months of last fiscal year. Net
+income for the first six months of this fiscal year was $47.7 million or $0.51 per share.
+This compares to net income of $30.5 million or $0.33 per share in the first six months of
+last fiscal year. </FONT></P>
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Highlights of the Quarter </FONT></H1>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#149; </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Outstanding customer response to Cognos ReportNet&#153; driving continued strong momentum
+&#150; more than $100 million in ReportNet license revenue in its first four quarters of
+general availability </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#149; </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+109 contracts greater than $200,000 and 655 contracts greater than $50,000, an increase of
+22 percent in each case, from the second quarter of last fiscal year </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#149; </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Double-digit percentage revenue growth in all three major geographies &#150; the Americas,
+Europe, and Asia-Pacific </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#149;  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Major
+ customer  wins at Alinta,  Deutsche  Post World  Net,  Georgia  Department  of
+ Education,  Georgia          Pacific, Hertz, Johnson &amp; Johnson, JPMorgan
+Chase &amp; Co.,
+Kaiser Permanente,  Purdue University,  Shiseido,          and the U.S. Air Force </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5</FONT></P>
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#149; </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Three percentage point gain in operating margin to 17.9 percent, from 14.8 percent in the
+second quarter of last fiscal year </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#149; </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Offer to acquire Frango; Frango&#146;s leading consolidation and reporting products
+combined with the Cognos business intelligence, planning, and scorecarding solutions, will
+deliver the broadest and deepest corporate performance management solution in the
+industry. </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#147;The Cognos team delivered
+another superb quarter, with record revenue and profitability, excellent operating margin
+performance, and BI market-leading license revenue growth,&#148; said Cognos President and
+CEO Rob Ashe. &#147;We extended our leadership in the enterprise BI and CPM market. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#147;Execution was strong on all
+fronts, as we continue to drive operational effectiveness. Our product portfolio &#150;
+powered by ReportNet &#150; is delivering unparalleled value and performance to our
+customers and driving major enterprise standardization wins. The outlook for Cognos is
+excellent &#150; company fundamentals and our competitive position are the strongest
+ever.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Cognos further strengthened its
+balance sheet in the quarter. The Company increased cash, cash equivalents, and short-term
+investments by $24.0 million to exit the quarter with $440.4 million. This included
+operating cash flow of $29.4 million. </FONT></P>
+
+
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Business Outlook </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Management offers the following
+outlook, excluding the impact of the pending acquisition of Frango. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>For the third quarter of fiscal 2005,
+ending November 30, 2004: </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#149;  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Revenue
+is expected to be in the range of $196 million to $198 million; </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#149;  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Diluted
+earnings per share are expected to be in the range of $0.32 to $0.34.  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>For the full fiscal year 2005, ending
+February 28, 2005: </FONT></P>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#149;  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Revenue
+is expected to be about $780 million;  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#149;  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Diluted
+earnings per share are expected to be about $1.28.  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Cognos will host a Webcast and
+conference call to present results for its second quarter of fiscal year 2005 at 5:15 p.m.
+Eastern Time, today, September 22, 2004. The Webcast may be accessed at
+<U>http://www.cognos.com/company/investor/events/fy05q2/index.html.</U> The conference
+call may be accessed at 416-640-1907. A replay of the Webcast will also be available from
+the Company&#146;s Web site, or, until October 6, 2004, by telephone at 416-640-1917, pass
+code 21092797#. </FONT></P>
+
+
+
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Safe Harbor for
+Forward-looking Statements </FONT></H1>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Certain statements made in this press
+release that are not based on historical information are forward-looking statements which
+are made pursuant to the safe harbor provisions of the Private Securities Litigation
+Reform Act of 1995. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>This press release contains
+forward-looking statements relating to, among other things, the Company&#146;s
+expectations concerning future revenues and earnings, product demand and growth
+opportunities; business outlook and business momentum; new product introductions and
+customer reaction and acceptance of the Cognos ReportNet product; expectations concerning
+future benefits to be derived from the acquisition of Frango; the growth, strategic
+importance and acceptance of corporate performance management and business intelligence;
+business model and technology strategies and execution. </FONT></P>
+
+
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6</FONT></P>
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+
+
+
+
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>These forward-looking statements are
+neither promises nor guarantees, but involve risks and uncertainties that may cause actual
+results to differ materially from those in the forward-looking statements. Factors that
+may cause such differences include, but are not limited to: the Company&#146;s ability to
+maintain revenue growth or to anticipate a decline in revenue from any of its products or
+services; the Company&#146;s ability to develop and introduce new products and
+enhancements that respond to customer requirements and rapid technological change; new
+product introductions and enhancements by competitors; the Company&#146;s ability to
+compete in an intensely competitive market; the Company&#146;s ability to select and
+implement appropriate business models and strategies; fluctuations in its quarterly and
+annual operating results based on historical patterns; currency fluctuations; tax rate
+fluctuations; the impact of global economic conditions on the Company&#146;s business;
+unauthorized use of the Company&#146;s intellectual property; claims by third parties that
+the Company&#146;s software infringes their intellectual property; the risks inherent in
+international operations, such as currency exchange rate fluctuations; the Company&#146;s
+ability to identify, hire, train, motivate, and retain highly qualified management and
+other key personnel; the Company&#146;s ability to identify, pursue, and complete
+acquisitions with desired business results; the failure to complete the Frango acquisition
+by reason of a condition to the transaction not having been met; the Company&#146;s
+ability to efficiently integrate Frango and the ease in which Frango can be integrated;
+the existence of regulatory barriers to integration; and the Company&#146;s ability to
+retain Frango personnel; as well as the risk factors discussed in the Company&#146;s most
+recent Annual Report on Form 10-K and Quarterly Report on Form 10-Q, filed with the United
+States Securities and Exchange Commission, as well as other periodic reports filed with
+the SEC. Readers should not place undue reliance on any such forward-looking statements,
+which speak only as of the date they are made. The Company disclaims any obligation to
+publicly update or revise any such statement to reflect any change in its expectations or
+in events, conditions, or circumstances on which any such statements may be based, or that
+may affect the likelihood that actual results will differ from those contained in the
+forward-looking statements. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Cognos may provide pro forma or
+non-GAAP measures as defined by SEC Regulation G to provide greater comparability
+regarding Cognos&#146; ongoing operating performance. If discussed, these measures should
+not be considered an alternative to measurements required by accounting principles
+generally accepted in the United States (&#147;U.S. GAAP&#148;). These pro forma measures
+are unlikely to be comparable to pro forma information provided by other issuers. In
+accordance with SEC Regulation G, if such pro forma or non-GAAP measures are provided, a
+reconciliation of the Cognos U.S. GAAP information to the pro forma information will be
+provided in the table attached. We will also make available on the investor relations page
+of our web site at <U>www.cognos.com</U> this press release, a replay of the Webcast,
+slides used in the Webcast, non-GAAP financial measures that may be discussed on the
+Webcast, as well as the most directly comparable GAAP financial measures and a
+reconciliation of the difference between the GAAP and non-GAAP financial measures. </FONT></P>
+
+
+
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>About Cognos </FONT></H1>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Cognos, the world leader in business
+intelligence and corporate performance management, delivers software that helps companies
+drive, monitor and understand corporate performance. </FONT></P>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Cognos delivers the next level of
+competitive advantage &#150; Corporate Performance Management &#150; achieved through the
+strategic application of business intelligence on an enterprise scale. Our integrated CPM
+solution helps customers drive performance through planning; monitor performance through
+scorecarding; and understand performance through business intelligence. </FONT></P>
+
+
+
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>7</FONT></P>
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Cognos serves more than 22,000
+customers in over 135 countries. Cognos enterprise business intelligence solutions and
+services are also available from more than 3,000 worldwide partners and resellers. For
+more information, visit the Cognos Web site at <U>http://www.cognos.com</U>. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Cognos, the Cognos logo, and
+ReportNet are trademarks or registered trademarks of Cognos Incorporated in the United
+States and/or other countries. All other names are trademarks or registered trademarks of
+their respective companies. </FONT></P>
+
+
+
+
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>8</FONT></P>
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Supplementary Information Table Begins -->
+<p><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>SUPPLEMENTARY INFORMATION (unaudited):</B> </FONT> </p>
+<table width="100%" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+<td valign="bottom" colspan="3" align="center"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">FY2004 </FONT> </td>
+<td valign="bottom" colspan="2" align="center"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">FY2005 </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+<td valign="bottom" colspan="3" align="center"><hr size="1" noshade> </td>
+<td valign="bottom" colspan="2" align="center"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+<td valign="bottom" align="center"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q2 </FONT> </td>
+<td valign="bottom" align="center"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q3 </FONT> </td>
+<td valign="bottom" align="center"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q4 </FONT> </td>
+<td valign="bottom" align="center"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q1 </FONT> </td>
+<td valign="bottom" align="center"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q2 </FONT> </td>
+</tr>
+
+
+<tr>
+<td colspan="6"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td colspan="6" valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Revenue Statistics ($000s)</B> </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Total License </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">62,234&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">72,551&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">93,542&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">66,070&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">75,362&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6" valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Year-Over-Year Revenue Growth Statistics</B> </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Total License </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">13%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">17%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">18%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">14%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">21%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom" colspan="6"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Geographic Distribution</B> </FONT> </td>
+</tr>
+<tr>
+<td colspan="6"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6" valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;<B>Total Revenue ($000s)</B> </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Americas </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">96,168&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">96,079&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">114,564&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">104,831&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">110,240&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Europe </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">47,459&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">58,838&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">74,701&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">54,989&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">57,952&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Asia/Pacific </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">14,554&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">17,310&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">12,881&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">13,799&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">17,028&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6" valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;<B>% of Total</B> </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Americas </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">61%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">56%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">57%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">60%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">60%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Europe </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">30%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">34%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">37%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">32%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">31%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Asia/Pacific </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">9%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">10%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">6%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">8%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">9%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6" valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;<B>Year-Over-Year Revenue Growth - Total</B> </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Americas </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">19%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">14%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">20%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">16%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">15%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Europe </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">21%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">34%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">32%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">17%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">22%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Asia/Pacific </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">60%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">67%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">10%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">3%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">17%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6" valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;<B>Pro Forma Year-Over-Year Revenue Growth - In Local Currency</B> </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Americas </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">18%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">12%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">17%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">15%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">14%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Europe </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">9%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">16%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">14%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">7%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">11%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Asia/Pacific </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">46%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">42%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">-8%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">-9%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">10%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6" valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;<B>Pro Forma Year-Over-Year Revenue Growth - Due to Foreign Currency</B> </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Americas </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">1%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">2%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">3%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">1%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">1%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Europe </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">12%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">18%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">18%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">10%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">11%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Asia/Pacific </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">14%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">25%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">18%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">12%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">7%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6" valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>New vs Existing License Revenue - % of Total</B> </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;New </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">32%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">33%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">31%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">31%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">38%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Existing </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">68%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">67%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">69%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">69%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">62%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6" valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Channel &#151; License Revenue - % of Total</B> </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Direct </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">69%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">70%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">80%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">73%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">73%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;Third Party </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">31%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">30%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">20%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">27%&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">27%&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom" colspan="6"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Other Statistics</B> </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Cash, cash equivalents, and short-term investments ($000s) </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">284,442&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">320,895&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">388,241&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">416,362&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">440,410&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Days sales outstanding </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">62&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">62&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">68&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">55&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">56&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="bottom"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Total employees </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">3,011&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">3,001&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">2,966&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">3,027&nbsp; </FONT> </td>
+<td valign="bottom" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">3,062&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="6"><hr size="3" noshade> </td>
+</tr>
+</table>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>9</FONT></P>
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>COGNOS
+INCORPORATED </FONT></H1>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>CONSOLIDATED STATEMENTS
+OF INCOME</B><BR>
+(US$000s except share amounts, U.S. GAAP)<BR>
+(Unaudited) </FONT> </P>
+
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0">
+<tr>
+<td valign="BOTTOM">&nbsp;</td>
+<td valign="BOTTOM" colspan="2" align="right">Three months ended&nbsp;&nbsp;<br>August 31,&nbsp;&nbsp;</td>
+<td valign="BOTTOM" colspan="2" align="right">Six months ended&nbsp;&nbsp;<br>August 31,&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>2004&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">2003&nbsp;&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>2004&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">2003&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM" colspan="5">Revenue</td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Product license</td>
+<td valign="BOTTOM" align="RIGHT"><B>$&nbsp;75,362&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">$&nbsp;62,234&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>$141,432&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">$120,035&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Product support</td>
+<td valign="BOTTOM" align="RIGHT"><B>76,156&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">66,162&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>150,943&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">130,289&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Services</td>
+<td valign="BOTTOM" align="RIGHT"><B>33,702&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">29,785&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>66,464&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">58,420&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM">Total revenue</td>
+<td valign="BOTTOM" align="RIGHT"><B>185,220&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">158,181&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>358,839&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">308,744&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM" colspan="5">Cost of revenue</td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Cost of product license</td>
+<td valign="BOTTOM" align="RIGHT"><B>546&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">1,106&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>1,167&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">2,217&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Cost of product support</td>
+<td valign="BOTTOM" align="RIGHT"><B>7,074&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">6,887&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>14,249&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">13,742&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Cost of services</td>
+<td valign="BOTTOM" align="RIGHT"><B>27,457&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">21,503&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>52,932&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">42,362&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM">Total cost of revenue</td>
+<td valign="BOTTOM" align="RIGHT"><B>35,077&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">29,496&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>68,348&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">58,321&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM">Gross margin</td>
+<td valign="BOTTOM" align="RIGHT"><B>150,143&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">128,685&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>290,491&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">250,423&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td colspan=5>Operating expenses</td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Selling, general, and administrative</td>
+<td valign="BOTTOM" align="RIGHT"><B>90,230&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">81,495&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>180,739&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">161,733&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Research and development</td>
+<td valign="BOTTOM" align="RIGHT"><B>25,382&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">21,714&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>49,707&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">45,008&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Amortization of intangible assets</td>
+<td valign="BOTTOM" align="RIGHT"><B>1,369&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">1,991&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>2,741&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">4,096&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM">Total operating expenses</td>
+<td valign="BOTTOM" align="RIGHT"><B>116,981&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">105,200&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>233,187&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">210,837&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM">Operating income</td>
+<td valign="BOTTOM" align="RIGHT"><B>33,162&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">23,485&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>57,304&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">39,586&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td valign="BOTTOM">Interest expense</td>
+<td valign="BOTTOM" align="RIGHT"><B>(8)&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">(154)&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>(79)&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">(325)&nbsp;</td>
+</tr>
+<tr>
+<td valign="BOTTOM">Interest income</td>
+<td valign="BOTTOM" align="RIGHT"><B>1,781&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">1,543&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>3,185&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">2,587&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM">Income before taxes</td>
+<td valign="BOTTOM" align="RIGHT"><B>34,935&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">24,874&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>60,410&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">41,848&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td valign="BOTTOM">Income tax provision</td>
+<td valign="BOTTOM" align="RIGHT"><B>7,336&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">6,716&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>12,686&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">11,299&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM">Net income</td>
+<td valign="BOTTOM" align="RIGHT"><B>$&nbsp;&nbsp;27,599&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">$&nbsp;&nbsp;18,158&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>$&nbsp;&nbsp;47,724&nbsp;&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">$&nbsp;&nbsp;30,549&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="3" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM" colspan="5">Net income per share</td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Basic</td>
+<td valign="BOTTOM" align="RIGHT"><B>$0.31&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">$0.20&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>$0.53&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">$0.34&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="3" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Diluted</td>
+<td valign="BOTTOM" align="RIGHT"><B>$0.30&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">$0.20&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>$0.51&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">$0.33&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="3" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM" colspan="5">Weighted average number of shares (000s)</td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Basic</td>
+<td valign="BOTTOM" align="RIGHT"><B>90,382&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">89,181&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>90,237&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">88,854&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="3" noshade></td>
+</tr>
+<tr>
+<td valign="BOTTOM">&nbsp;&nbsp;&nbsp;Diluted</td>
+<td valign="BOTTOM" align="RIGHT"><B>92,849&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">91,806&nbsp;&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>92,771&nbsp;&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">91,365&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="3" noshade></td>
+</tr>
+</table>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>10</FONT></P>
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+<!-- Income Statement Table Ends -->
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>COGNOS
+INCORPORATED </FONT></H1>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>CONSOLIDATED BALANCE SHEETS</B><BR>
+(US$000s, U.S. GAAP) </FONT> </P>
+
+
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0">
+<tr>
+<td>&nbsp;</td>
+<td valign="BOTTOM" align="RIGHT"><B>August 31,&nbsp;<br>
+2004&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">February&nbsp;29,&nbsp;<br>2004&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="bottom" ><B>Assets</B></td>
+<td valign="BOTTOM" align="RIGHT"><B>(Unaudited)&nbsp;</B></td>
+<td valign="BOTTOM" align="RIGHT">&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom" colspan="3">Current assets</td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;&nbsp;Cash and cash equivalents</td>
+<td valign="bottom" align="right"><B>$364,782&nbsp;</B></td>
+<td valign="bottom" align="right">$224,830&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;&nbsp;Short-term investments</td>
+<td valign="bottom" align="right"><B>75,628&nbsp;</B></td>
+<td valign="bottom" align="right">163,411&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;&nbsp;Accounts receivable</td>
+<td valign="bottom" align="right"><B>114,824&nbsp;</B></td>
+<td valign="bottom" align="right">152,859&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;&nbsp;Prepaid expenses and other current assets</td>
+<td valign="bottom" align="right"><B>16,495&nbsp;</B></td>
+<td valign="bottom" align="right">16,668&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;&nbsp;Deferred tax assets</td>
+<td valign="bottom" align="right"><B>1,815&nbsp;</B></td>
+<td valign="bottom" align="right">2,445&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;</td>
+<td valign="bottom" align="right"><B>573,544&nbsp;</B></td>
+<td valign="bottom" align="right">560,213&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">Fixed assets</td>
+<td valign="bottom" align="right"><B>69,048&nbsp;</B></td>
+<td valign="bottom" align="right">71,292&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">Intangible assets</td>
+<td valign="bottom" align="right"><B>21,431&nbsp;</B></td>
+<td valign="bottom" align="right">23,643&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">Goodwill</td>
+<td valign="bottom" align="right"><B>172,323&nbsp;</B></td>
+<td valign="bottom" align="right">172,323&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;</td>
+<td valign="bottom" align="right"><B>$836,346&nbsp;</B></td>
+<td valign="bottom" align="right">$827,471&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"><hr size="3" noshade></td>
+</tr>
+<tr>
+<td valign="bottom" colspan=3><B>Liabilities</B></td>
+</tr>
+<tr>
+<td valign="bottom" colspan=3>Current liabilities</td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;&nbsp;Accounts payable</td>
+<td valign="bottom" align="right"><B>$&nbsp;23,741&nbsp;</B></td>
+<td valign="bottom" align="right">$&nbsp;30,698&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;&nbsp;Accrued charges</td>
+<td valign="bottom" align="right"><B>23,349&nbsp;</B></td>
+<td valign="bottom" align="right"><p>25,483&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;&nbsp;Salaries, commissions, and related items</td>
+<td valign="bottom" align="right"><B>52,231&nbsp;</B></td>
+<td valign="bottom" align="right">59,903&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;&nbsp;Income taxes payable</td>
+<td valign="bottom" align="right"><B>5,550&nbsp;</B></td>
+<td valign="bottom" align="right">5,875&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;&nbsp;Deferred revenue</td>
+<td valign="bottom" align="right"><B>155,759&nbsp;</B></td>
+<td valign="bottom" align="right">178,752&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;</td>
+<td valign="bottom" align="right"><B>260,630&nbsp;</B></td>
+<td valign="bottom" align="right">300,711&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">Deferred income taxes</td>
+<td valign="bottom" align="right"><B>20,176&nbsp;</B></td>
+<td valign="bottom" align="right">18,098&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;</td>
+<td valign="bottom" align="right"><B>280,806&nbsp;</B></td>
+<td valign="bottom" align="right">318,809&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="bottom" colspan="3"><B>Stockholders&#146; Equity</B></td>
+</tr>
+<tr>
+<td valign="bottom" colspan="3">Capital stock</td>
+</tr>
+<tr>
+<td valign="bottom">
+&nbsp;&nbsp;Common shares and additional paid-in capital<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(August 31, 2004 - 90,417,883;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;February 29, 2004 - 89,902,895)
+</td>
+<td valign="bottom" align="right"><B>224,676&nbsp;</B></td>
+<td valign="bottom" align="right">206,499&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">
+&nbsp;&nbsp;Treasury shares<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(August 31, 2004 - 46,375;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;February 29, 2004 - 43,500)
+</td>
+<td valign="bottom" align="right"><B>(1,199)</B></td>
+<td valign="bottom" align="right">(1,065)</td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;&nbsp;Deferred stock-based compensation</td>
+<td valign="bottom" align="right"><B>(771)</B></td>
+<td valign="bottom" align="right">(730)</td>
+</tr>
+<tr>
+<td valign="bottom">Retained earnings</td>
+<td valign="bottom" align="right"><B>334,608&nbsp;</B></td>
+<td valign="bottom" align="right">305,399&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom">Accumulated other comprehensive loss</td>
+<td valign="bottom" align="right"><B>(1,774)</B></td>
+<td valign="bottom" align="right">(1,441)</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;</td>
+<td valign="bottom" align="right"><B>555,540&nbsp;</B></td>
+<td valign="bottom" align="right">508,662&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade></td>
+</tr>
+<tr>
+<td valign="bottom">&nbsp;</td>
+<td valign="bottom" align="right"><B>$836,346&nbsp;</B></td>
+<td valign="bottom" align="right">$827,471&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5"><hr size="3" noshade></td>
+</tr>
+</table>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>11  </FONT></P>
+
+
+
+
+
+
+
+<PAGE>
+
+<HR  SIZE="3" COLOR="#CCEEFF" WIDTH="100%" ALIGN="CENTER">
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>COGNOS INCORPORATED </FONT></H1>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>CONSOLIDATED STATEMENTS
+OF CASH FLOWS </B><BR>
+(US$000s, U.S. GAAP)<BR>
+(Unaudited) </FONT> </P>
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0">
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+<td valign="BOTTOM" colspan="2" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Three months ended<br>August 31, </FONT> </td>
+<td valign="BOTTOM" colspan="2" align="right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Six months ended<br>August 31, </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>2004&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">2003&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>2004&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">2003&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td valign="BOTTOM" colspan="5"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Cash flows from operating activities</B> </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;Net income </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>$&nbsp;&nbsp;27,599&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">$&nbsp;&nbsp;18,158&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>$&nbsp;&nbsp;47,724&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">$&nbsp;&nbsp;30,549&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM" colspan="5"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;Non-cash items </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Depreciation and amortization </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>6,504&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">7,318&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>13,002&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">14,466&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amortization of deferred stock-based<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compensation </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>220&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">221&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>405&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">390&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amortization of other deferred compensation </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&#151;&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">62&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>7&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">124&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deferred income taxes </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>1,285&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">7,007&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>2,301&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">4,053&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loss on disposal of fixed assets </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>123&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">9&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>124&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">463&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>35,731&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">32,775&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>63,563&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">50,045&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM" colspan="5"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;Change in non-cash working capital </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decrease (increase) in accounts receivable </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(8,472)&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(5,109)&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>36,461&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">31,897&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decrease (increase) in prepaid expenses and<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;other current assets </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(699)&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(772)&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>171&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(3,860)&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decrease in accounts payable </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(18)&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(2,153)&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(6,985)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(10,778)&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Increase (decrease) in accrued charges </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>1,298&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(1,263)&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(1,897)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(7,072)&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Increase (decrease) in salaries, commissions, and<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;related items </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>8,468&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">2,005&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(7,275)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(13,788)&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Increase (decrease) in income taxes payable </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>2,048&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">1,297&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(44)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">1,159&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decrease in deferred revenue </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(8,942)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(5,069)&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(21,491)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(15,351)&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td valign="BOTTOM"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Net cash provided by operating activities </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>29,414&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">21,711&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>62,503&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">32,252&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td colspan="5"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Cash flows from investing activities</B> </FONT> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;Maturity of short-term investments </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>99,081&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">53,058&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>244,674&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">116,810&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;Purchase of short-term investments </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(85,566)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(88,339)&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(156,961)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(133,039)&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;Additions to fixed assets </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(4,637)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(5,089)&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(7,710)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(11,498)&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;Additions to intangible assets </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(460)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(365)&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(529)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(686)&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;Business acquisition </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&#151;&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(122)&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&#151;&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(230)&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Net cash provided by (used in) investing activities </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>8,418&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(40,857)&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>79,474&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(28,643)&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td colspan="5"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Cash flows from financing activities</B> </FONT> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;Issue of common shares </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>8,983&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">5,643&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>19,272&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">18,109&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;Purchase of treasury shares </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(335)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&#151;&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(335)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(564)&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;Repurchase of shares </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(9,866)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&#151;&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(19,855)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&#151;&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;Decrease in long-term debt and long-term liabilities </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&#151;&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&#151;&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&#151;&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(1,697)&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Net cash provided by (used in) financing activities </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(1,218)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">5,643&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(918)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">15,848&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Effect of exchange rate changes on cash </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>727&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(985)&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(1,107)&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">4,137&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Net increase (decrease) in cash and cash equivalents </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>37,341&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(14,488)&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>139,952&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">23,594&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Cash and cash equivalents, beginning of period </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>327,441&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">200,670&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>224,830&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">162,588&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Cash and cash equivalents, end of period </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>364,782&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">186,182&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>364,782&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">186,182&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Short-term investments, end of period </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>75,628&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">98,260&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>75,628&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">98,260&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="1" noshade> </td>
+</tr>
+<tr>
+<td><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Cash, cash equivalents, and short-term investments, end of period </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>$440,410&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">$284,442&nbsp;&nbsp; </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>$440,410&nbsp;&nbsp;</B> </FONT> </td>
+<td valign="BOTTOM" align="RIGHT"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">$284,442&nbsp;&nbsp; </FONT> </td>
+</tr>
+<tr>
+<td colspan="5"><hr size="3" noshade> </td>
+</tr>
+</table>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>12  </FONT></P>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

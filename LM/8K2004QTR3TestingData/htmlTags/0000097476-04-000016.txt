@@ -1,0 +1,354 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ W1ZDsxlnWWhyhTdTNlwry6ZD6g9WM7hh8QhAm8k4dvFZqZkjVlQ/fnn2az9dkEkH
+ 3dGQidzSR4Or3irs9V63KA==
+
+<SEC-DOCUMENT>0000097476-04-000016.txt : 20040908
+<SEC-HEADER>0000097476-04-000016.hdr.sgml : 20040908
+<ACCEPTANCE-DATETIME>20040908160510
+ACCESSION NUMBER:		0000097476-04-000016
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20040908
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040908
+DATE AS OF CHANGE:		20040908
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TEXAS INSTRUMENTS INC
+		CENTRAL INDEX KEY:			0000097476
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				750289970
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03761
+		FILM NUMBER:		041020840
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P.O. BOX 660199
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75266
+		BUSINESS PHONE:		9729953773
+
+	MAIL ADDRESS:	
+		STREET 1:		12500 TI BLVD
+		STREET 2:		PO BOX 660199
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75266
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>doc1.txt
+<TEXT>
+
+
+
+
+
+
+
+                                   UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                              ---------------------
+
+
+                                    FORM 8-K
+
+
+
+                 CURRENT REPORT PURSUANT TO SECTION 13 OR 15(d)
+
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+       DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED): September 8, 2004
+
+
+                         TEXAS INSTRUMENTS INCORPORATED
+               (Exact name of registrant as specified in charter)
+
+
+
+          DELAWARE                   001-03761               750289970
+(State or other jurisdiction  (Commission file number)   (I.R.S. employer
+     of incorporation)                                  identification no.)
+
+
+
+                               12500 TI BOULEVARD
+                                 P.O. BOX 660199
+                            DALLAS, TEXAS 75266-0199
+                    (Address of principal executive offices)
+
+
+       Registrant's telephone number, including area code: (972) 995-3773
+
+                              ---------------------
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following
+provisions:
+
+__   Written communications pursuant to Rule 425 under the Securities Act (17
+     CFR 230.425)
+
+__   Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+     240.14a-12)
+
+__   Pre-commencement communications pursuant to Rule 14d-2(b) under the
+     Exchange Act (17 CFR 240.14d-2(b))
+
+__   Pre-commencement communications pursuant to Rule 13e-4(c) under the
+     Exchange Act (17 CFR 240.13e-(4c))
+
+
+<PAGE>
+
+ITEM 2.02. Results of Operations and Financial Condition
+
+The Registrant's news release dated September 8, 2004, regarding the
+Registrant's outlook for the third quarter of 2004 attached hereto as Exhibit 99
+is incorporated by reference herein.
+
+
+ITEM 9.01. Exhibits
+
+Designation of
+Exhibit in
+this Report          Description of Exhibit
+- ------------          ----------------------
+
+    99                Registrant's News Release
+                      Dated September 8, 2004 (furnished pursuant to Item
+                      2.02)
+
+
+"Safe Harbor" Statement under the Private Securities Litigation Reform Act of
+1995: The statements contained in this report on Form 8-K are "forward-looking
+statements" intended to qualify for the safe harbor from liability established
+by the Private Securities Litigation Reform Act of 1995. These forward-looking
+statements are subject to certain risks and uncertainties that could cause
+actual results to differ materially from those in forward-looking statements.
+
+We urge you to carefully consider the following important factors that could
+cause actual results to differ materially from the expectations of the company
+or its management:
+
+- -    Market demand for semiconductors, particularly for analog chips and digital
+     signal processors in key markets, such as telecommunications and computers;
+
+- -    TI's ability to maintain or improve profit margins, including its ability
+     to utilize its manufacturing facilities at sufficient levels to cover its
+     fixed operating costs, in an intensely competitive and cyclical industry;
+
+- -    TI's ability to develop, manufacture and market innovative products in a
+     rapidly changing technological environment;
+
+- -    TI's ability to compete in products and prices in an intensely competitive
+     industry;
+
+- -    The timing of customer inventory adjustments;
+
+- -    Losses or curtailments of purchases from key customers;
+
+- -    TI's ability to maintain and enforce a strong intellectual property
+     portfolio and obtain needed licenses from third parties;
+
+- -    Consolidation of TI's patent licensees and market conditions reducing
+     royalty payments to TI;
+
+- -    Economic, social and political conditions in the countries in which TI, its
+     customers or its suppliers operate, including security risks, health
+     conditions, possible disruptions in transportation networks and
+     fluctuations in foreign currency exchange rates;
+
+- -    Availability of raw materials and critical manufacturing equipment;
+
+- -    TI's ability to recruit and retain skilled personnel;
+
+- -    Fluctuations in the market value of TI's investments and in interest rates;
+     and
+
+- -    Timely implementation of new manufacturing technologies, installation of
+     manufacturing equipment, and the ability to obtain needed third-party
+     foundry and assembly/test subcontract services.
+
+For a more detailed discussion of these and other factors, see the text under
+the heading "Cautionary Statements Regarding Future Results of Operations" in
+Item 1 of TI's most recent Form 10-K. The forward-looking statements included in
+this Form 8-K are made only as of the date of this Form 8-K and TI undertakes no
+obligation to update the forward-looking statements to reflect subsequent events
+or circumstances.
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                         TEXAS INSTRUMENTS INCORPORATED
+
+
+
+Date:  September 8, 2004                 By:/s/ KEVIN P. MARCH
+                                            --------------------------
+                                            Kevin P. March
+                                            Senior Vice President
+                                            and Chief Financial Officer
+
+<PAGE>
+                                                                      Exhibit 99
+                                                                      ----------
+
+
+
+NEWS RELEASE
+C-04041
+
+
+                 TI UPDATES THIRD-QUARTER 2004 BUSINESS OUTLOOK
+
+- -    Revenue Expected between $3100 Million and $3240 Million
+- -    EPS Expected between $0.27 and $0.29
+
+     CONFERENCE CALL ON TI WEB SITE AT 3:30 P.M. CENTRAL DAYLIGHT TIME TODAY
+                                   WWW.TI.COM
+                                   ----------
+
+
+DALLAS (Sept. 8, 2004) - In a scheduled update to its business outlook for the
+third quarter of 2004, Texas Instruments Incorporated (NYSE:TXN) today revised
+its expected revenue and earnings ranges. This update reflects what TI believes
+are adjustments by customers as they move quickly to reduce inventory levels to
+more closely match their own end-equipment growth rates. These adjustments are
+more aggressive in standard products sold through the distribution channel than
+in other areas.
+
+The company's expectations for revenue are:
+
+- -    Total revenue between $3100 million and $3240 million, compared with the
+     prior range of $3200 million to $3440 million;
+
+- -    Semiconductor revenue between $2665 million and $2785 million, compared
+     with the prior range of $2780 million to $2980 million;
+
+- -    Sensors & Controls revenue between $260 million and $270 million, compared
+     with the prior range of $255 million to $275 million; and
+
+- -    Educational & Productivity Solutions revenue between $175 million and $185
+     million, compared with the prior range of $170 million to $190 million.
+
+TI expects earnings per share (EPS) between $0.27 and $0.29, compared with the
+previous range of $0.26 to $0.29.
+
+The company's revised earnings estimate reflects reduced factory loadings and a
+lower expected accrual for profit sharing. Additionally, the effective annual
+tax rate has been reduced from 29 percent to 26 percent, primarily due to an
+increase in the estimated tax benefit for export sales. Including catch-up
+adjustments, the third-quarter effective tax rate is estimated to be about 21
+percent.
+
+The company will hold a conference call at 3:30 p.m. CDT today to discuss this
+update. This conference call will be available live at www.ti.com. TI's original
+third-quarter outlook was published in the company's second-quarter 2004
+earnings release on July 20, available at www.ti.com. TI's third quarter ends on
+September 30.
+
+                                    #   #   #
+
+"Safe Harbor" Statement under the Private Securities Litigation Reform Act of
+1995: This release includes forward-looking statements intended to qualify for
+the safe harbor from liability established by the Private Securities Litigation
+Reform Act of 1995. These forward-looking statements generally can be identified
+by phrases such as TI or its management "believes," "expects," "anticipates,"
+"foresees," "forecasts," "estimates" or other words or phrases of similar
+import. Similarly, statements in this release that describe the company's
+business strategy, outlook, objectives, plans, intentions or goals also are
+forward-looking statements. All such forward-looking statements are subject to
+certain risks and uncertainties that could cause actual results to differ
+materially from those in forward-looking statements.
+
+We urge you to carefully consider the following important factors that could
+cause actual results to differ materially from the expectations of the company
+or its management:
+
+- -    Market demand for semiconductors, particularly for analog chips and digital
+     signal processors in key markets, such as telecommunications and computers;
+
+- -    TI's ability to maintain or improve profit margins, including its ability
+     to utilize its manufacturing facilities at sufficient levels to cover its
+     fixed operating costs, in an intensely competitive and cyclical industry;
+
+- -    TI's ability to develop, manufacture and market innovative products in a
+     rapidly changing technological environment;
+
+- -    TI's ability to compete in products and prices in an intensely competitive
+     industry;
+
+- -    The timing of customer inventory adjustments;
+
+- -    Losses or curtailments of purchases from key customers;
+
+- -    TI's ability to maintain and enforce a strong intellectual property
+     portfolio and obtain needed licenses from third parties;
+
+- -    Consolidation of TI's patent licensees and market conditions reducing
+     royalty payments to TI;
+
+- -    Economic, social and political conditions in the countries in which TI, its
+     customers or its suppliers operate, including security risks, health
+     conditions, possible disruptions in transportation networks and
+     fluctuations in foreign currency exchange rates;
+
+- -    Availability of raw materials and critical manufacturing equipment;
+
+- -    TI's ability to recruit and retain skilled personnel;
+
+- -    Fluctuations in the market value of TI's investments and in interest rates;
+     and
+
+- -    Timely implementation of new manufacturing technologies, installation of
+     manufacturing equipment, and the ability to obtain needed third-party
+     foundry and assembly/test subcontract services.
+
+For a more detailed discussion of these factors, see the text under the heading
+"Cautionary Statements Regarding Future Results of Operations" in Item 1 of the
+company's most recent Form 10-K. The forward-looking statements included in this
+release are made only as of the date of publication, and the company undertakes
+no obligation to update the forward-looking statements to reflect subsequent
+events or circumstances.
+
+Texas Instruments Incorporated provides innovative DSP and analog technologies
+to meet our customers' real world signal processing requirements. In addition to
+Semiconductor, the company's businesses include Sensors & Controls and
+Educational & Productivity Solutions. TI is headquartered in Dallas, Texas, and
+has manufacturing, design or sales operations in more than 25 countries.
+
+Texas Instruments is traded on the New York Stock Exchange under the symbol TXN.
+More information is located on the World Wide Web at www.ti.com.
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

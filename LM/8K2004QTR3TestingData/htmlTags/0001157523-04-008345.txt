@@ -1,0 +1,5220 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LvAFGXJJKCHDsy5dc0VwRtzOxDTI1pQ4y4VIDfT6gmN2arv/4ipcoz4QD6gHu6wR
+ gLEG1Tyn93pH4yGIhGtjTw==
+
+<SEC-DOCUMENT>0001157523-04-008345.txt : 20040908
+<SEC-HEADER>0001157523-04-008345.hdr.sgml : 20040908
+<ACCEPTANCE-DATETIME>20040908160306
+ACCESSION NUMBER:		0001157523-04-008345
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040908
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040908
+DATE AS OF CHANGE:		20040908
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VERINT SYSTEMS INC
+		CENTRAL INDEX KEY:			0001166388
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				113200514
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-49790
+		FILM NUMBER:		041020833
+
+	BUSINESS ADDRESS:	
+		STREET 1:		330 SOUTH SERVICE ROAD
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+		BUSINESS PHONE:		6319629600
+
+	MAIL ADDRESS:	
+		STREET 1:		330 SOUTH SERVICE ROAD
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d60651_8-k.htm
+<DESCRIPTION>VERINT 8-K
+<TEXT>
+<HTML>
+
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+
+<BODY>
+
+<DIV STYLE="WIDTH:600">
+<HR STYLE="MARGIN-TOP: -2PX" NOSHADE SIZE=4>
+<HR STYLE="MARGIN-TOP: -10PX" NOSHADE SIZE=1>
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>SECURITIES AND EXCHANGE COMMISSION<BR>
+WASHINGTON, D.C.&nbsp;&nbsp;20549</B></FONT></P>
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>FORM 8-K</B></FONT></P>
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>CURRENT REPORT</B></FONT></P>
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">PURSUANT TO SECTION 13 OR 15(d) OF<BR>
+THE SECURITIES EXCHANGE ACT OF 1934</FONT></P>
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">DATE OF REPORT September 8, 2004<BR>
+(Date of Earliest Event Reported)</FONT></P>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+ <TR>
+  <TD WIDTH="18%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="63%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=4 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>VERINT SYSTEMS INC.</B></FONT></P>
+  </TD>
+  <TD WIDTH="17%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="18%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="63%" VALIGN=TOP>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="17%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="18%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="63%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">(Exact name of registrant as specified in its charter)</FONT></P>
+  </TD>
+  <TD WIDTH="17%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+</TABLE>
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Commission File No. 0-15502</FONT></P>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+ <TR>
+  <TD WIDTH="44%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Delaware</FONT></P></TD>
+  <TD WIDTH="19%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="36%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">11-3200514</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="44%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="19%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="36%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+ </TR>
+ <TR>
+  <TD WIDTH="44%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">(State of Incorporation)</FONT></P></TD>
+  <TD WIDTH="19%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="36%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">(I.R.S. Employer <BR>
+  Identification No.)</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="44%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="19%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="36%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="44%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">330 South Service Road, Melville, New York</FONT></P></TD>
+  <TD WIDTH="19%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="36%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">11747</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="44%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="19%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="36%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+ </TR>
+ <TR>
+  <TD WIDTH="44%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">(Address of principal <BR>
+  executive offices)</FONT></P></TD>
+  <TD WIDTH="19%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="36%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Zip Code</FONT></P></TD>
+ </TR>
+</TABLE>
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Registrant&#146;s telephone number, including area
+code:&#160; (631)&nbsp;962-9600</FONT></P>
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below): </FONT></P>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+ <TR>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">|_|</FONT></P></TD>
+  <TD WIDTH="95%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Written
+  communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+  </FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="95%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">|_|</FONT></P></TD>
+  <TD WIDTH="95%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Soliciting
+  material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="95%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">|_|</FONT></P></TD>
+  <TD WIDTH="95%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Pre-commencement
+  communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+  240.14d-2(b)) </FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="95%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">|_|</FONT></P></TD>
+  <TD WIDTH="95%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Pre-commencement
+  communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+  240.13e-4(c)) </FONT></P></TD>
+ </TR>
+</TABLE>
+
+<BR>
+
+<HR STYLE="MARGIN-TOP: -2PX" NOSHADE SIZE=1>
+<HR STYLE="MARGIN-TOP: -10PX" NOSHADE SIZE=4>
+<BR>
+<HR SIZE=5 NOSHADE>
+<PAGE>
+
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Item 2.02 Results of Operations and Financial
+Condition</B></FONT></P>
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+September 8, 2004, Verint Systems Inc. issued an earnings release announcing
+its financial results for the quarter ended July 31, 2004.&#160; A copy of the earnings release is attached
+hereto as Exhibit 99.1 and is incorporated by reference herein.</FONT></P>
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+information in this Current Report on Form 8-K, including the exhibits attached
+hereto, is furnished pursuant to Item 2.02 and shall not be deemed to be
+&#147;filed&#148; for the purposes of Section 18 of the Securities Exchange Act of 1934,
+or otherwise subject to the liabilities of that section.</FONT></P>
+
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Item 9.01 Financial Statements and Exhibits.</B></FONT></P>
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibits.</FONT></P>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+ <TR>
+  <TD WIDTH="3%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="18%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><U>Exhibit No.</U></FONT></P></TD>
+  <TD WIDTH="78%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><U>Description</U></FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="13%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="83%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+
+ <TR>
+  <TD WIDTH="3%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="13%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">99.1</FONT></P></TD>
+  <TD WIDTH="83%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Press Release of Verint Systems Inc., dated September 8, 2004.</FONT></P></TD>
+ </TR>
+</TABLE>
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">2</FONT></P>
+
+<HR SIZE=5 NOSHADE>
+<PAGE>
+
+
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><U>SIGNATURES</U></FONT></P>
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has
+duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</FONT></P>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+ <TR>
+  <TD WIDTH="62%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="37%" COLSPAN="2" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">VERINT
+  SYSTEMS INC.</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="62%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="33%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="62%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="33%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="62%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">By:</FONT></P></TD>
+  <TD WIDTH="33%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">/s/Igal
+  Nissim</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="62%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="33%" VALIGN=TOP>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+ </TR>
+ <TR>
+  <TD WIDTH="62%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="33%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Name:&nbsp;&nbsp;&nbsp;&nbsp;Igal
+  Nissim</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="62%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="4%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="33%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chief
+  Financial Officer</FONT></P></TD>
+ </TR>
+</TABLE>
+
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Dated:&#160; September 8, 2004</FONT></P>
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">3</FONT></P>
+
+
+<HR SIZE=5 NOSHADE>
+<PAGE>
+
+
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">EXHIBIT INDEX</FONT></P>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+ <TR>
+  <TD WIDTH="9%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Exhibit&nbsp;No.</FONT></P></TD>
+  <TD WIDTH="10%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="60%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Description</FONT></P></TD>
+  <TD WIDTH="38%" VALIGN=TOP>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="9%" VALIGN=TOP>
+    <HR SIZE=1 NOSHADE></TD>
+  <TD WIDTH="8%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="43%" VALIGN=TOP>
+    <HR SIZE=1 NOSHADE></TD>
+  <TD WIDTH="38%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+<TR>
+  <TD WIDTH="9%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="43%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="38%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="9%" VALIGN=TOP ALIGN=RIGHT>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">99.1</FONT></P></TD>
+  <TD WIDTH="8%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="43%" VALIGN=TOP>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Text of
+  Press Release dated September 8, 2004</FONT></P></TD>
+  <TD WIDTH="38%" VALIGN=TOP>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+</TABLE>
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">4</FONT></P>
+
+<HR SIZE=5 NOSHADE>
+
+
+
+</DIV>
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d60651_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1 PRESS RELEASE
+<TEXT>
+<HTML>
+
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+
+<BODY>
+<DIV STYLE="WIDTH:600">
+
+<P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Exhibit 99.1</B></FONT></P>
+
+<P ALIGN=RIGHT><IMG SRC="logo.jpg" ALT="COMPANY NAME"></P>
+
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Press Release</B></FONT></P>
+
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B><I>Contact<BR></I></B>Alan Roden<BR>
+VP, Corporate Development and Investor Relations<BR>
+(631) 962-9304<BR>
+<I><U>alan.roden@verint.com</U></I></FONT></P>
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Verint
+Systems Reports Record Fiscal 2004 Second Quarter Sales</B></FONT></P>
+
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><I>Sales
+Grow to $60.2 Million; Increases 28% y-o-y and 6% Sequentially<BR>
+GAAP Earnings Per Diluted Share of $0.17<BR>&#160;Pro Forma Earnings Per Diluted Share of
+$0.20</I></FONT></P>
+
+<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>MELVILLE,
+N.Y., September 8, 2004</B> &#150; Verint Systems Inc.&#160; (NASDAQ: VRNT), announced record sales of
+$60,167,000 for the second quarter of fiscal 2004, ended July 31, 2004, a 28%
+increase compared with $46,892,000 for the second quarter of fiscal 2003.
+Verint&#146;s sales increased approximately 6% sequentially, compared with
+$56,638,000 for the first quarter of fiscal 2004.</FONT></P>
+
+<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Net income on a generally
+accepted accounting principles (&#147;GAAP&#148;) basis was $5,671,000 for the second
+quarter of fiscal 2004, ($0.17 per diluted share), compared with net income of
+$1,514,000 ($0.05 per diluted share) for the first quarter of fiscal 2004, and
+net income of $3,977,000 ($0.14 per diluted share) for the second quarter of
+fiscal 2003.&#160; Net income on a pro forma
+basis was $6,438,000 for the second quarter of fiscal 2004, ($0.20 per diluted
+share), compared with a pro forma net income of $5,919,000 ($0.18 per diluted
+share) for the first quarter of fiscal 2004, and pro forma net income of
+$4,339,000 ($0.15 per diluted share) for the second quarter of fiscal 2003. A
+reconciliation between results on a GAAP basis and results on a pro forma basis
+is provided in a table immediately following the Pro Forma Consolidated
+Statement of Operations.</FONT></P>
+
+<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Dan Bodner, President and
+CEO of Verint, stated, &#147;Our record second quarter sales were&nbsp;due to demand
+for our actionable intelligence solutions in the security and business
+intelligence markets. Pro forma income from operations of $6.2 million, which
+was also a record, grew 38% year-over-year.&#148;</FONT></P>
+<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">The Company ended the
+quarter with cash, cash equivalents and short-term investments of $220,631,000,
+working capital of $186,111,000, total assets of $361,774,000, and stockholders&#146;
+equity of $260,664,000.</FONT></P>
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Conference
+Call Information</B></FONT></P>
+<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">The Company will be
+conducting a conference call to review its fiscal 2004 second quarter results
+today at 4:30 PM EDT.&#160;&#160; An on-line,
+real-time Web cast of the conference call will be available on our website at <U>www.verint.com</U>.
+The conference call can also be accessed live via telephone at
+703-639-1175.&#160; Please dial in 5-10
+minutes prior to the scheduled start time.</FONT></P>
+<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">A replay of the
+conference call will be available on our website at <U>www.verint.com</U> until
+October 31, 2004 and by telephone at 703-925-2533, passcode 742200, for 7 days.</FONT></P>
+
+<HR SIZE=5 NOSHADE>
+<PAGE>
+
+
+
+<P><FONT SIZE=2 COLOR=BLACK FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Verint
+Systems Reports Record Fiscal 2004 Second Quarter Sales<BR>
+September 8, 2004<BR>
+Page 2</B></FONT></P>
+<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Financial highlights at and
+for the six and three month periods ended July 31, 2004 and prior year
+comparisons are as follows:</FONT></P>
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="600">
+  <TR>
+    <TD WIDTH="100%" COLSPAN="15" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Consolidated
+        Statement of Operations (GAAP Basis)</B><BR>
+        (In thousands, except per share data)</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="100%" COLSPAN="15" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="100%" COLSPAN="15" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="21%" COLSPAN="5" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Six
+        Months<BR>
+        Ended July 31,<BR>
+        (Unaudited)</B></FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="20%" COLSPAN="5" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Three
+        Months<BR>
+        Ended July 31,<BR>
+        (Unaudited</B><FONT   SIZE=1><B>)</B></FONT></FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="21%" COLSPAN="5" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="20%" COLSPAN="5" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>2003</B></FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>2004</B></FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>2003</B></FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>2004</B></FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Sales</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">91,307</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="2%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">116,805</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">46,892</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">60,167</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Cost
+        of sales</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">42,678</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">52,863</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">21,766</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">27,106</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Gross
+        Profit</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">48,629</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">63,942</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">25,126</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">33,061</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Operating
+        Expenses</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="46%" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Research
+        and development, net</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">11,027</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">14,680</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">5,692</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">7,889</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="46%" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Selling,
+        general and administrative</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">29,970</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">38,414</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">15,301</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">19,820</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="46%" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">In-process
+        research and development</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">3,154</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="46%" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Write-down
+        of capitalized software</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">1,481</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Income
+        from operations</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">7,632</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">6,213</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">4,133</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">5,352</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Interest
+        and other income, net</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">935</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">1,447</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">420</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">865</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Income
+        before income tax provision</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">8,567</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">7,660</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">4,553</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">6,217</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Income
+        tax provision</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">1,078</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">475</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">576</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">546</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=1 NOSHADE>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Net
+        income</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">7,489</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">7,185</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">3,977</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">5,671</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Earnings
+        per share:</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="46%" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Basic</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.29</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.24</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.15</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.18</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="46%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="46%" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Diluted</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.28</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.22</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.14</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.17</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <HR SIZE=3 NOSHADE>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="49%" COLSPAN="2" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Weighted
+        average shares:</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="46%" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Basic</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">25,408</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">30,567</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">27,067</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">30,732</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+  <TR>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="46%" VALIGN=BOTTOM>
+      <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Diluted</FONT></DIV>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">27,157</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">32,331</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">29,007</FONT></P>
+    </TD>
+    <TD WIDTH="3%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+    <TD WIDTH="7%" VALIGN=BOTTOM>
+      <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">32,457</FONT></P>
+    </TD>
+    <TD WIDTH="1%" VALIGN=BOTTOM>
+      <P><FONT SIZE=1>&nbsp;</FONT></P>
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+<BR>
+
+<HR SIZE=5 NOSHADE>
+<PAGE>
+
+
+
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Verint
+Systems Reports Record Fiscal 2004 Second Quarter Sales<BR>
+September 8,&#160; 2004<BR>
+Page 3 </B></FONT></P>
+<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">
+Verint Systems provides pro forma net income and pro forma earnings per
+share data as additional information for its operating results.&#160; These
+measures are not in accordance with,
+or an alternative for, GAAP and may be different from pro forma measures used
+by other companies.&#160; The Company
+believes that this presentation of pro forma data provides useful information
+to management and investors regarding certain additional financial and business
+trends relating to its financial condition and results of operations.&#160; In addition, the Company&#146;s management uses
+these measures for reviewing the financial results of the Company and for
+budget purposes: </FONT></P>
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="600">
+ <TR>
+  <TD WIDTH="100%" COLSPAN="15" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Consolidated Statement of Operations (Pro
+  Forma Basis)</B><BR>
+  (In thousands, except per share data)</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="100%" COLSPAN="15" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="100%" COLSPAN="15" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="20%" COLSPAN="5" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Six Months<BR>
+  Ended July 31,<BR>
+  (Unaudited</B><FONT   SIZE=1><B>)</B></FONT></FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="20%" COLSPAN="5" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Three Months<BR>
+  Ended July 31,<BR>
+  (Unaudited</B><FONT   SIZE=1><B>)</B></FONT></FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="20%" COLSPAN="5" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="20%" COLSPAN="5" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>2003</B></FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>2004</B></FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>2003</B></FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>2004</B></FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="48%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Sales</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="2%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">91,307</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="2%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">116,805</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="2%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">46,892</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="2%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">60,167</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Cost of
+  sales</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">42,575</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">52,222</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">21,700</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">26,620</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Gross Profit</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">48,732</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">64,583</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">25,192</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">33,547</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Operating
+  Expenses</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="47%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Research and
+  development, net</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">11,027</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">14,680</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">5,692</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">7,889</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="47%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Selling,
+  general and administrative</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">29,642</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">37,806</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">15,005</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">19,474</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Income from
+  operations</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">8,063</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">12,097</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">4,495</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">6,184</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Interest and
+  other income, net</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">935</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">1,447</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">420</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">865</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Income
+  before income tax provision</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">8,998</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">13,544</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">4,915</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">7,049</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Income tax
+  provision</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">1,078</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">1,187</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">576</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">611</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Net income</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">7,920</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">12,357</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">4,339</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">6,438</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Earnings per
+  share:</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="47%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Basic</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.31</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.40</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.16</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.21</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="47%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="47%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Diluted</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.29</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.38</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.15</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">0.20</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Weighted
+  average shares:</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="47%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Basic</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">25,408</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">30,567</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">27,067</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">30,732</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="47%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Diluted</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">27,157</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">32,331</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">29,007</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">32,457</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="99%" COLSPAN="14" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT   SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B><I>Reconciliation of
+  GAAP net income to pro forma net income</I></B></FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">GAAP net income</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">7,489</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">7,185</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">3,977</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">5,671</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Amortization of purchased
+  intangibles assets:</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="47%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Included in gross profit</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">103</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">641</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">66</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">486</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="47%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Included in operating
+  expenses</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">328</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">400</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">296</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">241</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Amortization of stock based
+  compensation</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">208</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">105</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Acquisation-related
+  charges:</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="47%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">In-process research and
+  development</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">3,154</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="47%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Write-down of capitalized
+  software</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">1,481</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Income tax effect</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">(712</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">)</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">(65</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">)</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Pro forma net income</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">7,920</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">12,357</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">4,339</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">6,438</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="50%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+</TABLE>
+
+
+
+<BR>
+
+
+<HR SIZE=5 NOSHADE>
+<PAGE>
+
+
+
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Verint
+Systems Reports Record Fiscal 2004 Second Quarter Sales<BR>
+September 8,&#160; 2004<BR>
+Page 4 </B></FONT></P>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="600">
+ <TR>
+  <TD WIDTH="100%" COLSPAN="13" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Balance Sheet Highlights<BR></B>(In thousands)</FONT></P>
+  </TD>
+ </TR>
+ <TR>
+  <TD WIDTH="100%" COLSPAN="13" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="100%" COLSPAN="13" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="11%" COLSPAN="4" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>January 31,<BR>
+  2004</B></FONT></P>
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="11%" COLSPAN="4" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>July 31,<BR>
+  2004<BR>
+  (Unaudited)</B></FONT></P>
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="11%" COLSPAN="4" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="11%" COLSPAN="4" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=CENTER><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B><U>ASSETS</U></B></FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="2%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+<TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="2%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">CURRENT ASSETS:</FONT></DIV>
+  </TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="2%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="8%" COLSPAN="2" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="65%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Cash and cash equivalents</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="2%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">200,716</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="2%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">181,403</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="65%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Short-term investments</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">27,997</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">39,228</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="65%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Accounts receivable, net</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">33,654</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">41,459</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="65%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Inventories</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">15,833</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">13,953</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="65%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Prepaid expenses and other current assets</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">6,007</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">6,198</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">TOTAL CURRENT ASSETS</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">284,207</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">282,241</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">PROPERTY AND EQUIPMENT, net</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">14,129</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">16,043</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">INTANGIBLE ASSETS</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">2,051</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">10,769</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">GOODWILL</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">14,364</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">39,383</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">OTHER ASSETS</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">13,955</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">13,338</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">TOTAL ASSETS</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">328,706</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">361,774</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B><U>LIABILITIES
+  AND STOCKHOLDERS&#146; EQUITY</U></B></FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">CURRENT LIABILITIES:</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="65%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Accounts payable and accrued expenses</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">50,301</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">61,422</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="65%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Convertible note</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">2,200</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">&#151;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="65%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Current maturities of long-term bank loans</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">441</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">319</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="65%" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Advance payments from customers</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">26,701</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">34,389</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">TOTAL CURRENT LIABILITIES</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">79,643</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">96,130</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">LONG-TERM LIABILITIES</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">4,395</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">4,980</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">TOTAL LIABILITIES</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">84,038</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">101,110</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">STOCKHOLDERS&#146; EQUITY</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">244,668</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">260,664</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=1 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <DIV STYLE="MARGIN-LEFT:10PX;TEXT-INDENT:-10PX"><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">TOTAL LIABILITIES AND STOCKHOLDERS&#146; EQUITY</FONT></DIV></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">328,706</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">$</FONT></P></TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">361,774</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+ <TR>
+  <TD WIDTH="68%" COLSPAN="2" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="3%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="7%" VALIGN=BOTTOM>
+  <HR SIZE=3 NOSHADE>
+
+
+  </TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P ALIGN=RIGHT><FONT SIZE=1>&nbsp;</FONT></P></TD>
+  <TD WIDTH="1%" VALIGN=BOTTOM>
+  <P><FONT SIZE=1>&nbsp;</FONT></P></TD>
+ </TR>
+</TABLE>
+
+<P ALIGN=RIGHT><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"></FONT></P>
+
+<HR SIZE=5 NOSHADE>
+<PAGE>
+
+
+
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>Verint
+Systems Reports Record Fiscal 2004 Second Quarter Sales<BR>
+September 8,&#160; 2004<BR>
+Page 5</B></FONT></P>
+
+<P><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><B>About Verint Systems Inc.</B></FONT></P>
+
+<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Verint Systems Inc.,
+headquartered in Melville, New York, is a leading provider of analytic
+software-based solutions for communications interception, digital video
+security and surveillance, and enterprise business intelligence. Verint
+software, which is used by over 1,000 organizations in over 50 countries
+worldwide, generates actionable intelligence through the collection, retention
+and analysis of voice, fax, video, email, Internet and data transmissions from
+multiple communications networks. Verint is a subsidiary of Comverse Technology,
+Inc., (NASDAQ: CMVT).&#160; Visit us at our
+website <U>www.verintsystems.com</U>.</FONT></P>
+
+<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF">Note:
+Certain statements concerning Verint&#146;s future revenues, earnings per share,
+results or prospects are &#147;forward-looking statements&#148; under the Private
+Securities Litigation Reform Act of 1995.&#160;
+There can be no assurances that forward-looking statements will be
+achieved, and actual results could differ materially from forecasts and
+estimates. Important risks, uncertainties and other important factors that
+could cause actual results to differ materially include, among others: changes
+in the demand for Verint&#146;s products; further decline in information technology
+spending; risks associated with acquiring and integrating the assets and
+business acquired from ECtel and RP Security, including products
+and&nbsp;technologies, as well as retaining key employees and customers, which
+could result in a substantial diversion of management resources, the incurrence
+of contingent liabilities, amortization of certain identifiable intangible
+assets, research and development write-offs and other acquisition-related
+expenses; the uncertainty of customer acceptance of Verint&#146;s products;
+aggressive competition may force Verint to reduce prices; Verint&#146;s lengthy and
+variable sales cycle makes it difficult to predict operating results;
+dependence on contracts with governments for a significant portion of Verint&#146;s
+revenues; inability to expand gross margin by reducing hardware in its product
+offerings; markets for Verint&#146;s products failing to develop; risks that
+Verint&#146;s intellectual property rights may not be adequate to protect its
+business; risks associated with rapidly changing technology and the ability of
+Verint to introduce new products on a timely and cost-effective basis;
+inability to maintain relationships with value added resellers and systems
+integrators;&#160; risks associated with
+Verint&#146;s ability to retain existing personnel and recruit and retain qualified
+personnel; risks associated with changes in the competitive or regulatory
+environment in which Verint operates; risks associated with significant foreign
+operations, including fluctuations in foreign currency exchange rates; risks
+associated with Comverse Technology, Inc. controlling Verint&#146;s business and
+affairs; and other risks described in filings with the Securities and Exchange
+Commission.&#160; All documents are available
+through the SEC&#146;s Electronic Data Gathering Analysis and Retrieval system
+(EDGAR) at <I>www.sec.gov</I> or from
+Verint&#146;s website at <I>www.verint.com</I>.&#160; Verint makes no commitment to
+revise or update any forward-looking statements.</FONT></P>
+<P ALIGN=CENTER><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><I># # #</I></FONT></P>
+
+<P ALIGN=JUSTIFY><FONT SIZE=2 FACE="TIMES NEW ROMAN, TIMES, SERIF"><I>Verint,
+the Verint word mark, Actionable Intelligence, Powering Actionable
+Intelligence, STAR-GATE, RELIANT, LORONIX, SmartSight, Lanex and ULTRA are trademarks
+of Verint Systems Inc.&#160; Other names may
+be trademarks of their respective owners</I><I>.</I></FONT></P>
+
+
+<HR SIZE=5 NOSHADE>
+
+
+</DIV>
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>logo.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 logo.jpg
+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
+,%?C)_3`4444`?__9
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

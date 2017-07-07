@@ -1,0 +1,655 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GIFWLiLB+OJ2BfFdOY68MjW0L0cx4tnlpVHwCNKyPPwn9IWUtK6QYWtN3+DGxsEN
+ amUzbygmmSdni6azP/+sYQ==
+
+<SEC-DOCUMENT>0001047469-04-027903.txt : 20040902
+<SEC-HEADER>0001047469-04-027903.hdr.sgml : 20040902
+<ACCEPTANCE-DATETIME>20040902171824
+ACCESSION NUMBER:		0001047469-04-027903
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040901
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040902
+DATE AS OF CHANGE:		20040902
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VERITAS DGC INC
+		CENTRAL INDEX KEY:			0000028866
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL AND GAS FIELD EXPLORATION SERVICES [1382]
+		IRS NUMBER:				760343152
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07427
+		FILM NUMBER:		041014639
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10300 TOWN PARK DR
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77072
+		BUSINESS PHONE:		7135128300
+
+	MAIL ADDRESS:	
+		STREET 1:		10300 TOWN PARK DR
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77072
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DIGICON INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a2143055z8-k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML>
+<HEAD>
+
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" LINK=BLUE  VLINK=PURPLE>
+<BR>
+<FONT SIZE=3 ><A HREF="#04HOU1512_1">QuickLinks</A></FONT>
+<font size=3> -- Click here to rapidly navigate through this document</font>
+
+<P><FONT SIZE=2>
+<hr noshade width=100% align=left size=4>
+<hr noshade width=100% align=left size=1> </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=5><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>  </B></FONT><FONT SIZE=2><B>Washington, D.C. 20549  </B></FONT></P>
+
+<HR NOSHADE ALIGN="CENTER" WIDTH="120">
+<BR>
+<P ALIGN="CENTER"><FONT SIZE=5><B>FORM 8-K  </B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=3><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934  </B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>Date of report (Date of earliest event reported): </FONT><FONT SIZE=2><B>September&nbsp;1, 2004</B></FONT></P>
+
+<HR NOSHADE ALIGN="CENTER" WIDTH="120">
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="21%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="53%" ALIGN="CENTER"><BR><FONT SIZE=5><B>Veritas DGC&nbsp;Inc.</B></FONT><HR NOSHADE><FONT SIZE=2>(Exact Name of Registrant as Specified in Its Charter)</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="21%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="21%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="53%" ALIGN="CENTER"><BR><FONT SIZE=2><B>Delaware</B></FONT><HR NOSHADE><FONT SIZE=2> (State or Other Jurisdiction of Incorporation)</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="21%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="49%" ALIGN="CENTER"><BR><FONT SIZE=2><B>1-7427</B></FONT><HR NOSHADE><FONT SIZE=2> (Commission File Number)</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="49%" ALIGN="CENTER"><BR><FONT SIZE=2><B>76-0343152</B></FONT><HR NOSHADE><FONT SIZE=2> (I.R.S. Employer Identification No.)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="49%" ALIGN="CENTER"><BR><FONT SIZE=2><B>10300 Town Park<BR>
+Houston, Texas</B></FONT><HR NOSHADE><FONT SIZE=2> (Address of Principal Executive Offices)</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="49%" ALIGN="CENTER" VALIGN="BOTTOM"><BR><FONT SIZE=2><B>77072</B></FONT><HR NOSHADE><FONT SIZE=2> (Zip Code)</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<P ALIGN="CENTER"><FONT SIZE=2>Registrant's
+telephone number, including area code: </FONT><FONT SIZE=2><B>(832)&nbsp;351-8300</B></FONT></P>
+
+<P><FONT SIZE=2>Check
+the appropriate box below if the Form&nbsp;8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see
+General Instruction A.2. below): </FONT></P>
+
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2><FONT FACE="WINGDINGS">&#111;</FONT></FONT></DT><DD><FONT SIZE=2>Written
+communications pursuant to Rule&nbsp;425 under the Securities Act (17&nbsp;CFR&nbsp;230.425)
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2><FONT FACE="WINGDINGS">&#111;</FONT></FONT></DT><DD><FONT SIZE=2>Soliciting
+material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17&nbsp;CFR&nbsp;240.14a-12)
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2><FONT FACE="WINGDINGS">&#111;</FONT></FONT></DT><DD><FONT SIZE=2>Pre-commencement
+communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act
+(17&nbsp;CFR&nbsp;240.14d-2(b))
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2><FONT FACE="WINGDINGS">&#111;</FONT></FONT></DT><DD><FONT SIZE=2>Pre-commencement
+communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act
+(17&nbsp;CFR&nbsp;240.13e-4(c)) </FONT></DD></DL>
+<BR>
+
+<P><FONT SIZE=2><hr
+noshade width=100% align=left size=1>
+<hr noshade width=100% align=left size=4> </FONT></P>
+
+<HR NOSHADE>
+<P style='page-break-before:always'></p>
+<!-- ZEQ.=1,SEQ=1,EFW="2143055",CP="VERITAS DGC INC.",DN="1",CHK=524508,FOLIO='blank',FILE='DISK006:[04HOU2.04HOU1512]BA1512A.;5',USER='DCUSHIN',CD=';2-SEP-2004;15:47' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<!-- TOC_END -->
+
+<P><FONT SIZE=2><A
+NAME="de1512_item_2.02._results_of_o__de102017"> </A>
+<A NAME="toc_de1512_1"> </A>
+<BR></FONT><FONT SIZE=2><B>Item 2.02. Results of Operations and Financial Condition.    <BR>    </B></FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On September&nbsp;1, 2004, Registrant issued a press release that it will delay its earnings release and related teleconference previously scheduled for
+September&nbsp;2, 2004. Registrant also announced in the press release its expected range of earnings per share for the fourth quarter. A copy of the press release is attached as
+Exhibit&nbsp;99.1. </FONT></P>
+
+
+<P><FONT SIZE=2><A
+NAME="de1512_item_9.01_financial_statements_and_exhibits"> </A>
+<A NAME="toc_de1512_2"> </A>
+<BR></FONT><FONT SIZE=2><B>Item 9.01 Financial Statements and Exhibits    <BR>    </B></FONT></P>
+
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>(c)</FONT></DT><DD><FONT SIZE=2>Exhibit </FONT></DD></DL>
+<BR>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TH WIDTH="9%" ALIGN="LEFT"><FONT SIZE=1><B>Exhibit No.<BR> </B></FONT><HR NOSHADE></TH>
+<TH WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="89%" ALIGN="CENTER"><FONT SIZE=1><B>Description</B></FONT><HR NOSHADE></TH>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="9%"><FONT SIZE=2>99.1</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="89%"><FONT SIZE=2>Press release issued September 1, 2004</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE
+INFORMATION CONTAINED IN THIS CURRENT REPORT, INCLUDING THE EXHIBIT ATTACHED HERETO, SHALL NOT BE DEEMED "FILED" FOR THE PURPOSES OF SECTION 18 OF THE SECURITIES AND EXCHANGE ACT OF
+1934, AS AMENDED, NOR SHALL IT BE DEEMED INCORPORATED BY REFERENCE INTO ANY REGISTRATION
+STATEMENT OR OTHER FILING PURSUANT TO THE SECURITIES ACT OF 1933, AS AMENDED, EXCEPT AS OTHERWISE EXPRESSLY STATED IN SUCH FILING. </FONT></P>
+
+<HR NOSHADE>
+<P style='page-break-before:always'></p>
+<!-- ZEQ.=1,SEQ=2,EFW="2143055",CP="VERITAS DGC INC.",DN="1",CHK=477970,FOLIO='blank',FILE='DISK006:[04HOU2.04HOU1512]DE1512A.;3',USER='DCUSHIN',CD=';2-SEP-2004;15:39' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="jc1512_signatures"> </A>
+<A NAME="toc_jc1512_1"> </A>
+<BR></FONT><FONT SIZE=2><B>SIGNATURES    <BR>    </B></FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized. </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="6%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="41%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=2><B>VERITAS DGC&nbsp;INC.</B></FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="6%"><FONT SIZE=2><BR>
+Date:</FONT></TD>
+<TD WIDTH="41%"><FONT SIZE=2><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;September&nbsp;2, 2004</FONT><HR NOSHADE></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=2><BR>
+By:</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="41%"><FONT SIZE=2><BR>
+/s/ LARRY WORDEN</FONT><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="6%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="41%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=2>Name:</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="41%"><FONT SIZE=2>Larry Worden</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="6%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="41%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=2>Title:</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="41%"><FONT SIZE=2>Vice President, General Counsel and Secretary</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<HR NOSHADE>
+<P style='page-break-before:always'></p>
+<!-- ZEQ.=1,SEQ=3,EFW="2143055",CP="VERITAS DGC INC.",DN="1",CHK=117325,FOLIO='blank',FILE='DISK006:[04HOU2.04HOU1512]JC1512A.;3',USER='DCUSHIN',CD=';2-SEP-2004;15:47' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="ka1512_exhibit_index"> </A>
+<A NAME="toc_ka1512_1"> </A>
+<BR></FONT><FONT SIZE=2><B>EXHIBIT INDEX    <BR>    </B></FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TH WIDTH="9%" ALIGN="LEFT"><FONT SIZE=1><B>Exhibit No.<BR> </B></FONT><HR NOSHADE></TH>
+<TH WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="89%" ALIGN="CENTER"><FONT SIZE=1><B>Description</B></FONT><HR NOSHADE></TH>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="9%"><FONT SIZE=2>99.1</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="89%"><FONT SIZE=2>Press release issued September 1, 2004</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<HR NOSHADE>
+<P style='page-break-before:always'></p>
+<!-- ZEQ.=1,SEQ=4,EFW="2143055",CP="VERITAS DGC INC.",DN="1",CHK=335102,FOLIO='blank',FILE='DISK006:[04HOU2.04HOU1512]KA1512A.;3',USER='DCUSHIN',CD=';2-SEP-2004;15:39' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<BR>
+<P><br><A NAME="04HOU1512_1">QuickLinks</A><br></P><!-- TOC_BEGIN -->
+<UL>
+<FONT SIZE=2><A HREF="#toc_de1512_1">Item 2.02. Results of Operations and Financial Condition.</A></FONT><BR>
+<FONT SIZE=2><A HREF="#toc_de1512_2">Item 9.01 Financial Statements and Exhibits</A></FONT><BR>
+</UL>
+<!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_jc1512_1">SIGNATURES</A></FONT><BR>
+<!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_ka1512_1">EXHIBIT INDEX</A></FONT><BR>
+<!-- SEQ=,FILE='QUICKLINK',USER=DCUSHIN,SEQ=,EFW="2143055",CP="VERITAS DGC INC.",DN="1" -->
+<!-- TOCEXISTFLAG -->
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a2143055zex-99_1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" LINK=BLUE  VLINK=PURPLE>
+<BR>
+<FONT SIZE=3 ><A HREF="#04HOU1512_2">QuickLinks</A></FONT>
+<font size=3> -- Click here to rapidly navigate through this document</font>
+<!-- TOC_END -->
+<P ALIGN="RIGHT"><FONT SIZE=2><A
+NAME="la1512_exhibit_99.1"> </A>
+<A NAME="toc_la1512_1"> </A>
+<BR></FONT><FONT SIZE=2><B>Exhibit 99.1    <BR>    </B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2><B>
+<IMG SRC="g861611.jpg" ALT="GRAPHIC" WIDTH="118" HEIGHT="108">
+  </B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2><B>Veritas DGC&nbsp;Inc.<BR>
+Delays Fourth Quarter Earnings Release  </B></FONT></P>
+
+<P><FONT SIZE=2><B>HOUSTON</B></FONT><FONT SIZE=2>&#151;</FONT><FONT SIZE=2><B>September&nbsp;1, 2004</B></FONT><FONT SIZE=2>&#151;Veritas DGC&nbsp;Inc. (NYSE&nbsp;&amp; TSX:
+VTS) announced today that it will delay its earnings release and related teleconference previously scheduled for September&nbsp;2, 2004. </FONT></P>
+
+
+<P><FONT SIZE=2>In
+the process of completing the review of its fourth quarter results, the company identified on its balance sheet approximately $1.2&nbsp;million related to the depreciation of certain equipment
+placed in service more than five years ago which may not have been accounted for properly. The company is currently working to evaluate the correct treatment of the amount and has not yet completed
+its procedures with respect to its fourth quarter and fiscal 2004 financial results. The company cautions that its review of this matter is ongoing and additional adjustments may result from its
+review. The company will announce the new date of its earnings release and teleconference at a later time. </FONT></P>
+
+<P><FONT SIZE=2>The
+company stated that it expects that its earnings per share for the fourth quarter will be in the range of $0.08 to $0.10 per fully diluted common share. This expected range of earnings includes
+the effect of recording, in the fourth quarter, management's current estimate of the earnings impact of the depreciation issue and is based upon the procedures completed to date but does not take into
+account the potential effect of any other adjustments that could occur as a result of completion of the company's procedures or the audit by its independent auditors. </FONT></P>
+
+<P><FONT SIZE=2>Thierry
+Pilenko, Chairman and CEO said, "Although our multi-client business performed well during the fourth quarter, our results will reflect a difficult quarter in our contract business caused
+primarily by unfavorable weather conditions." </FONT></P>
+
+<P><FONT SIZE=2>This
+press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on management's current expectations and
+beliefs and are subject to a number of factors and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. These statements are not
+guarantees of future performance, involve certain risks, uncertainties, and assumptions that are difficult to predict, and are based upon assumptions as to future events that may not prove accurate.
+Therefore, actual outcomes and results may differ materially from what is expressed herein. Factors discussed in Veritas' periodic filings with the SEC, including its Annual Reports on
+Form&nbsp;10-K, most recent Quarterly Reports on Form&nbsp;10-Q and Current Reports on Form&nbsp;8-K as well as the effects of the company's ongoing internal
+review of its financial results, could cause actual results to differ materially from those described in the forward-looking statements. Veritas is under no obligation to (and expressly disclaims any
+such obligation to) update or alter its forward-looking statements whether as a result of new information, future events or otherwise. </FONT></P>
+
+<P><FONT SIZE=2>Veritas
+DGC&nbsp;Inc., headquartered in Houston, Texas, is a leading provider of integrated geophysical, geological and reservoir technologies to the petroleum industry worldwide. </FONT></P>
+
+<P><FONT SIZE=2>For
+additional information regarding Veritas DGC&nbsp;Inc., please visit its website at www.veritasdgc.com or contact: </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<DIV ALIGN="CENTER"><TABLE WIDTH="74%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TD WIDTH="77%" VALIGN="TOP"><FONT SIZE=2>Mindy Ingle, Investor Relations</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="20%" ALIGN="RIGHT" VALIGN="TOP"><FONT SIZE=2>(832)&nbsp;351-8821</FONT></TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD WIDTH="77%" VALIGN="TOP"><FONT SIZE=2>Mark E. Baldwin, Executive Vice President,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Chief Financial Officer&nbsp;&amp; Treasurer</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+</TABLE></DIV>
+<!-- end of user-specified TAGGED TABLE -->
+
+<HR NOSHADE>
+<P style='page-break-before:always'></p>
+<!-- ZEQ.=1,SEQ=1,EFW="2143055",CP="VERITAS DGC INC.",DN="2",CHK=71314,FOLIO='blank',FILE='DISK006:[04HOU2.04HOU1512]LA1512A.;3',USER='DCUSHIN',CD=';2-SEP-2004;16:04' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<BR>
+<P><br><A NAME="04HOU1512_2">QuickLinks</A><br></P><!-- TOC_BEGIN -->
+<UL>
+<FONT SIZE=2><A HREF="#toc_la1512_1">Exhibit 99.1</A></FONT><BR>
+</UL>
+<!-- SEQ=,FILE='QUICKLINK',USER=DCUSHIN,SEQ=,EFW="2143055",CP="VERITAS DGC INC.",DN="2" -->
+<!-- TOCEXISTFLAG -->
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g861611.jpg
+<DESCRIPTION>G861611.JPG
+<TEXT>
+begin 644 g861611.jpg
+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
+..*4I2E*4I2E*4I2E?_]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

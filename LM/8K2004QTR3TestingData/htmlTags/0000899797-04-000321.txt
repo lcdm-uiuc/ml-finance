@@ -1,0 +1,3517 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RfxvJvZwlLL/6RDKU/SKuWlCPEsC6/p0PxwxEcGnobZdTiSC9aWf9qbKL9UmP5Mn
+ zJ8d1M0SSdPMVTOxsRrOiQ==
+
+<SEC-DOCUMENT>0000899797-04-000321.txt : 20040827
+<SEC-HEADER>0000899797-04-000321.hdr.sgml : 20040827
+<ACCEPTANCE-DATETIME>20040827150951
+ACCESSION NUMBER:		0000899797-04-000321
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20040824
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20040827
+DATE AS OF CHANGE:		20040827
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREAT LAKES BANCORP INC
+		CENTRAL INDEX KEY:			0001217730
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTION, FEDERALLY CHARTERED [6035]
+		IRS NUMBER:				134237490
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50267
+		FILM NUMBER:		041002327
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2421 MAIN STREET
+		CITY:			BUFFALO
+		STATE:			NY
+		ZIP:			14214
+		BUSINESS PHONE:		7169611900
+
+	MAIL ADDRESS:	
+		STREET 1:		2421 MAIN STREET
+		CITY:			BUFFALO
+		STATE:			NY
+		ZIP:			14214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Form 8-K</title>
+</head>
+
+<body>
+
+<b>
+<blockquote>
+  <blockquote>
+<p ALIGN="CENTER">UNITED STATES<br>
+SECURITIES AND EXCHANGE COMMISSION<br>
+WASHINGTON, DC 20549</p>
+  </blockquote>
+</blockquote>
+</b>
+<p ALIGN="JUSTIFY"></p>
+<p ALIGN="JUSTIFY">&nbsp;</p>
+<font SIZE="5"><b>
+<p ALIGN="CENTER">FORM 8-K</p>
+</b></font>
+<p ALIGN="JUSTIFY"></p>
+<p ALIGN="JUSTIFY">&nbsp;</p>
+<b>
+<p ALIGN="CENTER">CURRENT REPORT PURSUANT<br>
+TO SECTION 13 OR 15(D) OF THE<br>
+SECURITIES EXCHANGE ACT OF 1934</p>
+</b>
+<p ALIGN="JUSTIFY"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date of report (Date of earliest event reported) <u>August
+26, 2004</u></p>
+<div align="center">
+  <center>
+  <table border="0" width="672" id="AutoNumber1" style="text-align: center" cellspacing="0" cellpadding="0">
+    <tr>
+      <td height="18" style="border-bottom: 1px solid #000000" colspan="2" width="672" valign="bottom">
+<p style="margin-top: 0; margin-bottom: 0">GREAT LAKES BANCORP, INC.</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="19" colspan="2" width="672">
+<p style="margin-top: 0; margin-bottom: 0">
+<font SIZE="3">
+(Exact Name of Registrant as Specified in Its Charter)</font></p>
+      </td>
+    </tr>
+    <tr>
+      <td height="1" colspan="2" width="672">
+<p style="margin-top: 0; margin-bottom: 0"></p>
+      </td>
+    </tr>
+    <tr>
+      <td height="19" colspan="2" width="672">&nbsp;</td>
+    </tr>
+    <tr>
+      <td height="19" style="border-bottom: 1px solid #000000" colspan="2" width="672">
+<p style="margin-top: 0; margin-bottom: 0">DELAWARE</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="19" colspan="2" width="672">
+<p style="margin-top: 0; margin-bottom: 0">
+<font SIZE="3">
+(State or Other Jurisdiction of Incorporation)</font></p>
+      </td>
+    </tr>
+    <tr>
+      <td height="1" colspan="2" width="672">
+<p style="margin-top: 0; margin-bottom: 0"></p>
+      </td>
+    </tr>
+    <tr>
+      <td height="19" width="316" valign="bottom">&nbsp;</td>
+      <td height="19" width="356">&nbsp;</td>
+    </tr>
+    <tr>
+      <td height="19" width="316" style="border-bottom: 1px solid #000000" valign="bottom">
+<p style="margin-top: 0; margin-bottom: 0">000-50267 </p>
+      </td>
+      <td height="19" width="356" style="border-bottom: 1px solid #000000">
+      <p style="margin-top: 0; margin-bottom: 0">13-4237490</td>
+    </tr>
+    <tr>
+      <td height="19" width="316">
+<p style="margin-top: 0; margin-bottom: 0">
+<font SIZE="3">
+(Commission File Number)
+</font>
+      </p>
+      </td>
+      <td height="19" width="356">
+      <p style="margin-top: 0; margin-bottom: 0">
+<font SIZE="3">
+      (IRS Employer Identification No.)</font></td>
+    </tr>
+    <tr>
+      <td height="1" colspan="2" width="672">
+<p ALIGN="JUSTIFY" style="margin-top: 0; margin-bottom: 0"></p>
+      </td>
+    </tr>
+    <tr>
+      <td height="1" colspan="2" width="672">
+<p style="margin-top: 0; margin-bottom: 0"></p>
+      </td>
+    </tr>
+    <tr>
+      <td height="19" width="336" valign="bottom">&nbsp;</td>
+      <td height="19" width="336">&nbsp;</td>
+    </tr>
+    <tr>
+      <td height="19" width="336" style="border-bottom: 1px solid #000000" valign="bottom">
+<p style="margin-top: 0; margin-bottom: 0">2421 Main Street, Buffalo, New York </p>
+      </td>
+      <td height="19" width="336" style="border-bottom: 1px solid #000000">
+      <p style="margin-top: 0; margin-bottom: 0">14214</td>
+    </tr>
+    <tr>
+      <td height="19" width="336">
+<p style="margin-top: 0; margin-bottom: 0">
+<font SIZE="3">
+(Address of Principal Executive Offices)
+</font>
+      </p>
+      </td>
+      <td height="19" width="336">
+      <p style="margin-top: 0; margin-bottom: 0">
+<font SIZE="3">
+      (Zip Code)</font></td>
+    </tr>
+    <tr>
+      <td height="1" colspan="2" width="672">
+<p ALIGN="JUSTIFY" style="margin-top: 0; margin-bottom: 0"></p>
+      </td>
+    </tr>
+    <tr>
+      <td height="19" colspan="2" width="672">&nbsp;</td>
+    </tr>
+    <tr>
+      <td height="19" colspan="2" width="672" style="border-bottom: 1px solid #000000">
+<p style="margin-top: 0; margin-bottom: 0">(716) 961-1900</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="19" colspan="2" width="672">
+<p style="margin-top: 0; margin-bottom: 0">
+<font SIZE="3">
+(Registrant's Telephone Number, Including Area Code)</font></p>
+      </td>
+    </tr>
+    <tr>
+      <td height="1" colspan="2" width="672">
+<p style="margin-top: 0; margin-bottom: 0"></p>
+      </td>
+    </tr>
+    <tr>
+      <td height="19" colspan="2" width="672">&nbsp;</td>
+    </tr>
+    <tr>
+      <td height="19" colspan="2" width="672" style="border-bottom: 1px solid #000000">
+<p style="margin-top: 0; margin-bottom: 0">Not Applicable</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="19" colspan="2" width="672">
+<p style="margin-top: 0; margin-bottom: 0">
+<font SIZE="3">
+(Former Name or Former Address, if Changed Since Last Report)</font></p>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p ALIGN="JUSTIFY"></p>
+<p ALIGN="JUSTIFY">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check the appropriate box below if the Form 8-K filing is
+intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (<i>see </i>General Instruction A.2. below):</p>
+<p ALIGN="JUSTIFY"></p>
+<p ALIGN="JUSTIFY">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [&nbsp;&nbsp;] Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)</p>
+<p ALIGN="JUSTIFY"></p>
+<p ALIGN="JUSTIFY">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [&nbsp;&nbsp;] Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)</p>
+<p ALIGN="JUSTIFY"></p>
+<p ALIGN="JUSTIFY">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [&nbsp;&nbsp;] Pre-commencement communications pursuant to Rule
+14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</p>
+<p ALIGN="JUSTIFY"></p>
+<p ALIGN="JUSTIFY">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [&nbsp;&nbsp;] Pre-commencement communications pursuant to Rule
+13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</p>
+<p ALIGN="JUSTIFY"></p>
+<font FACE="CG Times" SIZE="2">
+<P style=PAGE-BREAK-BEFORE:always>
+<p>&nbsp;</p>
+</font>
+<table CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="457">
+  <tr>
+    <td WIDTH="17%" VALIGN="TOP"><b>Item 2.02</b></td>
+    <td WIDTH="3%" VALIGN="TOP">&nbsp;</td>
+    <td WIDTH="79%" VALIGN="TOP">Results of Operations and Financial Condition.
+    and</td>
+  </tr>
+  <tr>
+    <td WIDTH="17%" VALIGN="TOP"><b>Item 8.01</b></td>
+    <td WIDTH="3%" VALIGN="TOP">&nbsp;</td>
+    <td WIDTH="79%" VALIGN="TOP">Other Events</td>
+  </tr>
+  <tr>
+    <td WIDTH="17%" VALIGN="TOP">&nbsp;</td>
+    <td WIDTH="3%" VALIGN="TOP">&nbsp;</td>
+    <td WIDTH="79%" VALIGN="TOP">&nbsp;</td>
+  </tr>
+</table>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On August 26, 2004, Great Lakes Bancorp, Inc. issued a report to
+shareholders, announcing financial results for the quarter ended June 30, 2004.
+The report is annexed as Exhibit 99.1 to this Current Report on Form 8-K.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The information contained in this Form 8-K and the Exhibit annexed hereto
+shall not be deemed &quot;filed&quot; for purposes of Section 18 of the Securities
+Exchange Act of 1934, as amended, nor shall it be deemed incorporated by
+reference into any filing under the Securities Act of 1933, as amended, except
+as shall be expressly set forth in such filing.</p>
+<b><font FACE="CG Times" SIZE="2">
+<p>&nbsp;</p>
+</font>
+<blockquote>
+  <blockquote>
+<p ALIGN="CENTER">SIGNATURES</p>
+  </blockquote>
+</blockquote>
+</b><font FACE="CG Times" SIZE="2">
+<p>&nbsp;</p>
+</font>
+<p ALIGN="JUSTIFY">Pursuant to the requirements of the Securities Exchange Act
+of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.</p>
+<p>&nbsp;</p>
+<table border="0" width="672" id="AutoNumber2" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="321">&nbsp;</td>
+    <td width="341" colspan="2">Great Lakes Bancorp, Inc.</td>
+  </tr>
+  <tr>
+    <td width="321">&nbsp;</td>
+    <td width="341" colspan="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="321">&nbsp;</td>
+    <td width="341" colspan="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="321">Date: August 26, 2004 </td>
+    <td width="28">By: </td>
+    <td width="313" style="border-bottom: 1px solid #000000">/s/ Kim S. Destro</td>
+  </tr>
+  <tr>
+    <td width="321">&nbsp;</td>
+    <td width="321" colspan="2">Name: Kim S. Destro</td>
+  </tr>
+  <tr>
+    <td width="321">&nbsp;</td>
+    <td width="321" colspan="2">Title: Vice President &amp; Chief Financial Officer</td>
+  </tr>
+</table>
+<font FACE="CG Times" SIZE="2">
+<p></p>
+<p></p>
+<p></p>
+</font>
+<p>&nbsp;</p>
+<table CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="600">
+  <tr>
+    <td WIDTH="16%" VALIGN="TOP"><font SIZE="2"><b>Exhibit<br>
+    <u>Number</u></b></font></td>
+    <td WIDTH="84%" VALIGN="bottom"><font SIZE="2"><u><b>
+    <p ALIGN="CENTER">Description</b></u></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="16%" VALIGN="TOP">&nbsp;</td>
+    <td WIDTH="84%" VALIGN="TOP">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="16%" VALIGN="TOP"><font SIZE="2">99.1</font></td>
+    <td WIDTH="84%" VALIGN="TOP"><font SIZE="2">2nd Quarter 2004 Report to
+    Shareholders, issued August 26, 2004.</font></td>
+  </tr>
+</table>
+<p ALIGN="JUSTIFY">&nbsp;</p>
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit99_1.htm
+<DESCRIPTION>EXHIBIT 99.1 - 2ND QUARTER 2004 REPORT
+<TEXT>
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Exhibit</title>
+</head>
+
+<body>
+
+<a name="page_1"></a>
+<p align="right"><font face="sans-serif">VOL 5&nbsp;&nbsp; ISSUE 2</font> </p>
+<p><sup><font size="7" face="sans-serif">&gt;T H E</font></sup>
+<img src="exhibitx1x1.jpg" border="0" align="right" width="112" height="83"></p>
+<p><font size="7" face="sans-serif">Shareholder </font></p>
+<table border="0" cellspacing="0" width="672" cellpadding="0" id="AutoNumber1">
+  <tr>
+    <td width="194" colspan="2">&nbsp;</td>
+    <td width="478" style="border-bottom: 1px solid #000000" colspan="2">
+    <p align="right"><font color="#292526" size="2" face="sans-serif">2 n d Q u a r t e r 2 0 0 4
+R e p o r t </font><font face="sans-serif">| </font><b>
+<font color="#292526" size="2" face="sans-serif">G r e a t L a k e s B a n c o r
+p , I n c .</font></b> </td>
+  </tr>
+  <tr>
+    <td width="194" colspan="2"><b><font size="5" face="sans-serif">2nd Quarter</font></b></td>
+    <td width="478" colspan="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="194" colspan="2" valign="top"><font size="6" face="sans-serif">Highlights:</font></td>
+    <td width="478" style="border-bottom: 1px solid #000000" colspan="2">
+    <p align="left" style="margin-left: 12"><b><font size="5" face="sans-serif">Bank Grows to $494 Million; <br>
+Earns $1.3 Million Year to Date.</font></b><font size="5"> </font></td>
+  </tr>
+  <tr>
+    <td width="36" valign="top">&nbsp;<br>
+    &#8226<p><br>
+    <br>
+    &nbsp;&#8226</p>
+    <p><br>
+    &nbsp;&#8226</p>
+    <br>
+    &nbsp;&#8226<p><br>
+    &nbsp;&#8226</p>
+    </td>
+    <td width="158" valign="top">
+    <font face="sans-serif">7th Full-Service Office Opens in Town of Tonawanda</font><p><font face="sans-serif">$12 Million of Additional Capital
+    Raised</font></p>
+    <font face="sans-serif">Assets Increase by $79.5 Million</font><p><font face="sans-serif">Deposits Increase by $17.1 Million</font></p>
+    <font face="sans-serif">Loans Increase by $20.2 Million</font></td>
+    <td width="478" valign="top" colspan="2">
+    <p align="justify" style="margin-left: 12; margin-top:12"><font color="#292526" size="2" face="sans-serif">During the second quarter,
+assets increased by over $79 million and totaled $494 million at the end of
+June. Asset growth continued to be driven by strong core deposit growth. In
+addition, the Bank's capital increased by over $16 million during the second
+quarter as a result of the completion of the common stock offering to existing
+shareholders in April, and the successful issuance of $12 million of Trust
+Preferred securities in June. We also completed our first equity enhancement
+strategy in May when we borrowed $50 million, which we invested in securities
+with a significant margin over our borrowing costs. All of this resulted in a
+19% increase in assets in the second quarter. Over the last 12 months, the
+Bank's assets have increased by more than $200 million or 68%. Since June 30,
+2003, deposits have grown by $120 million, shareholder equity has increased by
+$29 million and we have added $50 million worth of debt, which was deployed to
+leverage our increased capital and enhance our earnings.</font>
+    <p align="justify" style="margin-left: 12"><font color="#292526" size="2" face="sans-serif">Earnings for the first six
+months totaled almost $1.3 million after tax and exceeded $2 million before tax:
+a 123% increase over the same period in 2003. Earnings for the second quarter of
+$626 thousand (or $.16 a share) represented an increase of over 41% over the
+second quarter of 2003.</font> <br>
+&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="36" valign="top">&#149<p><br>
+    &nbsp;&#8226</p>
+    <p>
+    <br>
+    &nbsp;&#8226</p>
+    <p>&nbsp;</td>
+    <td width="158" valign="top">
+    <p><font face="sans-serif">2nd Quarter Profit of $625 Thousand</font></p>
+    <p>
+    <font face="sans-serif">Year-to-Date Profit of $1.3 Million</font></p>
+    <p><font face="sans-serif">Tiered Savings Account Launched</font><p>&nbsp;</td>
+    <td width="193" valign="top">
+    <p align="center">
+    <img src="exhibitx1x2.jpg" border="0" width="178" height="166" align="left"></td>
+    <td width="285" valign="top">
+    <p align="center">
+    <img src="exhibitx1x3.jpg" border="0" width="182" height="161"></td>
+  </tr>
+  <tr>
+    <td width="36" valign="top">&nbsp;</td>
+    <td width="158" valign="top">
+    &nbsp;</td>
+    <td width="478" valign="top" colspan="2" style="border-bottom: 1px solid #000000">
+    <b><font size="5" face="sans-serif">$12 Million of Additional Capital Raised.</font></b> </td>
+  </tr>
+  <tr>
+    <td width="36" valign="top">&nbsp;</td>
+    <td width="158" valign="top">
+    &nbsp;</td>
+    <td width="478" valign="top" colspan="2">
+    <p align="justify"><font color="#292526" size="2" face="sans-serif">Great Lakes Bancorp boosted
+its capital in June by issuing a form of debt security known as trust preferred
+securities ("TRUPS"). The Federal Reserve Bank allows bank holding companies to
+consider TRUPS as primary capital so long as such securities do not exceed 25%
+of a holding company's total equity. Great Lakes issued $12 million in TRUPS and
+immediately added that amount to the capital of Greater Buffalo Savings Bank.
+This increases the Bank's capital accounts, as of June 30, 2004, to a total of
+$46 million, which consists of $34 million in shareholder equity and the
+proceeds from the $12 million TRUPS issue. This additional capital will allow
+the bank to continue its present pace of expansion while maintaining a good
+capital position as required by regulation.</font> </td>
+  </tr>
+  </table>
+<hr noshade align="center" width="100%" size="2"><a name="page_2"></a>
+<a name="page_1"></a><a name="page_2"></a>
+<table width="672" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2" width="101%">
+    <p style="margin-top: 0; margin-bottom: 0"><b>
+    <font size="6" face="sans-serif">Two new accounts with</font></b><font size="6">
+    </font><b><font size="6" face="sans-serif">just rewards.</font></b></td>
+  </tr>
+  <tr>
+    <td align="justify" valign="top">
+    <p style="margin: 0 12"><font color="#292526" size="2" face="sans-serif">The
+    Bank unveiled two brand new accounts in August &#150 our TIEREDsavings and
+    TOTALbanking accounts. With TIEREDsavings, higher balances are rewarded with
+    higher interest rates. It gives customers yet another incentive to save,
+    earning up to 3.00% APY.</font></td>
+    <td width="51%" align="justify">
+    <p style="margin: 0 12"><font color="#292526" size="2" face="sans-serif">Our
+    TOTALbanking account eliminates the need for</font></p>
+    <p style="margin: 0 12"><font color="#292526" size="2" face="sans-serif">
+    separate checking and savings accounts, maximizing your financial return and
+    earning up to 3.00% APY.</font></p>
+    <p style="margin: 0 12" align="justify">&nbsp;</p>
+    <p style="margin: 0 12" align="justify">
+    <font color="#292526" size="2" face="sans-serif">Both accounts are exclusive
+    to Greater Buffalo Savings Bank, which is just another reason why <b>"You're
+    worth more here."</b></font></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="705" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="321" colspan="10"><b><font face="sans-serif" size="6">TIERED</font><font size="6">savings</font></b></td>
+    <td width="20">&nbsp;</td>
+    <td align="center" colspan="11" width="394"><b>
+    <font size="6" face="sans-serif">TOTAL</font><font size="6" face="serif">banking</font></b></td>
+  </tr>
+  <tr>
+    <td width="9">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="35">&nbsp;</td>
+    <td width="11">&nbsp;</td>
+    <td width="14">&nbsp;</td>
+    <td width="251" colspan="5"><font size="4" face="sans-serif">A C C O U N T</font></td>
+    <td width="20">&nbsp;</td>
+    <td width="40">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="91">&nbsp;</td>
+    <td width="7">&nbsp;</td>
+    <td width="247" colspan="5"><font size="4" face="sans-serif">A C C O U N T</font></td>
+  </tr>
+  <tr>
+    <td width="9">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="35">&nbsp;</td>
+    <td width="11">&nbsp;</td>
+    <td width="14">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="65">&nbsp;</td>
+    <td width="12">&nbsp;</td>
+    <td width="123">&nbsp;</td>
+    <td width="20">&nbsp;</td>
+    <td width="40">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="91">&nbsp;</td>
+    <td width="7">&nbsp;</td>
+    <td width="56">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="13">&nbsp;</td>
+    <td width="15">&nbsp;</td>
+    <td width="168">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="9">&nbsp;</td>
+    <td colspan="9" width="312"><b><font face="serif">The more you save, the
+    more you earn.</font></b></td>
+    <td width="20">&nbsp;</td>
+    <td colspan="11" width="394"><b><font face="serif">The checking account for
+    savers.</font></b></td>
+  </tr>
+  <tr>
+    <td width="9">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="35">&nbsp;</td>
+    <td width="11">&nbsp;</td>
+    <td width="14">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="65">&nbsp;</td>
+    <td width="12">&nbsp;</td>
+    <td width="123">&nbsp;</td>
+    <td width="20">&nbsp;</td>
+    <td width="40">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="91">&nbsp;</td>
+    <td width="7">&nbsp;</td>
+    <td width="56">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="13">&nbsp;</td>
+    <td width="15">&nbsp;</td>
+    <td width="168">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" width="53" style="border-bottom: 1px solid #000000"><b>
+    <font size="1" face="sans-serif">Balance</font></b></td>
+    <td width="11" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="14" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="108" style="border-bottom: 1px solid #000000" colspan="3">
+    <p align="center"><b><font size="1" face="sans-serif">Interest Rate</font></b></td>
+    <td width="135" style="border-bottom: 1px solid #000000" colspan="2">
+    <p align="center"><b><font size="1" face="sans-serif">Annual Percentage<br>
+&nbsp;Yield (APY)</font></b></td>
+    <td width="20">&nbsp;</td>
+    <td width="40" style="border-bottom: 1px solid #000000"><b>
+    <font size="1" face="sans-serif">Balance</font></b></td>
+    <td width="8" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="8" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="9" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="91" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="7" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="56" style="border-bottom: 1px solid #000000"><b>
+    <font size="1" face="sans-serif">Interest Rate</font></b></td>
+    <td colspan="4" width="198" style="border-bottom: 1px solid #000000">
+    <p align="center"><b><font size="1" face="sans-serif">Annual Percentage <br>
+    Yield (APY)</font></b></td>
+  </tr>
+  <tr>
+    <td width="9"><sup><font size="2" face="sans-serif">&lt;</font></sup></td>
+    <td width="9"><font size="2" face="sans-serif">$</font></td>
+    <td width="35"><font size="2" face="sans-serif">9,999</font></td>
+    <td width="11">&nbsp;</td>
+    <td width="14">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="75" colspan="2">
+    <p align="center"><font size="2" face="sans-serif">1.192%</font></td>
+    <td width="12">&nbsp;</td>
+    <td width="123" align="center"><font size="2" face="sans-serif">1.20%</font></td>
+    <td width="20">&nbsp;</td>
+    <td width="156" colspan="5"><font size="2" face="sans-serif">$1,000-$9,999</font></td>
+    <td width="59" colspan="2" align="center"><font size="2" face="sans-serif">
+    1.192%</font></td>
+    <td width="9">&nbsp;</td>
+    <td width="13">&nbsp;</td>
+    <td width="183" colspan="2" align="center"><font size="2" face="sans-serif">
+    1.20%</font></td>
+  </tr>
+  <tr>
+    <td colspan="6" width="119"><font size="2" face="sans-serif">$10,000-$49,999</font></td>
+    <td width="75" colspan="2">
+    <p align="center"><font size="2" face="sans-serif">1.489%</font></td>
+    <td width="12">&nbsp;</td>
+    <td width="123" align="center"><font size="2" face="sans-serif">1.50%</font></td>
+    <td width="20">&nbsp;</td>
+    <td width="156" colspan="5"><font size="2" face="sans-serif">$10,000-$49,999</font></td>
+    <td width="59" colspan="2" align="center"><font size="2" face="sans-serif">
+    1.489%</font></td>
+    <td width="9">&nbsp;</td>
+    <td width="13">&nbsp;</td>
+    <td width="183" colspan="2" align="center"><font size="2" face="sans-serif">
+    1.50%</font></td>
+  </tr>
+  <tr>
+    <td colspan="6" width="119"><font size="2" face="sans-serif">$50,000-$74,999</font></td>
+    <td width="75" colspan="2">
+    <p align="center"><font size="2" face="sans-serif">2.469%</font></td>
+    <td width="12">&nbsp;</td>
+    <td width="123" align="center"><font size="2" face="sans-serif">2.50%</font></td>
+    <td width="20">&nbsp;</td>
+    <td width="156" colspan="5"><font size="2" face="sans-serif">$50,000-$74,999</font></td>
+    <td width="59" colspan="2" align="center"><font size="2" face="sans-serif">
+    2.469%</font></td>
+    <td width="9">&nbsp;</td>
+    <td width="13">&nbsp;</td>
+    <td width="183" colspan="2" align="center"><font size="2" face="sans-serif">
+    2.50%</font></td>
+  </tr>
+  <tr>
+    <td colspan="6" width="119"><font size="2" face="sans-serif">$75,000-$99,999</font></td>
+    <td width="75" colspan="2">
+    <p align="center"><font size="2" face="sans-serif">2.616%</font></td>
+    <td width="12">&nbsp;</td>
+    <td width="123" align="center"><font size="2" face="sans-serif">2.65%</font></td>
+    <td width="20">&nbsp;</td>
+    <td width="156" colspan="5"><font size="2" face="sans-serif">$75,000-$99,999</font></td>
+    <td width="59" colspan="2" align="center"><font size="2" face="sans-serif">
+    2.616%</font></td>
+    <td width="9">&nbsp;</td>
+    <td width="13">&nbsp;</td>
+    <td width="183" colspan="2" align="center"><font size="2" face="sans-serif">
+    2.65%</font></td>
+  </tr>
+  <tr>
+    <td colspan="7" width="121">
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    $100,000-$249,999</font></td>
+    <td width="65" align="center"><font size="2" face="sans-serif">2.713%</font></td>
+    <td width="12">&nbsp;</td>
+    <td width="123" align="center"><font size="2" face="sans-serif">2.75%</font></td>
+    <td width="20">&nbsp;</td>
+    <td colspan="5" width="156"><font size="2" face="sans-serif">
+    $100,000-$249,999</font></td>
+    <td width="59" colspan="2" align="center"><font size="2" face="sans-serif">
+    2.713%</font></td>
+    <td width="9">&nbsp;</td>
+    <td width="13">&nbsp;</td>
+    <td width="183" colspan="2" align="center"><font size="2" face="sans-serif">
+    2.75%</font></td>
+  </tr>
+  <tr>
+    <td colspan="3" width="53"><font size="2" face="sans-serif">$250,000+</font></td>
+    <td width="11">&nbsp;</td>
+    <td width="14">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="65" align="center"><font size="2" face="sans-serif">2.956%</font></td>
+    <td width="12">&nbsp;</td>
+    <td width="123" align="center"><font size="2" face="sans-serif">3.00%</font></td>
+    <td width="20">&nbsp;</td>
+    <td colspan="5" width="156"><font size="2" face="sans-serif">$250,000+</font></td>
+    <td width="59" colspan="2" align="center"><font size="2" face="sans-serif">
+    2.956%</font></td>
+    <td width="9">&nbsp;</td>
+    <td width="13">&nbsp;</td>
+    <td width="183" colspan="2" align="center"><font size="2" face="sans-serif">
+    3.00%</font></td>
+  </tr>
+  <tr>
+    <td width="9">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="35">&nbsp;</td>
+    <td width="11">&nbsp;</td>
+    <td width="14">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="65">&nbsp;</td>
+    <td width="12">&nbsp;</td>
+    <td width="123">&nbsp;</td>
+    <td width="20">&nbsp;</td>
+    <td width="40">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="91">&nbsp;</td>
+    <td width="7">&nbsp;</td>
+    <td width="56">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="13">&nbsp;</td>
+    <td width="15">&nbsp;</td>
+    <td width="168">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="706" colspan="22">
+    <p align="center"><font size="2" face="sans-serif">Rates guaranteed through
+    1/31/05.</font></td>
+  </tr>
+</table>
+<p><b><font size="1" face="sans-serif">Tiered Savings </font></b>
+<font size="1" face="sans-serif">This is a variable rate passbook savings
+account and the rates may change after the account is opened. A minimum deposit
+of $50 is required to open a Tiered Savings Account. A minimum daily balance of
+$10 is required to earn interest on this account. The APY for the tiers are as
+of July 6, 2004. Fees may reduce the stated APY you will earn on the account.</font><font size="1">
+</font></p>
+<p><b><font size="1" face="sans-serif">Total Banking </font></b>
+<font size="1" face="sans-serif">This is a variable rate checking account and
+the rates may change after the account is opened. A minimum deposit of $1,000 is
+required to open a Total Banking Account. A minimum daily balance of $1,000 is
+required to earn interest on this account. The APY for the tiers are as of July
+6, 2004. Fees may reduce the stated APY you will earn on the account.</font><font size="1">
+</font></p>
+<p><font size="1" face="sans-serif">Please stop by any office for complete
+disclosures related to these or any of our other product offerings.</font><font size="1">
+</font></p>
+<table border="0" cellspacing="1" width="672" id="AutoNumber2">
+  <tr>
+    <td style="border-bottom: 1px solid #000000"><font size="6" face="Arial">Ad
+    campaign invites Buffalo to &quot;come home.&quot;</font></td>
+  </tr>
+</table>
+<p><img src="gocx2x1.jpg" border="0" align="right" width="242" height="167"></p>
+<p align="justify"><font color="#292526" size="2" face="sans-serif">In a
+competitive banking marketplace, the incredible customer service our bank
+provides is a significant point of difference. Recent efforts to deliver this
+message in an even stronger fashion have resulted in our latest campaign, which
+drives home the fact that we're Buffalo's only locally owned bank, with the
+knowledge and determination to provide our customers with the service and
+products they deserve.</font> </p>
+<p align="justify"><font color="#292526" size="2" face="sans-serif">The key
+line, "Buffalo, it's time to come home to Greater Buffalo Savings Bank,"
+reflects the warmth and personality of the Bank, conveying its devotion to
+customer service with a personal invitation from president Andy Dorn. Utilizing
+a variety of marketing mediums gives us maximum visibility and the strongest
+possible delivery of our message. From television and radio to outdoor and print
+advertising, we've created an elaborate invitation for Buffalonians to </font>
+<b><font color="#292526" size="2" face="sans-serif">"come home."</font></b> </p>
+<hr noshade align="center" width="100%" size="2"><a name="page_3"></a>
+<a name="page_1"></a><a name="page_2"></a><a name="page_3"></a>
+<table width="672" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border-bottom-width: 1px"><P style=PAGE-BREAK-BEFORE:always>
+    <p><b><font size="6" face="sans-serif">Administrative/Operations Annex</font></b></td>
+  </tr>
+</table>
+<hr noshade size="1">
+<p><img src="gocx3x1.jpg" border="0" align="left" width="354" height="165"> </p>
+<p align="justify"><font color="#292526" size="2" face="sans-serif">The
+renovation of the rear building on our Main Street banking campus is proceeding
+as planned. The roof has been replaced, new windows are being installed and the
+interior is being converted into open floor plan office space. The bank plans on
+fully occupying the first floor of the 54,000 square foot building late this
+fall. All lending functions will be relocated to this space, as well as internal
+audit, compliance, human resources and purchasing functions. The second floor
+will be completed when we require additional space.</font> </p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p><img src="gocx3x2.jpg" border="0" align="right" width="371" height="222"><b><font size="6" face="sans-serif">New
+Kenmore Office nearing completion.</font></b><font size="6"> </font></p>
+<p align="justify"><font color="#292526" size="2" face="sans-serif">Our new
+office at the corner of Kenmore and Starin Avenues in the City of Buffalo is 50%
+complete. When completed in November, this office will replace our current
+branch at 410 Kenmore Avenue, which now has deposits in excess of $67 million.
+The existing leased facility is not large enough to accommodate our continued
+growth. The new building replicates the design of our recently opened Town of
+Tonawanda and Snyder offices.</font> </p>
+<p align="right">&nbsp;</p>
+<p><b><font size="6" face="sans-serif">Town of Tonawanda Grand Opening</font></b><font size="6">
+</font></p>
+<p align="justify">
+<img src="gocx3x3.jpg" border="0" align="right" width="228" height="164"><font color="#292526" size="2" face="sans-serif">On
+June 7, a ribbon-cutting was held to kick off the grand opening celebration of
+Greater Buffalo Savings Bank's newest office, at 3438 Delaware Avenue in the
+Town of Tonawanda. GBSB President Andy Dorn, Branch Manager George Gardner and
+Town of Tonawanda Supervisor Ron Moline all helped to cut the ribbon. Local
+dignitaries in attendance included Sam Muscarella of the Village of Kenmore, Dan
+Barufaldi, the president of the Ken-Ton Chamber of Commerce, and Bob Dimming, an
+Executive of the Town of Tonawanda Development Corporation. Over 300 people
+attended the event, which featured refreshments and live music. The reaction to
+the building's design, which is inspired by the Bank's classic headquarters, was
+overwhelmingly positive. It was a fitting welcome for a branch that is sure to
+be very successful for years to come.</font> </p>
+<p align="right">&nbsp;</p>
+<hr noshade align="center" width="100%" size="2"><a name="page_4"></a>
+<a name="page_5"></a><a name="page_6"></a><a name="page_1"></a><a name="page_2">
+</a><a name="page_3"></a><a name="page_4"></a>
+<P style=PAGE-BREAK-BEFORE:always>
+<p>&nbsp;</p>
+<table width="672" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="204">
+
+    <p>&nbsp;</td>
+    <td align="center" width="468" colspan="2">
+    <p align="left"><font size="6" face="sans-serif">&gt; To Our Fellow
+    Shareholders</font></td>
+  </tr>
+  <tr>
+    <td width="204">&nbsp;</td>
+    <td width="468" rowspan="20" valign="top" colspan="2">
+    <p style="margin-left: 12; margin-top: 0; margin-bottom: 0" align="justify">
+    <font color="#292526" size="2" face="sans-serif">Earnings continued to
+    improve in the second quarter. Net income for the quarter was $626 thousand
+    or $.16 a share an increase of 41% over the second quarter of 2003. Earnings
+    for the first six months of $1.3 million or $.42 a share were 123% greater
+    than the first six months of 2003. In April, shares outstanding increased by
+    1.8 million as a result of the completion of our very successful stock
+    offering to existing shareholders. Earnings continue to be driven by the
+    rapid growth of earning assets and by improvement in our net interest
+    margin. </font></p>
+    <p style="margin-left: 12; margin-top: 0; margin-bottom: 0" align="justify">&nbsp;</p>
+    <p style="margin-left: 12; margin-top: 0; margin-bottom: 0" align="justify">
+    <font color="#292526" size="2" face="sans-serif">During the second quarter
+    assets increased by $79.5 million or 19.2%, loans by $20.2 million or 8.1%
+    and deposits by $17.1 million or 4.5%. For the first six months of this year
+    assets increased by $107.8 million or 27.9%, loans by $43.1 million or 19.1%
+    and deposits by $33.9 million or 9.4%. Since June 30th of last year assets
+    have increased by $200.1 million or 68.1%, loans by $87.3 million or 48.0%
+    and deposits by $120.0 million or 43.7%. At March 31st the FDIC reported
+    that there were 9,116 banks operating nationally of which only 1,097 were
+    larger than we are. Our growth has been impressive because we offer a viable
+    banking alternative to our marketplace. Even though we have grown rapidly,
+    our share of the Buffalo market is still less than 2%.</font></p>
+    <p style="margin-left: 12; margin-top: 0; margin-bottom: 0" align="justify">&nbsp;</p>
+    <p style="margin-left: 12; margin-top: 0; margin-bottom: 0" align="justify">
+    <font color="#292526" size="2" face="sans-serif">In late May we opened our
+    Town of Tonawanda office, which became our 7th full service office.
+    Construction is rapidly progressing on our new Kenmore Avenue office in the
+    City of Buffalo which will replace our existing leased office when it opens
+    in November. We expect to begin construction on our East Amherst office
+    located at the corner of Klein and Transit Roads in October and also hope to
+    have our Cheektowaga Office under construction by year end. We continue to
+    identify additional branch locations that will allow us to develop our
+    branch network so that it will be convenient for everyone in our market to
+    bank with us. Construction is also proceeding as planned on our Main Street
+    banking campus. Once completed it will provide us with the additional
+    administrative and operational space required to support the future growth
+    of our Bank. </font></p>
+    <p style="margin-left: 12; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+    <p style="margin-left: 12; margin-top: 0; margin-bottom: 0" align="justify">
+    <font color="#292526" size="2" face="sans-serif">In the second quarter we
+    made a substantial investment in an advertising campaign to heighten the
+    awareness of our unique bank in Western New York and to deliver the message
+    that we are locally owned and operated and that our only focus is to provide
+    superior customer service to our community. We are utilizing a combination
+    of TV, radio, print and outdoor advertising to deliver our message. The
+    message has been well received and account openings have accelerated since
+    the advertising program began. We remain confident that we are quickly
+    filling the void that existed for a full service community bank in our
+    community. During the quarter we also introduced two new products, a Tiered
+    Savings Account and a TotalBanking Account, which is a checking account that
+    pays the same aggressive interest rates as our new tiered savings account
+    and eliminates the need to maintain both a savings and checking account.
+    Both have been well received. </font></p>
+    <p style="margin-left: 12; margin-top: 0; margin-bottom: 0" align="justify">&nbsp;</p>
+    <p style="margin-left: 12; margin-top: 0; margin-bottom: 0" align="justify">
+    <font color="#292526" size="2" face="sans-serif">In June we issued $12
+    million of Trust Preferred securities. With the addition of the Trust
+    Preferred capital we now have over $46 million of capital that will allow us
+    to continue to aggressively grow our bank. In May we borrowed $50 million in
+    what is known as a return on equity enhancement strategy commonly employed
+    by many banks to leverage capital to enhance earnings. We invested the
+    borrowed funds in short-term investment securities with a significant margin
+    over our borrowing cost. We anticipate that there will continue to be upward
+    pressure on interest rates and as a result we expect our cost of funds to
+    increase in the third and fourth quarter. However, we also anticipate the
+    continued rapid growth of earning assets and improving yields on both our
+    loan and investment portfolios will be accretive to earnings. With the
+    continued growth of our branch network, increased market awareness and
+    superior customer service we are confident of our ability to continue to
+    grow our bank on a profitable basis.</font></td>
+  </tr>
+  <tr>
+    <td width="204"><b><font color="#292526" face="sans-serif">Board of
+    Directors</font></b></td>
+  </tr>
+  <tr>
+    <td width="204">
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">Andrew W. Dorn, Jr.</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">William A. Evans, Esq.</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">Carrie B. Frank</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">Fred J. Hanania</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">Luiz F. Kahl</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">Gerard T. Mazurkiewicz, CPA</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">Acea M. Mosey-Pawlowski, Esq.</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">Dennis M. Penman</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">Louis Sidoni</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">James A. Smith, M.D.</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">Barry M. Snyder</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">Louis J. Thomas</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">David L. Ulrich</font></p>
+    <p style="margin-top: 0; margin-bottom: 10">
+    <font size="2" face="sans-serif">Frederick A. Wolf, Esq.</font></td>
+  </tr>
+  <tr>
+    <td width="204">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="204">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="204"><b><font face="sans-serif">Offices</font></b></td>
+  </tr>
+  <tr>
+    <td width="204">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="204">
+    <p style="margin-top: 0; margin-bottom: 0"><b>
+    <font size="2" face="sans-serif">Main &amp; Jewett Parkway</font></b></p>
+    <p style="margin-top: 0; margin-bottom: 0"><b>
+    <font size="2" face="sans-serif">Corporate Headquarters</font></b></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    2421 Main Street</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    Buffalo, NY 14214</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    961-1900</font></td>
+  </tr>
+  <tr>
+    <td width="204">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="204">
+    <p style="margin-top: 0; margin-bottom: 0"><b>
+    <font size="2" face="sans-serif">Downtown</font></b></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    47 Court Street</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    Buffalo, NY 14202</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    842-0827</font></td>
+  </tr>
+  <tr>
+    <td width="204">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="204">
+    <p style="margin-top: 0; margin-bottom: 0"><b>
+    <font size="2" face="sans-serif">Kenmore</font></b></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    410 Kenmore Avenue</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    Buffalo, NY 14223</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    862-8080</font></td>
+  </tr>
+  <tr>
+    <td width="204">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="204">
+    <p style="margin-top: 0; margin-bottom: 0"><b>
+    <font size="2" face="sans-serif">North Tonawanda</font></b></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    107 Main Street</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    North Tonawanda, NY 14120</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    614-3600</font></td>
+  </tr>
+  <tr>
+    <td width="204">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="204">
+    <p style="margin-top: 0; margin-bottom: 0"><b>
+    <font size="2" face="sans-serif">West Seneca</font></b></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    320 Orchard Park Road</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    West Seneca, NY 14224</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    824-6200</font></td>
+  </tr>
+  <tr>
+    <td width="204">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="204"><b><font size="2" face="sans-serif">Snyder</font></b></td>
+  </tr>
+  <tr>
+    <td width="204"><font size="2" face="sans-serif">4950 Main Street</font></td>
+  </tr>
+  <tr>
+    <td width="204"><font size="2" face="sans-serif">Amherst, NY 14226</font></td>
+  </tr>
+  <tr>
+    <td width="204"><font size="2" face="sans-serif">250-4950</font></td>
+    <td width="468" valign="top" colspan="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="204">&nbsp;</td>
+    <td width="468" valign="top" rowspan="4" colspan="2">
+    <img src="gocx4x1.jpg" border="0" width="410" height="121"></td>
+  </tr>
+  <tr>
+    <td width="204">
+    <p style="margin-top: 0; margin-bottom: 0"><b>
+    <font size="2" face="sans-serif">Town of Tonawanda</font></b></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    3438 Delaware Avenue</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    Kenmore, NY 14127</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="2" face="sans-serif">
+    505-5400</font></td>
+  </tr>
+  <tr>
+    <td width="204">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="204">
+    <p style="margin-top: 0; margin-bottom: 0"><b>
+    <font size="2" face="sans-serif">Bank by Phone </font></b>
+    <font size="2" face="sans-serif">961-2265</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><b>
+    <font size="2" face="sans-serif">Online Banking @ gbsb.com</font></b></td>
+  </tr>
+  <tr>
+    <td width="204">&nbsp;</td>
+    <td width="234" valign="top">
+    <font color="#292526" size="2" face="sans-serif">Barry M. Snyder <br>
+    Chairman of the Board</font></td>
+    <td width="234" valign="top">
+    <font color="#292526" size="2" face="sans-serif">Andrew W. Dorn, Jr.<br>
+    President &amp; CEO</font> </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<hr noshade align="center" width="100%" size="2"><a name="page_5"></a>
+<a name="page_6"></a><a name="page_1"></a><a name="page_2"></a><a name="page_3">
+</a><a name="page_4"></a><a name="page_5"></a><P style=PAGE-BREAK-BEFORE:always>
+<p><font size="7" face="sans-serif">&gt; Financial Statements</font><img src="gocx5x1.jpg" border="0" width="142" height="122"></p>
+<table width="672" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="477">&nbsp;</td>
+    <td width="7">&nbsp;</td>
+    <td width="83">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;<b><font face="sans-serif">CONSOLIDATED BALANCE SHEETS
+    </font><font size="1" face="sans-serif">(in thousands)</font></b></td>
+    <td width="7">&nbsp;</td>
+    <td width="83">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" width="477">
+    <p align="left">&nbsp;&nbsp;&nbsp;</td>
+    <td align="center" colspan="2" width="90">
+    <font color="#292526" size="2" face="sans-serif">June 30, 2004</font></td>
+    <td width="10">&nbsp;</td>
+    <td align="center" colspan="2" width="87">
+    <font color="#292526" size="2" face="sans-serif">June 30, 2003</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;</td>
+    <td colspan="2" width="90">
+    <p align="center"><font color="#292526" size="1" face="sans-serif">(unaudited</font><font color="#292526" size="2" face="sans-serif">)</font></td>
+    <td width="10">&nbsp;</td>
+    <td colspan="2" width="87">
+    <p align="center"><font color="#292526" size="1" face="sans-serif">(unaudited)</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;<b><font color="#292526" face="sans-serif">ASSETS</font></b></td>
+    <td width="7">&nbsp;</td>
+    <td width="83">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Cash
+    and cash equivalents</font></td>
+    <td width="7"><font color="#292526" size="2" face="sans-serif">$</font></td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">11,962</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9"><font color="#292526" size="2" face="sans-serif">$</font></td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">19,211</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Securities
+    available for sale, at fair value</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">194,293</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">80,849</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Securities
+    held to maturity, at amortized cost</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">3,011</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">2,000</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Federal
+    Home Loan Bank stock, at cost</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">2,396</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">1,581</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Loans,
+    net</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">269,032</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">181,758</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Premises
+    and equipment, net</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">9,449</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">6,275</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Other
+    assets</font></td>
+    <td width="7" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="83" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">3,765</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="78" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">2,103</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font color="#292526" size="2" face="sans-serif">TOTAL
+    ASSETS</font></b></td>
+    <td width="7"><b><font color="#292526" size="2" face="sans-serif">$</font></b></td>
+    <td width="83" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">493,908</font></b></td>
+    <td width="10">&nbsp;</td>
+    <td width="9"><b><font color="#292526" size="2" face="sans-serif">$</font></b></td>
+    <td width="78" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">293,777</font></b></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;</td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;<b><font color="#292526" face="sans-serif">LIABILITIES &amp;
+    SHAREHOLDERS' EQUITY</font></b></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Deposits</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">394,590</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">274,591</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Short-term
+    borrowings</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">244</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">111</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Securities
+    sold under agreement to repurchase</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">50,000</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">&#150</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Subordinated
+    debentures</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">12,372</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">&#150</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Other
+    liabilities</font></td>
+    <td width="7" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="83" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">2,081</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="78" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">745</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font color="#292526" size="2" face="sans-serif">TOTAL
+    LIABILITIES</font></b></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">459,287</font></b></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">275,447</font></b></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;</td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Common
+    stock</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">4</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">2</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Additional
+    paid-in-capital</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">35,359</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">18,622</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Retained
+    earnings (accumulated deficit)</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">1,123</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">-910</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Accumulated
+    other comprehensive (loss) gain, net</font></td>
+    <td width="7" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="83" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">-1,747</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="78" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">616</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;</td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">34,739</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">18,330</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Less:
+    Subscriptions receivable</font></td>
+    <td width="7" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="83" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">-118</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="78" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">&#150</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font color="#292526" size="2" face="sans-serif">TOTAL
+    SHAREHOLDERS' EQUITY</font></b></td>
+    <td width="7" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="83" align="right" style="border-bottom: 1px solid #000000"><b>
+    <font color="#292526" size="2" face="sans-serif">34,621</font></b></td>
+    <td width="10">&nbsp;</td>
+    <td width="9" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="78" align="right" style="border-bottom: 1px solid #000000"><b>
+    <font color="#292526" size="2" face="sans-serif">18,330</font></b></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font color="#292526" size="2" face="sans-serif">TOTAL
+    LIABILITIES AND SHAREHOLDERS' EQUITY</font></b></td>
+    <td width="7"><b><font color="#292526" size="2" face="sans-serif">$</font></b></td>
+    <td width="83" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">493,908</font></b></td>
+    <td width="10">&nbsp;</td>
+    <td width="9"><b><font color="#292526" size="2" face="sans-serif">$</font></b></td>
+    <td width="78" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">293,777</font></b></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="567" colspan="3">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="567" colspan="3">&nbsp;&nbsp;&nbsp;<b><font color="#6d6e71" face="sans-serif">CONSOLIDATED
+    STATEMENTS OF INCOME </font>
+    <font color="#6d6e71" size="1" face="sans-serif">(in thousands except for
+    share data)</font></b></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;</td>
+    <td colspan="2" width="90">
+    <p align="center"><font color="#292526" size="1" face="sans-serif">6 MONTHS
+    ENDED</font></td>
+    <td width="10">&nbsp;</td>
+    <td colspan="2" width="87">
+    <p align="center"><font color="#292526" size="1" face="sans-serif">6 MONTHS
+    ENDED</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;<b><font color="#292526" face="sans-serif">INCOME</font></b></td>
+    <td colspan="2" width="90">
+    <p align="center"><font color="#292526" size="1" face="sans-serif">
+    JUNE 30, 2004</font></td>
+    <td width="10">&nbsp;</td>
+    <td colspan="2" width="87">
+    <p align="center"><font color="#292526" size="1" face="sans-serif">
+    JUNE 30, 2003</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;</td>
+    <td width="7">&nbsp;</td>
+    <td width="83">
+    <p align="center"><font color="#292526" size="1" face="sans-serif">(unaudited)</font></td>
+    <td width="10">&nbsp;</td>
+    <td colspan="2" width="87">
+    <p align="center"><font color="#292526" size="1" face="sans-serif">(unaudited)</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Interest
+    income</font></td>
+    <td width="7"><font color="#292526" size="2" face="sans-serif">$</font></td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">9,607</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9"><font color="#292526" size="2" face="sans-serif">$</font></td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">6,083</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Interest
+    expense</font></td>
+    <td width="7" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="83" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">3,636</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="78" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">2,974</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Net
+    interest income</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">5,971</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">3,109</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Provision
+    for loan losses</font></td>
+    <td width="7" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="83" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">94</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="78" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">153</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font color="#292526" size="2" face="sans-serif">NET
+    INTEREST INCOME after provision for loan losses</font></b></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">5,877</font></b></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">2,956</font></b></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477" valign="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Non-interest
+    income</font></td>
+    <td width="7" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="83" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">562</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="78" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">670</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font color="#292526" size="2" face="sans-serif">NET
+    INTEREST INCOME after provision and non-interest income</font></b></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">6,439</font></b></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">3,626</font></b></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;</td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;<b><font color="#292526" face="sans-serif">NON-INTEREST
+    EXPENSE</font></b></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Salaries
+    and employee benefits</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">2,233</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">1,204</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Occupancy
+    expense</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">578</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">449</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Other
+    operating expense</font></td>
+    <td width="7" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="83" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">1,565</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="78" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">1,027</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font color="#292526" size="2" face="sans-serif">TOTAL
+    NON-INTEREST EXPENSE</font></b></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">4,376</font></b></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">2,680</font></b></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Net
+    income before income taxes</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">2,063</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">946</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Income
+    tax provision</font></td>
+    <td width="7" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="83" align="right" style="border-bottom: 1px solid #000000">
+    <font size="2" face="Arial">-778</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="78" align="right" style="border-bottom: 1px solid #000000">
+    <font color="#292526" size="2" face="sans-serif">-369</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477" style="border-bottom: 1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font color="#292526" size="2" face="sans-serif">NET
+    INCOME</font></b></td>
+    <td width="7" style="border-bottom: 1px solid #000000"><b>
+    <font color="#292526" size="2" face="sans-serif">$</font></b></td>
+    <td width="83" align="right" style="border-bottom: 1px solid #000000"><b>
+    <font color="#292526" size="2" face="sans-serif">1,285</font></b></td>
+    <td width="10" style="border-bottom: 1px solid #000000">&nbsp;</td>
+    <td width="9" style="border-bottom: 1px solid #000000"><b>
+    <font color="#292526" size="2" face="sans-serif">$</font></b></td>
+    <td width="78" align="right" style="border-bottom: 1px solid #000000"><b>
+    <font color="#292526" size="2" face="sans-serif">577</font></b></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Common
+    shares outstanding, weighted average</font></td>
+    <td colspan="2" width="90">
+    <p align="right"><font color="#292526" size="2" face="sans-serif">3,041,756</font></td>
+    <td width="10">&nbsp;</td>
+    <td colspan="2" width="87">
+    <p align="right"><font color="#292526" size="2" face="sans-serif">1,961,620</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#292526" size="2" face="sans-serif">Class
+    B Common shares outstanding, weighted average</font></td>
+    <td width="7">&nbsp;</td>
+    <td width="83" align="right">
+    <font color="#292526" size="2" face="sans-serif">&#150</font></td>
+    <td width="10">&nbsp;</td>
+    <td width="9">&nbsp;</td>
+    <td width="78" align="right">
+    <font color="#292526" size="2" face="sans-serif">115,750</font></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="477">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font color="#292526" size="2" face="sans-serif">NET
+    INCOME PER SHARE</font></b></td>
+    <td width="7"><b><font color="#292526" size="2" face="sans-serif">$</font></b></td>
+    <td width="83" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">0.42</font></b></td>
+    <td width="10">&nbsp;</td>
+    <td width="9"><b><font color="#292526" size="2" face="sans-serif">$</font></b></td>
+    <td width="78" align="right"><b>
+    <font color="#292526" size="2" face="sans-serif">0.28</font></b></td>
+    <td width="8">&nbsp;</td>
+  </tr>
+</table>
+<p align="right"><b><font size="6" face="sans-serif">&gt;</font></b><font size="6">
+</font></p>
+<P style=PAGE-BREAK-BEFORE:always><a name="page_6"></a>
+<a name="page_1"></a><a name="page_2"></a><a name="page_3"></a><a name="page_4">
+</a><a name="page_5"></a><a name="page_6"></a>
+<table width="672" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="515" style="border-bottom: 1px solid #000000">
+    <p style="margin-top: 0; margin-bottom: 0"><b>
+    <font size="6" face="sans-serif">gbsb.com</font></b></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="6" face="sans-serif">
+    becomes even more</font></p>
+    <p style="margin-top: 0; margin-bottom: 0"><font size="6" face="sans-serif">
+    customer friendly.</font></td>
+    <td align="center" width="57">&nbsp;</td>
+    <td align="center" width="402" style="border-bottom: 1px solid #000000">
+    <p style="margin-top: 0; margin-bottom: 0" align="left">
+    <font size="6" face="sans-serif">Helping</font></p>
+    <p style="margin-top: 0; margin-bottom: 0" align="left">
+    <font size="6" face="sans-serif">Hands</font></p>
+    <p style="margin-top: 0; margin-bottom: 0" align="left"><b>
+    <font size="6" face="sans-serif">Committee</font></b></td>
+  </tr>
+  <tr>
+    <td width="515" valign="top" rowspan="2">
+    <p align="justify"><font color="#292526" size="2" face="sans-serif">In
+    August 2004, we updated our website, gbsb.com. Featuring more streamlined
+    navigation and a vivid new design, our website is built to make it easier
+    and more pleasant for our customers to bank with us online. We're confident
+    that the latest edition of gbsb.com is the most customer-friendly website of
+    any bank. When people log on with Greater Buffalo Savings Bank, they'll feel
+    more at home than ever before.</font> </p>
+    <p><img src="gocx6x1.jpg" border="0" width="382" height="290"></td>
+    <td align="center" width="57">&nbsp;</td>
+    <td align="center" width="402">
+    <p align="justify"><font color="#292526" size="2" face="sans-serif">The
+    Helping Hands Committee has been created by our staff to coordinate the
+    numerous requests we receive for charitable contributions and volunteer
+    support. The Committee coordinates our volunteers with organizations for
+    events and projects. Each event or project brings various tasks and work
+    that is necessary to be a successful event. We have participated with
+    several organizations throughout the community,</font>
+    <font color="#292526" size="2" face="sans-serif">including The United Way,
+    The Food Bank of WNY, Junior Acheivement, American Red Cross, Brush Up
+    Buffalo, Taste of Buffalo, American Diabetes Association, American Heart
+    Association and Crossroads House. Greater Buffalo Savings Bank is committed
+    to our community, and Helping Hands is our way of showing it.</font> </td>
+  </tr>
+  <tr>
+    <td align="center" width="57">&nbsp;</td>
+    <td align="center" width="402" valign="top">
+    <img src="gocx6x2.jpg" border="0" align="left" width="150" height="197"><p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left"><font size="2" face="sans-serif">Michelle Maloney, Helping
+    Hands Committee Chair</font> </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table border="0" width="672" id="AutoNumber3" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000">
+    <p style="margin-top: 0; margin-bottom: 0" align="justify">
+    <font color="#292526" size="1" face="Arial">This press release may include
+    "forward-looking statements" within the meaning of the Private Securities
+    Litigation Reform Act of 1995. Such statements may include, but are not
+    limited to, statements concerning future revenues and earnings. There are
+    risks, uncertainties and other factors that could cause the actual results
+    of the Company to differ materially from the results expressed or implied by
+    such statements. Information on factors that could affect the Company's
+    business and results is discussed in the Company's periodic reports filed
+    with the Securities and Exchange Commission.</font> </td>
+  </tr>
+</table>
+<p><img src="gocx6x3.jpg" border="0" width="242" height="47"> </p>
+<p><font color="#292526" size="1" face="sans-serif">2421 Main Street | Buffalo |
+New York 14214</font> </p>
+<hr noshade align="center" width="100%" size="2">
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>gocx2x1.jpg
+<DESCRIPTION>LOGO
+<TEXT>
+begin 644 gocx2x1.jpg
+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
+!V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>gocx3x1.jpg
+<DESCRIPTION>CHART/PICTURE
+<TEXT>
+begin 644 gocx3x1.jpg
+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
+0C)*1(J*6ZD`8YHHHJ"C_V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>gocx3x2.jpg
+<DESCRIPTION>CHART/PICTURE
+<TEXT>
+begin 644 gocx3x2.jpg
+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
+7`HHHH`****`"BBB@`HHHH`****`/_]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>gocx3x3.jpg
+<DESCRIPTION>CHART/PICTURE
+<TEXT>
+begin 644 gocx3x3.jpg
+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
+=A?\`"BB@"VB+&BI&H5%`"JHP`/04445RO<W1_]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>gocx4x1.jpg
+<DESCRIPTION>CHART/PICTURE
+<TEXT>
+begin 644 gocx4x1.jpg
+M_]C_X``02D9)1@`!`0```0`!``#_VP!#`!`+#`X,"A`.#0X2$1`3&"@:&!86
+M&#$C)1TH.C,]/#DS.#=`2%Q.0$1713<X4&U15U]B9VAG/DUQ>7!D>%QE9V/_
+MVP!#`1$2$A@5&"\:&B]C0CA"8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C
+M8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V/_P``1"`!>`4(#`2(``A$!`Q$!_\0`
+M'P```04!`0$!`0$```````````$"`P0%!@<("0H+_\0`M1```@$#`P($`P4%
+M!`0```%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T?`D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0`'P$``P$!`0$!
+M`0$!`0````````$"`P0%!@<("0H+_\0`M1$``@$"!`0#!`<%!`0``0)W``$"
+M`Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O`58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H`#`,!``(1`Q$`/P#T"BBJ5PHO
+M+D6S`F&,;Y><;LYPOTZD_0>III"9+;6L=N]P\;,?/E\ULGH<`<>WRBK%9=HG
+MV/6IK6-52VEA$R(.`K`X;`_$&M2AJP)W"BBBD,****`"BBB@`HHHH`****`"
+MBBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`I"0`23@#J32U0O5-Y.ED/\`
+M4D;K@@\[>R_CW]A[TTKB9')<WEU"UQI[1"%`2@D4GS_H<C:/0\YZ].MVTN$N
+M[2*XC^Y*@8?C4H``P!@"J&A`#1[?'0@G]33=FA=30HHHJ2@HHHH`****`"BB
+MB@`HHHH`*J6(R;B7&&DF;/\`P'Y1_P"@U;K#L=8@CDN[9Q*\\=U(!$B%C@G(
+M/';G_/6J2;3L)NSU+-Q_R,=E@<_9Y<_3*5IUSJZE-+X@>1-,NW6&W"8VJ&!9
+MLYP3P,#Z\5;;7X8Y?*EM+M)>Z",.1_WR3ZU3B]"5)&O167:ZU%?.T=JH$@'W
+M9V"'/^[R?TJYLN77YYDC)[1KG'/J>OY5#BUN4G?8L45GZ5<23M=J\OFI#.8T
+M<@`G`&<XXX)(K0H:L"=PHHHI#"BBB@`HHHH`****`"BBB@`HHHH`****`"BB
+MB@`HHHH`****`(KB=+:WDFDSLC4L<=3]/>H=.@>&`O/@W$S&24^YZ#Z`8'X5
+M'=+]IU"WM^?+B_?R>Y!P@_/)_P"`U?I[(6[$)`!)Z"L[PXNW0+$?],@:DN[Z
+M$:7=W,,BNL2.-PZ;@.GYU+IT/V?3K:'!'EQ*N#U&`*>T1=2S1114E!5:*^MY
+MKV:SC?,T*AG&.F?>FZE=-:6N8QNFD81Q+GJYZ?X_A5/0K=(9+LHQ=480!VZN
+M5R68_5V:J2TNR6];&O1114E!1110`4444`%<9HVL?V7<:G#?1RO>--O"(F6<
+MGZ#Z?G73W5RYG%G:D>>R[F<\B-?7W/H*H6%M%9^)+F*,9+VJ.S-RS'<P))]:
+MUA9)W,Y7;5AVF:=<N)[C49"KW+[V@C;`7H`">_``].M:L,,4";(8UC7KA1@5
+M)16;DV6E8KW5E;7BA;F%),="1ROT/45F7AOM%M9+B.<7=M&"S)<'#J/9@.?H
+M:VZYKQK</]AM[&'+2W4H&T=6`[?F15PU:1,]%<7P7?FZT^6&3;YL4A+'^)BQ
+M))/XY%:U[JUK8W4-O,7WR]U7(3G`+>@)XKGXM&$.L7-M:RF&Y2VBDAE&1DCY
+M3D>A(Y%6K)7UNRU9YH_+N'/V?9D'847L?]XDU<HQ;YNA,6TK'12.L4;2.P5%
+M&23V%9-MJ5U)JT,4R(EM=0M)"HY88QR?J#_GO7@O6U:STR`_,9QON<<C:G!!
+M^K8'YU9O@5\2Z6PSAHYE/Y`U"C;1E-WU1KT5D>)-5?2[`M`H:=P=N>BCNQ^F
+M1^)%7[&.6&Q@CN)#)*J`.Y[GO4\NERKZV+%%%<U>7MYJFN'2[&X-O;K'NEE5
+M>6&0#M/Z<>]$8\P-V.D)`(!(R>@I:RT\/:6L>UK;S#W=W9F)^N:9:VT^EZBL
+M*222V$^=H<EC"_7&3S@\]>]%ET8KOJ:]%%%24%%%%`!1110`4444`%%%%`!2
+M$@`DG`'4FEJEJKO]E$$9P]RXA!]`?O'\%#'\*:5V)Z":8/,6:\;K<ON7_<'"
+M_F!G_@5)K5]_9^F33K_K<;(AZN>!_C^%7418T5$4*J@``=`*R[R+[=KEK"3F
+M&S7SW7L7/"?EAC5*S=V)Z(@ELA::%9Z4I(>9TC8CDGG<_P"@:M@W,(NA;&1?
+M.*;PG?;G&:H7$L9U8S2L!#80%W/HS?X*I_[ZJO9VTAUJ&[N$V3RPR2.N<[02
+M@5?P`_/--JZU%ML7]5U"/3;*2=QN<*=B#JY`S_3)]JE>[2"R%S=D0*%#/N/W
+M2>U8MYMU348%'S1M)LC[?*AS(WXD*OY^M3:E`-;U'^SF8K:VV))RO!9S]U0?
+MIR?PHY5I<.9]"2_N4^T?:D/FBVAW1*O.^20X7\>/_'JOZ=;&SL(+=FW.B`.W
+M]YNY_/-86B0I<WC>5@VT$K-Z\K^[C7\%4G\16Q=7SQZA;V4$7F22?/(2<".,
+M<$_7/`%$E]E!%]67J***S+"BBB@`HHHH`S'D&GZC//<\07`7$W9"!C:WH#U!
+MZ?UK0R)+XP=XW#+]@&"IR#\_^?\`/3;90RE6`(/!![USD6CA?$]S);B2SC%N
+MNUX1@%B?<8[=*TBT[W(DFK'2452-O?J1Y=\C`=I802?Q!%,+:LA($=E*.QWL
+MGZ8/\ZBWF5<T*P&@>^\7[I8B8+&$%2P.-YY!'^>U7@VL,X_=V,:=SO=R/T%*
+MUIJ$Q_>Z@(D_NP1`'_OHD_RJE[HGJ9^N72Z;K-E><L[PRQ;!R6X!4#'J>*E\
+M,:?<V5I-->$B>ZD\UD)SM^OO5R/1K%)4E:'S9D;<LLK%V![<FK]-R7+9"4=;
+MLP/#VGO:ZCJDDD;*IF*PE@?NY+<>W-3:PMRFK:;<6UL]QY8E4A>`"P&,GL*V
+M:*7/K<?+I8P-9LC%I$TTS^9<221^=)T&W>/E'HH]/SK?J&ZMX[NVDMYAF.12
+MK"JL.FRA=MW?3W*`8"G"?GMP3^-%[K4+6>@2W'V\/;V;DH<K).IX7U"GNW\J
+MI6$2)XKO50!5CMHT4>@K;1%C1410JJ,!0,`"L:W&SQC=C_GI:(WY'%.+T=A-
+M;&W1116984444`%%%%`!1110`4444`%%%%`!5)@9=849^2WAW8_VG.!^BG\Z
+MNUGZ>V^]U(L,,)PN/]GRUQ_,TUU$R[+(D,3RR-M1%+,3V`ZUF:`[7<,^HOQ]
+MKE)0'^&-?E4?H3^-271&I7#62$&&)E-P>S=Q'_(GVX[U6TV_BM]$L(H1YMP\
+M2HL(/)8##9]`#G)JDO=);U(K"&>Y=HYT9/-N&NI@PYV@XC0CWV@_0>]2W\KO
+MK;6L!;SI+=5W+_RS4LVYOJ`!CW(K2L[7[,KL[;YI6WROC&3@#CV```J.WL!%
+MJEW>LRLTX15XY50.GXFGS*X<KL53);6-S<3OE8+&W2(<=,\D#U)PE5],DD@T
+MU&B42ZCJ`:XQGA=W()]%`('\JOII2B_EN))3)&[B40E1A7VA<D]^!QZ5/9V-
+MM8JPM81&&.3@D_ASV]NU',K!9W,;1;J"TTB"TL8C->8/F1#^%_XBY/W1GU_#
+M-2P6UUI>H27DXEO?M$8$KQKDQL">%7KMP>V3Q6YWS45U<Q6=N\\[;8T')_H/
+M>ES7>BW#ELBC=ZI#)IQ-G+NGGS%`N"&\SIR.HQU.>E:,2LD**[;F"@%CW/K6
+M)#`\/B*&\ND19+U&14`R8BH!'/<D`Y^F*WJ))+1#C=[A1114%!1110`4444`
+M%%%%`!1110`4444`%%%%`!1110`5AW`\OQG:/G'FVC)]<'-;E8NLGRM:T:?!
+M_P!:\1_X$N*N&Y,MC:HHHJ"@HHHH`****`"BBB@`HHHH`****`"J4^G+)<M/
+M'<3P-(H601,`'`Z9R#@^XP:NT4T[":N0VUM#:0+#`@1!V]_4^IHBM;>"622&
+M".-Y#EV50"WUJ:BB['8****0!1110`5FC&HZB>0UM:-@C^]-_@H/YGVJSJ%P
+MUM:,T8#3,0D2DXRY.!3K.W6TM8X5.XJ/F8]7;NQ]R>:I:*XGJ[%35?\`C[TO
+M'WOM7IV\M\UI5G$BZUE<8*6:$D@])&[?@N?^^JT:'T!=0HHHJ1A1110`4444
+M`%%%%`!1110`4444`%%%%`!1110`4R2*.4J9(U?8VY=PSM/J/>GT4`%%%%`!
+M1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`&9?R(NJV"SL$B
+M4.X+D!2_``Y[X8U)]N>ZD\NP4.G\5R>8U^G]X_3CWJZR*XPZAAZ$9I0`!@<"
+CJNA6(K6V2UAV(68D[F=CEG8]2?>IJ**D84444`%%%%`'_]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>gocx5x1.jpg
+<DESCRIPTION>CHART/PICTURE
+<TEXT>
+begin 644 gocx5x1.jpg
+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
+<U-BB_39'"+D^M4O,?^^WYTR1V*\L3SZT6`__V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>gocx6x1.jpg
+<DESCRIPTION>CHART/PICTURE
+<TEXT>
+begin 644 gocx6x1.jpg
+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
+:444`%%%%`!1110`4444`%%%%`!1110!__]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>10
+<FILENAME>gocx6x2.jpg
+<DESCRIPTION>CHART/PICTURE
+<TEXT>
+begin 644 gocx6x2.jpg
+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
+EM'VC_9_6BBBR#F9T?@63S-;EXQBV;_T):***X:_QG52=XG__V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>11
+<FILENAME>gocx6x3.jpg
+<DESCRIPTION>CHART/PICTURE
+<TEXT>
+begin 644 gocx6x3.jpg
+M_]C_X``02D9)1@`!`0```0`!``#_VP!#`!`+#`X,"A`.#0X2$1`3&"@:&!86
+M&#$C)1TH.C,]/#DS.#=`2%Q.0$1713<X4&U15U]B9VAG/DUQ>7!D>%QE9V/_
+MVP!#`1$2$A@5&"\:&B]C0CA"8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V-C
+M8V-C8V-C8V-C8V-C8V-C8V-C8V-C8V/_P``1"``O`/(#`2(``A$!`Q$!_\0`
+M'P```04!`0$!`0$```````````$"`P0%!@<("0H+_\0`M1```@$#`P($`P4%
+M!`0```%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T?`D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0`'P$``P$!`0$!
+M`0$!`0````````$"`P0%!@<("0H+_\0`M1$``@$"!`0#!`<%!`0``0)W``$"
+M`Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O`58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H`#`,!``(1`Q$`/P#;UGQ8EI<F
+MSL(?M-R#M)_A#>G')-5/[9\4`>8=)4IUV^4V?RSFE\!6,?V::_<;I6<QJ3_"
+M`!G\\_I6K>>*=,LKJ2VF>021G#83(KH:2?+&-S)-M<S=BYH][)J.F174L7E.
+M^04ST()']*O5Q_B#Q)(+2QN]*F9(Y'<,&0?-C'K]:I7E]K^E)!?W5XI:YSMM
+MSGCCJ1C`QD5/LF]=A^T2.]HKC9;+Q/#9G4&U$F15\QH,]!UZ8QGVJW;ZEJNN
+M:/`VFM'#/YA2=SC"X'4?7(J73ZW'S^1T]9^KZQ:Z/"DEUO.\D*J+DFN9U$:_
+MX?2.[?4?M,18*RMDC/I@]OI6=XE_M*6"VN[RXCDMK@EX$7J@.#@\#L1ZU<:2
+M;6NA,JED]#T93N4'U&:6N/N=0UG0+)I+^ZAN7F`6W5?X3W)^4=L4U[+Q.MD=
+M0.HGS`OF&#VQGIC&?:I]GYE<_D=E17#7OBB\ET*UN8)/)G$ICFV@?-@9SSG%
+M:.D0:_>7-OJ5S>*EO(=Q@R1\G;C&*'2:5VP4TW9%.'Q7K%U+*EIIT<WEG!V*
+MQQZ9YJ[IGBJ234$L-3LS:S.=H/.,GH"#R,UA>&M:M=&N;TW2RMYI`7RU!Z$^
+M_O5I)_\`A*/%%M/`@ABMMI.]AN(!STK:4%=Z:=S-2>FNIW5%<UX6U*\OK[48
+M[J8R)"P"`@#'+>GT%-\::G>::EH;.<Q>87#8`.<8QU'O6'LWS<IISKEYAWBG
+M5KVVN;33].8)/<=6P,\G``S[YIMS<ZIH&A7$M[=)<W#.%A8<A<]<\#WK!U6V
+MUB/7K&.[O(I+QMODR+T7YN,_*._L:F\1V>NP::'U.^AG@,@&U.N[!P?NCWK9
+M07NK0S<GJ]3<\/0ZW(\5[?WJO;S)N\KN,]#TQ71UQUG:^*%LK9K>]@:&1%"#
+M`S&I&03E?3COUJ/48/$6BV_VXZG]H12-Z\D#/L>U9RAS/=%*5ELR[KFJ7MKX
+MIT^T@G*02^7O3:#G+D'MZ5U%<#J-X-0\2:%=@;?-2$D>A\PY_6KCZIJOB#4Y
+M;7291;6T767ID>I/7GL!52IW2Z"4]6=E17%SWVM>&KJ'[?/]LM)#C=U/OR>0
+M?TK?UO5TT[1C>Q%7,@`AST)/3].?PK)TWI;J:*:U-6L;7O$-OHR!"OFW+#*Q
+M@XP/4GL*\_0W.LWN+B\3S&YWW$F!UZ#_``HU;3[W3[D1WP)=AE7W;@P]C6\:
+M"3LV8NJ[72-.3QGJSN2K0H/[HCZ?G6OHOC,3S+!J2)&6.!,G"Y]QV^M</16S
+MHP:M8R522>Y[-2UYEIOBG4[`JIE\^%>/+EYX]CUKNM%UJVUF`O"2DJ_?B;JO
+M^(]ZY)TI0U9TQJ*1IT445D:'#>%-572+B?3-1_<@R9#-T5NA!]C@<UM>(H]-
+M?1;NX1+1I70E9`%+$^QJYJFA6&JD-<Q$2#@2(<-_]?\`&LH>!M.W9-Q=$>FY
+M?\*WYH-\VS,N625MSF)N=!TK_KO+_-:WOB#"Q2RFP3&I96([$X(_D:U9/"VG
+MR6MM;[IU2W9F7#C))QG/'M6M=VL%Y;O!<QB2)^JFFZJYDUY@J;LT<O:^%],O
+M+1;B'4KIHF&<^8O'L>.*Q[F)+;4(M)T[476SN&!>;<,$Y(/(QD#'YUT!\$:=
+MN.VXNE4_PAA_A5F?PGID]G#;;9%\D$+(&^;!.>?7DTU42>KN)P;Z'.^)-#L-
+M(TY"ES-)<NP`5W&".YQBE\2`_P#",Z(>WEC_`-!%;2>"],$;J\EQ(S8PY<97
+MZ<5I7&B6EUI46G3!VBB`"-GYA@8!S1[5*VMPY&[G/>.<2V.FS(P:,9Y4^H&/
+MY&I;/PQIE[:+<P:C=-&PR?WB_+['C@UHV'A73[,3*QEN%F38RRD8QG/8>U5F
+M\$:<6)6>Z52?NAAC^5)327*F/E=[M&#K^FV6GZ5%]@N6N(Y)SEBP(!`[8KT&
+M$!84`&`%``K'E\+Z?+IT-D6G6*)BX(89)/7/%;2C:H`[#%1.?,DBHQLSA_!?
+MV;[5J/VGRL97'F8]6]:K^(Y+2+7[5]&,?G#&[R,;=V>.G>KQ\,V-PUR]I'/,
+M(9"C9N`I9AU`&P_KCG\ZV-'\/:99B*ZAA=I2H96E;)7(].F:T<XJ7,9J,FN4
+MQ_"$JP:]JEM(0LCL<`GJ58Y'ZU!X^O(I;BVMHV#/"&9\'IG''Z5O:IX6L-2N
+MC<L9896^\8R!N]\$=:IOX0TW?%;B.Z((9FN`Z]>,`Y'\A24X<W.-QER\I!XC
+M_P"1QTCZI_Z&:M^._P#D`K_UV7^1K3O=&MKW4;>^E>42V^-@4C'!SSQ4FJZ9
+M!JUJ+>Y9P@8-\A`.1^'O4*:O'R*<79^9R>MZA<I;:1IT-P;:*:VC,DF<=>.3
+MZ#'ZTW7=`T_2=):4W<TERV`@+##G//'IC/>NFOO#]E?V4%M.'_T=0D<@.&``
+MQ].U85SX9TZSN;>WD%Q.;IBB.TH&P@9_NUI&:TL3*+U,55WWV@*#@LD8SZ?O
+MGK7\#S1V=W>V%P1'<%A@-QG;D$5;L-'L)M56!C<I<:5LVC>K*PW%QSM]_:M+
+M5?#=AJDWG2J\4W>2(X)^M.=2+7*Q1@UJC+\>7<)LH+)6#3M*'V@\@`$?KFL[
+MQ3%?6VDV5O,A:W5(SO\`^>;A2"I^N1^M=#IOA;3]/N!<`23S+RK2D':?7`%7
+M=/OUU$72&';]GF:!@3D,1WJ%-1M;6Q3BW>_4\GK9UC71JFGV=L;?RVMQ@N7S
+MGC'I[4[Q#82Z-KC2QH!&[^;"2H*]<XQTX/;Z5CRR/-*TDAR[G+'&,FNM6G:1
+MS.\;H91115DA5_0[V2PU>VFC.!O"N/52<$50J]HMC]OU&.)F*0K\\KYQM4=3
+MGMZ?C4RM9W'&]U8]9HK(LI=2-C;EEW$QKEF&">.I]Z*\VQW7->BBBD,****`
+M"BBB@`HHHH`****`"BBB@#GI=*,\LVHZ-?26LS.WF(>8W8$@Y';D542]35HK
+MF:2$&6*R4R&5ODC)!;*#'4]<Y]*Z'^S;/>["!09"2X7(#D]<CH?QI7TZSDF,
+MKVZ%V`5CCA@.@(Z'\:TYUU(Y3F8"+-=(U*5/-BN(##,",Y<C*G'J>F:N36B6
+M^IV\)CCRUI*T@5>&;@YQ['IZ5N)96T<*0K"@C1@RKCA2.A'I236%K/+YLL0:
+M3&-V3G'I0YZARG,Q0HOAC3;L9-R)H\2D_,`7P1GT]J?>2"YEU`K<1))-*D=O
+M+),JF+:<-QG(Y!X'7O70_P!FV?D+!Y"^4ARJ<X!^E9T>BQ(TQGT^WNI'D9EE
+M<CD$\`Y'&!QQGI5*:W%RLH:C#+937%S';I=V2*J95R)+8``G;GMWX]?2KVM8
+MEU+12K,H:5B".OW:O6VDVL-NL;1*3@;@"=K8Z9'?'`Y]*GFLK>>1))8@SI]T
+MDGY?IZ5/,BN4YG5+N+2-0U""3S9$N;<2O*AQ*&W;0,],4E^I@U*]@$<42?V4
+M\ACC.5##.&Z#YAZXKI&TRQ=)4>UC838\S<,EL=,GK36TFQ<Y:V0L5VECG+#T
+M)ZD?6FIHEQ9SYA2'2_#]R@(N)+F%7ESEF5@<@GT]JBMKB.WN+MKJ$-9G59!+
+M(>=A[9]L]:Z=M,LVBCB:!2D1!1<G"D="/2D&EV(CDC^SKLE.77G#'U/K1SKJ
+M'*QFJZ9!JU@;:0[5."KJ!E?I7(WGA%+&X$TUSC3HU#2R-PQ.?N@>_'YUW4,2
+M01+%$NU%&%`["H[JTM[R(17,2RH#G:PR,TH5''1;#E!2/*K&S&HZHEK`3&LK
+MD*6YVCKS^%=1#X".X&>_^7N$CY/XDUU5II]G8EC:6\<)?&[8,9JU6DZ\F_=(
+MC12W/.O$4>E:;#_9VGQ^9<;@9IG^8C'\(/8_2MGP]HMO>^$PC91KI][L.IVO
+KP/IQ^M;G]B:9YOF_8H?,W;MVWG/K6A4RJ^[9#5/6[$````Z"BEHK$U/_V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>12
+<FILENAME>exhibitx1x1.jpg
+<DESCRIPTION>CHART/PICTURE
+<TEXT>
+begin 644 exhibitx1x1.jpg
+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
+<3N;F>[F,MQ*\LAX+,<FBBDDEL#;9%1113`__V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>13
+<FILENAME>exhibitx1x2.jpg
+<DESCRIPTION>CHART/PICTURE
+<TEXT>
+begin 644 exhibitx1x2.jpg
+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
+A%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110!__9
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>14
+<FILENAME>exhibitx1x3.jpg
+<DESCRIPTION>CHART/PICTURE
+<TEXT>
+begin 644 exhibitx1x3.jpg
+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
+EV#`CY02#V/.?Y58J*'K)_OF@"6BBB@`HHHH`****`"BBB@#_V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

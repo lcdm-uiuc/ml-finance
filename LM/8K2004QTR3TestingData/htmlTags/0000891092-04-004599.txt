@@ -1,0 +1,1989 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ R7EEp9Zm9vA1kKXpx71knZmWYqNuFDS4w3nof954HSvQcI4S0ehvDJLh1x04CHoX
+ CriQ0ggET+GBIDVgusfbFQ==
+
+<SEC-DOCUMENT>0000891092-04-004599.txt : 20040930
+<SEC-HEADER>0000891092-04-004599.hdr.sgml : 20040930
+<ACCEPTANCE-DATETIME>20040930061646
+ACCESSION NUMBER:		0000891092-04-004599
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20040929
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040930
+DATE AS OF CHANGE:		20040930
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PDI INC
+		CENTRAL INDEX KEY:			0001054102
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				222919486
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-46321
+		FILM NUMBER:		041053994
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SADDLE RIVER EXECUTIVE CENTRE
+		STREET 2:		1 ROUTE 17 SOUTH
+		CITY:			SADDLE RIVER
+		STATE:			NJ
+		ZIP:			07458
+		BUSINESS PHONE:		2012588450
+
+	MAIL ADDRESS:	
+		STREET 1:		SADDLE RIVER EXECUTIVE CENTRE
+		STREET 2:		1 ROUTE 17 SOUTH
+		CITY:			SADDLE RIVER
+		STATE:			NJ
+		ZIP:			07458
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PROFESSIONAL DETAILING INC
+		DATE OF NAME CHANGE:	19980129
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>e19160_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UNITED STATES<BR>
+                       SECURITIES AND EXCHANGE COMMISSION<BR>
+                             Washington, D.C. 20549 </FONT></P>
+
+<HR SIZE=1 noshade ALIGN=CENTER WIDTH=150>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K </FONT></P>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT </FONT></P>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to Section 13
+or 15(d) of the<BR>                          Securities Exchange Act of 1934 </FONT></P>
+
+<p align="center"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date of Report
+  (Date of earliest event reported): September 29, 2004 </FONT></p>
+<div align="center">
+  <p><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PDI, INC.<BR>
+    (Exact name of Registrant as specified in its charter) <br>
+    </FONT></p>
+  <table width="100%" border="0">
+    <tr align="center" valign="bottom">
+      <td width="36%"><font size="2"> Delaware<br>
+        (State or other jurisdiction<br>
+        of incorporation) </font></td>
+      <td width="28%"><font size="2">0-24249<br>
+        (Commission<br>
+        File Number) </font></td>
+      <td width="36%"><font size="2"> 22-2919486<br>
+        (IRS Employer<br>
+        Identification No.) </font></td>
+    </tr>
+    <tr align="center">
+      <td width="36%"><font size="2"></font></td>
+      <td width="28%"><font size="2"></font></td>
+      <td width="36%"><font size="2"></font></td>
+    </tr>
+    <tr align="center" valign="bottom">
+      <td width="36%"><font size="2">Saddle River Executive Centre<br>
+        1 Route 17 South,<br>
+        Saddle River, NJ<br>
+        (Address of principal executive office) </font></td>
+      <td width="28%"><font size="2"></font></td>
+      <td width="36%"><font size="2">07458<br>
+        (Zip Code) </font></td>
+    </tr>
+  </table>
+  <p><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(201) 258-8450<BR>
+    Registrant&#146;s telephone number, including area code: </FONT></p>
+</div>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>N.A.<BR>           (Former
+name or former address, if changed since last report)</FONT></P>
+
+<HR SIZE=1 noshade ALIGN=CENTER WIDTH=150>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang 05" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>     |_|  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>     |_|  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>     |_|  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>     |_|  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Page Break Center" FSL="Workstation" -->
+<P>&nbsp;
+<TABLE WIDTH=100%><TR><TD WIDTH=10% ALIGN=left><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH=80% ALIGN=center>
+<FONT SIZE="2"> </FONT></TD>
+<TD WIDTH=10% ALIGN=right><FONT SIZE="1">&nbsp;</FONT>
+</TD></TR></TABLE><HR SIZE=5 noshade WIDTH=100% ALIGN=LEFT>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 10; page: 10" -->
+
+<!-- MARKER FORMAT-SHEET="Left Head 2 Bold" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Item 2.02. Results of
+Operations and Financial Condition </B></FONT></H1>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>As more fully discussed below in
+Item 4.02, on September 29, 2004, PDI, Inc. (the &#147;Company&#148;) issued a press release
+announcing that the previously issued consolidated financial statements for each of the
+three years included in its annual report on Form 10-K for the year ended December 31,
+2003 and its quarterly reports on Form 10-Q for the quarters ended March 31, 2004 and
+June 30, 2004 (the &#147;relevant financial statements&#148;) should no longer be relied upon
+because the Company is restating those financial statements. The Company has determined
+that it should have been applying Emerging Issues Task Force (EITF) Issue No. 01-14,
+&#147;Income Statement Characterization of Reimbursements Received for &#145;Out-of-Pocket&#146;
+Expenses Incurred&#148; (&#147;EITF 01-14&#148;), to the relevant financial statements. As a result,
+revenue and cost of goods and services in the relevant financial statements will be
+restated to comply with EITF 01-14. In accordance with EITF 01-14, direct reimbursements
+received by the Company from its clients for certain costs incurred should have been
+included as part of revenue with an identical increase to cost of goods and services,
+rather than being excluded from revenue and cost of goods and services. Although the
+restatement of the relevant financial statements will affect revenue and cost of goods
+and services, there is no change to gross profit, operating income, net income, cash
+flows from operations or earnings per share. Further, there will be no effect on the
+consolidated balance sheets, consolidated statements of cash flows or consolidated
+statements of stockholders&#146; equity for the relevant financial statements. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>A copy of the Company&#146;s September
+29, 2004 press release is attached hereto as Exhibit 99.1 and is incorporated herein by
+reference. This Current Report on Form 8-K (&#147;8-K&#148;) contains statements intended as
+&#147;forward-looking statements&#148; which are subject to the cautionary statements about
+forward-looking statements set forth in the press release. </FONT></P>
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Item 4.02
+Non-Reliance on Previously Issued Consolidated Financial Statements or a Related Audit
+Report or Completed Interim Review </B></FONT></H1>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(a) </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>On September 29, 2004, the Audit
+Committee of the board of directors of the Company (the &#147;Audit Committee&#148;) concluded that
+the relevant financial statements should no longer be relied on. In accordance with EITF
+01-14, which was issued in late 2001, direct reimbursements received by the Company from
+its clients for certain costs incurred should have been included as part of revenue with
+an identical increase to cost of goods and services, rather than being excluded from
+revenue and cost of goods and services. The Company was not aware of the applicability of
+EITF 01-14 to its financial reporting until September 2004. The estimated changes to
+revenue and cost of goods and services for the relevant periods are shown below. As a
+result, the Audit Committee has decided to restate the relevant financial statements. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>This restatement does not affect
+previously reported gross profit, operating income, net income, cash flows from
+operations or earnings per share. Additionally, there will be no effect on the
+consolidated balance sheets, consolidated statements of cash flows or consolidated
+statements of stockholders&#146; equity for the relevant financial statements. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to Item 4.02(a), the Audit
+Committee has discussed with PricewaterhouseCoopers LLP, the Company&#146;s independent
+auditors (&#147;PwC&#148;), the matters disclosed in this 8-K. PwC informed the Audit Committee
+that it concurs with the Company&#146;s conclusion as stated above. PwC is currently in the
+process of completing auditing procedures related to this restatement of the relevant
+financial statements. The Company and PwC are working to complete this audit as
+expeditiously as possible. The Company intends to effect the restatements through
+amendments to its annual report on Form 10-K for the year ended December 31, 2003 and its
+quarterly reports on Form 10-Q for the quarters ended March 31, 2004 and June 30, 2004
+after PWC completes its audit and prior to filing its Form 10-Q for the quarter ended
+September 30, 2004 in November 2004. Accordingly, the relevant financial statements
+should not be relied upon until such time as the Company files its restatements. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Page Break Center" FSL="Workstation" -->
+<P>&nbsp;
+<TABLE WIDTH=100%><TR><TD WIDTH=10% ALIGN=left><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH=80% ALIGN=center>
+<FONT SIZE="2"> </FONT></TD>
+<TD WIDTH=10% ALIGN=right><FONT SIZE="1">&nbsp;</FONT>
+</TD></TR></TABLE><HR SIZE=5 noshade WIDTH=100% ALIGN=LEFT>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 11; page: 11" -->
+
+<!-- MARKER FORMAT-SHEET="Para Flush 00" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The following tables summarize
+  the estimated impact of the adjustments described above: </FONT></P>
+<P>&nbsp;</P>
+<table border=0 cellspacing=0 cellpadding=0 width=100%>
+  <tr>
+    <td nowrap valign=bottom width=13%> <font size="1">&nbsp;</font></td>
+    <td nowrap colspan=7 valign=bottom align="center"> <font size="1"><b>Three
+      Months Ended</b></font></td>
+    <td nowrap valign=bottom colspan="4" width=30%> <font size="2">&nbsp;&nbsp;&nbsp;</font>
+      <font size="2">&nbsp;&nbsp;&nbsp;</font> <font size="2"><b> &nbsp;&nbsp;</b></font>
+      <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=middle width="13%"> <font size="1"><i><font size="2">(in
+      millions)</font></i></font></td>
+    <td nowrap colspan=3 valign=top align="center"> <font size="1"><b>June 30,
+      2004</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=top align="center" width="1%"> <font size="1"><b>&nbsp;</b></font></td>
+    <td nowrap colspan=3 valign=top align="center"> <font size="1"><b>March 31,
+      2004</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom colspan="4" width="30%"> <font size="2"><b>&nbsp;</b></font>
+      <font size="2"><b>&nbsp;</b></font> <font size="2"><b>&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="1"><b>&nbsp;</b></font></td>
+    <td valign=bottom align="center" width=9%> <font size="1"><b>Revenue</b></font></td>
+    <td valign=bottom align="center" width=11%> <font size="1"><b>Cost of<br>
+      Goods and<br>
+      Services</b></font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Gross<br>
+      Profit</b></font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="1">&nbsp;&nbsp;&nbsp;</font></td>
+    <td valign=bottom align="center" width=10%> <font size="1"><b>Revenue</b></font></td>
+    <td valign=bottom align="center" width=10%> <font size="1"><b>Cost of<br>
+      Goods and<br>
+      Services</b></font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Gross<br>
+      Profit</b></font></td>
+    <td nowrap valign=bottom colspan="4" width="30%"> <font size="2"><b>&nbsp;</b></font>
+      <font size="2"><b>&nbsp;</b></font> <font size="2"><b>&nbsp;</b></font>
+      <font size="2"><b>&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>As Restated</b></font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">$
+      91.4</font></td>
+    <td nowrap valign=bottom align="center" width="11%"> <font size="2">$
+      69.6</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">$ 21.8
+      </font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">$
+      92.7</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">$
+      66.1</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">$ 26.6
+      </font></td>
+    <td nowrap valign=bottom colspan="4" width="30%"> <font size="2">&nbsp;</font>
+      <font size="2">&nbsp;</font> <font size="2">&nbsp;</font> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>As Reported</b></font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">
+      83.2</font></td>
+    <td nowrap valign=bottom align="center" width="11%"> <font size="2">
+      61.4</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2"> 21.8
+      </font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">
+      88.4</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">
+      61.8</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2"> 26.6
+      </font></td>
+    <td nowrap valign=bottom colspan="4" width="30%"> <font size="2">&nbsp;</font>
+      <font size="2">&nbsp;</font> <font size="2">&nbsp;</font> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom align="center" width="1%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom colspan="4" width="30%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>Change</b></font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">$ 8.2
+      </font></td>
+    <td nowrap valign=bottom align="center" width="11%"> <font size="2">$
+      8.2</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">$&nbsp;
+      &#151;</font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">$
+      4.3</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">$
+      4.3</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">$&nbsp;&nbsp;
+      &#151;</font></td>
+    <td nowrap valign=bottom colspan="4" width="30%"> <font size="2">&nbsp;</font>
+      <font size="2">&nbsp;</font> <font size="2">&nbsp;</font> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>&nbsp;</b></font></td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="2">
+    </td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" colspan="3">      <hr noshade size="2"></td>
+  </tr>
+</table>
+<br>
+<br>
+<table border=0 cellspacing=0 cellpadding=0 width=100%>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="1">&nbsp;</font></td>
+    <td nowrap colspan=11 valign=bottom align="center"> <font size="1"><b>Years
+      Ended December 31,</b></font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="1"><i><font size="2">(in
+      millions)</font></i></font></td>
+    <td nowrap colspan=3 valign=bottom align="center"> <font size="1"><b>2003<br>
+      </b></font>
+      <hr noshade size="1">
+      <font size="1"><b> </b></font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="1"><b>&nbsp;</b></font></td>
+    <td nowrap colspan=3 valign=bottom align="center"> <font size="1"><b>2002</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="1"><b>&nbsp;</b></font></td>
+    <td nowrap colspan=3 valign=bottom align="center"> <font size="1"><b>2001</b></font>
+      <hr noshade size="1">
+    </td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="1"><b>&nbsp;</b></font></td>
+    <td valign=bottom align="center" width=9%> <font size="1"><b>Revenue</b></font></td>
+    <td valign=bottom align="center" width=11%> <font size="1"><b>Cost of<br>
+      Goods and<br>
+      Services</b></font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Gross<br>
+      Profit</b></font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="1">&nbsp;&nbsp;&nbsp;</font></td>
+    <td valign=bottom align="center" width=10%> <font size="1"><b>Revenue</b></font></td>
+    <td valign=bottom align="center" width=10%> <font size="1"><b>Cost of<br>
+      Goods and<br>
+      Services</b></font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Gross<br>
+      Profit</b></font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="1">&nbsp;&nbsp;&nbsp;</font></td>
+    <td valign=bottom align="center" width=10%> <font size="1"><b>Revenue</b></font></td>
+    <td valign=bottom align="center" width=10%> <font size="1"><b>Cost of<br>
+      Goods and<br>
+      Services</b></font></td>
+    <td valign=bottom align="center" width=9%> <font size="1"><b>Gross<br>
+      Profit</b></font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>As Restated</b></font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">$ 344.4</font></td>
+    <td nowrap valign=bottom align="center" width="11%"> <font size="2">$
+      255.3</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">$ 89.1
+      </font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">$
+      309.2</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">$
+      279.3</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">$ 29.9
+      </font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">$
+      716.8</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">$
+      581.0</font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">$ 135.8
+      </font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>As Reported</b></font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2"> 317.4
+      </font></td>
+    <td nowrap valign=bottom align="center" width="11%"> <font size="2">
+      228.3</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2"> 89.1
+      </font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">
+      284.0</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">
+      254.1</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2"> 29.9
+      </font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">
+      696.6</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">
+      560.8</font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2"> 135.8
+      </font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom align="center" width="1%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom align="center" width="1%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="1">
+    </td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>Change</b></font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">$
+      27.0</font></td>
+    <td nowrap valign=bottom align="center" width="11%"> <font size="2">$
+      27.0</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">$&nbsp;&nbsp;
+      &#151;</font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">$
+      25.2</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">$
+      25.2</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">$&nbsp;&nbsp;
+      &#151;</font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">$
+      20.2</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">$
+      20.2</font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">$&nbsp;&nbsp;
+      &#151;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="2">
+    </td>
+    <td nowrap valign=bottom align="center" width="1%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="2">
+    </td>
+    <td nowrap valign=bottom align="center" width="1%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="2">
+    </td>
+  </tr>
+</table>
+<br>
+<font face="Times New Roman" size="2">&nbsp;</font>
+<table border=0 cellspacing=0 cellpadding=0 width=100%>
+  <tr>
+    <td nowrap valign=bottom align="center" width=27%> <font size="1">&nbsp;</font></td>
+    <td nowrap colspan=7 valign=bottom align="center"> <font size="1"><b>Three
+      Months Ended </b></font></td>
+    <td nowrap valign=bottom width=27%> <font size="2"><b>&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom align="center" width=27%> <font size="1"><i>&nbsp;</i></font></td>
+    <td nowrap colspan=3 valign=bottom align="center"> <font size="1"><b>June
+      30, 2004</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="1"><b>&nbsp;</b></font></td>
+    <td nowrap colspan=3 valign=bottom align="center"> <font size="1"><b>March
+      31, 2004</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=27%> <font size="2"><b>&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom align="center" width=27%> <font size="1">&nbsp;</font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Reported</b></font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Restated</b></font></td>
+    <td valign=bottom align="center" width=6%> <font size="1"><b>Change</b></font></td>
+    <td valign=bottom align="center" width=2%> &nbsp;&nbsp;&nbsp;</td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Reported</b></font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Restated</b></font></td>
+    <td valign=bottom align="center" width=6%> <font size="2"><b><font size="1">Change</font></b></font></td>
+    <td valign=bottom width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%>&nbsp;</td>
+    <td nowrap valign=bottom width=22% colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=2%>&nbsp;</td>
+    <td nowrap valign=bottom width=22% colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=27%>&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2"><b>Effect On:</b></font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=6%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=6%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Gross Profit</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">26.2%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">23.9%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-2.3%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">30.0%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">28.6%</font></td>
+    <td nowrap valign=bottom width=6% align="center"> <font size="2">-1.4%</font></td>
+    <td nowrap valign=bottom width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Operating Income </font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;9.9%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;9.0%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.9%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">11.1%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">10.6%</font></td>
+    <td nowrap valign=bottom width=6% align="center"> <font size="2">-0.5%</font></td>
+    <td nowrap valign=bottom width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Pre-tax Income </font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">10.3%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;9.4%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.9%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">11.5%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">10.9%</font></td>
+    <td nowrap valign=bottom width=6% align="center"> <font size="2">-0.6%</font></td>
+    <td nowrap valign=bottom width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Net Income </font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;6.1%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;5.5%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.6%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;6.8%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;6.4%</font></td>
+    <td nowrap valign=bottom width=6% align="center"> <font size="2">-0.4%</font></td>
+    <td nowrap valign=bottom width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+</table>
+<br>
+<br>
+<table border=0 cellspacing=0 cellpadding=0 width=100%>
+  <tr align="center">
+    <td nowrap valign=bottom width=27%> <font size="1">&nbsp;</font></td>
+    <td nowrap colspan=11 valign=bottom> <font size="1"><b>Years Ended December
+      31, </b></font></td>
+  </tr>
+  <tr align="center">
+    <td nowrap valign=bottom width=27%> <font size="1"><i>&nbsp;</i></font></td>
+    <td nowrap colspan=3 valign=bottom> <font size="1"><b>2003</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=2%> <font size="1"><b>&nbsp;</b></font></td>
+    <td nowrap colspan=3 valign=bottom> <font size="1"><b>2002</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=2%> <font size="1"><b>&nbsp;</b></font></td>
+    <td nowrap colspan=3 valign=bottom> <font size="1"><b>2001</b></font>
+      <hr noshade size="1">
+    </td>
+  </tr>
+  <tr align="center">
+    <td nowrap valign=bottom width=27%> <font size="1">&nbsp;</font></td>
+    <td valign=bottom width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Reported</b></font></td>
+    <td valign=bottom width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Restated</b></font></td>
+    <td valign=bottom width=6%> <font size="1"><b>Change</b></font></td>
+    <td valign=bottom width=2%> &nbsp;&nbsp;</td>
+    <td valign=bottom width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Reported</b></font></td>
+    <td valign=bottom width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Restated</b></font></td>
+    <td valign=bottom width=6%> <font size="1"><b>Change</b></font></td>
+    <td nowrap valign=bottom width=2%> &nbsp;&nbsp;</td>
+    <td valign=bottom width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Reported</b></font></td>
+    <td valign=bottom width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Restated</b></font></td>
+    <td valign=bottom width=9%> <font size="1"><b>Change </b></font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%>&nbsp;</td>
+    <td nowrap valign=bottom colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=2%>&nbsp;</td>
+    <td nowrap valign=bottom colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=2%>&nbsp;</td>
+    <td nowrap valign=bottom colspan="3">
+      <hr noshade size="1">
+    </td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2"><b>Effect On:</b></font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=6%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=6%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=9%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27% height="14"> <font size="2">Gross Profit</font></td>
+    <td nowrap valign=bottom align="center" width=8% height="14"> <font size="2">28.1%</font></td>
+    <td nowrap valign=bottom align="center" width=8% height="14"> <font size="2">25.9%</font></td>
+    <td nowrap valign=bottom align="center" width=6% height="14"> <font size="2">-2.2%</font></td>
+    <td nowrap valign=bottom align="center" width=2% height="14"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8% height="14"> <font size="2">&nbsp;&nbsp;10.5%</font></td>
+    <td nowrap valign=bottom align="center" width=8% height="14"> <font size="2">&nbsp;&nbsp;9.7%</font></td>
+    <td nowrap valign=bottom align="center" width=6% height="14"> <font size="2">-0.8%</font></td>
+    <td nowrap valign=bottom align="center" width=2% height="14"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8% height="14"> <font size="2">19.5%</font></td>
+    <td nowrap valign=bottom align="center" width=8% height="14"> <font size="2">18.9%</font></td>
+    <td nowrap valign=bottom align="center" width=9% height="14"> <font size="2">-0.6%</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Operating Income (Loss)</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;6.2%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;5.7%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.5%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">-17.7%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">-16.2%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">1.5%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;1.8%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;1.8%</font></td>
+    <td nowrap valign=bottom align="center" width=9%> <font size="2">&nbsp;&nbsp;0.0%</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Pre-tax Income (Loss)</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;6.5%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;6.0%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.5%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">-17.0%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">-15.6%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">1.4%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;2.2%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;2.1%</font></td>
+    <td nowrap valign=bottom align="center" width=9%> <font size="2">-0.1%</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Net Income (Loss)</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;3.9%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;3.6%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.3%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">-10.8%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">-9.9%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">0.9%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;0.9%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;0.9%</font></td>
+    <td nowrap valign=bottom align="center" width=9%> <font size="2">&nbsp;&nbsp;0.0%</font></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+
+<P>&nbsp;
+<TABLE WIDTH=100%><TR><TD WIDTH=10% ALIGN=left><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH=80% ALIGN=center>
+<FONT SIZE="2"> </FONT></TD>
+<TD WIDTH=10% ALIGN=right><FONT SIZE="1">&nbsp;</FONT>
+</TD></TR></TABLE><HR SIZE=5 noshade WIDTH=100% ALIGN=LEFT>
+
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 12; page: 12" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Left Head 2 Bold" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Item 9.01 Financial
+Statements and Exhibits </B></FONT></H1>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(c) Exhibits </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit 99.1      Press Release
+dated September 29, 2004 </FONT></P>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>* * * * * * * </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Center Head 2" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURE </FONT></H1>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to the requirements
+  of the Securities Exchange Act of 1934, the registrant has duly caused this
+  report to be signed on its behalf by the undersigned hereunto duly authorized.
+  <br>
+  </FONT></P>
+<table width="100%" border="0">
+  <tr valign="top">
+    <td width="64%"><font size="2"></font></td>
+    <td colspan="2"><font size="2"> PDI, INC. </font></td>
+  </tr>
+  <tr valign="top">
+    <td width="64%">&nbsp;</td>
+    <td width="3%">&nbsp;</td>
+    <td width="33%">&nbsp;</td>
+  </tr>
+  <tr valign="top">
+    <td width="64%"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td width="3%"><font size="2">By:</font></td>
+    <td width="33%"> <font size="2">/s/ Charles T. Saldarini</font>
+      <hr noshade size="1">
+      <font size="2">Charles T. Saldarini, Vice Chairman<br>
+      and Chief Executive Officer </font></td>
+  </tr>
+  <tr valign="top">
+    <td width="64%"><font size="2">Date: September 29, 2004</font></td>
+    <td width="3%"><font size="2"></font></td>
+    <td width="33%"><font size="2"></font></td>
+  </tr>
+</table>
+<P>&nbsp;</P>
+
+
+<PRE>&nbsp;
+
+
+</PRE>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Page Break Center" FSL="Workstation" -->
+<P>&nbsp;
+<TABLE WIDTH=100%><TR><TD WIDTH=10% ALIGN=left><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH=80% ALIGN=center>
+<FONT SIZE="2"> </FONT></TD>
+<TD WIDTH=10% ALIGN=right><FONT SIZE="1">&nbsp;</FONT>
+</TD></TR></TABLE><HR SIZE=5 noshade WIDTH=100% ALIGN=LEFT>
+
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 13; page: 13" -->
+
+
+
+<!-- MARKER FORMAT-SHEET="Center no bold" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>EXHIBIT INDEX </FONT></P>
+
+<PRE>&nbsp;
+
+</PRE>
+<table width="100%" border="0">
+  <tr>
+    <td align="center" valign="bottom"><font size="2">Exhibit<br>
+      No. <br>
+      </font>
+      <hr noshade size="1" width="35">
+      <font size="2"> </font></td>
+    <td><font size="2"></font></td>
+    <td valign="bottom"><font size="2">Document</font>
+      <hr noshade size="1" width="55" align="left">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><font size="2">99.1</font></td>
+    <td><font size="2"></font></td>
+    <td><font size="2">Press Release dated September 29, 2004</font></td>
+  </tr>
+</table>
+<PRE>&nbsp;
+</PRE>
+
+
+
+
+
+
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>e19160ex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN=RIGHT><font face="Times New Roman, Times, Serif" size=2><b>Exhibit 99.1</b></font><br>
+</H1>
+
+<p><font face="Times New Roman, Times, Serif" size=2><img src="e19160_pdi-logo.gif" width="742" height="154" align="absmiddle"></font></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div align="right">
+  <p><font face="Times New Roman, Times, Serif" size=3><b>News Release</b></font></p>
+  <p align="left"><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>For more
+    information contact:</B><BR>
+    Stephen P. Cotugno<BR>
+    Executive Vice President-Corporate Development<BR>
+    PDI, Inc.<BR>
+    201.574.8617 </FONT></p>
+</div>
+<!-- MARKER FORMAT-SHEET="Para Flush 20" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+  <TR VALIGN=TOP align="center">
+    <TD WIDTH=100% colspan="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>
+      </b></FONT><b><FONT FACE="Times New Roman, Times, Serif" SIZE=2> PDI, Inc.
+      to Apply EITF 01-14 to 2003 10-K and 2004 10-Qs, Increasing Revenue and<BR>
+      Cost of Goods and Services by Identical Amounts within Each Period</FONT></b></TD>
+  </TR>
+</TABLE>
+<BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+  <TR VALIGN=TOP align="center">
+    <TD WIDTH=100% colspan="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>
+      </b></FONT><b><FONT FACE="Times New Roman, Times, Serif" SIZE=2> No Changes
+      to Gross Profit, Operating Income, Net Income, Cash Flows from Operations<BR>
+      or EPS for any Period</FONT></b></TD>
+  </TR>
+</TABLE>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush 20" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+  <TR VALIGN=TOP>
+    <TD WIDTH=100% colspan="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Saddle
+      River, New Jersey (September 29, 2004). PDI, Inc (NASDAQ: PDII) a leading
+      provider of outsourced sales and marketing services to the biopharmaceutical
+      and medical devices and diagnostics industries, today announced that the
+      previously issued consolidated financial statements contained in its annual
+      report on Form 10-K for the year ended December 31, 2003 and its quarterly
+      reports on Form 10-Q for the quarters ended March 31, 2004 and June 30,
+      2004 (the &#147;relevant financial statements&#148;) will be restated. </FONT></TD>
+  </TR>
+</TABLE>
+<BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+  <TR VALIGN=TOP>
+    <TD WIDTH=100% colspan="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The
+      Company has determined that it should have been applying Emerging Issues
+      Task Force (EITF) Issue No. 01-14, &#147;Income Statement Characterization
+      of Reimbursement Received for &#145;Out-of-Pocket&#146; Expenses Incurred&#148;
+      (&#147;EITF 01-14&#148;), to the relevant financial statements. In accordance
+      with EITF 01-14, certain costs, for which the Company receives direct reimbursement
+      from its clients, should have been included as part of revenue with an identical
+      increase to cost of goods and services, rather than being excluded from
+      revenue and cost of goods and services. As a result, revenue and cost of
+      goods and services in the relevant financial statements will be increased
+      by identical amounts. EITF 01-14 was issued in late 2001, was applicable
+      for years beginning in 2002, and also required reclassification of all previous
+      periods for comparative purposes. The Company was not aware of the applicability
+      of EITF 01-14 until September 2004. </FONT></TD>
+  </TR>
+</TABLE>
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>As a result of this adjustment,
+  there are no changes to gross profit, operating income, net income, cash flows
+  from operations or earnings per share, nor will there be any effect on the consolidated
+  balance sheets, consolidated statements of cash flows or consolidated statements
+  of stockholders&#146; equity for the relevant financial statements. </FONT></P>
+<P>&nbsp;</P>
+
+
+<!-- MARKER FORMAT-SHEET="Page Break Center" FSL="Workstation" -->
+<p><img src="e19160_footer.gif" width="230" height="19" align="right"> </p>
+<TABLE WIDTH=100%><TR><TD WIDTH=10% ALIGN=left><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH=80% ALIGN=center>
+<FONT SIZE="2"> </FONT></TD>
+<TD WIDTH=10% ALIGN=right><FONT SIZE="1">&nbsp;</FONT>
+</TD></TR></TABLE><HR SIZE=5 noshade WIDTH=100% ALIGN=LEFT>
+
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 14; page: 14" -->
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush 00" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The following tables summarize the
+estimated impact of the adjustments described above: </FONT></P>
+
+
+<p>&nbsp;</p>
+<table border=0 cellspacing=0 cellpadding=0 width=100%>
+  <tr>
+    <td nowrap valign=bottom width=13%> <font size="1">&nbsp;</font></td>
+    <td nowrap colspan=7 valign=bottom align="center"> <font size="1"><b>Three
+      Months Ended</b></font></td>
+    <td nowrap valign=bottom colspan="4" width=30%>&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=middle width="13%"> <font size="1"><i><font size="2">(in
+      millions)</font></i></font></td>
+    <td nowrap colspan=3 valign=top align="center"> <font size="1"><b>June 30,
+      2004</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=top align="center" width="1%"> <font size="1"><b>&nbsp;</b></font></td>
+    <td nowrap colspan=3 valign=top align="center"> <font size="1"><b>March 31,
+      2004</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom colspan="4" width="30%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="1"><b>&nbsp;</b></font></td>
+    <td valign=bottom align="center" width=9%> <font size="1"><b>Revenue</b></font></td>
+    <td valign=bottom align="center" width=11%> <font size="1"><b>Cost of<br>
+      Goods and<br>
+      Services</b></font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Gross<br>
+      Profit</b></font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="1">&nbsp;&nbsp;&nbsp;</font></td>
+    <td valign=bottom align="center" width=10%> <font size="1"><b>Revenue</b></font></td>
+    <td valign=bottom align="center" width=10%> <font size="1"><b>Cost of<br>
+      Goods and<br>
+      Services</b></font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Gross<br>
+      Profit</b></font></td>
+    <td nowrap valign=bottom colspan="4" width="30%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>As Restated</b></font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;
+      91.4</font></td>
+    <td nowrap valign=bottom align="center" width="11%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      69.6</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">&#160;$&#160;
+      21.8 </font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;&#160;
+      92.7</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;&#160;&#160;
+      66.1</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">&#160;$&#160;
+      26.6 </font></td>
+    <td nowrap valign=bottom colspan="4" width="30%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>As Reported</b></font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      83.2</font></td>
+    <td nowrap valign=bottom align="center" width="11%"> <font size="2">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      61.4</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">&#160;&#160;&#160;&#160;
+      21.8 </font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      88.4</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      61.8</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">&#160;&#160;&#160;&#160;
+      26.6 </font></td>
+    <td nowrap valign=bottom colspan="4" width="30%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom align="center" width="1%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom colspan="4" width="30%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>Change</b></font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">&#160;$&#160;&#160;&#160;
+      &#160;&#160;&#160;8.2 </font></td>
+    <td nowrap valign=bottom align="center" width="11%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      8.2</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">&#160;$&#160;&nbsp;&#160;&#160;
+      &#151;</font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      4.3</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      4.3</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">$&nbsp;&nbsp;&#160;
+      &#151;</font></td>
+    <td nowrap valign=bottom colspan="4" width="30%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>&nbsp;</b></font></td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="2">
+    </td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="2"></TD>
+  </tr>
+</table>
+<br>
+<br>
+<table border=0 cellspacing=0 cellpadding=0 width=100%>
+  <tr>
+    <td nowrap valign=bottom width="13%">&nbsp;</td>
+    <td nowrap colspan=7 valign=bottom align="center"><font size="1"><b>Years
+      Ended December 31,</b></font></td>
+    <td nowrap valign=bottom align="center" width="30%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="1"><i><font size="2">(in
+      millions)</font></i></font></td>
+    <td nowrap colspan=3 valign=bottom align="center"> <font size="1"><b>2003<br>
+      </b></font>
+      <hr noshade size="1">
+      <font size="1"><b> </b></font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="1"><b>&nbsp;</b></font></td>
+    <td nowrap colspan=3 valign=bottom align="center"> <font size="1"><b>2002</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom align="center" width="30%"> <font size="1"><b>&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="1"><b>&nbsp;</b></font></td>
+    <td valign=bottom align="center" width=9%> <font size="1"><b>Revenue</b></font></td>
+    <td valign=bottom align="center" width=11%> <font size="1"><b>Cost of<br>
+      Goods and<br>
+      Services</b></font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Gross<br>
+      Profit</b></font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="1">&nbsp;&nbsp;&nbsp;</font></td>
+    <td valign=bottom align="center" width=10%> <font size="1"><b>Revenue</b></font></td>
+    <td valign=bottom align="center" width=10%> <font size="1"><b>Cost of<br>
+      Goods and<br>
+      Services</b></font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Gross<br>
+      Profit</b></font></td>
+    <td nowrap valign=bottom align="center" width="30%"> <font size="1">&nbsp;&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>As Restated</b></font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">&#160;$&#160;&#160; 344.4</font></td>
+    <td nowrap valign=bottom align="center" width="11%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;&#160;
+      255.3</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">&#160;$&#160; 89.1
+      </font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">&#160;$&#160;&#160;&#160;
+      309.2</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;
+      279.3</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">&#160;$&#160; 29.9
+      </font></td>
+    <td nowrap valign=bottom align="center" width="30%"> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>As Reported</b></font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">&#160;&#160;&#160;&#160;&#160; 317.4
+      </font></td>
+    <td nowrap valign=bottom align="center" width="11%"> <font size="2">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      228.3</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">&#160;&#160;&#160;&#160; 89.1
+      </font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">&#160;&#160;&#160;&#160;&#160;&#160;
+      284.0</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      254.1</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">&#160;&#160;&#160;&#160; 29.9
+      </font></td>
+    <td nowrap valign=bottom align="center" width="30%"> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom align="center" width="1%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom align="center" width="30%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%"> <font size="2"><b>Change</b></font></td>
+    <td nowrap valign=bottom align="center" width="9%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;
+      27.0</font></td>
+    <td nowrap valign=bottom align="center" width="11%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      27.0</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">&#160;$&nbsp;&nbsp;&#160;
+      &#151;</font></td>
+    <td nowrap valign=bottom align="center" width="1%"> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;&#160;
+      25.2</font></td>
+    <td nowrap valign=bottom align="center" width="10%"> <font size="2">&#160;$&#160;&#160;&#160;&#160;&#160;&#160;
+      25.2</font></td>
+    <td nowrap valign=bottom align="center" width="8%"> <font size="2">&#160;$&nbsp;&nbsp;&#160;
+      &#151;</font></td>
+    <td nowrap valign=bottom align="center" width="30%"> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width="13%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="2">
+    </td>
+    <td nowrap valign=bottom align="center" width="1%">&nbsp;</td>
+    <td nowrap valign=bottom align="center" colspan="3">
+      <hr noshade size="2">
+    </td>
+    <td nowrap valign=bottom align="center" width="30%">&nbsp;</td>
+  </tr>
+</table>
+<br>
+<font face="Times New Roman" size="2">&nbsp;</font>
+<table border=0 cellspacing=0 cellpadding=0 width=100%>
+  <tr>
+    <td nowrap valign=bottom align="center" width=27%> <font size="1">&nbsp;</font></td>
+    <td nowrap colspan=7 valign=bottom align="center"> <font size="1"><b>Three
+      Months Ended </b></font></td>
+    <td nowrap valign=bottom width=27%> <font size="2"><b>&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom align="center" width=27%> <font size="1"><i>&nbsp;</i></font></td>
+    <td nowrap colspan=3 valign=bottom align="center"> <font size="1"><b>June
+      30, 2004</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="1"><b>&nbsp;</b></font></td>
+    <td nowrap colspan=3 valign=bottom align="center"> <font size="1"><b>March
+      31, 2004</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=27%> <font size="2"><b>&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom align="center" width=27%> <font size="1">&nbsp;</font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Reported</b></font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Restated</b></font></td>
+    <td valign=bottom align="center" width=6%> <font size="1"><b>Change</b></font></td>
+    <td valign=bottom align="center" width=2%> &nbsp;&nbsp;&nbsp;</td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Reported</b></font></td>
+    <td valign=bottom align="center" width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Restated</b></font></td>
+    <td valign=bottom align="center" width=6%> <font size="2"><b><font size="1">Change</font></b></font></td>
+    <td valign=bottom width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%>&nbsp;</td>
+    <td nowrap valign=bottom width=22% colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=2%>&nbsp;</td>
+    <td nowrap valign=bottom width=22% colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=27%>&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2"><b>Effect On:</b></font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=6%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=6%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Gross Profit</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">26.2%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">23.9%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-2.3%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">30.0%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">28.6%</font></td>
+    <td nowrap valign=bottom width=6% align="center"> <font size="2">-1.4%</font></td>
+    <td nowrap valign=bottom width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Operating Income </font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;9.9%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;9.0%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.9%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">11.1%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">10.6%</font></td>
+    <td nowrap valign=bottom width=6% align="center"> <font size="2">-0.5%</font></td>
+    <td nowrap valign=bottom width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Pre-tax Income </font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">10.3%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;9.4%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.9%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">11.5%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">10.9%</font></td>
+    <td nowrap valign=bottom width=6% align="center"> <font size="2">-0.6%</font></td>
+    <td nowrap valign=bottom width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Net Income </font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;6.1%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;5.5%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.6%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;6.8%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;6.4%</font></td>
+    <td nowrap valign=bottom width=6% align="center"> <font size="2">-0.4%</font></td>
+    <td nowrap valign=bottom width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+</table>
+<br>
+<br>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p><img src="e19160_footer.gif" width="230" height="19" align="right"></p>
+<TABLE WIDTH=100%><TR><TD WIDTH=10% ALIGN=left><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH=80% ALIGN=center>
+<FONT SIZE="2"> </FONT></TD>
+<TD WIDTH=10% ALIGN=right><FONT SIZE="1">&nbsp;</FONT>
+</TD></TR></TABLE><HR SIZE=5 noshade WIDTH=100% ALIGN=LEFT>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 15; page: 15" --> <p><font face="Times New Roman" size="2">&nbsp;</font>
+<br>
+<br>
+</p><table border=0 cellspacing=0 cellpadding=0 width=100%>
+  <tr align="center">
+    <td nowrap valign=bottom width=27%>&nbsp;</td>
+    <td nowrap colspan=7 valign=bottom><font size="1"><b>Years Ended December
+      31,</b></font></td>
+    <td nowrap valign=bottom width=27%>&nbsp;</td>
+  </tr>
+  <tr align="center">
+    <td nowrap valign=bottom width=27%> <font size="1"><i>&nbsp;</i></font></td>
+    <td nowrap colspan=3 valign=bottom> <font size="1"><b>2003</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=2%> <font size="1"><b>&nbsp;</b></font></td>
+    <td nowrap colspan=3 valign=bottom> <font size="1"><b>2002</b></font>
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=27%> <font size="1"><b>&nbsp;</b></font></td>
+  </tr>
+  <tr align="center">
+    <td nowrap valign=bottom width=27%> <font size="1">&nbsp;</font></td>
+    <td valign=bottom width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Reported</b></font></td>
+    <td valign=bottom width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Restated</b></font></td>
+    <td valign=bottom width=6%> <font size="1"><b>Change</b></font></td>
+    <td valign=bottom width=2%> &nbsp;&nbsp;</td>
+    <td valign=bottom width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Reported</b></font></td>
+    <td valign=bottom width=8%> <font size="1"><b>Margin as<br>
+      a % of<br>
+      Revenue<br>
+      As<br>
+      Restated</b></font></td>
+    <td valign=bottom width=6%> <font size="1"><b>Change</b></font></td>
+    <td nowrap valign=bottom width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%>&nbsp;</td>
+    <td nowrap valign=bottom colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=2%>&nbsp;</td>
+    <td nowrap valign=bottom colspan="3">
+      <hr noshade size="1">
+    </td>
+    <td nowrap valign=bottom width=27%>&nbsp;</td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2"><b>Effect On:</b></font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=6%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=8%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=6%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Gross Profit</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">28.1%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">25.9%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-2.2%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;10.5%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;9.7%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.8%</font></td>
+    <td nowrap valign=bottom align="center" width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Operating Income (Loss)</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;6.2%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;5.7%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.5%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">-17.7%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">-16.2%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">1.5%</font></td>
+    <td nowrap valign=bottom align="center" width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Pre-tax Income (Loss)</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;6.5%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;6.0%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.5%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">-17.0%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">-15.6%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">1.4%</font></td>
+    <td nowrap valign=bottom align="center" width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td nowrap valign=bottom width=27%> <font size="2">Net Income (Loss)</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;3.9%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">&nbsp;&nbsp;3.6%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">-0.3%</font></td>
+    <td nowrap valign=bottom align="center" width=2%> <font size="2">&nbsp;</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">-10.8%</font></td>
+    <td nowrap valign=bottom align="center" width=8%> <font size="2">-9.9%</font></td>
+    <td nowrap valign=bottom align="center" width=6%> <font size="2">0.9%</font></td>
+    <td nowrap valign=bottom align="center" width=27%> <font size="2">&nbsp;</font></td>
+  </tr>
+</table>
+<p><font face="Times New Roman, Times, Serif" size=2>PDI is maintaining its previously
+  announced 2004 earnings per share estimates of $1.25 to $1.35. </font></p>
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Webcast Conference
+Call </B></FONT></H1>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PDI will conduct a conference
+  call at 9:00 AM EDT on Thursday, September 30, 2004. The conference call will
+  be accessible through PDI&#146;s website, www.pdi-inc.com and will be archived
+  on the website for future on-demand replay. For those without internet access,
+  the call can be accessed by dialing 1-877-423-4030 within the US and 1-706-634-1929
+  internationally and asking for the PDI Conference Call. The call will be archived
+  for two weeks and can be accessed by calling 1-800-642-1687 or 1-706-645-9291
+  and entering the conference ID number 1211429. </FONT></P>
+<P>&nbsp;</P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Page Break Center" FSL="Workstation" -->
+<P><img src="e19160_footer.gif" width="230" height="19" align="right"><br>
+
+<TABLE WIDTH=100%><TR><TD WIDTH=10% ALIGN=left><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH=80% ALIGN=center>
+<FONT SIZE="2"> </FONT></TD>
+<TD WIDTH=10% ALIGN=right><FONT SIZE="1">&nbsp;</FONT>
+</TD></TR></TABLE><HR SIZE=5 noshade WIDTH=100% ALIGN=LEFT>
+
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 16; page: 16" -->
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Left Head 2 Bold" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>About PDI </B></FONT></H1>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PDI, Inc. (NASDAQ:PDII) is a leading
+provider of outsourced sales and marketing services to the biopharmaceutical and medical
+device and diagnostics industries. PDI&#146;s comprehensive set of next-generation
+solutions is designed to increase its clients&#146; strategic flexibility and enhance
+their efficiency and profitability. Headquartered in Saddle River, NJ, PDI also has
+offices in Pennsylvania and Illinois. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PDI&#146;s sales and marketing
+services include dedicated, shared, clinical and combination sales teams; marketing
+research and consulting; medical education and communications; talent recruitment; and
+integrated commercial solutions from pre-launch through patent-expiration. The company&#146;s
+experience extends across multiple therapeutic categories and includes office and
+hospital-based initiatives. PDI&#146;s global presence is maintained through a strategic
+partnership with In2Focus, a leading U.K. provider of outsourced sales services. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PDI&#146;s commitment is to deliver
+innovative solutions, excellent execution and superior results to its clients. Through
+strategic partnership and client-driven innovation, PDI maintains some of the longest
+sales and marketing relationships in the industry. Recognized as an industry pioneer, PDI
+continues to innovate today as a thought-starter for the outsourcing of sales and
+marketing services. </FONT></P>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>For more information, visit the
+Company&#146;s website at www.pdi-inc.com. </FONT></P>
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Forward Looking
+Statement </B></FONT></H1>
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><i>This press release contains
+  forward-looking statements regarding future events and financial performance.
+  These statements involve a number of risks and uncertainties and are based on
+  numerous assumptions involving judgments with respect to future economic, competitive
+  and market conditions and future business decisions, all of which are difficult
+  or impossible to predict accurately and many of which are beyond PDI&#146;s
+  control. Some of the important factors that could cause actual results to differ
+  materially from those indicated by the forward-looking statements are general
+  economic conditions, changes in our operating expenses, adverse patent rulings,
+  FDA, legal or accounting developments, competitive pressures, failure to meet
+  performance benchmarks in significant contracts, changes in customer and market
+  requirements and standards, and the risk factors detailed from time to time
+  in PDI&#146;s periodic filings with the Securities and Exchange Commission,
+  including without limitation, PDI&#146;s Annual Report on Form 10-K for the
+  year ended December 31, 2003, and PDI&#146;s periodic reports on Forms 10-Q
+  and 8-K filed with the Securities and Exchange Commission since January 1, 2004.
+  The forward looking-statements in this press release are based upon management&#146;s
+  reasonable belief as of the date hereof. PDI undertakes no obligation to revise
+  or update publicly any forward-looking statements for any reason. </i></FONT></P>
+<P>&nbsp;</P>
+<P><img src="e19160_footer.gif" width="230" height="19" align="right"></P>
+
+
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>e19160_footer.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 e19160_footer.gif
+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
++2_0C!0*8$0$!`#L_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>e19160_pdi-logo.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 e19160_pdi-logo.gif
+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
+%$PD(`#L_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

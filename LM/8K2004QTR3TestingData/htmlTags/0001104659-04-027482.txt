@@ -1,0 +1,852 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ U5aLrLppkIf0scykiX7WdXlHyIHTEyYkk334OU/hMcH4mPrOyOLT5VW1PsUmPF23
+ pQqwaCscWWn5CHWlY7fcEQ==
+
+<SEC-DOCUMENT>0001104659-04-027482.txt : 20040913
+<SEC-HEADER>0001104659-04-027482.hdr.sgml : 20040913
+<ACCEPTANCE-DATETIME>20040913172638
+ACCESSION NUMBER:		0001104659-04-027482
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040913
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040913
+DATE AS OF CHANGE:		20040913
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIGIMARC CORP
+		CENTRAL INDEX KEY:			0001089443
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				943342784
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-28317
+		FILM NUMBER:		041028187
+
+	BUSINESS ADDRESS:	
+		STREET 1:		19801 SW 72ND AVENUE
+		STREET 2:		STE 100
+		CITY:			TUALATIN
+		STATE:			OR
+		ZIP:			97062
+		BUSINESS PHONE:		5039682908
+
+	MAIL ADDRESS:	
+		STREET 1:		19801 SW 72ND AVENUE
+		STREET 2:		STE 100
+		CITY:			TUALATIN
+		STATE:			OR
+		ZIP:			97062
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a04-10482_18k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<html>
+
+<head>
+
+
+
+</head>
+
+<body link="blue" vlink="purple">
+
+<div style="font-family:'Times New Roman';">
+
+<div style="border:none;border-top:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p style="border:none;font-weight:bold;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></p>
+
+</div>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;">UNITED
+STATES<br>
+SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">WASHINGTON, DC 20549</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM 8-K</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT
+REPORT PURSUANT<br>
+TO SECTION 13 OR 15(d) OF THE<br>
+SECURITIES EXCHANGE ACT OF 1934</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;letter-spacing:-.15pt;">Date
+of report (Date of earliest event reported):&#160;
+<b><font style="font-weight:bold;">September 13, 2004</font></b></font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">Digimarc Corporation</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact Name of
+Registrant as Specified in Its Charter)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Delaware</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or Other Jurisdiction of Incorporation)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.42%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">000-28317</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.18%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="37%" valign="top" style="padding:0in 0in 0in 0in;width:37.4%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;letter-spacing:-.15pt;">94-3342784</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.42%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;letter-spacing:-.15pt;">(Commission File Number)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.18%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="37%" valign="top" style="padding:0in 0in 0in 0in;width:37.4%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;letter-spacing:-.15pt;">(IRS Employer Identification No.)</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.42%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.18%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="37%" valign="top" style="padding:0in 0in 0in 0in;width:37.4%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.42%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">19801
+  SW 72nd Avenue, Suite 250, Tualatin, Oregon</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.18%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="37%" valign="top" style="padding:0in 0in 0in 0in;width:37.4%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">97062</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.42%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;letter-spacing:-.15pt;">(Address of Principal Executive Offices)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.18%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="37%" valign="top" style="padding:0in 0in 0in 0in;width:37.4%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;letter-spacing:-.15pt;">(Zip Code)</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(503) 885-9699</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Registrant&#146;s Telephone Number, Including Area Code)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">N/A</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;letter-spacing:-.15pt;">(Former Name or Former Address,
+if Changed Since Last Report)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;letter-spacing:-.15pt;">Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following
+provisions (<i><font style="font-style:italic;">see
+</font></i>General Instruction A.2. below):</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Wingdings" style="font-family:Wingdings;font-size:10.0pt;letter-spacing:-.15pt;">o</font><font style="letter-spacing:-.15pt;">&#160;&#160;&#160; Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Wingdings" style="font-family:Wingdings;font-size:10.0pt;letter-spacing:-.15pt;">o</font><font style="letter-spacing:-.15pt;">&#160;&#160;&#160; Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Wingdings" style="font-family:Wingdings;font-size:10.0pt;letter-spacing:-.15pt;">o</font><font style="letter-spacing:-.15pt;">&#160;&#160;&#160; Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Wingdings" style="font-family:Wingdings;font-size:10.0pt;letter-spacing:-.15pt;">o</font><font style="letter-spacing:-.15pt;">&#160;&#160;&#160; Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))</font></p>
+
+<div style="border:none;border-bottom:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+<font size="2" face="Times New Roman" style="font-size:10.0pt;">
+<!-- SEQ.=1,FOLIO='',FILE='C:\jms\pkasim\04-10482-1\task184146\10482-1-ba.htm',USER='kputhukudi',CD='Sep 14 02:27 2004' -->
+<br clear="all" style="page-break-before:always;">
+</font>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 2.02.&nbsp; Results of
+Operations and Financial Condition.</font></b></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On September 13, 2004, Digimarc Corporation (the
+&#147;Company&#148;) announced via press release </font>that it is reviewing certain accounting practices and previously
+reported financial statements as a result of possible errors discovered by
+management of the Company in the accounting for software development costs and
+project capitalization at its Digimarc ID Systems business unit.&#160; The full text of the press release is attached
+hereto as Exhibit 99.1 and incorporated herein by reference.</p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:avoid;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 4.02.&#160; Non-Reliance on Previously Issued Financial
+Statements or a Related Audit Report or Completed Interim Review.</font></b></h1>
+
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On September 13, 2004, the Company announced via press
+release</font> that it
+is reviewing certain accounting practices and previously reported financial
+statements as a result of possible errors discovered by management of the
+Company in the accounting for software development costs and project
+capitalization at its Digimarc ID Systems business unit.</p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Management
+currently believes that restatement of its results for the first two quarters
+of 2004 and for the full year of 2003 is likely to be required.&#160; Accordingly, the Company&#146;s previously
+reported financial statements for full fiscal year 2003 and the first two
+quarters of 2004 should no longer be relied upon until such time as the Company
+completes its review.&#160; The Company has
+not yet reached a conclusion as to whether the impact on quarterly periods
+within 2003 and periods prior to 2003 will warrant a restatement of the
+financial statements for those periods.&#160;
+As soon as practicable following the completion of its review, the
+Company intends to announce its final conclusions regarding these accounting
+issues and, if necessary, file any amendments to its previous filings with the
+Securities and Exchange Commission that may be required.</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The full text of the press release is attached hereto
+as Exhibit 99.1 and incorporated herein by reference.</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Management of the Company reached its conclusion
+regarding non-reliance on the Company&#146;s previously issued financial statements
+in consultation with the Company&#146;s audit committee at a meeting of that
+committee on September 13, 2004.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Company and
+its audit committee have notified, and engaged in initial discussions with, the
+Company&#146;s independent auditors regarding the foregoing matters but no
+conclusions have yet been reached.&#160; The
+Company is working closely with the Company&#146;s auditors to address these
+matters.</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 9.01. Financial Statements and
+Exhibits.</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exhibits.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="8%" valign="top" style="border:none;border-bottom:solid windowtext .5pt;padding:0in 0in 0in 0in;width:8.72%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit No.</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.18%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="89%" valign="top" style="border:none;border-bottom:solid windowtext .5pt;padding:0in 0in 0in 0in;width:89.1%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Description</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:8.72%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.18%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="89%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:89.1%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.72%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.18%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="89%" valign="top" style="padding:0in 0in 0in 0in;width:89.1%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Press Release issued by Digimarc Corporation, dated
+  September 13, 2004, regarding </font>certain accounting practices and previously reported financial
+  statements.</p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2</font></p>
+
+
+<div align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+<font size="3" face="Times New Roman" style="font-size:12.0pt;">
+<!-- SEQ.=1,FOLIO='2',FILE='C:\jms\pkasim\04-10482-1\task184146\10482-1-ba.htm',USER='kputhukudi',CD='Sep 14 02:27 2004' -->
+<br clear="all" style="page-break-before:always;">
+</font>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+
+<p align="left" style="margin:0in 0in .0001pt;text-align:left;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt;text-align:left;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.0%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">DIGIMARC
+  CORPORATION</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.0%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.0%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dated:&#160;
+  September 13, 2004</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.54%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By: </font></p>
+  </td>
+  <td width="34%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext .5pt;padding:0in 0in 0in 0in;width:34.62%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160; /S/ MICHAEL
+  MCCONNELL</font></p>
+  </td>
+  <td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.84%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="4%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:4.26%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="35%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:35.74%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Michael McConnell</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="4%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:4.26%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="35%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:35.74%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Chief Financial Officer</font></p>
+  </td>
+ </tr>
+ <tr height="0">
+  <td width="433" style="border:none;"></td>
+  <td width="26" style="border:none;"></td>
+  <td width="5" style="border:none;"></td>
+  <td width="244" style="border:none;"></td>
+  <td width="13" style="border:none;"></td>
+ </tr>
+</table>
+
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3</font></p>
+
+
+<div align="left" style="margin:0in 0in .0001pt;text-align:left;text-indent:0in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+<font size="3" face="Times New Roman" style="font-size:12.0pt;">
+<!-- SEQ.=1,FOLIO='3',FILE='C:\jms\pkasim\04-10482-1\task184146\10482-1-ba.htm',USER='kputhukudi',CD='Sep 14 02:27 2004' -->
+<br clear="all" style="page-break-before:always;">
+</font>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:0in;"><b><u><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit Index</font></u></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="8%" valign="top" style="border:none;border-bottom:solid windowtext .5pt;padding:0in 0in 0in 0in;width:8.78%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit No.</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.16%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="89%" valign="top" style="border:none;border-bottom:solid windowtext .5pt;padding:0in 0in 0in 0in;width:89.06%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Description</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:8.78%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.16%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="89%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:89.06%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.78%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.16%;">
+  <p style="font-size:1.0pt;margin:0in 0in .0001pt;">&nbsp;</p>
+  </td>
+  <td width="89%" valign="top" style="padding:0in 0in 0in 0in;width:89.06%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Press Release issued by Digimarc Corporation, dated
+  September 13, 2004, regarding </font>certain accounting practices and previously reported financial
+  statements.</p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4</font></p>
+
+
+<div align="left" style="margin:0in 0in .0001pt;text-align:left;text-indent:0in;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+
+
+<!-- SEQ.=1,FOLIO='4',FILE='C:\jms\pkasim\04-10482-1\task184146\10482-1-ba.htm',USER='kputhukudi',CD='Sep 14 02:27 2004' -->
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a04-10482_1ex99d1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US" link="blue" vlink="purple" style="text-justify-trim:punctuation;">
+
+<div>
+
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit
+99.1</font></b></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman"><img width="167" height="24" src="g104821mmimage002.jpg"></font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-family:Times New Roman;font-size:10.0pt;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Michael McConnell<br>
+Chief Financial Officer and Treasurer<br>
+</font>503-495-4651<br>
+mmcconnell@digimarc.com</p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Leslie Constans<br>
+Digimarc Public Relations<br>
+503-495-4568<br>
+lconstans@digimarc.com</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;text-autospace:none;text-decoration:underline;text-transform:uppercase;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;text-decoration:none;text-transform:none;">FOR IMMEDIATE RELEASE</font></b></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Digimarc Corporation Announces Review of Accounting
+<br>
+Treatment Regarding Capitalization of Certain Expenditures</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Advises
+That Prior Period Financial Statements May be Restated</font></b></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-family:Times New Roman;font-size:10.0pt;line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Tualatin, OR &#150; September 13, 2004 &#150;</font></b> Digimarc Corporation (NASDAQ:
+DMRC) today announced that it is reviewing certain accounting practices and
+previously reported financial statements as a result of possible errors
+discovered by management of the Company in the accounting for software
+development costs and project capitalization at its Digimarc ID Systems
+business unit.&#160; Management has presented
+its preliminary findings to members of the Company&#146;s audit committee and, in
+consultation with and under the supervision of the Company&#146;s audit committee,
+will be continuing its review of the Company&#146;s accounting for software development
+and project costs at ID Systems.</p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Management&#146;s preliminary assessment is that certain software
+development costs have been improperly capitalized.&#160; These possible errors are estimated to be in
+the range of approximately $1.2 million to $2.0 million and may require a
+restatement of prior period financial statements from 2002 to 2004.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Management is also reviewing other project cost capitalization
+accounting practices of ID Sytems and this review may also result in additional
+adjustments which may affect prior periods.&#160;
+These potential additional adjustments, if necessary, are currently
+estimated not to exceed $1.5 million.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The impact of these possible errors on prior and current period
+financials has not been determined, but it is expected that if a restatement is
+required, it would negatively affect reported historical results.&#160; Regardless of whether there is a restatement,
+the Company may incur current period charges from some of these items as well
+as costs associated with its accounting review and any required
+restatement.&#160; Accordingly, due to the
+current uncertainty regarding the amount</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\eschaeffer\04-10482-1\task184162\10482-1-mm.htm',USER='eschaef',CD='Sep 13 16:25 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="line-height:normal;margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">of these costs and charges, the Company is withdrawing its
+previously issued guidance for the third quarter except with respect to
+anticipated revenue.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Management currently believes that restatement of its results for
+the first two quarters of 2004 and for the full year of 2003 is likely to be
+required.&#160; Accordingly, the Company&#146;s
+previously reported financial statements for full fiscal year 2003 and the
+first two quarters of 2004 should no longer be relied upon until such time as
+the Company completes its review.&#160; The
+Company has not yet reached a conclusion as to whether the impact on quarterly
+periods within 2003 and periods prior to 2003 will warrant a restatement of the
+financial statements for those periods.&#160;
+As soon as practicable following the completion of its review, the
+Company intends to announce its final conclusions regarding these accounting
+issues and, if necessary, file any amendments to its previous filings with the
+Securities and Exchange Commission that may be required.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Management identified the potential accounting errors with respect
+to Digimarc ID Systems as part of its previously reported process of
+implementing additional controls and procedures.&#160; As part of this ongoing review, which is
+being overseen by the Company&#146;s new Chief Financial Officer, management has
+identified additional control and process weaknesses in connection with the
+recently discovered accounting errors, and is in the process of implementing
+enhanced controls and procedures to address these weaknesses.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Company and its audit committee have notified, and engaged in
+initial discussions with, the Company&#146;s independent auditors regarding the
+foregoing matters but no conclusions have yet been reached.&#160; The Company is working closely with the
+Company&#146;s auditors to address these matters.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">About Digimarc</font></b></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Digimarc
+Corporation (NASDAQ: DMRC), based in Tualatin, Oregon, is a leading supplier of
+secure media solutions used in a wide range of security, identification and
+digital media content applications. Digimarc provides products and services
+that enable the production of more than 60 million personal identification
+documents and driver licenses per year in 32 U.S. states and the District of
+Columbia and more than 20 countries. Digimarc&#146;s digital watermarking technology
+provides a persistent digital identity for various media content and is used to
+enhance the security of financial documents, identity documents and digital images,
+and support other media rights management applications.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Digimarc has an
+extensive intellectual property portfolio, with 174 issued U.S. patents with
+more than 3,000 claims, and more than 350 pending patent applications in
+digital watermarking, personal identification and related technologies.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The company is
+headquartered in Tualatin, Oregon, with other U.S. offices in Burlington,
+Massachusetts; Fort Wayne, Indiana; San Francisco, California; and the
+Washington DC area; and European offices in London. Please go to
+www.digimarc.com for more company information.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">Securities Safe Harbor Under the Private Securities Litigation
+Reform Act of 1995</font></b></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This release contains certain &#147;forward-looking statements&#148; that
+are made pursuant to the &#147;safe harbor&#148; provisions of the Private Securities
+Litigation Reform Act of 1995.&nbsp; Such forward-looking statements include,
+without limitation, statements relating to the expected outcome of the</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\eschaeffer\04-10482-1\task184162\10482-1-mm.htm',USER='eschaef',CD='Sep 13 16:25 2004' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<p align="center" style="line-height:normal;margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Company&#146;s on-going review, statements regarding the anticipated
+nature and scope of the Company&#146;s accounting errors, statements relating to the
+anticipated timing of the Company&#146;s restatement of its financial statements,
+statements relating to the expected impact of a restatement on the Company, and
+other statements of management&#146;s opinion or expectations. These statements are
+subject to certain assumptions, risks, uncertainties and changes in
+circumstances.&#160; Actual results may vary
+materially due to, among other things,&nbsp;the actual results of the on-going
+review into accounting errors, the actual timing of the Company&#146;s restatement
+of financial statements and the need for any follow-on actions in connection
+with the Company&#146;s accounting practices and the impact of the Company&#146;s
+anticipated restatement and the reaction to it from the Company&#146;s stockholders
+and customers, as well as changes in economic, business, competitive,
+technological and/or regulatory factors<font style="color:blue;letter-spacing:0pt;text-decoration:underline;"><font color="black" style="color:windowtext;text-decoration:none;"> and trends</font></font>.&#160;
+Digimarc is not obligated to (and expressly disclaims any obligation to)
+revise/update&nbsp;any forward-looking statements in order to reflect events or
+circumstances that may arise after the date of this release.&#160; More detailed information about risk factors
+that may affect actual results is set forth in filings by Digimarc with the
+Securities and Exchange Commission, including the company&#146;s Form 10-Q for the
+fiscal quarter ended June&nbsp;30, 2004, in Part I, Item 2 thereof
+(&#147;Management&#146;s Discussion and Analysis of Financial Condition and Results of
+Operations&#148;) under the captions &#147;Overview&#148;, &#147;Critical Accounting Policies and
+Estimates&#148;, &#147;Liquidity and Capital Resources&#148;, &#147;Risks Related to Our Business&#148;
+and &#147;Risks Related to Our Market&#148; and in Part I, Item 4 thereof (&#147;Controls and
+Procedures&#148;).</font></p>
+
+<p align="center" style="line-height:normal;margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="line-height:normal;margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">#</font></p>
+
+<p align="center" style="line-height:normal;margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="line-height:normal;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\eschaeffer\04-10482-1\task184162\10482-1-mm.htm',USER='eschaef',CD='Sep 13 16:25 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g104821mmimage002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g104821mmimage002.jpg
+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
+%*,4__]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

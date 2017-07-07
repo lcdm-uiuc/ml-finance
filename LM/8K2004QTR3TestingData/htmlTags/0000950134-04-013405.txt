@@ -1,0 +1,505 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HR+Pyswgesmz6rC9XdmZKZ/R+zSt3HJQEG5dRHL9m8CX4Y8AaaQh98QnciJw6W9D
+ GjNUCK6chaGcL0k9Y4I0zg==
+
+<SEC-DOCUMENT>0000950134-04-013405.txt : 20040909
+<SEC-HEADER>0000950134-04-013405.hdr.sgml : 20040909
+<ACCEPTANCE-DATETIME>20040909163724
+ACCESSION NUMBER:		0000950134-04-013405
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040908
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20040909
+DATE AS OF CHANGE:		20040909
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COSINE COMMUNICATIONS INC
+		CENTRAL INDEX KEY:			0001060824
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER COMMUNICATIONS EQUIPMENT [3576]
+		IRS NUMBER:				943280301
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-30715
+		FILM NUMBER:		041023329
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1200 BRIDGE PKWAY
+		STREET 2:		STE 200
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+		BUSINESS PHONE:		6506374777
+
+	MAIL ADDRESS:	
+		STREET 1:		1200 BRIDGE PARKWAY
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f01776e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, DC 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 OR 15(d) of the Securities Exchange Act of 1934</B>
+
+
+
+<P align="center" style="font-size: 10pt">Date of report (Date of earliest event reported): September&nbsp;8, 2004
+
+
+<P align="center" style="font-size: 24pt"><B>CoSine Communications, Inc.</B>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+<P>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="75%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>000-30715</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>94-3280301</B></TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction<BR>
+of incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File<BR>
+Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer<BR>
+Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<P>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="75%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>1200 Bridge Parkway, Redwood City, California</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>94065</B></TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of principal executive offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s Telephone Number Including Area Code: <B>(650)&nbsp;637-4777</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Not Applicable</B>
+
+
+<DIV align="center" style="font-size: 10pt">(Former name or former address, if changes since last report)</DIV>
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17
+CFR 230.425)</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR
+240.14a-12)</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR>
+
+</TABLE>
+
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">The information in this Form 8-K, including the exhibits, is furnished
+pursuant to Item&nbsp;2.02 and shall not be deemed &#147;filed&#148; for the purpose of Section
+18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to
+the liabilities of that Section or Sections&nbsp;11 and 12(a)(2) of the Securities
+Act of 1933, as amended. Furthermore, the information in this Form 8-K,
+including the exhibits, shall not be deemed to be incorporated by reference
+into the filings of CoSine Communications, Inc. under the Securities Act of
+1933.
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">Item&nbsp;2.02 Results of Operations and Financial Condition</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#001">SIGNATURE</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">INDEX TO EXHIBITS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="f01776exv99w1.txt">EXHIBIT 99.1</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link2 "Item&nbsp;2.02 Results of Operations and Financial Condition" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;2.02 Results of Operations and Financial Condition</B>
+
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">On September&nbsp;8, 2004, CoSine Communications, Inc. issued a press release
+announcing the lay-off of most of its employees. A copy of the press release
+is furnished as Exhibit&nbsp;99.1 to this report.
+
+<!-- link1 "SIGNATURE" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURE</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">Date: September 9, 2004&nbsp;</TD>
+    <TD colspan="3">COSINE COMMUNICATIONS, INC.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000">/s/ Terry Gibson
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Terry Gibson&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Executive Vice President and Chief
+Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "INDEX TO EXHIBITS" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>INDEX TO EXHIBITS</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="75%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="9%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="86%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Text of press release dated September&nbsp;8, 2004</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>f01776exv99w1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 99.1
+
+For additional information contact:
+
+            Steve Goggiano                   CoSine Communications
+            President & CEO                  1200 Bridge Parkway
+            (650) 637-4777                   Redwood City, CA 94065
+                                             Web Site: www.cosinecom.com
+
+            Terry Gibson                     Phone: 650.637.4777
+            Executive Vice President         Fax: 650.628.4200
+            and CFO                          E-mail:
+            650.637.4777                     investorrelations@cosinecom.com
+
+
+              COSINE COMMUNICATIONS ANNOUNCES HEADCOUNT REDUCTIONS
+
+REDWOOD CITY, CALIF., September 8, 2004 -- CoSine Communications, Inc. (Nasdaq:
+COSN - News), a provider of managed, network-based IP and Broadband Services
+Delivery Platforms, today announced that after an extensive evaluation of
+strategic alternatives, the Company has initiated actions to lay-off most of its
+employees in September 2004, retaining a limited team of employees to provide
+customer support and handle matters related to the ongoing exploration of
+strategic alternatives. Management and the Board of Directors concluded that
+maintaining the Company's existing employee headcount was not necessary for any
+of the strategic alternatives currently under consideration and the ongoing
+employee-related expenditures could potentially decrease total stockholder
+value.
+
+There can be no assurance that any transaction or other corporate action will
+result from the company's exploration of strategic alternatives. Further, there
+can be no assurance concerning the type, form, structure, nature, results,
+timing or terms and conditions of any such potential action, even if such an
+action does result from this exploration. CoSine does not intend to make any
+additional comments regarding such exploration unless and until developments
+warrant further disclosure.
+
+ABOUT COSINE COMMUNICATIONS
+CoSine Communications is a global telecommunications equipment supplier founded
+in 1998 to empower service providers to deliver a compelling portfolio of
+managed, network-based IP and Broadband services to consumers and business
+customers. From the edge of the network, several of the world's largest carriers
+use the CoSine platform to deliver customized and profitable network-based
+services to consumers and enterprises. For more information about CoSine
+Communications, visit the company's Web site at: www.cosinecom.com.
+
+                                      ###
+<PAGE>
+"Safe Harbor" Statement Under the Private Securities Litigation Reform Act of
+1995: This release contains forward-looking statements, which include, among
+others, statements concerning CoSine's financial performance, business
+restructuring and anticipated headcount reductions, exploration of strategic
+alternatives, and business outlook, expected performance and developments. The
+Company uses words such as "anticipate," "believe," "plan," "expect," "future,"
+"intend" and similar expressions to identify forward-looking statements. These
+forward-looking statements are subject to certain risks and uncertainties that
+could cause actual results to differ materially from those reflected in the
+forward-looking statements. Factors that might cause such a difference include,
+but are not limited to, CoSine's ability to identify and effectuate desirable
+strategic alternatives, the time and costs required to explore and investigate
+possible transactions and other corporate actions, management and board interest
+in and distraction due to exploring and investigating strategic alternatives,
+the reactions, either positive or negative, of investors, competitors,
+customers, employees and others to CoSine exploring possible strategic
+alternatives and opportunities and to any specific strategic alternative or
+opportunity selected by CoSine, the continued downturn in the telecommunications
+industry and slow development of the market for network-based IP services,
+failure to achieve revenue growth and profitability, product development,
+commercialization and technology difficulties, manufacturing costs, the impact
+of competitive products, pricing, changing customer requirements, timely
+availability and acceptance of new products, and changes in economic conditions
+in the various markets CoSine serves, all as may be discussed in more detail on
+pages 29 through 35 of the Company's Annual Report on Form 10-K for the fiscal
+year ending December 31, 2003 and on pages 23 through 28 of the Company's
+Quarterly Report on Form 10-Q for the quarter ending June 30, 2004. Readers are
+cautioned not to place undue reliance on these forward-looking statements, which
+reflect management's opinions only as of the date hereof. CoSine undertakes no
+obligation to revise or publicly release the results of any revision to these
+forward-looking statements.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

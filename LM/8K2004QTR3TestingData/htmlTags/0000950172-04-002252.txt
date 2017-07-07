@@ -1,0 +1,263 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JsEwGUK+Hfj70iibK+xNlFPw3TWgp44vncFAYVAaVUJZe+0IOMsfzNXj8V8/4tRL
+ zcuNVw54yWq9vfSXExspbg==
+
+<SEC-DOCUMENT>0000950172-04-002252.txt : 20040927
+<SEC-HEADER>0000950172-04-002252.hdr.sgml : 20040927
+<ACCEPTANCE-DATETIME>20040927150929
+ACCESSION NUMBER:		0000950172-04-002252
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040927
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040927
+DATE AS OF CHANGE:		20040927
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZILOG INC
+		CENTRAL INDEX KEY:			0000319450
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				133092996
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13748
+		FILM NUMBER:		041047094
+
+	BUSINESS ADDRESS:	
+		STREET 1:		532 RACE STREET
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95126
+		BUSINESS PHONE:		4085588500
+
+	MAIL ADDRESS:	
+		STREET 1:		532 RACE STREET
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95126
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>pal154973.txt
+<DESCRIPTION>CURRENT REPORT UNDER '34 ACT
+<TEXT>
+
+
+
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+                                   FORM 8-K
+
+                Current Report Pursuant to Section 13 or 15(d)
+                    of the Securities Exchange Act of 1934
+
+                              September 27, 2004
+               Date of Report (Date of Earliest Event Reported)
+
+                                  ZiLOG, Inc.
+            (Exact name of Registrant as specified in its charter)
+
+
+        Delaware                       001-13748               13-3092996
+(State or other Jurisdiction       Commission File No.)       (IRS Employer
+of  Incorporation)                                           Identification No.)
+
+                                532 Race Street
+                          San Jose, California 95126
+         (Address of principal executive offices, including zip code)
+
+                                (408) 558-8500
+             (Registrant's telephone number, including area code)
+
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of
+the following provisions (see General Instruction A.2. below):
+
+|_|  Written communications pursuant to Rule 425 under the Securities Act
+     (17 CFR 230.425)
+
+|_|  Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+     (17 CFR 240.14a-12)
+
+|_|  Pre-commencement communications pursuant to Rule 14d-2(b) under the
+     Exchange Act (17 CFR 240.14d-2(b))
+
+|_|  Pre-commencement communications pursuant to Rule 13e-4(c) under the
+     Exchange Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+Item 2.02  Results of Operations and Financial Condition
+
+On September 27, 2004, ZiLOG, Inc. (the "Registrant") issued the press release
+attached hereto as Exhibit 99.1 updating its revenue and gross margin outlook
+for the third quarter of 2004.
+
+Item 9.01 Financial Statements and Exhibits
+
+      (c) Exhibits.
+
+          The following exhibit is furnished with this report on Form 8-K:
+
+
+          99.1  ZiLOG, Inc. press release dated September 27, 2004
+
+
+
+<PAGE>
+
+
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                                    ZiLOG, INC.
+
+                                                    By: /s/ John Rodman
+                                                       ------------------------
+                                                       John Rodman
+                                                       Controller
+
+
+Date: September 27, 2004
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>pal54978.txt
+<DESCRIPTION>EX 99.1 PRESS RELEASE
+<TEXT>
+
+
+
+
+                                                                    Exhibit 99.1
+                                                                    ------------
+
+
+
+
+
+                 ZiLOG LOWERS THIRD QUARTER 2004 EXPECTATIONS
+
+
+San Jose, CA (September 27, 2004) ZiLOG, Inc. (NASDAQ: ZILG) the creator of
+the Z80 microprocessor and a leading innovator of integrated 8 bit
+microcontroller solutions, today announced it is lowering its revenue outlook
+for the third quarter of 2004. Sales for the third quarter are now expected to
+be $23 million compared to earlier guidance of $25.5 million. Demand for the
+company's consumer products is trending below previous expectations. The lower
+sales reflects lower sell through sales in its Asian distributors and a number
+of OEM customers pushing their demand from the third to the fourth quarter. We
+believe the lower sales relates to excess inventory at our customers and we
+expect it will also impact our fourth quarter and consequently we are cautious
+and projecting our fourth quarter sales to be in the $22 million to $23
+million range. Additionally, we expect sales for the first quarter of 2005 to
+increase as customers increase their order rates and our new products continue
+to gain traction.
+
+Total bookings for the third quarter are expected to be approximately $24.5
+million including approximately $2 million in embedded flash products. The
+company expects sales of its embedded flash products in the third quarter to
+be on track with previous estimates of $1 million to $1.5 million. As
+previously reported, during the quarter the company closed its 5 inch wafer
+manufacturing facility in Nampa, Idaho. Third-quarter gross margin is expected
+to be approximately 46 percent as compared to previous expectations of 49 to
+49.5 percent reflecting this transition. The company expects to end the third
+quarter with cash of approximately $40 million including repayments of $2.4
+million in debt and after repurchasing 551,700 shares of stock for $4.3
+million in the quarter.
+
+At 1:30 p.m. Pacific (4:30 p.m. Eastern) today, Monday September 27th, 2004,
+Jim Thorburn, the company's Chief Executive Officer will conduct a conference
+call with analysts, investors and other interested parties. Access to the call
+may be completed by dialing (800) 591-6945 (U.S.) or (617) 614-4911
+(international) and indicating passcode: 65054635. The webcast is also being
+distributed in a listen-only mode through ZiLOG's website at www.zilog.com and
+also over CCBN's Investor Distribution Network at www.companyboardroom.com.
+Institutional investors can access the call via CCBN's password-protected
+event management site, StreetEvents (www.streetevents.com).
+The webcast archive will be available on www.zilog.com in the "Company
+Info/Investor Relations" section. A telephone replay of the conference call
+will also be available for two weeks after the conference call at (888)
+286-8010 (U.S.) and (617) 801-6888 (international) and can be accessed with
+passcode: 46660090.
+
+                               About ZiLOG, Inc.
+
+ZiLOG, Inc. (NASDAQ: ZILG) is a global supplier of 8-bit micrologic devices.
+We design, manufacture and market a broad portfolio of these devices for
+embedded control and communication applications used in our target markets:
+consumer electronics, home appliances, security systems, point of sales
+terminals, personal computer peripherals, as well as industrial and automotive
+applications. We are headquartered in San Jose, California, and employ
+approximately 520 people worldwide with sales offices throughout Asia, Europe
+and North America. For more information about ZiLOG and our products,
+including the eZ80Acclaim! , Z8 Encore!(R) and the CRIMZON microcontroller
+families, visit the Company's website at: http://www.ZiLOG.com.
+
+                                     # # #
+
+ZiLOG, Z8, Z80, EZ80 Z8 ENCORE! and Encore!XP are registered trademarks of
+ZiLOG, Inc. in the United States and in other countries. EZ80ACCLAIM! and
+CRIMZON are trademarks of ZiLOG, Inc. in the United States and in other
+countries. Other product and or service names mentioned herein may be
+trademarks of the companies with which they are associated.
+
+Contact:
+     Perry Grace
+     Chief Financial Officer
+     Vice President Finance
+     (408) 558-8409
+
+______________________________________
+Source: ZiLOG, Inc. www.ZiLOG.com
+
+This release contains forward-looking statements relating to expectations,
+plans or prospects for ZiLOG, Inc. that are based upon the current
+expectations and beliefs of ZiLOG's management and are subject to certain
+risks and uncertainties that could cause actual results to differ materially
+from those described in the forward-looking statements. ZiLOG does not expect
+to, and disclaims any obligation to, update such forward looking statements
+until release of its next quarterly earnings announcement. ZiLOG, however,
+reserves the right to update such statements or any portion thereof at any
+time for any reason.
+
+For a detailed discussion of these and other cautionary statements, please
+refer to the risk factors discussed in filings with the U.S. Securities and
+Exchange Commission ("SEC"), including but not limited to the Company's Annual
+Report on Form 10-K for the fiscal year ended December 31, 2003, and any
+subsequently filed reports. All documents also are available through the SEC's
+Electronic Data Gathering Analysis and Retrieval system (EDGAR) at
+http://www.sec.gov or from the Company's website at www.ZiLOG.com.
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

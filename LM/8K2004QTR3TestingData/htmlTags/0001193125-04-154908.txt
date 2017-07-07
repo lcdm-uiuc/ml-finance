@@ -1,0 +1,1529 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MJqsthYFUkA7/6s9M3RxBCrpxvQREkoxnczvzHaYpI/ogd7Rhba8Wn+NQetF6RsV
+ tFCoKb0V+5kYJK/S4DF8FA==
+
+<SEC-DOCUMENT>0001193125-04-154908.txt : 20040910
+<SEC-HEADER>0001193125-04-154908.hdr.sgml : 20040910
+<ACCEPTANCE-DATETIME>20040910153719
+ACCESSION NUMBER:		0001193125-04-154908
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040908
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040910
+DATE AS OF CHANGE:		20040910
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPACEHAB INC \WA\
+		CENTRAL INDEX KEY:			0001001907
+		STANDARD INDUSTRIAL CLASSIFICATION:	GUIDED MISSILES & SPACE VEHICLES & PARTS [3760]
+		IRS NUMBER:				911273737
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27206
+		FILM NUMBER:		041025507
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 D STREET S W
+		STREET 2:		STE 814
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20024
+		BUSINESS PHONE:		7038213000
+
+	MAIL ADDRESS:	
+		STREET 1:		1595 SPRING HILL ROAD
+		STREET 2:		SUITE 360
+		CITY:			VIENNA
+		STATE:			VA
+		ZIP:			22182
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="21%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="21%"
+SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Pursuant to Section 13 OR 15(d) of </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>The Securities Exchange Act of 1934 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Date of
+Report (Date of earliest event reported) September 8, 2004 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="21%" SIZE="1" NOSHADE COLOR="#000000"> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>SPACEHAB, Incorporated </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR
+WIDTH="21%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Washington</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>0-27206</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>91-1273737</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="48%"></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>12130 Galveston Road (Hwy 3), Building 1, Webster, Texas</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>77598</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Registrant&#146;s
+telephone number, including area code (713) 558-5000 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Former name or former address, if changed since last report.) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="21%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 2.02 Results of Operations and Financial Condition. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">On September 8, 2004, SPACEHAB, Incorporated issued a press release announcing, among other
+things, its results of operations for fiscal year 2004. A copy of the press release is attached hereto as Exhibit 99.1. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 9.01 Financial Statements and Exhibits. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">A copy of the Press Release is attached as Exhibit 99.1. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">SPACEHAB, Incorporated</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman"
+SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Registrant)</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Date September 9, 2004</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ Brian K. Harrington</FONT></P><HR WIDTH="81%" SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Brian K. Harrington</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Senior Vice President</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><U>EXHIBIT INDEX</U> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="91%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT><BR><HR WIDTH="63" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="61" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press Release, dated September 8, 2004.</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em">
+
+<IMG SRC="g52196gexhibit991x1x1.jpg" ALT="LOGO"></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="right"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>SPACEHAB, Inc.</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman"
+SIZE="2"><B>12130 Highway 3, Bldg. 1</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Webster, Texas 77598-1504</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>1.713.558.5000</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>fax: 1.713.558.5960</B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:1px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>www.spacehab.com</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>FOR IMMEDIATE RELEASE
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SPACEHAB REPORTS FINANCIAL RESULTS FOR FISCAL YEAR 2004
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Lean Organization and Improved Operations Lead to Profitable Year End </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Highlights </B></FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Annual revenue of $77.6 million despite grounding of space shuttle </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Net income of $2.1 million for fiscal year 2004 </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Total debt reduced by $13.9 million to $70.3 million </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Cash plus short-term investments at year end of $7.6 million </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Contract backlog of $100.9 million </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Houston, Texas, September 8, 2004 &#150; </B>SPACEHAB, Incorporated (NASDAQ/NMS: SPAB), a leading provider of commercial space services, today announced financial
+results for its 2004 fiscal year and fourth quarter ended June 30, 2004. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>Earnings and Revenue </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The fourth quarter of SPACEHAB&#146;s
+fiscal year ended June 30, 2004 resulted in a net loss of $2.3 million or $0.19 per basic share, compared with a fiscal year 2003 fourth quarter net loss of $20.1 million or $1.63 per basic share. Net earnings for fiscal year 2004 were $2.1 million
+or $0.17 per basic share compared to a net loss in fiscal year 2003 of $81.8 million or $6.66 per basic share. Revenue for the fourth quarter of 2004 was $11.1 million, a decrease of 19% from the prior year&#146;s quarterly revenue of $13.7 million.
+SPACEHAB&#146;s revenue for fiscal year 2004 totaled $77.6 million compared to revenue of $95.0 million in the prior fiscal year. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">&#147;Although we experienced a decline in revenue for 2004 due to the completion of a large SPACEHAB Government Services contract and ongoing delays in the space shuttle
+launch schedule, our intense efforts to improve operations and streamline our organization resulted in a net profit for the year,&#148; said Brian K. Harrington, SPACEHAB Senior Vice President, Finance and Chief Financial Officer. NASA has announced
+that it currently anticipates a return to flight for the shuttle no earlier than March 2005. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Fourth quarter results reflect costs of $1.3 million which includes expenses associated with the Company&#146;s decision to end its contract with The Boeing Company for integration and operations services in support
+of SPACEHAB&#146;s modules. The impact includes costs for closing the Huntsville, Alabama offices occupied by Boeing in fulfillment of this contract along with an incentive fee made payable upon termination of the contract. As described in more
+detail later in this release, SPACEHAB has significantly enhanced its internal engineering and technical staff and is now providing these services with internal personnel for future space shuttle missions. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Under the Company&#146;s previous contract with NASA, and now under contract with Lockheed
+Martin Corporation, SPACEHAB received additional payments relative to costs incurred in maintaining the </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">capability and staff for space shuttle operations during the suspension of flights and for logistics planning and
+preparation for future space shuttle missions. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">During fiscal year 2004,
+SPACEHAB was faced with numerous challenges and transitions. Significant events and activities that made an impact on business operations included the extended downtime in space shuttle operations, major contractual changes in all of the
+Company&#146;s main business units, the changeover of work previously outsourced to an in-house capability, and the announcement and associated outcome of the Nation&#146;s New Vision for Space Exploration. SPACEHAB capably responded by streamlining
+operations, turning opportunities into reality, strengthening relationships with valued customers, and positioning the Company to be a member of the new exploration program. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Specifically, the current fiscal year earnings include goodwill impairments of $8.3 million for Astrotech and SPACEHAB Government Services
+and investment impairment in Guign&egrave; Inc. of $1.8 million which were recorded in the second quarter. Also included in revenue and earnings for the current fiscal year are proceeds of $17.5 million paid by Boeing in termination of certain
+minimum financial guarantees under its satellite processing contract with SPACEHAB&#146;s Astrotech subsidiary. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Interest expense was approximately $8.2 million for the year ended June 30, 2004 compared to approximately $7.2 million for the year ended June 30, 2003. The current
+fiscal year included $1.3 million to retire an interest rate swap agreement upon restructuring of certain debt. Consolidated selling, general, and administrative expenses were $10.9 million in fiscal year 2004, compared to $13.1 for fiscal 2003,
+reflecting costs associated with closing and relocating the corporate offices from Washington D.C. to Houston, Texas. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">&#147;Fiscal 2004 was one of progress and transformation for SPACEHAB as the Company demonstrated growing maturity and continued to stabilize operations and build
+underlying profitability,&#148; said Harrington. &#147;We made the hard decisions to leave programs offering marginal returns or requiring high-risk investments, and we turned our financial attention to cash flow, earnings, and liquidity yet we
+maintained our vector as a pioneering company, leading the way toward the development of a commercial space market.&#148; </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Liquidity </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Total debt was reduced by $13.9 million during fiscal 2004 to $70.3 million through scheduled debt amortization, repayment of certain loans, and the restructuring and reduction of the Astrotech facility mortgage. As
+previously reported, SPACEHAB completed restructuring its financing of its Florida Spacecraft Processing Facility (SPF) in January 2004, reducing the facility mortgage obligation by approximately $11.0 million. The facility mortgage was restructured
+with a principal balance of $5.6 million, a reduced effective interest rate from 7.87% to a fixed rate of 5.5%, and a shortened maturity date of January 2007. The restructured loan is collateralized by certain contract revenues for operations at the
+facility and the SPF itself. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Combined cash, cash equivalents, and short-term
+investments at June 30, 2004 were $7.6 million. SPACEHAB&#146;s $5.0 million revolving credit facility, which includes a restriction on $5.6 million of short-term investments, had a balance drawn of $1.4 million as of June 30, 2004. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Deferred revenue as of June 30, 2004 was $7.2 million compared to $16.1 million at June 30,
+2003. The decrease is primarily due to the closeout of the Research And Logistics Mission Support (ReALMS) contract and to a previously-billed commercial experiment services contract with Mitsubishi Corporation that was to be flown for the Japan
+Aerospace Exploration Agency on an upcoming space shuttle research mission. Due to ongoing delays in shuttle missions and the resourceful efforts of SPACEHAB and their </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">international alliance with RSC Energia, the commercial contract was modified and the services provided on multiple
+Russian <I>Progress</I> missions, the first of which successfully launched subsequent to fiscal year end. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Current liabilities decreased to $22.3 million at June 30, 2004 compared to $27.2 million at June 30, 2003 mainly due to a substantial reduction in accounts payable to strategic partner EADS Space Transportation GmbH,
+the final payment of a shareholder note, and the recognition of the deferred revenue stated above. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">The Company has submitted a formal claim for indemnification of losses totaling $87.7 million dollars resulting from the Space Shuttle <I>Columbia</I> accident in February 2003. The claim has been submitted to NASA,
+and SPACEHAB is currently in negotiations with NASA with the goal of expedient resolution. The contract with NASA for use of the Company&#146;s space assets on <I>Columbia</I> provided for indemnification of $8.0 million by NASA. The negotiations
+underway relate to indemnification beyond this amount based upon the Company&#146;s total loss of $87.7 million and NASA&#146;s reconciliation of the losses allowable under the Federal Acquisition Regulations of approximately $47.4 million. SPACEHAB
+believes that it has a basis for recovery of some or all of the loss from NASA, but there can be no assurance as to the timing or the amount, if any, to be recovered from the claim. In the event that an acceptable resolution cannot be reached,
+SPACEHAB has the right to file for administrative and/or judicial review of its claim for indemnification. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">The Company&#146;s ability to maintain sufficient liquidity in the future will depend on a number of factors including the return to flight of the space shuttle, the continued activity in the commercial and
+governmental satellite launch industry, and the amount and timing of the ultimate settlement of the claim for indemnification for losses suffered on the Space Shuttle <I>Columbia</I> accident. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Update of Ongoing Operations </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">In January 2004, the White House issued a new vision for U.S. space leadership. This action
+was followed by the release of the President&#146;s Commission report on the Implementation of the U.S. Space Exploration Policy in June 2004. This report established clear guidelines for realistic implementation of the Nation&#146;s new space
+vision, including recommendations to &#145;recognize and implement a far larger presence of private industry in space operations with the specific goal of allowing private industry to assume the primary role of providing services to NASA, and most
+immediately in accessing low-Earth orbit.&#146; </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">&#147;I am encouraged by the
+many parallels between the Commission&#146;s report and our Company&#146;s business model,&#148; observed Michael E. Kearney, President and Chief Executive Officer. &#147;Our innovative solutions, commercial offerings, and strong international
+partnerships that were also advocated as part of the report, position SPACEHAB to be a crucial player in the many initiatives that will evolve from this developing endeavor.&#148; </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">For the first half of fiscal 2004, the ReALMS contract was the vehicle used by NASA to obtain the use of the Company&#146;s module and
+pallet carriers. Upon the restructuring of NASA&#146;s various International Space Station (ISS) contracts, Lockheed Martin became the prime contractor for ISS cargo services, and SPACEHAB Flight Services (SFS) now provides logistics capabilities
+and assets as a subcontractor to Lockheed. The new contract provides for the use of SPACEHAB&#146;s single module as well as its Integrated Cargo Carriers (ICCs) to support three logistics missions to the ISS: STS-121, STS-116, and STS-118, in order
+of their scheduled launch dates. The contract also provides for sustaining SPACEHAB&#146;s single and double module and ICC flight readiness capabilities throughout the contract period of performance. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Additionally, SPACEHAB has a $19.9 million contract with Boeing for ICC services on the STS-114 mission. Currently,
+STS-114 is the return-to-flight mission scheduled for launch no earlier than March 2005. SPACEHAB will be further compensated for any additional delays in launching this mission, or other missions under contract that are in the late stages of
+mission preparation, at the time of an announced delay. This compensation is negotiated on a cost basis as contract price adjustments to cover the period until the shuttle returns to flight. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">During the fiscal year, the SFS business unit completed a successful transition of its
+systems integration and operations capabilities from its subcontract with Boeing to an in-house capability. As a result, SPACEHAB personnel will now perform the end-to-end mission integration, hardware development, and sustaining engineering
+functions required to support the flight of its existing modules on the space shuttle. This move reduces operating costs, increases flexibility in responding quickly to changing customer requirements, and builds upon existing core SPACEHAB
+capabilities needed to support future logistics and research missions to the ISS as well as NASA&#146;s emerging exploration initiative. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Subsequent to year end, the SFS Space Commerce Development group was awarded a six-month NASA study contract valued at approximately $1.0 million to support the space
+agency&#146;s new exploration initiatives. As one of a just a handful of the proposals selected from the multitude submitted, SPACEHAB will define concepts for accomplishing human lunar exploration with a focus on innovative solutions and commercial
+approaches that could be extensible to Mars and beyond. In addition to this six-month contract effort, the Company may be awarded a contract option that includes an additional six-month effort also valued at nearly $1.0 million. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">SPACEHAB&#146;s Astrotech subsidiary supported the processing of twelve spacecraft for launch
+during fiscal year 2004, compared to eight spacecraft in fiscal 2003. During the fourth quarter 2004, this included four commercial satellites launched into orbit, one of which was the heaviest commercial satellite ever launched successfully through
+the Sea Launch Company. Astrotech&#146;s Vandenberg Air Force Base facility saw the processing of the ROCSAT-2 spacecraft and the Company&#146;s Titusville, Florida team supported the successful launch of the AMC-11 telecommunications satellite.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">During fiscal 2004, Astrotech began direct contract support to NASA for
+satellite support services in Florida. Astrotech has two NASA missions under contract, MESSENGER which successfully launched after the fiscal year, and Deep Impact scheduled for launch in fiscal 2005. Astrotech is also working with NASA on an
+Indefinite Delivery/Indefinite Quantity (IDIQ) contract format for future mission support. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">SPACEHAB Government Services is currently under contract to provide configuration management services within the Program Integration and Control (PI&amp;C) contract of which ARES Corporation is the prime contractor.
+The SGS Project Engineering and Fabrication team received several contracts during the fiscal year to design and fabricate various flight and crew training hardware in support of NASA and various ISS international partners. Included were training
+equipment for NASA and the European Space Agency, large stowage bags, and 175 new flight handrails to support on-orbit astronaut mobility. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Kearney stated, &#147;I am excited about where SPACEHAB and the aerospace industry are going.&#148; A recent Gallup poll showed that more than two-thirds of Americans
+surveyed support the new space vision and that funding for NASA should remain constant or increase. &#147;There is a renewed spirit of discovery and purpose&#151;not only at NASA but across the Nation&#151;and SPACEHAB will continue to be a
+pioneering leader of this growing market.&#148; </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Conference Call </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">SPACEHAB will host a conference call at 10:00 a.m. Central time following the earnings release. During the call, management will discuss the Company&#146;s year end and
+fourth quarter financial results as well as other recent and potential future developments relating to SPACEHAB. To participate on the call, please dial 888.532.3106 (domestic calls) or 904.779.4753 (international calls) and ask for the SPACEHAB
+Earnings Conference. A taped replay will be available following the conference call and accessible via access code 26054979 until 11:59 p.m. Eastern time on September 9, 2004 at 800.252.6030 (domestic calls) or 402.220.2491 (international calls). To
+hear a replay of the call via the Internet, visit the Investor Information section of the SPACEHAB website at <U>www.spacehab.com</U>. This audio archived webcast of the conference call will be available on the Company website for approximately 90
+days. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>About SPACEHAB, Incorporated </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">SPACEHAB, Incorporated (<U>www.spacehab.com</U>) is a leading provider of commercial and
+government space services with three primary business units. The Flight Services business unit develops, owns, and operates habitat and laboratory modules and cargo carriers aboard NASA&#146;s Space Shuttles for Space Station resupply and research
+purposes. SPACEHAB&#146;s Astrotech subsidiary provides payload processing support services for both commercial and government customers at company-owned facilities in Florida and California. The Company&#146;s Government Services business unit
+supports NASA&#146;s Johnson Space Center providing configuration management, product engineering, and support services for both the Space Station and Space Shuttle programs. Additionally, through The Space Store, Space Media provides space
+merchandise to the public and space enthusiasts worldwide (<U>www.thespacestore.com</U>). </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><I>The statements in this document may contain &#147;forward-looking statements&#148; within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Such
+statements are subject to risks and uncertainties that could cause actual results to differ materially from those projected in the statements. In addition to those risks and uncertainties discussed herein, such risks and uncertainties include, but
+are not limited to, whether the Company will fully realize the economic benefits under its U.S. National Aeronautics and Space Administration (&#147;NASA&#148;) and other customer contracts, whether NASA and other customers will continue to utilize
+the Company&#146;s habitat modules and related commercial space assets, whether plans to complete the International Space Station (&#147;ISS&#148;) are fulfilled, continued availability and use of the U.S. Space Shuttle system, technological
+difficulties, product demand and market acceptance risks, the effect of economic conditions, uncertainty in government funding, the impact of competition, delays and uncertainties in future space shuttle and ISS programs, resolution of the
+Company&#146;s indemnification claim with NASA arising from the loss of the Columbia orbiter and its crew during the STS-107 mission, and other risks described in reports filed by the Company with the Securities and Exchange Commission. The Company
+assumes no obligation to update these forward-looking statements. </I></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>FOR
+MORE INFORMATION: </I></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2">Kimberly Campbell
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2">Vice President, Corporate Marketing and Communications </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2">SPACEHAB, Inc. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman"
+SIZE="2">713.558.5049 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT FACE="Times New Roman" SIZE="2">campbell@spacehab.com </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><I>Tables follow </I></FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SPACEHAB, INCORPORATED AND SUBSIDIARIES</B><I></I><B> </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Unaudited Condensed Consolidated Statements of Operations </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>(In thousands, except share data) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+<TR>
+<TD WIDTH="56%"></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+<TD WIDTH="1%"></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+<TD WIDTH="1%"></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+<TD WIDTH="1%"></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+<TD WIDTH="1%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Three Months Ended June 30,</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Twelve Months Ended June 30,</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>2004</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>2003</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>2004</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>2003</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Revenue</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">11,140</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">13,688</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">77,606</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">94,963</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Costs of revenue</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,506</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12,275</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">45,678</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">78,791</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Gross profit</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,634</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,413</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">31,928</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">16,172</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Operating expenses</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Selling, general and administrative</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,028</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3,869</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">10,908</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">13,098</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Research and development</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">214</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">13</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">223</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">118</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Nonrecurring charge, loss of Research Double Module</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">50,268</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Goodwill impairment</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">8,274</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">11,925</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Asset impairment</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">16,143</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">16,143</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Impairment of investment in Guigne</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,800</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:5.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Total operating expenses</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,242</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">20,025</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,205</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">91,552</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:5.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Income (loss) from operations</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(608</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(18,612</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">10,723</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(75,380</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Interest expense</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(1,461</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(1,702</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(8,237</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(7,243</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Interest and other income (expense), net</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(2</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">47</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">95</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(9</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Income (loss) before income taxes</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(2,071</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(20,267</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,581</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(82,632</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Income tax (expense) benefit</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(255</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">130</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(506</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">857</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="1" NOSHADE ALIGN="left" COLOR="#ffffff"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Net income (loss)</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(2,326</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(20,137</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,075</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(81,775</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Income (loss) per share</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Net income (loss) per share &#150; basic</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(0.19</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(1.63</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">0.17</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(6.66</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Shares used in computing net income (loss) per share &#150; basic</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12,563,072</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12,353,587</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12,450,320</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12,285,467</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Net income (loss) per share &#150; diluted</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(0.19</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(1.63</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">0.15</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">(6.66</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Shares used in computing net income (loss) per share &#150; diluted</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12,563,072</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12,353,587</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">14,141,949</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12,285,467</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR WIDTH="0" SIZE="3" NOSHADE ALIGN="left" COLOR="#ffffff"></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SPACEHAB, INCORPORATED AND SUBSIDIARIES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Unaudited Condensed Consolidated Balance Sheets </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>(In thousands)
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+<TR>
+<TD WIDTH="83%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>June 30,<BR>2004</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>June 30,<BR>2003</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">ASSETS</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="2" VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="2" VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Cash, restricted cash and investments</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">7,577</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">15,348</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Accounts receivable, net</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">7,878</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">6,780</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Property, plant, and equipment, net</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">79,600</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">83,689</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Other assets, net</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">4,870</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">15,539</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Total assets</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">99,925</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">121,356</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">LIABILITIES AND STOCKHOLDERS&#146; EQUITY</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="2" VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="2" VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Current liabilities</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">22,301</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">27,221</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Long-term liabilities</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">68,214</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">89,045</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Stockholders&#146; equity</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,410</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">5,090</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Total liabilities and stockholders&#146; equity</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">99,925</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">121,356</FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">### </FONT></P>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g52196gexhibit991x1x1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g52196gexhibit991x1x1.jpg
+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
+?`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@#_V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

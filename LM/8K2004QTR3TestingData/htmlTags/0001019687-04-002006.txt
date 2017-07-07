@@ -1,0 +1,281 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ITT3QtTJkaoTUbv+SBenDi2z/dgPyd1AI7pCUfg9ci9pl7RZ9Jw6pOlQRLtx7ulO
+ 0jPH3QBdzBLLXhGIkADpLg==
+
+<SEC-DOCUMENT>0001019687-04-002006.txt : 20040910
+<SEC-HEADER>0001019687-04-002006.hdr.sgml : 20040910
+<ACCEPTANCE-DATETIME>20040910082936
+ACCESSION NUMBER:		0001019687-04-002006
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040909
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20040910
+DATE AS OF CHANGE:		20040910
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SIMULATIONS PLUS INC
+		CENTRAL INDEX KEY:			0001023459
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				954595609
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32046
+		FILM NUMBER:		041024029
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1220 W. AVENUE J
+		STREET 2:		*
+		CITY:			LANCASTER
+		STATE:			CA
+		ZIP:			93534-2902
+		BUSINESS PHONE:		661-723-7723
+
+	MAIL ADDRESS:	
+		STREET 1:		1220 W. AVENUE J
+		CITY:			LANCASTER
+		STATE:			CA
+		ZIP:			93534-2902
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>simulations_8k-090904.txt
+<TEXT>
+<PAGE>
+
+
+                                  UNITED STATES
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+     PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+                                September 9, 2004
+                                -----------------
+                      (Date of the earliest event reported)
+
+
+
+                             Simulations Plus, Inc.
+                             ----------------------
+             (Exact name of Registrant as specified in its charter)
+
+
+          California                    0-21665                  95-4595609
+          ----------                    -------                  ----------
+(State or other jurisdiction    (Commission File Number)      (I.R.S. Employer
+        of incorporation)                                    Identification No.)
+
+                 1220 West Avenue J, Lancaster, California 93534
+                 -----------------------------------------------
+                    (Address of principal executive offices)
+                                   (Zip Code)
+
+                                 (661) 723-7723
+                                 --------------
+               Registrant's telephone number, including area code
+
+<PAGE>
+
+ITEM 2.02  RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+         On September 9, 2004, Simulations Plus, Inc. (the "Company") issued a
+press release announcing preliminary revenue for the fiscal quarter and fiscal
+year ending August 31, 2004.
+
+         A copy of the press release hereto is attached as Exhibit 99.01.
+
+         This report on Form 8-K (the "Report"), including the disclosures set
+forth herein, contains certain forward-looking statements that involve
+substantial risks and uncertainties. When used herein, the terms "anticipates,"
+"expects," "estimates," "believes" and similar expressions, as they relate to us
+or our management, are intended to identify such forward-looking statements.
+Forward-looking statements in this Report or hereafter, including in other
+publicly available documents filed with the Securities and Exchange Commission
+(the "Commission"), reports to the stockholders of Simulations Plus, Inc., a
+California corporation (the "Company" or "us," "our" or "we") and other publicly
+available statements issued or released by us involve known and unknown risks,
+uncertainties and other factors which could cause our actual results,
+performance (financial or operating) or achievements to differ from the future
+results, performance (financial or operating) or achievements expressed or
+implied by such forward-looking statements. Such future results are based upon
+management's best estimates based upon current conditions and the most recent
+results of operations. These risks include, but are not limited to, the risks
+set forth herein and in such other documents filed with the Commission, each of
+which could adversely affect our business and the accuracy of the
+forward-looking statements contained herein. Our actual results, performance or
+achievements may differ materially from those expressed or implied by such
+forward-looking statements.
+
+
+ITEM 7.01  REGULATION FD DISCLOSURE
+
+EXHIBITS 99.01   Press Release, dated September 9, 2004.
+
+
+                                       2
+<PAGE>
+
+
+SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                                   SIMULATIONS PLUS, INC.
+
+
+
+Dated: September 9, 2004                           By: /s/ Momoko Beran
+                                                       -----------------------
+                                                       Momoko A. Beran
+                                                       Chief Financial Officer
+
+                                       3
+<PAGE>
+
+
+                                  EXHIBIT INDEX
+                                  -------------
+
+
+            Exhibit Number                             Description
+            --------------                             -----------
+
+                 99.01                   Press release, dated September 9, 2004.
+
+                                       4
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.01
+<SEQUENCE>2
+<FILENAME>simulations_8kex99-01.txt
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 99.01
+
+
+                 SIMULATIONS PLUS ANNOUNCES REVENUES FOR FOURTH
+                             QUARTER AND FISCAL YEAR
+
+    PHARMACEUTICAL SALES STRONG - WORDS+ SUBSIDIARY RETURNED TO PROFITABILITY
+
+         LANCASTER, CA, SEPTEMBER 9, 2004 - Simulations Plus, Inc. (AMEX: SLP),
+the leading provider of ADME absorption simulation and neural net
+structure-to-property prediction software for pharmaceutical discovery and
+development, today reported preliminary revenues and estimated earnings for the
+fiscal fourth quarter and fiscal year ended August 31, 2004.
+
+         Momoko Beran, chief financial officer of Simulations Plus, said: "Our
+preliminary pharmaceutical software and services revenues were $868,000 for the
+fourth quarter compared to $1,403,000 for the fourth fiscal quarter of 2003
+(which included a large multi-year software license of over $1 million), and for
+the fiscal year, $2,856,000, compared to $3,106,000 for fiscal 2003. Performance
+in our Words+ subsidiary improved, reporting preliminary revenues of $599,000
+and a return to profitability, indicating that our restructuring has achieved
+the desired effect. Total revenues were $1,467,000 for the fourth quarter
+compared to last year's fourth quarter of $2,026,000 which included the $1
+million plus order. Total preliminary revenues for the 2004 fiscal year were
+$5,208,000, compared to $5,485,000 in fiscal 2003."
+
+         Ms. Beran continued, "Based on the information we have right now, we
+expect fourth quarter earnings to be between $0.11 and $0.13 per diluted share,
+and for the fiscal year, between $0.16 and $0.19 per diluted share. The company
+is financially strong, with zero debt and a good cash position." Ms. Beran also
+announced, "This release of preliminary revenues and earnings is the last one we
+will do. From now on, in order to reduce the redundancy in our reporting and
+filing requirements, we will follow the practice of most other companies and
+provide information when the 10Q and 10K reports are filed."
+
+         Walt Woltosz, chairman and chief executive officer of Simulations Plus,
+commented: "This quarter saw substantial growth in our core pharmaceutical
+software and services business without the benefit of a large multi-site global
+license award we had expected from a current customer. We continue to believe
+that this customer is in the process of receiving the requisite multi-layer
+internal approvals for completion in the near future. It's important to note
+that we're increasing the pharmaceutical software and services business base
+with a larger number of smaller customers, and that should continue to add to
+our recurring revenues with our annual license business model. We've maintained
+steady growth, growing profitability, and made significant expansions to our
+product line this year. Our new product development activities are on track and
+we expect release of both DDDPlus and MembranePlus before the end of the
+calendar year. This will increase the number of core products from three to
+five. Feedback from potential customers who have seen previews of these new
+tools has been encouraging."
+
+         Woltosz continued: "In addition to our software, Simulations Plus
+continues to enjoy a reputation for world-class expertise in oral absorption,
+pharmacokinetics, and related areas. In fact, our consulting revenues during
+this last quarter exceeded any other quarter, an area of business that we
+believe will continue to grow. During the fourth quarter, we received our
+largest study contract to date to assist a generic drug company with analyzing
+data from two trials that failed to establish bioequivalence for a new generic
+formulation. This study, which involved complex data taken from hundreds of
+individual doses in both fasted and fed conditions, was a new milestone for us,
+and showed that our unique software and expertise is of significant value to the
+industry."
+
+                                       1
+<PAGE>
+
+ABOUT SIMULATIONS PLUS, INC.
+
+Simulations Plus, Inc., is a premier developer of groundbreaking drug discovery
+and development simulation software, which is licensed to and used in the
+conduct of drug research by major pharmaceutical and biotechnology companies
+worldwide. The Company has two other businesses, Words+, Inc. and FutureLab(TM),
+which are based on its proprietary software technologies. Simulations Plus,
+Inc., is headquartered in Southern California and trades on the AMEX under the
+symbol "SLP." For more information, visit our Web site at
+www.simulations-plus.com.
+
+
+SAFE HARBOR STATEMENT UNDER THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+- - With the exception of historical information, the matters discussed in this
+press release are forward-looking statements that involve a number of risks and
+uncertainties. The actual future results of the Company could differ
+significantly from those statements. Factors that could cause or contribute to
+such differences include, but are not limited to: the ability of the Company to
+book revenues and earnings as it expects for the current quarter, the ability of
+the Company to maintain its competitive advantage, the general economics of the
+pharmaceutical industry, the ability of the Company to attract and maintain
+sufficient scientific and technical staff to sustain its R&D and customer
+support functions, and a sustainable market. Further information on the
+Company's risk factors is contained in the Company's quarterly and annual
+reports as filed with the Securities and Exchange Commission.
+
+                                       ###
+
+
+                                       2
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

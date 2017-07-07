@@ -1,0 +1,1401 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Bd+AdDowD8Maqd3xlDwqbBUkBKWgYUh+ffkKCWREMF9h6424Q4k5aVOWSTr/2Cs4
+ ZmNgTKmuZCpV8lXrvLt0WQ==
+
+<SEC-DOCUMENT>0000905729-04-000342.txt : 20040913
+<SEC-HEADER>0000905729-04-000342.hdr.sgml : 20040913
+<ACCEPTANCE-DATETIME>20040913160030
+ACCESSION NUMBER:		0000905729-04-000342
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040913
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040913
+DATE AS OF CHANGE:		20040913
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MANATRON INC
+		CENTRAL INDEX KEY:			0000798736
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				381983228
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-15264
+		FILM NUMBER:		041027633
+
+	BUSINESS ADDRESS:	
+		STREET 1:		510 E MILHAM AVENUE
+		CITY:			PORTAGE
+		STATE:			MI
+		ZIP:			49002
+		BUSINESS PHONE:		6163755300
+
+	MAIL ADDRESS:	
+		STREET 1:		510 E MILHAM AVENUE
+		CITY:			PORTAGE
+		STATE:			MI
+		ZIP:			49002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>mana8k_091304.htm
+<DESCRIPTION>MANATRON, INC. FORM 8-K 09-13-04
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Manatron, Inc. Form 8-K 09-13-04</TITLE>
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#800080">
+
+<HR SIZE="3" NOSHADE>
+<BR>
+
+<P ALIGN="CENTER"><B>SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, DC 20549</B></P>
+
+<P ALIGN="CENTER"><B>FORM 8-K</B></P>
+
+<P ALIGN="CENTER"><B>CURRENT REPORT</B></P>
+
+<P ALIGN="CENTER">Pursuant to Section 13 or 15(d) of the<BR>
+Securities Exchange Act of 1934</P>
+
+<P ALIGN="CENTER">Date of Report:  September 13, 2004</P>
+
+<P ALIGN="CENTER"><FONT SIZE=4><B>MANATRON, INC.</B></FONT><BR>
+(Exact name of registrant as<BR>
+specified in its charter)</P>
+
+<P ALIGN="CENTER">Commission File Number:  0-15264</P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="44%" VALIGN="TOP">
+<P ALIGN="CENTER"><B>Michigan</B><BR>
+(State or other jurisdiction of<BR>
+incorporation)</TD>
+<TD WIDTH="5%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P ALIGN="CENTER"><B>38-1983228</B><BR>
+(IRS Employer<BR>
+Identification no.)</TD>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="5%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="44%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="41%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="5%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="44%" VALIGN="TOP">
+<P ALIGN="CENTER"><B>510 E. Milham Avenue<BR>
+Portage, Michigan</B><BR>
+(Address of principal executive offices)</TD>
+<TD WIDTH="5%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="41%" VALIGN="TOP">
+<P ALIGN="CENTER"><BR>
+<B>49002</B><BR>
+(Zip Code)</TD>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+</TABLE>
+<BR>
+
+<P ALIGN="CENTER">Registrant's telephone number,<BR>
+including area code:&nbsp;&nbsp;<B>(269) 567-2900</B><BR>
+</P>
+
+<P>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%" VALIGN="TOP">
+<P>[&nbsp;&nbsp;]</TD>
+<TD WIDTH="94%" VALIGN="TOP">
+<P>Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+
+<TR>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="94%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="6%" VALIGN="TOP">
+<P>[&nbsp;&nbsp;]</TD>
+<TD WIDTH="94%" VALIGN="TOP">
+<P>Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+
+<TR>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="94%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="6%" VALIGN="TOP">
+<P>[&nbsp;&nbsp;]</TD>
+<TD WIDTH="94%" VALIGN="TOP">
+<P>Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR>
+
+<TR>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="94%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="6%" VALIGN="TOP">
+<P>[&nbsp;&nbsp;]</TD>
+<TD WIDTH="94%" VALIGN="TOP">
+<P>Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR>
+</TABLE>
+<BR>
+
+<HR SIZE="3" NOSHADE>
+
+<BR>
+<CENTER>
+
+</CENTER>
+<HR SIZE="4" NOSHADE>
+<BR>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="15%" VALIGN="TOP">
+<P>Item 2.02.</TD>
+<TD WIDTH="85%" VALIGN="TOP">
+<P><U>Results</U> <U>of</U> <U>Operations</U> <U>and</U> <U>Financial</U> <U>Condition</U>.</TD>
+</TR>
+</TABLE>
+<BR>
+
+<P>&nbsp; &nbsp &nbsp; &nbsp; &nbsp; On September 13, 2004, Manatron, Inc. issued the press release attached as Exhibit 99.1 to this Form 8-K, which is here incorporated by reference.</P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=2>
+<P>Item 9.01.</TD>
+<TD WIDTH="85%" VALIGN="TOP" COLSPAN=2>
+<P><U>Financial</U> <U>Statements</U>, <U>Pro</U> <U>Forma</U> <U>Financial</U> <U>Information</U>, <U>and</U> <U>Exhibits</U>.</TD>
+</TR>
+
+<TR>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="85%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="8%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<P>(c)</TD>
+<TD WIDTH="85%" VALIGN="TOP" COLSPAN=2>
+<P>Exhibits:</TD>
+</TR>
+
+<TR>
+<TD WIDTH="8%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="77%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="8%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<P>99.1</TD>
+<TD WIDTH="77%" VALIGN="TOP">
+<P>Manatron, Inc. Press Release dated September 13, 2004.  This Exhibit is furnished to, and not filed with, the Commission.</TD>
+</TR>
+</TABLE>
+<BR>
+
+<P>&nbsp; &nbsp &nbsp; &nbsp; &nbsp; This Report and the Exhibit are furnished to, and not filed with, the Commission.</P>
+
+<P>&nbsp; &nbsp &nbsp; &nbsp; &nbsp; Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<BR>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="53%" VALIGN="TOP">
+<P>Dated:  September 13, 2004</TD>
+<TD WIDTH="47%" VALIGN="TOP" COLSPAN=2>
+<DL>
+<DT>MANATRON, INC.<BR>
+(Registrant)<BR>
+</DT>
+</DL></TD>
+</TR>
+
+<TR>
+<TD WIDTH="53%" VALIGN="TOP"><P>&nbsp;</P></TD>
+<TD WIDTH="5%" VALIGN="TOP">
+<P>By:</TD>
+<TD WIDTH="42%" VALIGN="TOP">&nbsp;<HR SIZE="1" NOSHADE></TD>
+</TR>
+
+<TR>
+<TD WIDTH="53%" VALIGN="TOP"><P>&nbsp;</P></TD>
+<TD WIDTH="5%" VALIGN="TOP"><P>&nbsp;</P></TD>
+<TD WIDTH="42%" VALIGN="TOP">
+<P>Krista L. Inosencio<BR>
+Chief Financial Officer</TD>
+</TR>
+</TABLE>
+<BR>
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<CENTER>
+
+</CENTER>
+<HR SIZE="4" NOSHADE>
+<BR>
+
+<P ALIGN="CENTER"><U>EXHIBIT</U> <U>INDEX</U></P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="18%" VALIGN="TOP">
+<P ALIGN="CENTER"><U>Exhibit Number</U></TD>
+<TD WIDTH="6%" VALIGN="TOP"><P>&nbsp;</P></TD>
+<TD WIDTH="76%" VALIGN="TOP">
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Document</U></TD>
+</TR>
+
+<TR>
+<TD WIDTH="18%" VALIGN="TOP"><P>&nbsp;</P></TD>
+<TD WIDTH="6%" VALIGN="TOP"><P>&nbsp;</P></TD>
+<TD WIDTH="76%" VALIGN="TOP"><P>&nbsp;</P></TD>
+</TR>
+
+<TR>
+<TD WIDTH="18%" VALIGN="TOP">
+<P ALIGN="CENTER">99.1</TD>
+<TD WIDTH="6%" VALIGN="TOP"><P>&nbsp;</P></TD>
+<TD WIDTH="76%" VALIGN="TOP">
+<P>Manatron, Inc. Press Release dated September 13, 2004.  This Exhibit is furnished to, and not filed with, the Commission.</TD>
+</TR>
+</TABLE>
+<BR>
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>manex991_091304.htm
+<DESCRIPTION>MANATRON, INC. EXHIBIT 99.1 TO FORM 8-K 09-13-04
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Manatron Exhibit 99.1 to Form 8-K - 09/13/04</TITLE>
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#800080">
+
+<P ALIGN="CENTER"><B>EXHIBIT 99.1</B></P>
+
+<P ALIGN="CENTER"><IMG SRC="image79.jpg" WIDTH=353 HEIGHT=59></P>
+
+<P ALIGN="CENTER"><FONT SIZE=4><B>Manatron Announces First Quarter of Fiscal 2005 Financial Results</B></FONT></P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<P><B>&#149;</B></TD>
+<TD WIDTH="91%" VALIGN="TOP">
+<P><B>Recent awards in Arizona, Florida, Idaho and Virginia totaling over $12 million</B></TD>
+</TR>
+
+<TR>
+<TD WIDTH="5%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<P><B>&#149;</B></TD>
+<TD WIDTH="91%" VALIGN="TOP">
+<P><B>Net income of $1.1 million or $.25 per diluted share</B></TD>
+</TR>
+</TABLE>
+<BR>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="40%" VALIGN="TOP">
+<P><B>FOR IMMEDIATE RELEASE</B></TD>
+<TD WIDTH="7%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="54%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="40%" VALIGN="TOP">
+<P><U>CONTACT:</U></TD>
+<TD WIDTH="7%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="54%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="40%" VALIGN="TOP">
+<P>Paul Sylvester, President and CEO<BR>
+Manatron, Inc. (269) 567-2900<BR>
+<U>paul.sylvester@manatron.com</U></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>or</TD>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>Matthew Hayden, President<BR>
+Hayden Communications, Inc. (843) 272-4653<BR>
+<U>matt@haydenir.com</U></TD>
+</TR>
+</TABLE>
+
+<P><B>KALAMAZOO, MI--(PR NEWSWIRE) - September 13, 2004-Manatron, Inc. (NASDAQ: MANA) </B>a leading provider of software products and services for local government including the revolutionary Government Revenue Management&#153; or GRM&#153; software, today announced its financial results for the first quarter of fiscal 2005, which ended on July 31, 2004.</P>
+
+<P>Net revenues for the three months ended July 31, 2004 decreased 4.7 percent to $8.7 million compared to $9.1 million in the first quarter of fiscal 2004. The quarter was impacted by the previously announced divestiture of the Company's Judicial and Financial product lines, a decrease in hardware and third party software sales, and delays in the implementation schedule for several projects, including Ohio and Baltimore. The prior year first quarter included $808,000 of revenue associated with the divested product lines, while the current year quarter only included $250,000, resulting in a decrease of $558,000. In addition, hardware and third party software sales for the current quarter were approximately $396,000 lower than the prior year period.</P>
+
+<P>Gross profit decreased 6.0 percent to $3.4 million compared to $3.6 million for the first quarter of last year. Selling, general and administrative expenses increased 17.6 percent to $3.9 million compared to $3.3 million last year. The Company reported a loss from operations of $532,000 compared to income from operations of $276,000 for the prior year first quarter. The current quarter included a nonrecurring gain of $2.2 million related to the sale of the Company's Judicial Product line, which resulted in net income of $1.1 million, or $0.25 per diluted share. Net income for the prior year first quarter was $2.6 million, or $0.63 per diluted share, which included a nonrecurring gain of $3.4 million related to the sale of the Company's Financial Product line.</P>
+
+<P>Manatron President and CEO Paul Sylvester commented, "While we continue to make progress on many fronts and are building for the long term, I am disappointed with our first quarter results, and in particular, the amount of revenue we posted. The divestitures of our Financial and Judicial product lines were the appropriate decisions and consistent with our strategy of becoming the leading provider of property systems and services to local governments in North America. As previously noted, fluctuations in closings and implementations are part of our business, and the timing of a number of projects impacted our results for the first quarter. While we anticipate recognizing much of the revenue we budgeted during the remainder of this fiscal year, we recognize we don't have complete control over contract signings or implementation schedules, and delays can impact our profitability. This will be less of an impact as we continue to change our business and build our backlog." </P>
+<BR>
+<BR>
+<CENTER>
+
+</CENTER>
+<HR SIZE="4" NOSHADE>
+<BR>
+
+<P>Manatron was recently notified of the following new project awards, which total more than $12 million:</P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<P><B>&#149;</B></TD>
+<TD WIDTH="91%" VALIGN="TOP">
+<P>The City of Virginia Beach will be purchasing the Company's new integrated GRM system for approximately $4.7 million, which is the first Manatron Tax sale in Virginia. Currently 15 cities and 16 counties are utilizing Manatron CAMA, all of which will be natural sales opportunities for Manatron Tax.</TD>
+</TR>
+
+<TR>
+<TD WIDTH="5%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<P><B>&#149;</B></TD>
+<TD WIDTH="91%" VALIGN="TOP">
+<P>The Arizona Department of Revenue awarded Manatron a statewide CAMA contract for approximately $4.1 million. This will be the Company's first contract in Arizona and covers all but the largest three counties.</TD>
+</TR>
+
+<TR>
+<TD WIDTH="5%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<P><B>&#149;</B></TD>
+<TD WIDTH="91%" VALIGN="TOP">
+<P>Duval County, Florida, home to Jacksonville, recently awarded the Company a contract for Manatron Tax totaling approximately $2.3 million. This is a new account and will be the 28<SUP>th</SUP> County in Florida using Manatron Tax.</TD>
+</TR>
+
+<TR>
+<TD WIDTH="5%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<P><B>&#149;</B></TD>
+<TD WIDTH="91%" VALIGN="TOP">
+<P>Two counties in Idaho have signed contracts for Manatron Tax and a third has been awarded for a total of approximately $1.0 million. All three counties are current users of Manatron CAMA along with 31 of the 44 counties in that state. Idaho is a new state and target market for Manatron Tax.</TD>
+</TR>
+</TABLE>
+
+<P>Contract negotiations have been completed or are underway in all of these cases and plans are being made to begin work on all of them in this fiscal year. Most of the revenue impact will however occur in fiscal 2006. The Company's backlog is $26.3 million at July 31, 2004 and does not include the benefits of the awards noted above.</P>
+
+<P>Mr. Sylvester continued, "The decision for Manatron to transition to a business model which allows us to leverage our technology and costs across a broader base is clearly the appropriate strategy. However, as we continue the transition, there will be challenging quarters and this quarter was no exception. I would also suggest that these challenges pose a significant barrier to entry for other competitors who may be employing a similar strategy. Our goal is to overcome these short term obstacles and continue to grow our business so we can minimize the impact of delays and leverage our infrastructure across a broader revenue base. Had we approached the revenue thresholds we achieved in the fourth quarter, we would have reported substantial operating profits, as the majority of our expenses are fixed. With the positive reception the marketplace has shown for our new GRM product and strategy, we plan to continue winning business in new counties and states. We expect a sequential ramp in software license fees
+ and services during the remainder of the year with the goal of achieving performance levels similar to the fourth quarter in the near future." </P>
+
+<P>The Company finished the quarter with $11.0 million in cash and short term investments, and a current ratio 2.04 to 1. Shareholders' equity increased 6.2 percent to $21.6 million versus $20.3 million reported as of April 30, 2004. </P>
+
+<P>Management will discuss the results in a conference call, scheduled for 4 p.m. (Eastern) today. Anyone interested in participating should call 800-473-6123 if calling within the United States or 973-582-2706 if calling internationally. There will be a playback available until September 20, 2004. To listen to the playback, please call 877-519-4471 if calling within the United States or 973-341-3080 if calling internationally. Please use pass code 5131821 for the replay. </P>
+
+<P>This call is being web cast by ViaVid Broadcasting and can be accessed at Manatron's website at <U>www.manatron.com</U>. The web cast may also be accessed at ViaVid's website at <U>www.viavid.net</U>. The web cast can be accessed until October 13, 2004 on either site.</P>
+<BR>
+<BR>
+<CENTER>
+
+</CENTER>
+<HR SIZE="4" NOSHADE>
+<BR>
+
+<P>To access the web cast, you will need to have the Windows Media Player on your desktop. For the free download of the Media Player please visit:  <U>http://www.microsoft.com/windows/windowsmedia/en/download/default.asp</U>.</P>
+
+<P><U>About Manatron, Inc.:</U><BR>
+Manatron, Inc. designs, develops, markets and supports a family of web-based and client/server application software products for county, city and township governments. Manatron's products support the back-office processes for these government agencies and facilitate the broader business processes via eGovernment and Internet features, such as Internet payments and mortgage lender integration, targeted at the needs of taxpayers and industry professionals. Manatron also provides mass appraisal services, which includes the assessment of residential, commercial and other types of properties to ensure updated and equitable property valuations. Manatron is headquartered in Portage, Michigan and has offices in California, Florida, Georgia, Illinois, Indiana, North Carolina and Ohio. Manatron currently serves approximately 1,200 customers in 24 states and three Canadian provinces. Information about Manatron, Inc. is available at the Company's site on the World Wide Web at <U>http://www.manatron.com</U>. </P>
+
+<P><U>Safe Harbor Statement:</U> The information provided in this news release may include forward-looking statements relating to future events, such as the development of new products, the commencement of production, or the future financial performance of the Company. Actual results may differ from such projections and are subject to certain risks including, without limitation, risks arising from: changes in the rate of growth of the local government market, increased competition in the industry, delays in developing and commercializing new products, adequacy of financing and other factors described in the Company's most recent annual report on Form 10-K filed with the Securities and Exchange Commission, which can be reviewed at <U>http://www.sec.gov</U> .</P>
+<BR>
+
+<P ALIGN="CENTER"><FONT SIZE=1><B>TABLES FOLLOW</B></FONT></P>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<CENTER>
+
+</CENTER>
+<HR SIZE="4" NOSHADE>
+<BR>
+
+<P ALIGN="CENTER"><B>MANATRON, INC.<BR>
+CONDENSED STATEMENTS OF INCOME<BR>
+(Unaudited)</B></P>
+<BR>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="54%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="37%" VALIGN="TOP" COLSPAN=5>
+<P ALIGN="CENTER"><B>Three Months Ended<BR>
+July 31,</B></TD>
+<TD WIDTH="9%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=2>
+<P ALIGN="CENTER"><B>2004</B><HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=2>
+<P ALIGN="CENTER"><B>2003</B><HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="9%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P><B>NET REVENUES</B></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">8,668,769</TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">9,097,598</TD>
+<TD WIDTH="9%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P><B>COST OF REVENUES</B></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">5,263,922<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">5,473,740<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gross profit</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">3,404,847</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">3,623,858</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P><B>SELLING, GENERAL AND<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ADMINISTRATIVE EXPENSES</B></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P><BR>
+&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT"><BR>
+3,936,379<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P><BR>
+&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT"><BR>
+3,348,022<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Income (loss) from operations</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">(531,532</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>)</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">275,836</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P><B>GAIN ON SALE</B></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">2,237,157</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">3,442,148</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P><B>OTHER INCOME, NET</B></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">72,358<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">68,024<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Income before provision for <BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;income taxes&#9;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT"><BR>
+1,777,983</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT"><BR>
+3,786,008</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P><B>PROVISION FOR&nbsp;INCOME TAXES</B></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">667,000<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">1,149,000<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P><B>NET INCOME</B></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">1,110,983<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">2,637,008<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P><B>BASIC EARNINGS PER SHARE</B></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">.27<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">.68<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P><B>DILUTED EARNINGS PER SHARE</B></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">.25<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">.63<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P><B>BASIC WEIGHTED AVERAGE<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHARES OUTSTANDING</B></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P><BR>
+&nbsp;<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT"><BR>
+4,091,196<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P><BR>
+&nbsp;<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT"><BR>
+3,904,530<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="54%" VALIGN="TOP">
+<P><B>DILUTED WEIGHTED AVERAGE<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHARES OUTSTANDING</B></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P><BR>
+&nbsp;<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT"><BR>
+4,420,133<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P><BR>
+&nbsp;<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT"><BR>
+4,203,125<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="9%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+</TABLE>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<CENTER>
+
+</CENTER>
+<HR SIZE="4" NOSHADE>
+<BR>
+
+<P ALIGN="CENTER"><B>BALANCE SHEET HIGHLIGHTS</B></P>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="52%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="18%" VALIGN="TOP" COLSPAN=2>
+<P ALIGN="CENTER"><B>7/31/04</B><HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=2>
+<P ALIGN="CENTER"><B>04/30/04</B><HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="18%" VALIGN="TOP" COLSPAN=2>
+<P ALIGN="CENTER"><FONT SIZE=2><B>(unaudited)</B></FONT><HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=2>
+<P ALIGN="CENTER"><FONT SIZE=2><B>(audited)</B></FONT><HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP">
+<P>Cash and Short-term Investments</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<P ALIGN="RIGHT">10,978,583</TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">10,125,370</TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP">
+<P>Other Current Assets</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<P ALIGN="RIGHT">11,890,804<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">12,379,559<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP">
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total Current Assets</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<P ALIGN="RIGHT">22,869,387</TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">22,504,929</TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP">
+<P>Net Property &amp; Equipment</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<P ALIGN="RIGHT">2,899,618</TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">2,937,837</TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP">
+<P>Other Assets</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<P ALIGN="RIGHT">7,347,752<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">7,439,873<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP">
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total Assets</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<P ALIGN="RIGHT">33,116,757<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">32,882,639<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP">
+<P>Current Liabilities</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<P ALIGN="RIGHT">11,217,022</TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">12,243,686</TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP">
+<P>Deferred Income Taxes</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<P ALIGN="RIGHT">347,000</TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">343,000</TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP">
+<P>Shareholders' Equity</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<P ALIGN="RIGHT">21,552,735<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">20,295,953<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP">
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total Liabilities and Equity</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<P ALIGN="RIGHT">33,116,757<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<P ALIGN="RIGHT">$<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">32,882,639<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="16%" VALIGN="TOP"><P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP"><P>&nbsp;<HR SIZE="1" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD WIDTH="52%" VALIGN="TOP">
+<P>Outstanding Shares</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="16%" VALIGN="TOP">
+<P ALIGN="RIGHT">4,297,886<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="8%" VALIGN="TOP"><P>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP"><P>&nbsp;<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<P ALIGN="RIGHT">4,274,310<HR SIZE="3" NOSHADE></TD>
+<TD WIDTH="7%" VALIGN="TOP"><P>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P ALIGN="CENTER">###</P>
+<BR>
+<BR>
+<BR>
+<CENTER>
+
+</CENTER>
+<HR SIZE="4" NOSHADE>
+<BR>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>image79.jpg
+<DESCRIPTION>MANATRON, INC. LOGO
+<TEXT>
+begin 644 image79.jpg
+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
+;=!\/^F-!C_1H,A0?:!4"H%0*@5`J!4"H/__9
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

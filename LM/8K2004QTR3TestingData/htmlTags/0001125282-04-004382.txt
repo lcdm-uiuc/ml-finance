@@ -1,0 +1,1620 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EZsK6Lz6xrlMb7ZeqblH5kszPxRnF3I6+8r+pwTWt0Jid/D7BhMv7Zwpod2RzNF1
+ /bVveqSB8EJJU8zbzDp76A==
+
+<SEC-DOCUMENT>0001125282-04-004382.txt : 20040908
+<SEC-HEADER>0001125282-04-004382.hdr.sgml : 20040908
+<ACCEPTANCE-DATETIME>20040908163947
+ACCESSION NUMBER:		0001125282-04-004382
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040903
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040908
+DATE AS OF CHANGE:		20040908
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AUTHENTIDATE HOLDING CORP
+		CENTRAL INDEX KEY:			0000885074
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				141673067
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20190
+		FILM NUMBER:		041021026
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2165 TECHNOLOGY DRIVE
+		CITY:			SCHENECTADY
+		STATE:			NY
+		ZIP:			12308
+		BUSINESS PHONE:		5183467799
+
+	MAIL ADDRESS:	
+		STREET 1:		2165 TECHNOLOGY DRIVE
+		CITY:			SCHENECTADY
+		STATE:			NY
+		ZIP:			12308
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BITWISE DESIGNS INC
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>b400829_8k.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<html>
+<head><title>
+Prepared and filed by St Ives Burrups
+</title>
+</head>
+<body bgcolor="#FFFFFF"> <hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<p align="center"><font size="2" face="serif"><b><font face="serif" size="3">UNITED STATES<br>SECURITIES AND EXCHANGE COMMISSION</font></b><br><b>WASHINGTON, D.C. 20549</b></font></p>
+<p align="center"><b><font face="serif" size="3">FORM 8-K</font></b></p>
+<p align="center"><font size="2" face="serif"><b>CURRENT REPORT <br>PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934</b></font></p>
+<p align="center"><font size="2" face="serif"><b>DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED):&nbsp; September 8, 2004</b></font></p>
+<p align="center"><font size="2" face="serif"><b><u><font face="serif" size="3">AUTHENTIDATE HOLDING CORP.</font></u><font face="serif" size="5"></font></b><br>(Exact name of registrant as specified in its charter) </font></p>
+<p align="center"><font size="2" face="serif">COMMISSION FILE NUMBER<b>:&nbsp;&nbsp;<u>333-93711</u></b></font></p>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+  <tr align="center" valign="bottom" bgcolor="#FFFFFF">
+    <td><font size="2" face="serif"><b><u>DELAWARE</u></b></font></td>
+    <td width="3%">&nbsp;</td>
+    <td width="47%"><font size="2" face="serif"><b><u>14-1673067</u></b></font></td>
+  </tr>
+  <tr align="center" valign="bottom" bgcolor="#FFFFFF">
+    <td><font size="2" face="serif">(State or other jurisdiction
+        of incorporation or<br>organization)</font></td>
+    <td><font size="2">&nbsp;</font></td>
+    <td><font size="2" face="serif">(I.R.S. Employer Identification
+        No.)</font></td>
+  </tr>
+</table>
+<br>
+<br>
+<p align="center"><font size="2" face="serif"><b>2165 Technology Drive<br><u>Schenectady, NY  12308</u></b><br>(Address and zip code of principal executive offices)</font> </p>
+<p align="center"><font size="2" face="serif"><b><u>(518) 346-7799<br></u></b>(Registrant&#146;s telephone number, including area code </font></p>
+<p align="left"><font size="2" face="serif">CHECK THE APPROPRIATE BOX BELOW IF THE FORM 8-K FILING IS INTENDED TO SIMULTANEOUSLY SATISFY THE FILING OBLIGATION OF THE REGISTRANT UNDER ANY OF THE FOLLOWING PROVISIONS:</font></p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="3%" align="left" valign="bottom"><font size="2">&nbsp;</font></td>
+    <td width="2%" align="left" valign="bottom"><font size="2"><img src="emptybox.gif"></font></td>
+    <td align="left" valign="bottom"><font size="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="2%" align="left" valign="bottom"><font size="2">&nbsp;</font></td>
+    <td align="left" valign="bottom"><font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="2%" align="left" valign="bottom"><font size="2"><img src="emptybox.gif"></font></td>
+    <td align="left" valign="bottom"><font size="2" face="serif">Soliciting material
+    pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font><font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="2%" align="left" valign="bottom"><font size="2">&nbsp;</font></td>
+    <td align="left" valign="bottom"><font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="2%" align="left" valign="bottom"><font size="2"><img src="emptybox.gif"></font></td>
+    <td align="left" valign="bottom"><font size="2" face="serif">Pre-commencement
+        communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+    240.14d-2(b))</font><font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="2%" align="left" valign="bottom"><font size="2">&nbsp;</font></td>
+    <td align="left" valign="bottom"><font size="2">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="2%" align="left" valign="bottom"><font size="2"><img src="emptybox.gif"></font></td>
+    <td align="left" valign="bottom"><font size="2" face="serif">Pre-commencement
+        communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+    240.13e-4(c))</font><font size="2">&nbsp;</font></td>
+  </tr>
+</table>
+<p align="left"><font size="2" face="serif"><br><br></font></p>
+<p align="center"><font size="2" face="serif">1 of 2 </font></p>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+<td align="left" width="8%"><font size="2" face="serif"><b>Item 2.02</b></font></td>
+<td align="left"><font size="2" face="serif"><b>RESULTS OF OPERATIONS AND FINANCIAL CONDITION</b></font></td>
+</tr>
+<tr valign="top">
+<td align="left"></td>
+<td align="left"><font size="2" face="serif"> On September 8, 2004, Authentidate Holding Corp.  (the &#147;Registrant&#148;) announced by press release its earnings for the fourth quarter and fiscal year ended June 30, 2004. A copy of the press release is attached hereto as Exhibit 99.1.</font></td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+<td align="left"></td>
+<td align="left"><font size="2" face="serif">The information in this Current Report shall not be deemed &#147;filed&#148; for the purposes of Section 18 of the Securities Exchange Act of 1934,
+as amended, or otherwise subject to the liabilities of that section. The information in this Current Report shall not be incorporated by reference into any registration statement or
+other document pursuant to the Securities Act of 1933, except as shall be expressly set forth by specific reference in such filing.</font></td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+<td align="left" width="8%"><font size="2" face="serif"><b>Item 7.01</b></font></td>
+<td align="left"><font size="2" face="serif"><b>REGULATION FD DISCLOSURE</b></font></td>
+</tr>
+<tr valign="top">
+<td align="left"></td>
+<td align="left"><font size="2" face="serif">The disclosure contained in Item 2.02 above is hereby incorporated by reference</font></td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif"><b>Item 9.01</b></font></td>
+<td align="left"><font size="2" face="serif"><b>FINANCIAL STATEMENTS AND EXHIBITS</b></font></td>
+</tr>
+<tr valign="top">
+  <td align="left">&nbsp;</td>
+  <td align="left">&nbsp;</td>
+</tr>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+<td align="left" width="8%"></td>
+<td align="left" width="8%"><font size="2" face="serif">Exhibit<br>&nbsp;&nbsp;&nbsp;99.1</font></td>
+<td align="left"><font size="2" face="serif">Press Release of Authentidate Holding Corp. dated September 8, 2004, announcing earnings for the fourth quarter and fiscal year ended June 30, 2004. </font></td>
+</tr>
+</table>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<p align="center"><font size="2" face="serif"><br>SIGNATURE</font></p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+<td align="center" width="43%"></td>
+<td align="center" width="4%"></td>
+<td align="left"><font size="2" face="serif">AUTHENTIDATE HOLDING CORP.</font></td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+<td align="center"></td>
+<td align="center"></td>
+<td align="left"><font size="2" face="serif">By:  /s/ John T. Botti</font></td>
+</tr>
+<tr valign="top">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></td>
+</tr>
+<tr valign="top">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"><font size="2" face="serif">Name: John T. Botti</font></td>
+</tr>
+<tr valign="top">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"><font size="2" face="serif">Title: &nbsp;&nbsp;Chief Executive Officer</font></td>
+</tr>
+<tr valign="top">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"><font size="2" face="serif">Date: &nbsp;&nbsp;September 8, 2004</font></td>
+</tr>
+</table>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+
+<p align="center"><font size="2" face="serif"><b>EXHIBIT INDEX</b></font></p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="bottom">
+<td width="12%" align="center" valign="bottom"><font size="2" face="serif"><b>Exhibit<br><u>Number</u></b></font></td>
+<td align="left"><font size="2" face="serif"><b><u>Description</u></b></font></td>
+</tr>
+<tr valign="top">
+<td width="12%" align="center" valign="bottom"><font size="2">&nbsp;</font></td>
+<td>&nbsp;</td>
+</tr>
+<tr valign="top">
+  <td width="12%" align="center" valign="top"><font size="2" face="serif"><u>99.1</u></font></td>
+  <td><font size="2" face="serif">Press Release of Authentidate Holding Corp.
+      dated September 8, 2004, announcing earnings for the fourth quarter and
+    fiscal year ended June 30, 2004.</font></td>
+</tr>
+<tr valign="top">
+  <td width="12%" align="center" valign="bottom"><font size="2">&nbsp;</font></td>
+  <td>&nbsp;</td>
+</tr>
+</table>
+<hr noshade align="center" width="100%" size="2">
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>emptybox.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 emptybox.gif
+M1TE&.#EA#``,`/?^``````$!`0("`@,#`P0$!`4%!08&!@<'!P@("`D)"0H*
+M"@L+"PP,#`T-#0X.#@\/#Q`0$!$1$1(2$A,3$Q04%!45%186%A<7%Q@8&!D9
+M&1H:&AL;&QP<'!T='1X>'A\?'R`@("$A(2(B(B,C(R0D)"4E)28F)B<G)R@H
+M*"DI*2HJ*BLK*RPL+"TM+2XN+B\O+S`P,#$Q,3(R,C,S,S0T-#4U-38V-C<W
+M-S@X.#DY.3HZ.CL[.SP\/#T]/3X^/C\_/T!`0$%!04)"0D-#0T1$1$5%149&
+M1D='1TA(2$E)24I*2DM+2TQ,3$U-34Y.3D]/3U!04%%145)24E-34U145%55
+M55965E=75UA86%E965I:6EM;6UQ<7%U=75Y>7E]?7V!@8&%A86)B8F-C8V1D
+M9&5E969F9F=G9VAH:&EI:6IJ:FMK:VQL;&UM;6YN;F]O;W!P<'%Q<7)R<G-S
+M<W1T='5U=79V=G=W=WAX>'EY>7IZ>GM[>WQ\?'U]?7Y^?G]_?X"`@(&!@8*"
+M@H.#@X2$A(6%A8:&AH>'AXB(B(F)B8J*BHN+BXR,C(V-C8Z.CH^/CY"0D)&1
+MD9*2DI.3DY24E)65E9:6EI>7EYB8F)F9F9J:FIN;FYR<G)V=G9Z>GI^?GZ"@
+MH*&AH:*BHJ.CHZ2DI*6EI::FIJ>GIZBHJ*FIJ:JJJJNKJZRLK*VMK:ZNKJ^O
+MK["PL+&QL;*RLK.SL[2TM+6UM;:VMK>WM[BXN+FYN;JZNKN[N[R\O+V]O;Z^
+MOK^_O\#`P,'!P<+"PL/#P\3$Q,7%Q<;&QL?'Q\C(R,G)R<K*RLO+R\S,S,W-
+MS<[.SL_/S]#0T-'1T=+2TM/3T]34U-75U=;6UM?7U]C8V-G9V=K:VMO;V]S<
+MW-W=W=[>WM_?W^#@X.'AX>+BXN/CX^3DY.7EY>;FYN?GY^CHZ.GIZ>KJZNOK
+MZ^SL[.WM[>[N[N_O[_#P\/'Q\?+R\O/S\_3T]/7U]?;V]O?W]_CX^/GY^?KZ
+M^OO[^_S\_/W]_?[^_O___R'Y!`$``/X`+``````,``P`!P@Z`/\)'$APX)L?
+M"!,J_/<#F;B'$!\:8"BNX,`#%"T*Q/BCHD:.'BV"U/AOY,>,)SN2Y&C@@,N7
+&+@$$!``[
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>b400829ex99_1.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<html>
+<head><title>
+Prepared and filed by St Ives Burrups
+</title>
+</head>
+<body bgcolor="#FFFFFF">
+<div style="page-break-before:always"></div>
+<page>
+<p align="right"><font size="2" face="serif"><b>Exhibit 99.1</b></font></p>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr valign="top">
+<td align="left"><font size="2" face="serif"><b>For Immediate Release</b></font></td>
+<td align="left" width="2%">&nbsp;</td>
+<td width="49%" align="left"><font size="2" face="serif"><b>Contact: John A. Stiles</b></font></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left">&nbsp;</td>
+<td width="49%" align="left"><font size="2" face="serif"><b>John A. Stiles &amp; Assoc. LLC</b></font></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left">&nbsp;</td>
+<td width="49%" align="left"><font size="2" face="serif"><b>314-994-0560</b></font></td>
+</tr>
+</table>
+<p align="center"><b><font face="serif" size="5">AuthentiDate Holding Corp. Announces<br>Fourth Quarter and Year End Results</font></b></p>
+<p align="left"><font size="2" face="serif">Schenectady, NY&#151;September 8,
+    2004&#151;AuthentiDate Holding Corp. (NASDAQ:  ADAT) announced today that
+    revenue for the quarter ended June 30, 2004 was $5,151,000 compared to $5,795,000
+    for the same quarter a year ago. Revenue for the fiscal year ending June
+    30, 2004 was $19,242,000 compared to $25,286,000 for fiscal year ended June
+    30, 2003.  </font></p>
+<p align="left"><font size="2" face="serif">Revenue for the quarter ended June
+    30, 2004 for the AuthentiDate segment, which consists of AuthentiDate, AuthentiDate
+    International, AG, and Trac Medical Solutions, increased by approximately
+    $104,000 compared to the same quarter last year. The DocStar segment recorded
+    a revenue increase for the quarter of almost $36,000 while the DJS segment
+    reported a decline in revenue of close to $784,000 when compared to the same
+    quarter last year. </font></p>
+<p align="left"><font size="2" face="serif">Much of the decline in revenue for
+    the year was in the DJS segment. DJS experienced a decline of $5.5 million
+    in revenue primarily due to a decrease in low margin direct hardware sales
+    in 2004 compared to last year. DocStar also experienced a slight revenue
+    decline for the year of slightly more than $500,000. Much of the DocStar
+    revenue decline was due to a reduction of lower margin hardware sales offset
+    by an increase of higher margin software only sales. The AuthentiDate segment,
+    experienced an increase of approximately $4,000 for the year.</font></p>
+<p align="left"><font size="2" face="serif">Deferred revenue, mainly due to increases
+    in the AuthentiDate segment, increased from June 30, 2003 to June 30, 2004
+    by $1.1 million. </font></p>
+<p align="left"><font size="2" face="serif">The net loss for the quarter ended
+    June 30, 2004 was $3,580,000 or $0.11 per share compared to a net loss of
+    $2,881,000 or $0.14 per share for the same quarter a year ago. The Company
+    reported a net loss of $15,669,000 or $0.59 per share for fiscal year 2004
+    and $9,839,000 or $0.50 per share for fiscal 2003.</font></p>
+<p align="left"><font size="2" face="serif">The loss for the AuthentiDate Segment
+    declined by approximately $175,000 for the quarter ended June 30, 2004 when
+    compared to the same quarter last year, while DocStar and DJS saw an increase
+    in segment profits for the same period of more than $123,000 and approximately
+    $96,000, respectively. </font></p>
+<p align="left"><font size="2" face="serif">Much of the loss for fiscal 2004
+    was due to $6.2 million in interest expense, $5.3 million more than the Company
+    reported the previous year. The increase was primarily due to the write-off
+    of unamortized debt discount and unamortized deferred financing costs of
+    $5.9 million due to the conversion of an aggregate principal amount of $8,895,300
+    of convertible debentures to common stock. The Company recorded non-cash
+    interest expense of approximately $5.9 million during the year ended June
+    30, 2004 relative to the amortization of debt discount on the convertible
+    debentures.</font></p>
+<p align="left"><font size="2" face="serif">The Company&#146;s cash position
+    at the end of the year remained strong, reporting more than $74 million in
+    cash on hand.</font></p>
+<p align="left"><font size="2" face="serif">As an update on the Company&#146;s service
+     with the United States Postal Service&#146;s Electronic Postmark&reg; (USPS
+     EPM&reg;), the
+Company stated that it was encouraged with the recent news that the state of
+    South  Carolina has given an electronic document with an EPM the same legal
+     standing as certified or registered mail for specific legal communications, such as service of process. The Company said that
+it expected the South Carolina law to have applications in the area of court
+
+summons process, charitable services
+auditing and communications and legal communications.</font></p>
+<p align="left"><font size="2" face="serif">In addition, the Company stated that
+    it  has hired four new sales representatives each with a background in software
+    and
+specific sales experience in the area of state and local government, legal and
+     financial services. With these sales people now in place, AuthentiDate said
+    it
+has begun a marketing campaign to build market awareness of the EPM technology.</font></p>
+<p align="left"><font size="2" face="serif">The Company and the Postal Service
+     established certain performance metrics when the agreement
+    was first signed.
+The original revenue metric has not been attained and with the benefit of two
+    years of experience with the EPM business, the parties have been discussing
+    new
+    performance
+    metrics. The Postal Service has
+notified the Company of its failure to comply with the revenue metrics, which
+    commences a six month period to achieve compliance with the metrics.
+While there is no guarantee that the Company will be successful in completing
+    the negotiations, the Company believes that it has reached an agreement in
+    principal and anticipates that an agreement amending the
+original metrics will be completed shortly.   The Company also stated that it
+    has received notification from USPS
+that the Company&#146;s data center for the second time has been re-certified to process Electronic Postmark transactions for another year.</font></p>
+<p align="left"><font size="2" face="serif">&#147;While it can&#146;t be seen
+    in these numbers, we are starting to experience traction in several segments
+    of our business,&#148; stated John Botti, AuthentiDate&#146;s Chairman
+    and CEO.  &#147;The TracMed division is beginning to produce solid results
+    and various other verticals such as real estate and financials services are
+    being identified. We are working very aggressively to expand into those areas
+    and believe they represent exciting opportunities for the Company as well.&#148; </font></p>
+<p align="center"><font size="2" face="serif">- more -</font></p>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<p align="left"><font size="2" face="serif">The following tables are condensed
+    Statements of Operations and Balance Sheet for AuthentiDate Holding Corp.
+    A more detailed explanation is detailed in the Company&#146;s SEC filings.</font></p>
+<p align="center"><font size="2" face="serif"><b>AuthentiDate Holding Corp. and Subsidiaries<br>Consolidated Statements of Operations</b></font></p>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr valign="top">
+<td align="left"><font size="1" face="serif">&nbsp;</font></td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td colspan="6" align="center" valign="bottom"><b><font size="1" face="serif">For
+      Three Months Ended<br>
+      June
+    30,&nbsp;</font></b></td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td colspan="6" align="center" valign="bottom"><b><font size="1" face="serif">For
+      Twelve Months Ended<br>
+      June
+    30,&nbsp;</font></b></td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+  <td align="left">&nbsp;</td>
+  <td align="center" valign="bottom">&nbsp;</td>
+  <td colspan="6" align="center" valign="bottom"><hr noshade size="1"></td>
+  <td align="center" valign="bottom">&nbsp;</td>
+  <td align="center" valign="bottom">&nbsp;</td>
+  <td colspan="6" align="center" valign="bottom"><hr noshade size="1"></td>
+  <td align="center" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="1" face="serif">&nbsp;</font></td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td colspan="2" align="center" valign="bottom"><b><font size="1" face="serif">2004</font></b></td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td colspan="2" align="center" valign="bottom"><b><font size="1" face="serif">2003</font></b></td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td colspan="2" align="center" valign="bottom"><b><font size="1" face="serif">2004</font></b></td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td colspan="2" align="center" valign="bottom"><b><font size="1" face="serif">2003</font></b></td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="1" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Net
+    sales </font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif"> 5,151,382</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif"> 5,795,450</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif"> 19,242,071</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif"> 25,286,471</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Cost
+    of goods sold </font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">2,869,464</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">4,205,304</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">12,412,583</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">19,169,836</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 6%;  text-indent: -3%"><font size="2" face="serif">Gross
+    profit </font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">2,281,918</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">1,590,146</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">6,829,488</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">6,116,635</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Operating
+    Expenses</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">4,923,566</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">4,215,753</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">16,409,783</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">15,135,678</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Impairment of DJS Goodwill</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">1,178,765</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">&#150;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">1,178,765</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">&#150;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 6%;  text-indent: -3%"><font size="2" face="serif">Operating
+    loss </font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(3,820,413</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(2,625,607</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(10,759,060</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(9,019,043</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Other
+    income (expense)</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Interest
+    expense </font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(7,687</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(284,122</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(6,231,981</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(871,856</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Interest
+    and other income</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">247,959</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">29,660</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">1,304,354 </font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">572,481</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Equity
+    in net loss of affiliated companies</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">&#151;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">&#151;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">&#151;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(514,427</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 6%;  text-indent: -3%"><font size="2" face="serif">Loss
+    before income taxes </font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(3,580,141</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(2,880,069</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(15,686,687</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(9,832,845</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Income
+    tax (expense)/benefit</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">1</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(1,061</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">17,494</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">(6,464</font></td>
+<td width="2%" align="left" valign="bottom"><font size="2" face="serif">)</font></td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Net
+    loss</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">($3,580,140)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">($2,881,130)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">($15,669,193)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">($9,839,309)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="2"></td>
+<td width="10%" valign="bottom"><hr noshade size="2"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Weighted
+    average number of shares</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">32,821,558  </font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">20,331,055</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">26,980,843</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">20,028,736</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Net
+    loss per common share </font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">($0.11)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">($0.14)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">($0.59)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">($0.50)</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+</table>
+<p align="center"><font size="2" face="serif">- more -</font></p>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<p align="center"><font size="2" face="serif"><b>AuthentiDate Holding Corp. and Subsidiaries<br>
+Condensed Consolidated Balance Sheets</b></font></p>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr valign="top">
+<td align="left"><font size="1" face="serif">&nbsp;</font></td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td colspan="2" align="center" valign="bottom"><b><font size="1" face="serif">June
+    30, 2004</font></b></td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+<td colspan="2" align="center" valign="bottom"><b><font size="1" face="serif">June 30, 2003</font></b></td>
+<td width="2%" align="center" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="center" valign="bottom"></td>
+<td align="center" valign="bottom"><hr noshade size="1">
+</td>
+<td align="center" valign="bottom"><hr noshade size="1">
+</td>
+<td width="2%" align="center" valign="bottom"></td>
+<td width="2%" align="center" valign="bottom"></td>
+<td width="1%" align="center" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" align="center" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="center" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="1" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Current
+    Assets:</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td> </tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 6%;  text-indent: -3%"><font size="2" face="serif">Cash
+    and cash equivalents</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">  74,354,939</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif"> 3,460,446</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 6%;  text-indent: -3%"><font size="2" face="serif">Accounts
+    receivable </font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">3,039,044</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">3,644,500</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 6%;  text-indent: -3%"><font size="2" face="serif">Other
+    current assets</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">599,515</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">262,349</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 9%;  text-indent: -3%"><font size="2" face="serif">Total
+    current assets</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">77,993,498</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">7,367,295</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Property
+    and equipment, net</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">3,396,454</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">3,764,846</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Goodwill</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">11,616,736</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">12,795,501</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Other
+    assets</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">1,230,188</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">1,118,198</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Total
+    Assets</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">  94,236,876</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">  25,045,840</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="2"></td>
+<td width="10%" valign="bottom"><hr noshade size="2"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="2"></td>
+<td width="10%" valign="bottom"><hr noshade size="2"></td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Current
+    Liabilities:</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 6%;  text-indent: -3%"><font size="2" face="serif">Accounts
+    payable and other</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">    3,554,179</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif"> 4,705,524</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 6%;  text-indent: -3%"><font size="2" face="serif">Deferred
+    revenue</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">1,881,277</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">738,166</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 9%;  text-indent: -3%"><font size="2" face="serif">Total
+    current liabilities</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">5,435,456</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">5,443,690</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Convertible
+    debentures</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">3,316,815</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Long-term
+    debt, net of current portion</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">48,000</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">1,331,129</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Deferred
+    grant</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">1,000,000</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Obligations
+    under capital leases, net of current portion</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">35,421</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">85,556</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 9%;  text-indent: -3%"><font size="2" face="serif">Total
+    liabilities</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">5,518,877</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">11,177,190</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="left"><div style="margin-left: 9%;  text-indent: -3%"><font size="2" face="serif">Total
+    shareholders&#146; equity</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">88,717,999</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">13,868,650</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td width="1%" align="left" valign="bottom"><hr noshade size="1"></td>
+<td width="10%" valign="bottom"><hr noshade size="1"></td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom">&nbsp;</td>
+<td width="10%" align="left" valign="bottom"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><div style="margin-left: 3%; text-indent: -3%"><font size="2" face="serif">Total
+    liabilities and shareholders&#146; equity</font></div></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">   94,236,876</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="left" valign="bottom"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right" valign="bottom"><font size="2" face="serif">  25,045,840</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td></td>
+<td width="2%" align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"></td>
+<td align="left" valign="bottom"><hr noshade size="2">
+</td>
+<td valign="bottom"><hr noshade size="2">
+</td>
+<td width="2%" align="left" valign="bottom"></td>
+</tr>
+</table>
+<p align="center"><font size="2" face="serif">- more -</font></p>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<hr width="150" size=1 noshade>
+<p align="left"><font size="2" face="serif"><b>About AuthentiDate Holding Corp.</b><br>
+AuthentiDate Holding Corp. (AHC)
+    is the holding company of five business units; DocStar, AuthentiDate International
+    AG, AuthentiDate, Inc., DJS Marketing Group/Computer Professionals International
+    and Trac Medical Solutions, Inc. DocStar sells proprietary document imaging
+    software that includes the AuthentiDate technology. AuthentiDate and AuthentiDate
+    AG provide the authentication of digital data through its proprietary and
+    patent pending technology. AuthentiDate intends to establish itself as the
+    authority on &#147;content security&#148; as it is a growing sector of
+    the electronic network security infrastructure market. DJS delivers professional
+    services centered around technology systems integration projects, staff augmentation,
+out-tasking, outsourcing services and resells computer related products.  Trac
+    Medical offers an electronic form processing solution and utilizes
+    the AuthentiDate technology to prove the authenticity of the content
+    represented in completed healthcare forms.</font></p>
+<p align="left"><font size="2" face="serif">This press release contains forward-looking
+    statements within the meaning of section 27A of the Securities Act of 1933
+    and section 21E of the Securities Act of 1934. When used in this release,
+    the words &#147;believe,&#148; &#147;anticipate,&#148; &#147;think,&#148; &#147;intend,&#148; &#147;plan,&#148; &#147;will
+    be,&#148; &#147;expect,&#148; and similar expressions identify such forward-looking
+    statements. Such statements regarding future events and/or the future financial
+    performance of The Company are subject to certain risks and uncertainties,
+    which could cause actual events or the actual future results of the Company
+    to differ materially from any forward-looking statement. Such risks and uncertainties
+    include, among other things, the availability of any needed financing, the
+    Company&#146;s ability to implement its business plan for various applications
+    of its technologies, the impact of competition, the management of growth,
+    and the other risks and uncertainties that may be detailed from time to time
+    in the Company&#146;s reports filed with the Securities and Exchange Commission.
+    In light of the significant risks and uncertainties inherent in the forward-looking
+    statements included herein, the inclusion of such statements should not be
+    regarded as a representation by the Company or any other person that the
+    objectives and plans of the Company will be achieved.</font></p>
+<p align="center"><font size="2" face="serif">###</font></p>
+<hr noshade align="center" width="100%" size="2">
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

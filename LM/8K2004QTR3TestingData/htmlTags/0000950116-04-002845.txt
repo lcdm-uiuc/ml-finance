@@ -1,0 +1,668 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OJATuS8x7ZvuHRB02C9lrgMcMRTSp2cWQlWA2sTEwq4HTOJELIG5ucRKI2j5J0Dp
+ wOOc8+hqBimdVmlI29Oz9w==
+
+<SEC-DOCUMENT>0000950116-04-002845.txt : 20040921
+<SEC-HEADER>0000950116-04-002845.hdr.sgml : 20040921
+<ACCEPTANCE-DATETIME>20040921093433
+ACCESSION NUMBER:		0000950116-04-002845
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040917
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review
+FILED AS OF DATE:		20040921
+DATE AS OF CHANGE:		20040921
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STONEPATH GROUP INC
+		CENTRAL INDEX KEY:			0001093546
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MANAGEMENT CONSULTING SERVICES [8742]
+		IRS NUMBER:				650867684
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16105
+		FILM NUMBER:		041038468
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TWO PENN CENTER PLAZA
+		STREET 2:		SUITE 605
+		CITY:			PHILADLEPHIA
+		STATE:			PA
+		ZIP:			19102
+		BUSINESS PHONE:		4155754755
+
+	MAIL ADDRESS:	
+		STREET 1:		TWO PENN CENTER PLAZA
+		STREET 2:		SUITE 605
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NET VALUE HOLDINGS INC
+		DATE OF NAME CHANGE:	19991006
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>eight-k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<html>
+<head><title>
+Prepared and filed by St Ives Burrups
+</title>
+</head>
+<body bgcolor="#FFFFFF">
+
+<page>
+
+<p align="center"><font face="serif" size="3"><b>UNITED STATES<br>SECURITIES AND EXCHANGE COMMISSION<br>Washington, DC 20549</b></font></p> <p align="center">
+ <p align="center"><font face="serif" size="2"><b><font face="serif" size="4">FORM 8-K</font></b></font></p>
+ <p align="center"><font face="serif" size="3"><b>CURRENT REPORT <br>Pursuant to Section 13 or 15(d) of the Securities Exchange Act Of 1934</b></font></p>
+<p align="center"><font size="2" face="serif">Date of report (Date of earliest event reported):<u>&nbsp;&nbsp;<b>September 17, 2004</b></u></font></p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+<td align="center"><font size="2" face="serif"><b>Stonepath Group, Inc.</b></font></td>
+</tr>
+<tr valign="top">
+<td><hr noshade size="1"></td>
+</tr>
+<tr valign="top">
+<td align="center"><font size="2" face="serif">(Exact name of registrant as specified in its charter)</font></td>
+</tr>
+</table>
+<br><br>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr valign="top" bgcolor="#ffffff">
+<td align="center"><font size="2" face="serif"><b>Delaware</b></font></td>
+<td align="left" width="5%">&nbsp;</td>
+<td width="31%" align="center"><font size="2" face="serif"><b>011-16105</b></font></td>
+<td width="5%" align="left">&nbsp;</td>
+<td width="29%" align="center"><font size="2" face="serif"><b>65-0867684</b></font></td>
+</tr>
+<tr valign="top">
+<td><hr noshade size="1"></td>
+<td></td>
+<td><hr noshade size="1"></td>
+<td></td>
+<td><hr noshade size="1"></td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="center"><font size="2" face="serif">(State or other jurisdiction</font></td>
+<td align="left">&nbsp;</td>
+<td align="center"><font size="2" face="serif">(Commission</font></td>
+<td align="left">&nbsp;</td>
+<td align="center"><font size="2" face="serif">(IRS Employer</font></td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="center"><font size="2" face="serif">of incorporation)</font></td>
+<td align="left">&nbsp;</td>
+<td align="center"><font size="2" face="serif">File Number)</font></td>
+<td align="left">&nbsp;</td>
+<td align="center"><font size="2" face="serif">Identification No.)</font></td>
+</tr>
+</table>
+<br><br>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="center"><font size="2" face="serif"><b>1600 Market Street, Suite 1515</b></font></td>
+<td align="left" width="5%">&nbsp;</td>
+<td width="30%" align="left"><font size="2" face="serif">&nbsp;</font></td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="center"><font size="2" face="serif"><b>Philadelphia, Pennsylvania</b></font></td>
+<td align="left">&nbsp;</td>
+<td align="center"><font size="2" face="serif"><b>19103</b></font></td>
+</tr>
+<tr valign="top">
+<td><hr noshade size="1"></td>
+<td></td>
+<td><hr noshade size="1"></td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="center"><font size="2" face="serif">(Address of Principal Executive Offices)</font></td>
+<td align="left">&nbsp;</td>
+<td align="center"><font size="2" face="serif">(Zip Code)</font></td>
+</tr>
+</table>
+<p align="left"><font size="2" face="serif">Registrant&#8217;s telephone number, including area code:   <u>(215) 979-8370&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top"> <td align="left"><font size="1" face="serif">&nbsp;</font></td> </tr>
+<tr valign="top">
+<td><hr noshade size="1"></td>
+</tr>
+<tr valign="top">
+<td align="center"><font size="2" face="serif">(Former name or former address, if changed since last report)</font></td>
+</tr>
+</table>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<i>see </i>General Instruction A.2. below):</font></p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+<td align="left" width="4%"><img src="emptybox.gif"></td>
+<td align="left"><font size="2" face="serif">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+<td align="left"><img src="emptybox.gif"></td>
+<td align="left"><font size="2" face="serif">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+<td align="left"><img src="emptybox.gif"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left"><font size="2" face="serif">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange</font><font size="2" face="serif">Act (17 CFR 240.14d-2(b))</font></td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+<td align="left"><img src="emptybox.gif"></td>
+<td align="left"><font size="2" face="serif">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></td>
+</tr>
+</table>
+<p align="center"><font face="serif" size="2"></font></p>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<a name="p?"></a>
+<p>&nbsp;</p>
+<p><font face="serif" size="2"><b>Item 2.02.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Results of Operations and Financial Condition</u></b></font></p>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On September 20, 2004, Stonepath Group, Inc. (the &#8220;Company&#8221;) issued a press release entitled, &#8220;Stonepath Group (AMEX:STG) Announces Intention to Restate 2003 and First and Second Quarter 2004 Financial Statements &#150; Highlights Organizational Changes.&#8221;</font></p>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The full text of the Company&#8217;s press release is filed as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.</font></p>
+<p><font face="serif" size="2"><b>Item 4.02. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review</u></b></font></p>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On September 17, 2004 the Company concluded that its financial statements for 2003 and the first and second quarters of 2004 should not be relied upon.  </font>
+</p>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a result of a review of the process by which the Company&#146;s Domestic unit maintained its accrual for the costs of purchased transportation, the Company determined that it had understated its accrued purchased transportation liability and related costs of purchased transportation.  The amount of the under accrual is estimated in the range of $4.0 million to $6.0 million for 2003 and in the range of $0.5 million to $1.0 million for the first six months of 2004.  After giving effect for these estimated incremental expenses, the Company&#8217;s reported EBITDA would be reduced to a range of $2.6 million to $4.6 million for 2003 and reduced to a range of $200,000 to $700,000 for the first six months of 2004.</font>
+</p>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company believes that earnings before interest, taxes, depreciation and amortization, or EBITDA, is a useful financial measure of our financial performance for investors. Under GAAP, our net income reflects the amortization of intangible assets arising from the Company&#146;s past acquisitions and other non-cash charges. However, we believe that we are actually growing the value of our intangible assets through our acquisition strategy. Management of the Company believes that EBITDA is a useful measure because it eliminates the effect of these non-cash costs and provides an important metric of the economic reality of the business. </font></p>
+<p align="center">&nbsp;</p>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<a name="p?"></a>
+<p>&nbsp;</p>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In accordance with SEC Regulation S-K, a reconciliation of EBITDA estimates for 2003 and for the first six months of 2004 (as adjusted for the purchased transportation accrual) to the most directly comparable GAAP measure follows:</font></p>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr valign="top">
+<td align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="right" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td colspan="4" align="center" valign="bottom"><font size="1" face="serif">(amounts in millions)</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="right" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="right" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="right" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="right" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="center" valign="bottom"><font size="1" face="serif">(First 6 Months)</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="right" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="center" valign="bottom"><font size="1" face="serif">2003E</font></td>
+<td align="left" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="right" valign="bottom"><font size="1" face="serif">&nbsp;</font></td>
+<td align="center" valign="bottom"><font size="1" face="serif">2004E</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+<tr valign="bottom" bgcolor="#ffffff">
+  <td align="left">&nbsp;</td>
+  <td align="right">&nbsp;</td>
+  <td align="right"><hr align="left" width="100%" size=1 noshade>
+    </td>
+  <td align="left">&nbsp;</td>
+  <td align="right">&nbsp;</td>
+  <td align="right"><hr align="left" width="100%" size=1 noshade>
+    </td>
+  <td align="left">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="right">&nbsp;</td>
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left">&nbsp;</td>
+<td align="right">&nbsp;</td>
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+<tr valign="bottom" bgcolor="#ffffff">
+<td align="left"><font size="2" face="serif">Net income/(loss)</font></td>
+<td width="1%" align="right"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right"><font size="2" face="serif">1.1-3.1</font></td>
+<td width="2%" align="left">&nbsp;</td>
+<td width="1%" align="right"><font size="2" face="serif">$</font></td>
+<td width="10%" align="right"><font size="2" face="serif"> (1.6)-(1.1</font></td>
+<td width="2%" align="left"><font size="2" face="serif">)</font></td>
+</tr>
+<tr valign="bottom" bgcolor="#FFFFFF">
+<td align="left"><font size="2" face="serif">Interest expense/(income)</font></td>
+<td align="right">&nbsp;</td>
+<td align="right"><font size="2" face="serif">0.1</font></td>
+<td align="left">&nbsp;</td>
+<td align="right">&nbsp;</td>
+<td align="right"><font size="2" face="serif">0.1</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+<tr valign="bottom" bgcolor="#ffffff">
+<td align="left"><font size="2" face="serif">Income tax expense/(benefit)*</font></td>
+<td align="right">&nbsp;</td>
+<td align="right"><font size="2" face="serif">(1.3</font></td>
+<td align="left"><font size="2" face="serif">)</font></td>
+<td align="right">&nbsp;</td>
+<td align="right"><font size="2" face="serif">(0.2</font></td>
+<td width="2%" align="left"><font size="2" face="serif">)</font></td>
+</tr>
+<tr valign="bottom" bgcolor="#FFFFFF">
+<td align="left"><font size="2" face="serif">Depreciation and amortization</font></td>
+<td align="right">&nbsp;</td>
+<td align="right"><font size="2" face="serif">2.7<u>  </u></font></td>
+<td align="left"><u></u></td>
+<td align="right"><u></u></td>
+<td align="right"><font size="2" face="serif">1.9</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+<tr valign="bottom" bgcolor="#ffffff">
+  <td align="left">&nbsp;</td>
+  <td align="right">&nbsp;</td>
+  <td align="right"><hr align="left" width="100%" size=1 noshade>
+    </td>
+  <td align="left">&nbsp;</td>
+  <td align="right">&nbsp;</td>
+  <td align="right"><hr align="left" width="100%" size=1 noshade>
+    </td>
+  <td align="left">&nbsp;</td>
+</tr>
+<tr valign="bottom" bgcolor="#ffffff">
+<td align="left"><font size="2" face="serif">EBITDA (Earnings before interest, taxes, depreciation and amortization)</font></td>
+<td align="right"><font size="2" face="serif">$</font></td>
+<td align="right"><font size="2" face="serif">2.6-4.6</font></td>
+<td align="left">&nbsp;</td>
+<td width="1%" align="right"><font size="2" face="serif">$</font></td>
+<td align="right"><font size="2" face="serif">0.2-0.7</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+<tr valign="bottom" bgcolor="#ffffff">
+  <td align="left">&nbsp;</td>
+  <td align="right">&nbsp;</td>
+  <td align="right"><hr align="left" width="100%" size=2 noshade>
+    </td>
+  <td align="left">&nbsp;</td>
+  <td align="right">&nbsp;</td>
+  <td align="right"><hr align="left" width="100%" size=2 noshade>
+    </td>
+  <td align="left">&nbsp;</td>
+</tr>
+</table>
+<p align="left"><font face="serif" size="1">* Prior to the fourth quarter of 2003, the Company maintained a valuation allowance to offset 100% of the net deferred tax assets associated with the tax losses generated prior to the Company&#146;s move into the logistics business. In the fourth quarter of 2003, a portion of the valuation allowance was reversed, resulting in the recognition of a deferred tax asset and related nonrecurring non-cash tax benefit of $1.7 million, resulting in an overall income tax benefit of $1.3 million. For purposes of developing its preliminary estimate of the impact of the adjustment for the purchased transportation accrual, the Company has not tax affected the adjustment and has assumed that the adjustment would not impact the Company&#8217;s basis for reversing a
+portion of its valuation allowance.</font></p>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#8217;s Chief Financial Officer has discussed the matters disclosed in this item with Grant Thornton LLP, the Company&#8217;s existing independent accountants. He has also discussed the matters discussed in this item with KPMG LLP, which audited the Company&#8217;s financial statements for 2003.</font>
+
+
+
+<p align="center">&nbsp;</p>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<a name="p?"></a>
+<p>&nbsp;</p>
+<p align="center"><font face="serif" size="2"><b>SIGNATURES</b></font></p>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.<br>
+  <br>
+  <br>
+  <br>
+  <br>
+</font></p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top"> <td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="42%" align="left"><font size="2" face="serif">STONEPATH GROUP, INC.</font></td> </tr>
+<tr valign="top"> <td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left"><font size="2" face="serif">&nbsp;</font></td> </tr>
+<tr valign="top"> <td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left"><font size="2" face="serif">&nbsp;</font></td> </tr>
+<tr valign="top"> <td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left"><font size="2" face="serif">&nbsp;</font></td> </tr>
+<tr valign="top">
+<td align="left" width="58%"><font size="2" face="serif">Date: September 21, 2004</font></td>
+<td align="left"><font size="2" face="serif">By: <u>/s/ Dennis L. Pelino&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left"><font size="2" face="serif">Name:  Dennis L. Pelino</font></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left"><font size="2" face="serif">Title: Chairman and Chief Executive Officer</font></td>
+</tr>
+</table>
+<p align="center">&nbsp;</p>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<a name="p?"></a>
+<p>&nbsp;</p>
+<p align="center"><font face="serif" size="2"><b>EXHIBIT INDEX</b></font></p>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr valign="top" bgcolor="#FFFFFF">
+<td width="15%" align="center"><font size="2" face="serif"><u>Exhibit No. </u></font></td>
+<td width="85%" align="left"><font size="2" face="serif"><u>Description</u></font></td>
+</tr>
+<tr valign="top">
+<td align="center"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+</tr>
+<tr valign="top" bgcolor="#ffffff">
+<td align="center"><font size="2" face="serif">99.1</font></td>
+<td align="left"><font size="2" face="serif">Press Release</font></td>
+</tr>
+</table>
+<p align="center">&nbsp;</p>
+<hr noshade align="center" width="100%" size="2">
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>emptybox.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 emptybox.gif
+M1TE&.#EA#``,`/?^``````$!`0("`@,#`P0$!`4%!08&!@<'!P@("`D)"0H*
+M"@L+"PP,#`T-#0X.#@\/#Q`0$!$1$1(2$A,3$Q04%!45%186%A<7%Q@8&!D9
+M&1H:&AL;&QP<'!T='1X>'A\?'R`@("$A(2(B(B,C(R0D)"4E)28F)B<G)R@H
+M*"DI*2HJ*BLK*RPL+"TM+2XN+B\O+S`P,#$Q,3(R,C,S,S0T-#4U-38V-C<W
+M-S@X.#DY.3HZ.CL[.SP\/#T]/3X^/C\_/T!`0$%!04)"0D-#0T1$1$5%149&
+M1D='1TA(2$E)24I*2DM+2TQ,3$U-34Y.3D]/3U!04%%145)24E-34U145%55
+M55965E=75UA86%E965I:6EM;6UQ<7%U=75Y>7E]?7V!@8&%A86)B8F-C8V1D
+M9&5E969F9F=G9VAH:&EI:6IJ:FMK:VQL;&UM;6YN;F]O;W!P<'%Q<7)R<G-S
+M<W1T='5U=79V=G=W=WAX>'EY>7IZ>GM[>WQ\?'U]?7Y^?G]_?X"`@(&!@8*"
+M@H.#@X2$A(6%A8:&AH>'AXB(B(F)B8J*BHN+BXR,C(V-C8Z.CH^/CY"0D)&1
+MD9*2DI.3DY24E)65E9:6EI>7EYB8F)F9F9J:FIN;FYR<G)V=G9Z>GI^?GZ"@
+MH*&AH:*BHJ.CHZ2DI*6EI::FIJ>GIZBHJ*FIJ:JJJJNKJZRLK*VMK:ZNKJ^O
+MK["PL+&QL;*RLK.SL[2TM+6UM;:VMK>WM[BXN+FYN;JZNKN[N[R\O+V]O;Z^
+MOK^_O\#`P,'!P<+"PL/#P\3$Q,7%Q<;&QL?'Q\C(R,G)R<K*RLO+R\S,S,W-
+MS<[.SL_/S]#0T-'1T=+2TM/3T]34U-75U=;6UM?7U]C8V-G9V=K:VMO;V]S<
+MW-W=W=[>WM_?W^#@X.'AX>+BXN/CX^3DY.7EY>;FYN?GY^CHZ.GIZ>KJZNOK
+MZ^SL[.WM[>[N[N_O[_#P\/'Q\?+R\O/S\_3T]/7U]?;V]O?W]_CX^/GY^?KZ
+M^OO[^_S\_/W]_?[^_O___R'Y!`$``/X`+``````,``P`!P@Z`/\)'$APX)L?
+M"!,J_/<#F;B'$!\:8"BNX,`#%"T*Q/BCHD:.'BV"U/AOY,>,)SN2Y&C@@,N7
+&+@$$!``[
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>ex99-1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<PAGE>
+
+EXHIBIT 99.1
+
+FOR IMMEDIATE RELEASE                          Contact: Bohn H. Crain
+- ---------------------                                   Chief Financial Officer
+                                                        Stonepath Group
+                                                        (215) 979-8370
+
+
+               STONEPATH GROUP (AMEX: STG) ANNOUNCES INTENTION TO
+            RESTATE 2003 AND FIRST AND SECOND QUARTER 2004 FINANCIAL
+                                   STATEMENTS
+
+                        HIGHLIGHTS ORGANIZATIONAL CHANGES
+________________________________________________________________________________
+
+PHILADELPHIA, PA, September 20, 2004 - Stonepath Group (AMEX: STG) today
+announced that it will restate its financial statements for 2003 and the first
+and second quarters of 2004. As a result of an internal review of the process by
+which the Company's Domestic Services unit maintained its accrual for the costs
+of purchased transportation, the Company determined that it had understated its
+accrued purchased transportation liability and related costs of purchased
+transportation. The amount of the under accrual is estimated to be in the range
+of $4.0-$6.0 million for 2003 and in the range of $500,000 to $1.0 million for
+the first six months of 2004. After giving effect for these estimated
+incremental expenses, the Company's reported EBITDA would be reduced to the
+range of $2.6-$4.6 million for 2003 and reduced to the range of
+$200,000-$700,000 for the first six months of 2004.
+
+Reconciliations of the EBITDA amounts contained in this press release to the
+most directly comparable GAAP amounts are included at the end of this press
+release.
+
+In using its legacy operating system, to be replaced by Tech-Logis later this
+year, Domestic Services relied on trend analysis to estimate its costs of
+purchased transportation. In reviewing the process by which Domestic Services
+maintained the accrual for its costs of purchased transportation, the Company
+has concluded that the process did not accurately account for the differences
+between the estimates and the actual freight costs incurred. This allowed for
+the accumulation of previously unidentified costs of purchased transportation
+and an under reported liability for the accrued costs of purchased
+transportation.
+
+
+
+<PAGE>
+
+The Company has discussed this issue with its recently engaged external
+auditors, Grant Thornton LLP. It has also advised its previous auditors, KPMG
+LLP which had audited the Company's financial statements for 2003. The Company
+is in the process of preparing an amended report on Form 10-K/A for 2003 and
+amended reports on Form 10-Q/A for the first and second quarters of this year.
+
+The anticipated restatement of operating results for 2003 and 2004 is not
+expected to have an impact on the Company's cash position and will not affect
+Stonepath's ability to provide the high-quality logistics services its customers
+have come to expect.
+
+The Company is also reviewing its financial guidance. In addition, the Company
+is assessing what, if any, impact these events will have on the Company's
+ability to comply with its certification process with respect to the
+effectiveness of its internal controls and procedures for financial reporting
+required pursuant to Section 404 of the Sarbanes-Oxley Act of 2002 in connection
+with the filing of the Company's 2004 Annual Report on Form 10-K.
+
+The Company has also communicated these events to its bank and expects to
+continue to enjoy significant availability under its existing credit facility
+subject to waivers of certain financial covenants which the Company expects to
+secure.
+
+Dennis L. Pelino, Chairman and CEO, commented: "We have identified this problem
+and we believe we understand the issues. Now we must make significant changes in
+our organization to address these issues and ensure that nothing like this ever
+happens again. To strengthen our operations and begin streamlining the
+management reporting structure, we have made several key management changes.
+Jason Totah, the CEO of our international operations, will also become the CEO
+at Domestic Services as of September 27, 2004. This move will put all of our
+logistics operations under one proven leader who will oversee the functional and
+operational integration of the divisions as we roll out Tech-Logis in the U.S.
+by end of the year."
+
+Mr. Pelino added: "The Company has also restructured its financial organization
+to have the senior financial staff of its Domestic Services and International
+Services operations report directly to Bohn Crain, the Company's Executive Vice
+President and Chief Financial Officer. The Company also intends to add a senior
+accounting officer to reside in Minneapolis to provide technical support and
+oversight to the financial reporting and accounting staff of the Company's
+Domestic Services and International Services operations and to interface with
+the Company's corporate staff in Philadelphia."
+
+
+
+
+<PAGE>
+
+Pelino continued: "On the positive side, the earn-out methodology we use to
+effect our acquisitions provides the Company with the ultimate back-stop in this
+situation. The incremental purchased transportation expense identified through
+our review process reduces the earn-out distributions that should have been paid
+to the former owners. As a result of this earn-out mechanism, the cash impact of
+these adjustments should ultimately be borne directly by the former owners of
+the businesses we have acquired rather than the Company itself."
+
+"Our Executive Committee, which I co-chair with Bohn Crain, has been working
+well since its establishment in May, and is beginning to have a very positive
+impact on how we will be structured as a Company going forward."
+
+Pelino closed, "We are very confident in our future, and feel strongly that we
+have our hands around the accounting issues that have slowed us down, putting us
+on track for a solid 2005 and beyond."
+
+The Company believes that earnings before interest, taxes, depreciation and
+amortization, or EBITDA, is a useful financial measure of our financial
+performance for investors. Under GAAP, our net income reflects the amortization
+of intangible assets arising from the Company's past acquisitions and other
+non-cash charges. However, we believe that we are actually growing the value of
+our intangible assets through our acquisition strategy. Management of the
+Company believes that EBITDA is a useful measure because it eliminates the
+effect of these non-cash costs and provides an important metric of the economic
+reality of the business. The following is a reconciliation of the projected
+EBITDA information contained in this press release to the most comparable
+projected GAAP amounts.
+
+In accordance with SEC Regulation S-K, a reconciliation of EBITDA estimates for
+2003 and for the first six months of 2004 (as adjusted for the purchased
+transportation accrual) to the most directly comparable GAAP measure follows:
+
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                                              (amounts in millions)
+                                                                                                             (First 6 Months)
+                                                                                           2003E                  2004E
+                                                                                           -----                  -----
+         <S>                                                                              <C>                 <C>
+         Net income/(loss)                                                                $1.1-3.1            ($1.6)-($1.1)
+         Interest expense/(income)                                                           0.1                    0.1
+         Income tax expense/(benefit)*                                                      (1.3)                  (0.2)
+         Depreciation and amortization                                                       2.7                    1.9
+                                                                                             ---                    ---
+         EBITDA (Earnings before interest, taxes, depreciation and amortization)          $2.6-4.6               $0.2-0.7
+                                                                                          ========               ========
+</TABLE>
+         * Prior to the fourth quarter of 2003, the Company maintained a
+         valuation allowance to offset 100% of the net deferred tax assets
+         associated with the tax losses generated prior to the Company's move
+         into the logistics business. In the fourth quarter of 2003, a portion
+         of the valuation allowance was reversed, resulting in the recognition
+         of a deferred tax asset and related nonrecurring non-cash tax benefit
+         of $1.7 million, resulting in an overall income tax benefit of $1.3
+         million. For purposes of developing its preliminary estimate of the
+         impact of the adjustment for the purchased transportation accrual, the
+         Company has not tax affected the adjustment and has assumed that the
+         adjustment would not impact the Company's basis for reversing a portion
+         of its valuation allowance.
+
+
+Investor Conference Call
+- ------------------------
+
+Stonepath Group will host a conference call for shareholders and the investing
+community on Tuesday, September 21, 2004 at 11:00am, ET to discuss the contents
+of the release. The call can be accessed by dialing (800) 344-0961 and is
+expected to last approximately 30 minutes. Callers are requested to dial in 5
+minutes before the start of the call. An audio replay will be available for one
+week after the teleconference by dialing (800) 642-1687 and using the following
+code: 310750.
+
+About Stonepath Group (AMEX: STG)
+- ---------------------------------
+Stonepath Group (www.stonepath.com) is a growing logistics services organization
+that integrates established logistics companies with innovative technologies.
+Stonepath offers a full-range of time-definite transportation and distribution
+solutions to a wide range of global and local businesses. For more information
+about Stonepath Group and Stonepath Logistics, please contact John Brine at
+(212) 254-8280.
+
+
+
+
+<PAGE>
+
+         This press release includes forward-looking statements within the
+meaning of Section 27A of the Securities Act of 1933 as amended, and Section 21E
+of the Securities Exchange Act of 1934, as amended, regarding the restatement of
+our financial statements for past periods, as well as regarding future results,
+levels of activity, events, trends or plans. We have based these forward-looking
+statements on our current expectations and projections about the outcome of our
+continuing analysis with respect to the restatement of our financial statements,
+as well as about such future results, levels of activity, events, trends or
+plans. These forward-looking statements are not guarantees and are subject to
+known and unknown risks, uncertainties and assumptions about us that may cause
+our actual results, levels of activity, events, trends or plans to be materially
+different from any future results, levels of activity, events, trends or plans
+expressed or implied by such forward-looking statements. In some cases, you can
+identify forward-looking statements by terminology such as "guidance," "may,"
+"will," "should," "could," "would," "expect," "plan," "anticipate," "believe,"
+"estimate," "continue," or the negative of such terms or other similar
+expressions. While it is impossible to identify all of the factors that may
+cause our actual results, levels of activity, events, trends or plans to differ
+materially from those set forth in such forward-looking statements, such factors
+include the inherent risks associated with: (i) the need to determine the
+precise amount of our under accrual for the costs of purchased transportation,
+(ii) the impact that such under accrual will have on our historical financial
+condition and results of operations, (iii) the continued willingness of our
+lender to cooperate with us and to grant any waivers required under our credit
+facility, (iv) our ability to recover from the former shareholders of our
+Domestic Services unit the amount of any excess earn-out payments made to them,
+and (v) other factors which are or may be identified from time to time in our
+Securities and Exchange Commission filings and other public announcements. There
+can be no assurance that these and other factors will not affect the accuracy of
+such forward-looking statements. Readers are cautioned not to place undue
+reliance on forward-looking statements, which speak only as of the date made. We
+undertake no obligation to publicly release the result of any revision of these
+forward-looking statements to reflect events or circumstances after the date
+they are made or to reflect the occurrence of unanticipated events.
+
+
+
+                                     # # #
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

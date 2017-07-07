@@ -1,0 +1,667 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QsMUIHYujH/Jc+IBT2m9FH2KR4VjMMbZlKAuCZF3/N/xlUN+03sYm4BALGEQIAFt
+ 05p6SrVzWLjjsDZEYrJMPA==
+
+<SEC-DOCUMENT>0000950134-04-012732.txt : 20040824
+<SEC-HEADER>0000950134-04-012732.hdr.sgml : 20040824
+<ACCEPTANCE-DATETIME>20040824162350
+ACCESSION NUMBER:		0000950134-04-012732
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040824
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040824
+DATE AS OF CHANGE:		20040824
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OMNIVISION TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001106851
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				770401990
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-29939
+		FILM NUMBER:		04994394
+
+	BUSINESS ADDRESS:	
+		STREET 1:		930 THOMPSON PL
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94085
+		BUSINESS PHONE:		4087333030
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f01467e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 or 15(d) of<BR>
+the Securities Exchange Act of 1934</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>August&nbsp;24, 2004</B>
+
+
+<DIV align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="40%"></DIV>
+
+
+<DIV align="center" style="font-size: 10pt"><B>Date of Report (date of earliest event reported)</B></DIV>
+
+
+<P align="center" style="font-size: 24pt"><B>OmniVision Technologies, Inc.</B>
+
+<DIV align="center" style="font-size: 10pt"><HR size="1" noshade>
+<B>(Exact name of Registrant as specified in its charter)</B></DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top" align="center"><DIV style="margin-left:0px; text-indent:-0px"><B>Delaware</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>000-29939</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>77-0401990</B></TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD colspan="5" valign="top" align="center"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top" align="center"><DIV style="margin-left:0px; text-indent:-0px"><b>(State or other jurisdiction of
+incorporation or organization) </b>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>(Commission File Number)</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>(I.R.S. Employer
+Identification Number)</B></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>1341 Orleans Drive<BR>
+Sunnyvale, California 94089-1136</B>
+
+
+<DIV align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="40%">
+<B>(Address of principal executive offices)</B></DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>(408)&nbsp;542-3000</B>
+
+
+<DIV align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="40%">
+<B>(Registrant&#146;s telephone number, including area code)</B></DIV>
+
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">ITEM 2.02 Results of Operations and Financial Condition.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#001">ITEM 9.01 Financial Statements and Exhibits.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURE</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003">Exhibit&nbsp;Index</A></TD></TR>
+<TR><TD colspan="9"><A HREF="f01467exv99w1.txt">EXHIBIT 99.1</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link1 "ITEM 2.02 Results of Operations and Financial Condition." -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>ITEM 2.02 Results of Operations and Financial Condition.</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This information shall not be deemed &#147;filed&#148; for purposes of Section&nbsp;18 of
+the Securities Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;), or
+incorporated by reference in any filing under the Securities Act of 1933, as
+amended, or the Exchange Act, except as shall be expressly set forth by
+specific reference in such a filing.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On August&nbsp;24, 2004, OmniVision Technologies, Inc. issued a press release
+announcing its financial results for its first fiscal quarter ended July&nbsp;31,
+2004. The full text of the press release is attached hereto as Exhibit&nbsp;99.1 and
+is incorporated herein by reference.
+
+<!-- link1 "ITEM 9.01 Financial Statements and Exhibits." -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>ITEM 9.01 Financial Statements and Exhibits.</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;Exhibits
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following exhibit is furnished herewith:
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">99.1</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="94%">Press Release, dated August&nbsp;24, 2004, of OmniVision Technologies,
+Inc. announcing its financial results for its first fiscal quarter
+ended July&nbsp;31, 2004.</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+</TABLE>
+
+<!-- link1 "SIGNATURE" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt">SIGNATURE
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD>Dated: August 24, 2004<BR>
+<BR>
+<BR>
+</TD>
+</TR><TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3"><B>OmniVision Technologies, Inc.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000"><I>/s/ Shaw Hong</I>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Shaw Hong&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">President and Chief Executive
+Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+
+</TABLE>
+<!-- link1 "Exhibit&nbsp;Index" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>Exhibit&nbsp;Index</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Number</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release, dated August&nbsp;24, 2004, of OmniVision Technologies, Inc.
+announcing its financial results for its first fiscal quarter ended July
+31, 2004.</TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>f01467exv99w1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 99.1
+
+                                [OMNIVISION LOGO]
+
+
+
+
+             OMNIVISION REPORTS FIRST QUARTER FISCAL 2005 RESULTS--
+                 DILUTED EARNINGS PER SHARE EXCEED TARGET RANGE
+
+SUNNYVALE, CALIF. - AUGUST 24, 2004 - OMNIVISION TECHNOLOGIES, INC.
+(NASDAQ:OVTI) today reported financial results for its first quarter of fiscal
+2005, ended July 31, 2004.
+
+OmniVision reported revenue of $98.8 million for the first quarter of fiscal
+2005, compared to $46.8 million for the first quarter of fiscal 2004 and $99.7
+million for the fourth quarter of fiscal 2004. On a year-over-year basis,
+revenue grew by 111 percent. Revenue for the first quarter of fiscal 2005 was in
+the upper half of OmniVision's target range of $95 million to $100 million,
+provided on June 23, 2004.
+
+Diluted earnings per share for the first quarter of fiscal 2005 were $0.32,
+compared to $0.12 for the first quarter of fiscal 2004 and $0.34 for the fourth
+quarter of fiscal 2004. On a year-over-year basis, diluted earnings per share
+grew by 167 percent. Diluted earnings per share for the first quarter of fiscal
+2005 exceeded OmniVision's target range of $0.29 to $0.31, also provided on June
+23, 2004.
+
+Net income for the first quarter of fiscal 2005 was $19.9 million, compared to
+$6.2 million for the first quarter of fiscal 2004 and $20.8 million for the
+fourth quarter of fiscal 2004. On a year-over-year basis, net income grew by 219
+percent.
+
+"Although our revenue declined by 1 percent quarter to quarter, reflecting a
+decrease in demand from the digital camera market, we benefited from continued
+growth in shipments for cameraphones, driven by increased demand for our
+1.3-megapixel CameraChipTM," said Shaw Hong, president and chief executive
+officer. "Our objective is to ramp production and shipment of our new
+OmniPixelTM generation of sensors during the October and January quarters. We
+believe that the combination of our established CameraChip technology and our
+new OmniPixel technology gives OmniVision strong product offerings for all of
+our key markets."
+
+Gross profit for the first quarter of fiscal 2005 was $39.7 million, or 40.2
+percent of revenue, compared to $17.4 million, or 37.1 percent of revenue for
+the first quarter of fiscal 2004 and $40.1 million, or 40.3 percent of revenue
+for the fourth quarter of fiscal 2004. Direct sales to original-equipment
+manufacturers and value-added resellers accounted for 82 percent of revenue for
+the first quarter of fiscal 2005, with the balance of 18 percent coming from
+sales through distributors.
+<PAGE>
+
+Total cash, cash equivalents and short-term investments increased by $32.5
+million during the quarter, to $247.7 million. Stockholders' equity increased by
+$20.9 million, to $320.9 million.
+
+FINANCIAL TARGETS
+
+To manage the challenges of product transition during the second quarter of
+fiscal 2005, the Company plans to reduce production and shipment of established
+CameraChip products, while ramping production and shipment of new OmniPixel
+products. For the second quarter of fiscal 2005, ending October 31, 2004, the
+Company announced target ranges of $80 million to $90 million for revenue and
+$0.20 to $0.25 for diluted earnings per share. The Company believes that revenue
+and diluted earnings per share will increase quarter to quarter in the third
+quarter of fiscal 2005, ending January 31, 2005, as it increases production of
+new products.
+
+TELECONFERENCE
+
+At 1:30 p.m. PDT (4:30 p.m. EDT) today, August 24, 2004, the Company will hold a
+teleconference to discuss financial results and future plans and prospects. To
+participate in the teleconference, please call (toll free) 877-523-2171
+approximately 10 minutes prior to the start time. For international callers, the
+dial-in number is 706-634-1478. You may also listen live via the Internet at the
+Company's website, www.ovt.com, or at www.FullDisclosure.com.
+
+These websites will host an archive of the teleconference. Additionally, a
+playback of the call will be available for 48 hours beginning today at 4:30 p.m.
+PDT. You may access the playback by calling 800-642-1687, or for international
+callers 706-645-9291, and providing Conference ID number 9256791.
+
+ABOUT OMNIVISION
+
+OmniVision Technologies designs, develops and markets high-performance, low-cost
+semiconductor image sensors called CameraChips. OmniVision's products are used
+to electronically capture analog and digital images in mass-market products such
+as cameraphones, digital still and video cameras, security systems, interactive
+video games, toys, personal computer cameras, personal digital assistants and
+automotive imaging systems. The Company believes that its new OmniPixel
+technology enables its new generation of image sensors to deliver the light
+sensitivity, resolution, color fidelity and low noise of advanced CCD products,
+while also providing the proven advantages that designers have come to expect
+from OmniVision's CMOS solutions: low cost, high integration, low power
+consumption, wide dynamic range and switchable still-image or video capture.
+OmniVision believes that its products enable manufacturers to build camera
+products that are smaller, less complex, more reliable, lower cost and more
+power efficient than cameras using traditional CCDs or multiple-chip CMOS image
+sensors. OmniVision Technologies is headquartered at 1341 Orleans Drive,
+Sunnyvale, CA 94089. Additional information is available at www.ovt.com.
+
+OmniVision, CameraChip and OmniPixel are trademarks of OmniVision Technologies,
+Inc.
+<PAGE>
+
+SAFE-HARBOR STATEMENT
+
+Certain statements in this press release, including statements relating to the
+Company's expectations regarding revenue and earnings per share for the quarter
+ending October 31, 2004 and the quarter ending January 31, 2005 and the
+Company's belief that the combination of established CameraChip technology and
+new OmniPixel technology gives OmniVision strong product offerings for all of
+its key markets are "forward-looking statements" as defined in the Private
+Securities Litigation Reform Act of 1995. These forward-looking statements are
+based on management's current expectations, and as a result of certain risks and
+uncertainties actual results may differ materially from those projected. These
+risks and uncertainties include, without limitation, the following: the degree
+to which intense competition might affect the Company's ability to compete
+successfully in current and emerging markets for image sensor products; risks
+associated with the Company's ability to obtain design wins from camera, mobile
+phone and other image sensor device manufacturers, which could inhibit the
+Company's ability to sustain and grow its business; risks associated with wafer
+manufacturing yields and other manufacturing processes, which could materially
+and adversely affect the Company's revenue and earnings and its ability to
+satisfy customer demand; risks associated with the Company's planned
+streamlining and consolidation of manufacturing processes, which could adversely
+affect the Company's operating expenses and its ability to sustain and expand
+its business; risks associated with the development of current and emerging
+markets for CMOS image sensor products, generally, and the Company's products,
+specifically, which could result in lower revenue and earnings and adversely
+affect the Company's business and prospects; risks associated with the Company's
+ability to accurately forecast customer demand for its products, which could
+impair the Company's ability to meet customer demand for CameraChip products and
+could also result in excess inventory; risks associated with the development and
+production of new products, which would adversely affect the Company's ability
+to compete successfully in the CMOS image sensor market; the Company's
+dependence upon a few key customers, the loss of one or more of which could
+materially and adversely affect the Company's business and results of
+operations; uncertainties associated with the Company's decision to restate
+certain of its fiscal 2004 quarterly results of operation; a decline in the
+average selling price of the Company's products, which could result in a decline
+in the Company's revenue and gross margins; and the other risks detailed from
+time to time in the Company's Securities and Exchange Commission filings and
+reports, including, but not limited to, the Company's most recent annual report
+filed on Form 10-K, as amended. The Company disclaims any obligation to update
+information contained in any forward-looking statement.
+
+Contact:
+OmniVision Technologies, Inc.
+John T. Rossi, 408-542-3000
+
+Silverman Heller Associates
+Philip Bourdillon/Gene Heller, 310-208-2550
+
+                            (financial tables follow)
+<PAGE>
+                          OMNIVISION TECHNOLOGIES, INC.
+
+                    CONDENSED CONSOLIDATED INCOME STATEMENTS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                           THREE MONTHS ENDED
+                                                         JULY 31,        JULY 31,
+                                                           2004           2003
+                                                         --------       --------
+<S>                                                      <C>            <C>
+Revenues                                                 $ 98,807       $ 46,839
+Cost of revenues                                           59,068         29,460
+                                                         --------       --------
+Gross profit                                               39,739         17,379
+                                                         --------       --------
+Operating expenses:
+     Research and development                               5,164          3,580
+     Selling, general and administrative                    7,122          4,490
+     Stock-based compensation charge                          203            101
+                                                         --------       --------
+         Total operating expenses                          12,489          8,171
+                                                         --------       --------
+Income from operations                                     27,250          9,208
+Interest income, net                                          660            222
+Other income (loss)                                          (338)          --
+                                                         --------       --------
+Income before income taxes                                 27,572          9,430
+Provision for income taxes                                  7,720          3,206
+                                                         --------       --------
+Net income                                               $ 19,852       $  6,224
+                                                         ========       ========
+Net income per share:
+     Basic                                               $   0.35       $   0.13
+                                                         ========       ========
+     Diluted                                             $   0.32       $   0.12
+                                                         ========       ========
+Shares used in computing net income per share:
+     Basic                                                 56,315         47,696
+                                                         ========       ========
+     Diluted                                               61,131         53,638
+                                                         ========       ========
+</TABLE>
+                                    - more -
+<PAGE>
+                          OMNIVISION TECHNOLOGIES, INC.
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                 (IN THOUSANDS)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                               JULY 31,       APRIL 30,
+                                                                                 2004           2004
+                                                                               ---------      ---------
+<S>                                                                            <C>            <C>
+ASSETS
+Current assets:
+     Cash and cash equivalents                                                 $ 194,087      $ 198,053
+     Short-term investments                                                       53,655         17,158
+     Restricted  cash                                                              1,075          1,072
+     Accounts receivable, net                                                     56,112         53,513
+     Inventories                                                                  24,137         38,802
+     Refundable and deferred income taxes                                          6,518          6,518
+     Prepaid expenses and other assets                                             1,882          2,626
+                                                                               ---------      ---------
+          Total current assets                                                   337,466        317,742
+Property, plant and equipment, net                                                20,941         20,622
+Long-term investments                                                              8,234          7,110
+Other non-current assets                                                           1,461            362
+                                                                               ---------      ---------
+          Total assets                                                         $ 368,102      $ 345,836
+                                                                               =========      =========
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+     Accounts payable                                                          $  19,514      $  25,923
+     Accrued expenses and other liabilities                                       19,420         11,100
+     Deferred revenue                                                              8,268          8,800
+                                                                               ---------      ---------
+          Total current liabilities                                               47,202         45,823
+                                                                               ---------      ---------
+Stockholders' equity:
+     Common stock, $0.001 par value; 100,000 shares authorized; 56,376 and
+         56,212 shares issued and outstanding
+                                                                                      56             56
+     Additional paid-in capital                                                  250,504        249,405
+     Deferred compensation related to stock options                                   (2)           (20)
+     Accumulated other comprehensive loss                                            (86)            (4)
+     Retained earnings                                                            70,428         50,576
+                                                                               ---------      ---------
+          Total stockholders' equity                                             320,900        300,013
+                                                                               ---------      ---------
+          Total liabilities and stockholders' equity                           $ 368,102      $ 345,836
+                                                                               =========      =========
+</TABLE>
+                                      # # #
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

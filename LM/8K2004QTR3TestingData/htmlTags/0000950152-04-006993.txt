@@ -1,0 +1,1758 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VP8sLf3xH0uBcJKLkLoCvG0yklsAPs3O41BHzSEVx1yG8QvOkBLH5yAWPK0KYxgI
+ QnFo3464I/eRQSPhQjKUcA==
+
+<SEC-DOCUMENT>0000950152-04-006993.txt : 20040921
+<SEC-HEADER>0000950152-04-006993.hdr.sgml : 20040921
+<ACCEPTANCE-DATETIME>20040921165324
+ACCESSION NUMBER:		0000950152-04-006993
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040921
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040921
+DATE AS OF CHANGE:		20040921
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PAYCHEX INC
+		CENTRAL INDEX KEY:			0000723531
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ENGINEERING, ACCOUNTING, RESEARCH, MANAGEMENT [8700]
+		IRS NUMBER:				161124166
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-11330
+		FILM NUMBER:		041039704
+
+	BUSINESS ADDRESS:	
+		STREET 1:		911 PANORAMA TRAIL S
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14625-0397
+		BUSINESS PHONE:		7163856666
+
+	MAIL ADDRESS:	
+		STREET 1:		911 PANORAMA TRAIL SOUTH
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14625-0397
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>l09629ae8vk.htm
+<DESCRIPTION>PAYCHEX, INC.               8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Paychex, Inc.               8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 12pt"><B>SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT</B>
+
+
+
+<P align="center" style="font-size: 10pt">Pursuant To Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+<P align="center" style="font-size: 10pt">Date of Report: September&nbsp;21, 2004<BR>
+(Date of earliest event reported)
+
+
+<P align="center" style="font-size: 24pt"><B>PAYCHEX, INC.</B>
+
+
+
+<div align="center" style="font-size: 10pt">(Exact name of registrant
+as specified in its charter)</div>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="90%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">DELAWARE<BR>
+(State of incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">0-11330<BR>
+(Commission<BR>
+File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">16-1124166<BR>
+(IRS Employer<BR>
+Identification Number)</TD>
+</TR>
+
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="90%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="67%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="26%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">911 PANORAMA TRAIL SOUTH, ROCHESTER, NEW YORK
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">14625-2396</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of principal executive offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">(585)&nbsp;385-6666<BR>
+(Registrant&#146;s telephone number, including area code)
+
+<P align="center" style="font-size: 10pt">(Former name or former
+address, if changed since last report.)
+
+<P align="left" style="margin-left:5%; font-size: 10pt">Check the
+appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions:
+
+<P align="left" style="margin-left:5%; font-size: 10pt">[&nbsp;&nbsp;&nbsp;]
+Written
+communications pursuant to Rule&nbsp;425 under the Securities Act (17
+CFR 230.425)
+
+<P align="left" style="margin-left:5%; font-size: 10pt">[&nbsp;&nbsp;&nbsp;]
+Soliciting
+material pursuant to
+Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+<P align="left" style="margin-left:5%; font-size: 10pt">[&nbsp;&nbsp;&nbsp;]
+Pre-commencement
+communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act
+(17 CFR 240.14d-2(b))
+
+<P align="left" style="margin-left:5%; font-size: 10pt">[&nbsp;&nbsp;&nbsp;]
+Pre-commencement
+communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act
+(17 CFR 240.13e-4(c))
+
+
+
+
+
+<P align="center" style="font-size: 10pt">1
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">ITEM 2.02. RESULTS OF OPERATIONS AND FINANCIAL CONDITION.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#001">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">EXHIBIT INDEX</A></TD></TR>
+<TR><TD colspan="9"><A HREF="l09629aexv99w1.htm">Exhibit 99.1 Restatement of Financials</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+<!-- link2 "ITEM 2.02. RESULTS OF OPERATIONS AND FINANCIAL CONDITION." -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>ITEM 2.02. RESULTS OF OPERATIONS AND FINANCIAL CONDITION.</B>
+
+
+<P align="left" style="font-size: 10pt">The registrant&#146;s press release dated September&nbsp;21, 2004, which reports its
+financial results for the first quarter ended August&nbsp;31, 2004, is furnished
+(not filed) as Exhibit&nbsp;99.1.
+
+
+
+<P align="left" style="font-size: 10pt"><B>ITEM 9.01. FINANCIAL
+STATEMENTS AND EXHIBITS.</B>
+
+<P align="left" style="font-size: 10pt">(c)&nbsp;&nbsp;Exhibits
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following exhibit is
+furnished (not filed) with this Form 8-K.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="82%">&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit&nbsp;99.1</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Press Release of Paychex, Inc. Dated September
+21, 2004.</TD>
+</TR>
+</TABLE>
+
+
+
+
+
+
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+<P align="left" style="font-size: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+
+<P align="center" style="font-size: 10pt"><B>PAYCHEX, INC.</B>
+
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>Date:  September 21, 2004&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000">/s/ B. Thomas Golisano
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">B. Thomas Golisano&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">Chairman, President and<BR>
+Chief Executive Officer<BR>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>Date:  September 21, 2004&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000">/s/ John M. Morphy
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">John M. Morphy&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">Senior Vice President, Chief<BR>
+Financial Officer and<BR>
+Secretary&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+<!-- link1 "EXHIBIT INDEX" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>EXHIBIT INDEX</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="9%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="86%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release of Paychex, Inc. Dated September&nbsp;21, 2004</TD>
+</TR>
+
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">2
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>l09629aexv99w1.htm
+<DESCRIPTION>EXHIBIT 99.1 RESTATEMENT OF FINANCIALS
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Exhibit 99.1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="center" style="font-size: 10pt"><B>Exhibit&nbsp;99.1: Press
+Release of Paychex, Inc. Dated September&nbsp;21, 2004</B>
+
+
+
+<P align="left" style="font-size: 10pt"><B>FOR IMMEDIATE RELEASE</B>
+
+
+
+
+<P align="left" style="margin-left:5%; font-size: 10pt">John Morphy, CFO, or Jan Shuler 585-383-3406.
+
+
+
+<P align="left" style="margin-left:5%; font-size: 10pt">Access the Webcast of the Paychex, Inc. First Quarter Earnings Release
+Conference Call scheduled for September&nbsp;22, 2004 at  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10:30&nbsp;a.m.
+Eastern Time at <U>www.paychex.com</U> at the Investor Relations home page.
+
+
+
+<div align="left" style="margin-left:5%; font-size: 10pt">Paychex, Inc. news releases, current financial information, related SEC
+filings, and Investor Relations presentation are accessible  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at the
+same Web site.</div>
+
+
+<P align="center" style="font-size: 10pt"><B><U>PAYCHEX, INC. REPORTS RECORD FIRST QUARTER RESULTS</U></B>
+
+
+<P align="left" style="font-size: 10pt">ROCHESTER, NY, September&nbsp;21, 2004 &#151; Paychex, Inc. (NASDAQ:PAYX) today
+announced record net income of $87.7&nbsp;million, or $.23 diluted earnings per
+share, for the quarter ended August&nbsp;31, 2004, a 9% increase over net income of
+$80.3&nbsp;million, or $.21 diluted earnings per share, for the first quarter last
+year. Total revenues were $345.0&nbsp;million, a 12% increase over $309.3&nbsp;million
+for the prior year first quarter.
+
+
+
+<P align="left" style="font-size: 10pt"><B><U>SERVICE REVENUES</U></B>
+
+
+<P align="left" style="font-size: 10pt">For the quarter ended August&nbsp;31, 2004, service revenues, which include the
+Payroll and Human Resource and Benefits product lines, were $334.2&nbsp;million, an
+increase of 13% over $295.9&nbsp;million for the prior year first quarter.
+
+
+<P align="left" style="font-size: 10pt">Payroll service revenue increased 10% in the first quarter of fiscal 2005 to
+$280.4&nbsp;million. Positive year-over-year growth in Payroll service revenue
+resulted from organic client base growth, increased utilization of ancillary
+services, and price increases. As of August&nbsp;31, 2004, 89% of all clients
+utilized the Company&#146;s tax filing and payment services and 63% utilized
+employee payment services. Major Market Services revenue increased 30% for the
+first quarter to $41.0&nbsp;million.
+
+
+<P align="left" style="font-size: 10pt">Human Resource and Benefits service revenue increased to $53.8&nbsp;million for the
+first quarter of fiscal 2005, a year-over-year increase of 30%. The increase
+reflects growth in clients for Retirement Services, growth in client employees
+served by the Company&#146;s comprehensive Paychex Administrative Services (PAS)&nbsp;and
+Professional Employer Organization (PEO)&nbsp;bundled services, and the benefit of
+revenue from the April&nbsp;2004 acquisition of Stromberg Time and Attendance
+products. Retirement Services revenue increased 17% year-over-year in the
+first quarter to $20.9&nbsp;million. Administrative fee revenue from PAS and PEO
+products increased 48% in the first quarter to $16.0&nbsp;million.
+
+
+
+<P align="left" style="font-size: 10pt"><B><U>INTEREST ON FUNDS HELD FOR CLIENTS</U></B>
+
+
+<P align="left" style="font-size: 10pt">Interest on funds held for clients decreased 19% in the first quarter of fiscal
+2005 to $10.8&nbsp;million, which was consistent with the Company&#146;s expectations.
+The decrease was attributable to lower net realized gains on the sale of
+available-for-sale securities and lower average interest rates earned,
+partially offset by higher average portfolio balances resulting from client
+base growth. Average portfolio balances for the first quarter of fiscal 2005
+were $2.5&nbsp;billion compared with $2.3&nbsp;billion in the prior year quarter. The
+average interest rates earned by the funds held for clients portfolio were 1.7%
+for the first quarter of fiscal 2005, compared with 1.9% for the first quarter
+of fiscal 2004. Net realized gains included in interest on funds held for
+clients were $.2&nbsp;million for the first quarter of fiscal 2005, compared with net
+realized gains of $2.7&nbsp;million for the prior year period.
+
+
+
+<P align="left" style="font-size: 10pt"><B><U>CONSOLIDATED EXPENSES AND OPERATING INCOME</U></B>
+
+
+<P align="left" style="font-size: 10pt">Consolidated operating, selling, general, and administrative expenses increased
+11% in the first quarter over the prior year quarter. The increase is due to
+increases in personnel, information technology, and other costs to support the
+organic growth of the Company. Higher professional services expenses related
+to pending legal matters also contributed to the increase in the first quarter.
+
+
+<P align="left" style="font-size: 10pt">For the quarter ended August&nbsp;31, 2004, operating income was $128.7&nbsp;million, an
+increase of 12% over the same period last year. Operating income growth
+continues to be impacted by the lower average interest rates earned by the
+funds held for clients portfolio. Operating income (excluding interest on
+funds held for clients) increased 16% year-over-year in the first quarter to
+$117.9&nbsp;million. Operating income (excluding interest on funds held for
+clients) as a percentage of
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="left" style="font-size: 10pt">total service revenues was 35% for the first quarter of fiscal 2005, compared
+with 34% for the respective prior year period.
+
+
+
+<P align="left" style="font-size: 10pt"><B><U>INVESTMENT INCOME, NET</U></B>
+
+
+<P align="left" style="font-size: 10pt">Investment income, net, decreased 43% year-over-year in the first quarter to
+$2.3&nbsp;million, which was consistent with the Company&#146;s expectations. The
+decrease is due to lower net realized gains on the sale of available-for-sale
+securities and lower average interest rates earned, offset somewhat by higher
+average portfolio balances. Average portfolio balances for the corporate
+investment portfolio were approximately $529&nbsp;million for the first quarter of
+fiscal 2005, compared with $386&nbsp;million in the prior year period. The average
+interest rates earned for the corporate investment portfolio were 1.8% for the
+first quarter of fiscal 2005, compared with 2.8% in the prior year period.
+There were no net realized gains included in investment income in the first
+quarter of fiscal 2005, compared with $1.5&nbsp;million in the prior year period.
+
+
+
+<P align="left" style="font-size: 10pt"><B><U>INCOME TAXES</U></B>
+
+
+<P align="left" style="font-size: 10pt">The effective income tax rate was 33.0% for the quarter ended August&nbsp;31, 2004,
+compared with 32.5% for the same period last year. The increase in the
+effective tax rate is the result of lower levels of tax-exempt income on funds
+held for clients and corporate investments.
+
+
+<P align="left" style="font-size: 10pt">B. Thomas Golisano, Chairman, President, and Chief Executive Officer of
+Paychex, said, &#147;Fiscal 2005 is off to a good start as our financial results for
+the first quarter were in line with our expectations. We remain focused on
+growing our client base, increasing utilization of our ancillary services, and
+improving our profit margins. Estimated total revenue growth for fiscal 2005 is
+expected to be in the range of 9% to 11%, accompanied by net income growth in
+the range of 16% to 18%. In addition, we expect that growth in operating
+income, excluding interest on funds held for clients, expense charges in fiscal
+2004 for pending legal matters, and the net incremental PEO revenue benefit
+recognized in fiscal 2004, to be in excess of 15%. These expectations are
+based on current economic and interest rate conditions continuing with no
+significant changes.&#148;
+
+
+
+<P align="left" style="font-size: 10pt"><B><U>ABOUT PAYCHEX</U></B>
+
+
+<P align="left" style="font-size: 10pt">Paychex, Inc. is a leading national provider of payroll, human resource, and
+benefits outsourcing solutions for small- to medium-sized businesses. The
+company offers comprehensive payroll services, including payroll processing,
+payroll tax administration, and employee pay services, including direct
+deposit, check signing, and Readychex&#174;. Human resource and benefits outsourcing
+services include 401(k) plan recordkeeping, workers&#146; compensation
+administration, section 125 plans, a professional employer organization, and
+other administrative services for business. Paychex was founded in 1971. With
+headquarters in Rochester, New York, the company has more than 100 offices and
+serves approximately 505,000 payroll clients nationwide.
+
+<P align="center" style="font-size: 10pt">Page 2 of 5
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<P align="center" style="font-size: 10pt"><B>&#147;SAFE HARBOR&#148; STATEMENT UNDER THE PRIVATE SECURITIES LITIGATION REFORM ACT OF
+1995</B>
+
+
+<P align="left" style="font-size: 10pt">Certain written and oral statements made by Paychex, Inc. (the &#147;Company&#148;)
+management may constitute &#147;forward-looking statements&#148; as defined in the
+Private Securities Litigation Reform Act of 1995. Forward-looking statements
+are identified by such words and phrases as &#147;we expect,&#148; &#147;expected to,&#148;
+&#147;estimates,&#148; &#147;current outlook,&#148; &#147;we look forward to,&#148; &#147;would equate to,&#148;
+&#147;projects,&#148; &#147;projections,&#148; &#147;projected to be,&#148; &#147;anticipates,&#148; &#147;anticipated,&#148; &#147;we
+believe,&#148; &#147;could be,&#148; and other similar phrases. All statements addressing
+operating performance, events, or developments that the Company expects or
+anticipates will occur in the future, including statements relating to revenue
+growth, earnings, earnings-per-share growth, or similar projections, are
+forward-looking statements within the meaning of the Reform Act. Because they
+are forward-looking, they should be evaluated in light of important risk
+factors. These risk factors include, but are not limited to, the following or
+those which are described in the Company&#146;s SEC filings, including the most
+recent Form 10-K: general market and economic conditions, including demand for
+the Company&#146;s products and services, competition, price levels, availability of
+internal and external resources, effective execution of expansion plans, and
+effective integration of acquisitions; changes in the laws regulating
+collection and payment of payroll taxes, professional employer organizations,
+and employee benefits, including 401(k) plans, workers&#146; compensation, state
+unemployment, and section 125 plans; delays in the development, timing of the
+introduction, and marketing of new products and services; changes in
+technology, including use of the Internet; the possibility of catastrophic
+events that could impact the Company&#146;s operating facilities, computer systems,
+and communication systems; the possibility of third-party service providers
+failing to perform their functions; the possibility of penalties and losses
+resulting from errors and omissions in performing services; the possibility
+that internal control weaknesses may be identified during control reviews;
+potential unfavorable outcomes related to pending legal matters; potential
+damage to the Company&#146;s business reputation due to these and other operational
+risks; the possible inability of clients to meet payroll obligations; stock
+volatility; and changes in short- and long-term interest rates, changes in the
+market value of available-for-sale securities, and the credit rating of cash,
+cash equivalents, and securities held in the Company&#146;s investment portfolios,
+all of which could cause actual results to differ materially from anticipated
+results. The information provided in this document is based upon the facts and
+circumstances known at this time.
+
+
+
+
+<P align="center" style="font-size: 10pt">Page 3 of 5
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<P align="center" style="font-size: 10pt"><U><B>PAYCHEX, INC.</B></U><BR>
+<B><U>CONSOLIDATED STATEMENTS OF INCOME</U></B><BR>
+<B>(In thousands, except per share amounts)</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="72%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7" style="border-bottom: 1px solid gray"><B>For the three months ended</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>August 31,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>August 31,</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid gray"><B>2004</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid gray"><B>2003</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Revenues:</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Service revenues</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">334,203</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">295,918</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Interest on funds held for clients</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10,772</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,335</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:20px; text-indent:-10px"><B>Total revenues</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>344,975</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>309,253</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Operating costs</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">80,346</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">71,671</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Selling, general, and administrative<BR>
+expenses</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">135,961</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">122,504</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Operating income</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>128,668</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>115,078</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Investment income, net</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,259</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,949</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Income before income taxes</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>130,927</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>119,027</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Income taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">43,206</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">38,684</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Net income</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>87,721</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>80,343</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Basic earnings per share</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>.23</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>.21</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Diluted earnings per share</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>.23</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>.21</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Weighted-average common shares</B><BR><B>outstanding</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>378,107</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>376,836</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Weighted-average shares assuming</B><BR><B>dilution</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>379,706</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>378,815</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Cash dividends per common share</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>.12</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>.11</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+
+
+<P>
+<HR size="1" width="18%" align="left" noshade>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top">
+    <TD width="1%" nowrap align="right">(A)</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="96%">Further information on interest on funds held for clients and investment
+income, net, and the short- and long-term effects of changing interest
+rates can be found in the Company&#146;s SEC filings, including Forms 10-K,
+10-Q, and 8-K under the caption &#147;Management&#146;s Discussion and Analysis of
+Financial Condition and Results of Operations&#148; and subheadings &#147;Results of
+Operations&#148; and &#147;Market Risk Factors.&#148; These SEC filings are accessible
+at the Company&#146;s Web site.</TD>
+</TR>
+
+</TABLE>
+
+
+
+
+<P align="center" style="font-size: 10pt">Page 4 of 5
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<P align="center" style="font-size: 10pt"><B><U>PAYCHEX, INC.</U><BR>
+<U>CONSOLIDATED BALANCE SHEETS</U><BR>
+(In thousands)</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="70%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>August 31,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>May 31,</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid gray"><B>2004</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid gray"><B>2004</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>ASSETS</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Cash and cash equivalents</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">213,133</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">219,492</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Corporate investments</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">379,735</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">304,348</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Interest receivable</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">18,027</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">22,564</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Accounts receivable, net</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">165,770</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">135,764</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Deferred income taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">16,898</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">25,646</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Prepaid income taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,962</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Prepaid expenses and other current assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">21,912</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">16,938</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:20px; text-indent:-10px"><B>Current assets before funds held for clients</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>815,475</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>726,714</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Funds held for clients</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,456,867</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,553,733</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:20px; text-indent:-10px"><B>Total current assets</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>3,272,342</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>3,280,447</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Other assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8,175</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8,207</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Property and equipment, net</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">171,573</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">171,346</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Intangible assets, net</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">80,976</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">84,551</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Goodwill</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">405,689</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">405,652</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Total assets</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>3,938,755</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>3,950,203</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>LIABILITIES</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Accounts payable</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">24,583</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">22,589</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Accrued compensation and related items</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">88,191</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">87,344</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Deferred revenue</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,829</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,650</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Accrued income taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">29,236</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Legal reserve</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">35,047</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">35,047</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Other current liabilities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">20,371</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">18,049</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:20px; text-indent:-10px"><B>Current liabilities before client fund deposits</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>201,257</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>166,679</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Client fund deposits</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,449,484</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,555,224</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:20px; text-indent:-10px"><B>Total current liabilities</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>2,650,741</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>2,721,903</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Deferred income taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">14,758</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">14,396</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Other long-term liabilities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">17,884</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,931</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Total liabilities</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>2,683,383</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>2,750,230</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>STOCKHOLDERS&#146; EQUITY</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Common stock, $.01 par value, 600,000 authorized shares<BR>
+Issued: 378,196 at August&nbsp;31, 2004 and 377,968 at<BR>
+May&nbsp;31, 2004<BR></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,782</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,780</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Additional paid-in capital</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">231,756</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">227,164</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Retained earnings</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,014,079</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">971,738</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Accumulated other comprehensive income/(loss)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,755</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(2,709</TD>
+    <TD nowrap>)</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Total stockholders&#146; equity</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>1,255,372</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>1,199,973</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Total liabilities and stockholders&#146; equity</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>3,938,755</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>3,950,203</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top">
+    <TD width="1%" nowrap align="right">(A)</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="96%">The combined funds held for clients and corporate investment
+portfolio available-for-sale securities balances reflect net unrealized
+gains of $9.1&nbsp;million at August&nbsp;31, 2004, compared with net unrealized
+losses of $4.2&nbsp;million at May&nbsp;31, 2004. During the first three months
+of fiscal 2005, the net unrealized gain/(loss) position ranged from a
+net unrealized loss of $7.5&nbsp;million to a net unrealized gain of $9.1
+million. The net unrealized gain position of the Company&#146;s investment
+portfolios was approximately $9.5&nbsp;million at September&nbsp;17, 2004.</TD>
+</TR>
+
+<TR><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD width="1%" nowrap align="right">(B)</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="96%">Intangible assets primarily represent client lists and license
+agreements with associate offices, which are amortized over periods
+ranging from five to twelve&nbsp;years using either accelerated or straight-line
+methods. Goodwill recorded from the fiscal 2003 and fiscal 2004
+acquisitions will not be amortized, but will be tested for impairment on
+an ongoing basis. The Company&#146;s business is largely homogeneous and
+substantially all of the goodwill is associated with one reporting unit.</TD>
+</TR>
+
+</TABLE>
+
+
+
+
+<P align="center" style="font-size: 10pt">Page 5 of 5
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,560 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PgzYS1OnxYaiPnwXFfA3IIdhGf/IJ3x8CNloxBOqmKinNi16blLRX1ypyxZgPeW2
+ AVgGFSZmrhRokUEwK+YSBw==
+
+<SEC-DOCUMENT>0001102624-04-000133.txt : 20040902
+<SEC-HEADER>0001102624-04-000133.hdr.sgml : 20040902
+<ACCEPTANCE-DATETIME>20040902164952
+ACCESSION NUMBER:		0001102624-04-000133
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040902
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040902
+DATE AS OF CHANGE:		20040902
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FINISAR CORP
+		CENTRAL INDEX KEY:			0001094739
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				943038428
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27999
+		FILM NUMBER:		041014354
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1308 MOFFETT PARK DR
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94089
+		BUSINESS PHONE:		4085481000
+
+	MAIL ADDRESS:	
+		STREET 1:		1308 MOFFETT PARK DR
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94089
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>finisar8k.htm
+<DESCRIPTION>FINISAR CORPORATION 8-K
+<TEXT>
+<table cellpadding="3" border="0" cellspacing="0" width="100%">
+<tr><td>
+</td></tr>
+</table>
+<center>
+<table border=0 cellpadding=3 cellspacing=0>
+<tr><td align="center"><br><br>
+<B>UNITED STATES</B><br>
+<B>SECURITIES AND EXCHANGE COMMISSION</B><br>
+Washington, D.C. 20549<p>
+<hr size=1>
+<p><b>FORM 8-K<p>
+CURRENT REPORT
+<p>
+Pursuant to Section 13 or 15(d) of the<br>Securities Exchange Act of 1934.
+</td>
+</tr>
+</table>
+<p>
+<b>
+<table border=0 cellpadding=0 cellspacing=0>
+<tr><td colspan=5 align=center>
+<b>Date of Report: September 02, 2004</b><br>
+(Date of earliest event reported)<br><br>
+</td></tr>
+<tr><td colspan=5 align=center>
+<b>Finisar Corporation</b><br>
+(Exact name of registrant as specified in its charter)
+</td></tr>
+<tr>
+<td align=center width="20%">
+<b>DE</b><br>
+(State or other jurisdiction of incorporation)
+</td>
+<td width="20%">
+&nbsp;
+</td>
+<td align=center width="20%">
+<b>000-27999</b><br>
+(Commission File Number)
+</td>
+<td width="20%">
+&nbsp;
+</td>
+<td align=center width="20%">
+<b>94-3038428</b><br>
+(IRS Employer Indentification Number)
+</td>
+</tr>
+<tr>
+<td width="20%">
+&nbsp;
+</td>
+<td align=center width="20%" colspan=2>
+<b>1308 Moffett Park Drive</b><br>
+(Address of principal executive offices)
+</td>
+<td align=center width="20%" colspan=2>
+<b>94089-1133</b><br>
+(Zip Code)
+</td>
+<td width="20%">
+&nbsp;
+</td>
+</tr>
+<tr><td colspan=5 align=center>
+<br>Registrant's telephone number, including area code: <b>408-548-1000</b>
+</td></tr>
+</table>
+</center>
+<hr size=1>
+<table width=100%>
+<tr><td width="100%">
+<b>Item 2.02. Results of Operations and Financial Condition</b></b><br>
+<br>
+Financial Results for First Quarter ending July 31, 2004
+<br>
+<br>On September 2, 2004, the Company announced financial results for the quarter ended July 31, 2004. A copy of the Company's press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+<br>
+<br>The information in this Current Report on Form 8-K and the Exhibit attached hereto shall not be deemed to be filed for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section or Sections 11 or 12(a)(2) of the Securities Act of 1933, as amended. The information contained herein and in the accompanying Exhibit shall not be deemed to be incorporated by reference into any filing with the SEC made by Finisar Corporation whether before or after the date hereof, regardless of any general incorporation language contained in such filing.
+<br>
+<br>The Company provides in the press release and conference call certain non-GAAP financial measures. As used herein, "GAAP" refers to accounting principles generally accepted in the United States. These non-GAAP financial measures exclude from the directly comparable GAAP measures a number of non-cash and cash charges described in the press release. As required by Regulation G, the press release contains a reconciliation of these non-GAAP financial measures to the most directly comparable GAAP measures. The Company believes the non-GAAP measures are useful to investors because they provide an alternative method for measuring the operating performance of the Company's business, excluding certain items that would normally be included in the most directly comparable GAAP financial measure. The Company's management uses these non-GAAP financial measures along with the most directly comparable GAAP financial measures in evaluating the Company's operating performance. Non-GAAP financial measures should not be co
+nsidered in isolation from, or as a substitute for, financial information presented in compliance with GAAP, and non-GAAP financial measures as reported by the Company may not be comparable to similarly titled items reported by other companies.
+<p>
+<b>Item 9.01. Financial Statements and Exhibits</b></b><br>
+<b>(c) Exhibits</b><br>
+99.1 &nbsp; &nbsp; &nbsp; <a href="finisarcorporation8.htm">Press Release of Finisar Corporation dated September 2, 2004</a></b>
+<p>
+<p>
+<hr size=1>
+<b><center>SIGNATURE</center></b>
+<p>
+&nbsp; &nbsp; &nbsp; Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be
+              signed on its behalf by the undersigned hereunto duly authorized.<p>
+</td></tr>
+</table>
+<table>
+<tr>
+<td width="50%" valign=top>
+Dated: September 02, 2004<br>
+</td>
+<td>
+<b>FINISAR CORPORATION</b>
+<p>
+By: <u>&nbsp;/s/ Stephen K. Workman &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </u> <br>
+&nbsp; &nbsp; &nbsp;Stephen K. Workman<br>
+&nbsp; &nbsp; &nbsp;<i>Chief Financial Officer</i><br>
+</td></tr>
+</table>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>finisarcorporation8.htm
+<DESCRIPTION>FINISAR CORPORATION PRESS RELEASE
+<TEXT>
+
+<p></p>
+<b>Finisar Corporation Announces Results for First Quarter Ended July 31, 2004</b>
+<p>SUNNYVALE, CA -- 09/02/2004 --  Finisar Corporation (NASDAQ: FNSR), a
+technology leader in gigabit fiber optic solutions for high-speed data
+networks, today reported its financial results for its first quarter ended
+July 31, 2004.
+</p>
+<p>
+Finisar plans to review its first quarter results and discuss its current
+outlook for the remainder of fiscal 2005 during its conference call for
+investors at 5:00 p.m. EDT (2:00 p.m. PDT) today, September 2, 2004.  The
+call will be broadcast live over the Internet on the Investor Relations
+section of Finisar's web site, located at www.Finisar.com.  To listen to
+the Webcast, interested investors are encouraged to log onto the broadcast
+at least 15 minutes prior to the call. Participating in the call will be
+Jerry Rawls, Finisar's President and CEO, and Steve Workman, Finisar's CFO.
+</p>
+<p>
+Total revenues in the first quarter of fiscal 2005 of $61.9 million were up
+9% on a sequential basis from $57.0 million in the fourth quarter and 57%
+from $39.4 million in the first quarter of the prior year. Total revenues
+from the sale of optical subsystems of $53.8 million in the first quarter
+were up 11% on a sequential basis from $48.7 million in the fourth quarter
+and 57% from $34.2 million in the first quarter of the prior year. Sales of
+network test and monitoring systems of $8.1 million in the first quarter
+were down 3% on a sequential basis from $8.3 million in the fourth quarter
+but up 55% from $5.2 million in the first quarter of the prior year.
+</p>
+<p>
+Revenues in the first quarter included a full quarter of operating results
+of the VCSEL business unit acquired from Honeywell on March 2, 2004.
+Excluding the impact of this acquisition, total revenues were up 4% on a
+sequential basis from the fourth quarter and 33% from the first quarter of
+the prior year.
+</p>
+<p>
+"Our revenues for the quarter increased as we had predicted at the
+beginning of the quarter.   Achieving this increase was not easy because of
+the softness in our LAN/SAN business during the early portion of the
+quarter," said Jerry Rawls. "More recently, we have seen a resurgence of
+orders for both our LAN/SAN and Metro business. This combined with the
+recent acquisition of Data Transit which fills a gap in our Network Tools
+business should result in another sequential increase in sales for next
+quarter."
+</p>
+<p>
+"Gross margins on a non-GAAP basis improved to 26% in the first quarter
+from 22% last quarter," added Rawls. "Higher operating expenses offset much
+of this improvement due in part to a number of non-recurring charges
+related to new product introductions."
+</p>
+<p>
+OPERATING RESULTS
+</p>
+<p>
+The Company reported a net loss of $22.1 million, or $0.10 per share, for
+the first quarter of fiscal 2005, compared to a net loss of $24.5 million,
+or $0.11 per share, in the fourth quarter and a net loss of $41.2 million,
+or $0.20 per share, in the first quarter of fiscal 2004. A gross profit of
+$10.6 million, or 17.1% of revenues, during the first quarter of fiscal
+2005, compared to $9.4 million, or 16.5% of revenues, in the fourth quarter
+and a loss of $1.7 in the first quarter of the prior year.
+</p>
+<p>
+Amortization of acquired developed technology, amortization of purchased
+intangibles, purchased research and development in-process, other
+acquisition costs and the cumulative effect of a change in accounting
+related to the adoption of SFAS 142 consist of merger-related costs
+associated with several acquisitions completed during fiscal 2001 through
+2004.
+</p>
+<p>
+NON-GAAP FINANCIAL RESULTS
+</p>
+<p>
+The Company provides non-GAAP financial measures to complement its
+consolidated financial statements presented in accordance with GAAP. These
+non-GAAP financial measures are intended to supplement the user's overall
+understanding of the Company's current financial performance and its
+prospects for the future. Specifically, the Company believes the non-GAAP
+results provide useful information to both management and investors by
+identifying certain expenses, gains and losses that, when excluded from the
+GAAP results, may provide additional understanding of the Company's core
+operating results or business performance. However, these non-GAAP
+financial measures are not intended to supercede or replace the Company's
+GAAP results. A detailed reconciliation of the non-GAAP results to the GAAP
+results is provided in the "Non-GAAP Condensed Consolidated Statements of
+Operations" schedules below.
+</p>
+<p>
+Operating results reported on a non-GAAP basis exclude a number of non-cash
+and cash charges related to deferred compensation, acquisitions, minority
+investments, inventory obsolescence, a discount associated with the
+Company's convertible debt offering in October 2001 and inducements
+associated with the conversion of a portion of the notes, the loss realized
+upon the closure of certain facilities and the accelerated depreciation on
+certain assets abandoned in connection with those closures, along with
+other restructuring charges, and a non-cash charge representing research
+and development in-process related to the acquisition of Honeywell's VCSEL
+Business Unit.
+</p>
+<p>
+The Company reported a non-GAAP gross margin of 26.1% in the first quarter
+of fiscal 2005 compared to 21.9% in the prior quarter and 27.9% in the
+first quarter of the prior year. The improvement on a sequential basis
+reflects higher revenue levels and the favorable impact of acquiring the
+VCSEL business unit from Honeywell in the fourth quarter as well as
+continued improvement in yields and reduced material costs.
+</p>
+<p>
+The Company reported a non-GAAP net loss of $14.3 million, or $.06 per
+share, in the first quarter compared to $14.2 million, or $.06 per share,
+in the fourth quarter and $12.6 million, or $.06 per share, in the first
+quarter of the prior year. The Company does not intend to recognize any
+further tax benefits until it returns to profitability.
+</p>
+<p>
+SAFE HARBOR UNDER THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+</p>
+<p>
+The statements contained in this press release that are not purely
+historical are forward-looking statements within the meaning of Section 21E
+of the Securities Exchange Act of 1934, as amended, including statements
+regarding Finisar's expectations, beliefs, intentions, or strategies
+regarding the future. All forward-looking statements included in this press
+release are based upon information available to Finisar as of the date
+hereof, and Finisar assumes no obligation to update any such
+forward-looking statements. Forward-looking statements involve risks and
+uncertainties, which could cause actual results to differ materially from
+those projected. These risks include those associated with the rapidly
+evolving markets for Finisar's products and uncertainty regarding the
+development of these markets; Finisar's historical dependence on sales to a
+limited number of customers and fluctuations in the mix of customers in any
+period; ongoing new product development and introduction of new and
+enhanced products; the challenges of rapid growth followed by periods of
+contraction; intensive competition; and potential problems related to the
+assimilation and integration of the operations, technologies and products
+of several recently acquired companies and product lines, including the
+Honeywell VCSEL business unit acquired in March 2004 as well as our pending
+acquisition of the fiber optics business unit of Infineon Technologies
+A.G., that we expect to complete in the fourth calendar quarter of 2004.
+Other risks relating to Finisar's business are set forth in Finisar's
+Annual Report on Form 10-K and other interim reports as filed with the
+Securities and Exchange Commission.
+</p>
+<p>
+ABOUT FINISAR
+</p>
+<p>
+Finisar Corporation (NASDAQ: FNSR) is a technology leader for fiber optic
+subsystems and network test and monitoring systems. These products enable
+high-speed data communications for networking and storage applications over
+Gigabit Ethernet local area networks (LANs), Fibre Channel storage area
+networks (SANs), and metropolitan area networks (MANs) using both IP and
+SONET/SDH-based protocols. The Company's headquarters is in Sunnyvale,
+California, USA. www.Finisar.com.
+</p>
+<p>
+<pre>
+                              Finisar Corporation
+                    Consolidated Statement of Operations
+                   (In thousands, except per share amounts)
+
+                                                  Three Months Ended
+                                                        July 31
+                                                   2004         2003
+                                                ---------    ---------
+Revenues
+  Optical subsystems and components             $  53,750    $  34,188
+  Network test and monitoring systems               8,127        5,243
+                                                ---------    ---------
+   Total revenues                                  61,877       39,431
+
+Cost of revenues                                   45,704       36,462
+Amortization of acquired developed technology       5,566        4,656
+                                                ---------    ---------
+Gross profit (loss)                                10,607       (1,687)
+                                                     17.1%        -4.3%
+Operating expenses:
+  Research and development                         16,076       20,915
+  Sales and marketing                               7,151        4,300
+  General and administrative                        4,681        3,953
+  Amortization of (benefit from) deferred
+   stock compensation                                  97         (304)
+  Amortization of purchased intangibles               143          143
+  Restructuring costs                                   -        2,185
+  Other acquisition costs                               -           45
+                                                ---------    ---------
+   Total operating expenses                        28,148       31,237
+
+Loss from operations                              (17,541)     (32,924)
+Interest income (expense), net                     (2,771)      (5,508)
+Other income (expense), net                        (1,788)      (2,580)
+                                                ---------    ---------
+Loss before income taxes and cumulative
+ effect of an accounting change                   (22,100)     (41,012)
+Provision (benefit) for income taxes                   19          213
+                                                ---------    ---------
+
+Net loss                                        $ (22,119)   $ (41,225)
+                                                =========    =========
+
+Loss per share - basic and diluted              $   (0.10)   $   (0.20)
+                                                =========    =========
+
+Shares used in per-share calculation -
+ basic and diluted                                222,929      206,744
+
+
+                              Finisar Corporation
+                          Consolidated Balance Sheet
+                                 (In thousands)
+
+                                      July 31, 2004    April 30, 2004
+                                       ----------        ----------
+ASSETS
+  Cash and cash equivalents            $   43,333        $   69,872
+  Short-term investments                   72,436            73,526
+  Restricted investments                    6,358             6,329
+  Accounts receivable, trade (net)         34,498            28,481
+  Accounts receivable, other               10,298            11,314
+  Inventories                              37,678            34,717
+  Prepaid expenses                          4,946             4,736
+  Deferred income taxes                       347             2,045
+                                       ----------        ----------
+    Total current assets                  209,894           231,020
+  Property, plant, equipment and
+   improvements, net                      106,689           107,736
+  Restricted investments, long-term         8,967             8,921
+  Purchased intangibles, net               42,253            47,961
+  Goodwill, net                            60,883            60,620
+  Minority investment                      23,866            24,227
+  Other assets                             15,079            14,220
+                                       ----------        ----------
+    Total assets                       $  467,631        $  494,705
+                                       ==========        ==========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+  Accounts payable                     $   25,252        $   29,460
+  Accrued compensation                      5,242             4,376
+  Non-cancelable purchase obligations       7,396             7,038
+  Other accrued liabilities                11,847            14,464
+  Income tax payable                          577               790
+  Current portion of long-term
+   liabilities                              2,000             2,000
+                                       ----------        ----------
+    Total current liabilities              52,314            58,128
+  Convertible notes                       230,553           229,493
+  Other long-term liabilities               2,171             2,194
+  Deferred income taxes                       347             2,045
+                                       ----------        ----------
+    Total long-term liabilities           233,071           233,732
+
+  Common stock                                223               222
+  Additional paid-in capital            1,261,178         1,259,759
+  Notes receivable from stockholders         (285)             (481)
+  Deferred stock compensation                 (65)             (162)
+  Accumulated other comprehensive
+   income                                     517               710
+  Accumulated deficit                  (1,079,322)       (1,057,203)
+                                       ----------        ----------
+    Total stockholders' equity            182,246           202,845
+                                       ----------        ----------
+  Total liabilities and
+   stockholders' equity                $  467,631        $  494,705
+                                       ==========        ==========
+</pre>
+</p>
+<p>
+The following non-GAAP financial results for the three month periods ended
+July 31, 2004 and 2003, have been adjusted to exclude non-cash and cash
+charges related to acquisitions and the writedown in goodwill as a result
+of adoption of FASB 142, deferred stock compensation, the amortization of
+acquired developed technology and other intangible assets associated with a
+number of acquisitions, the sale of assets of the Company's Sensors
+Unlimited subsidiary, inventory obsolescence, other non-recurring gains and
+losses, the impairment of certain assets and restructuring costs at the
+Company's Demeter Technologies subsidiary, the write-off of minority
+
+investments, amortization of the discount on the issuance of convertible
+debt and the non-cash charge associated with the conversion of a portion of
+convertible securities into equity. A reconciliation of these results to
+what is reported under GAAP is also included.
+<pre>
+
+                              Finisar Corporation
+                 Non GAAP Consolidated Statement of Operations
+                   (In thousands, except per share amounts)
+
+                                                   Three Months Ended
+                                                        July 31
+                                                   2004         2003
+                                                ---------    ---------
+Revenues
+  Optical subsystems and components             $  53,750    $  34,188
+  Network test and monitoring systems               8,127        5,243
+                                                ---------    ---------
+   Total revenues                                  61,877       39,431
+
+Cost of revenues                                   45,704       28,424
+                                                ---------    ---------
+
+Gross profit                                       16,173       11,007
+                                                     26.1%        27.9%
+Operating expenses:
+  Research and development                         16,394       14,167
+  Sales and marketing                               7,151        4,300
+  General and administrative                        4,777        3,953
+                                                ---------    ---------
+   Total operating expenses                        28,322       22,420
+
+Loss from operations                              (12,149)     (11,413)
+Interest income (expense), net                     (1,711)        (724)
+Other income (expense), net                          (408)        (217)
+                                                ---------    ---------
+Loss before income taxes                          (14,268)     (12,354)
+Provision for income taxes                             19          213
+                                                ---------    ---------
+
+Net loss                                        $ (14,287)   $ (12,567)
+                                                =========    =========
+
+Net loss per share - basic and diluted          $   (0.06)   $   (0.06)
+                                                =========    =========
+
+Shares used in per-share calculation -
+ basic and diluted                                222,929      206,744
+
+
+The above pro forma results exclude the
+following items which are included in the
+company's operating results when presented
+in accordance with generally accepted
+accounting principles (GAAP):
+(a)  Inventory write off net of sales of
+      inventory previously written off          $       -    $   5,132
+(a)  Charge for rework material                         -        2,906
+(f)  Amortization of acquired developed
+      technology                                    5,566        4,656
+(d)  Amortization of deferred compensation             97         (304)
+(d)  Amortization of purchased intangibles            143          143
+(g)  Other acquisition costs                            -           45
+(e)  Other than temporary decline in value of
+      investment in Ciena stock                         -          528
+(e)  Minority investment write off                    361        1,835
+(e)  Amortization of discount on convertible
+      notes                                         1,060        2,373
+(g)  Closure of Demeter                              (414)       8,081
+(g)  Closure of German facility                         -          852
+(e)  Debt conversion costs                              -        2,411
+(e)  Asset disposal                                 1,019            -
+                                                ---------    ---------
+GAAP net loss                                   $ (22,119)   $ (41,225)
+                                                =========    =========
+
+(a)  Included in cost of revenue
+(b)  Included in research and development
+(c)  Included in sales and marketing
+(d)  Included in general and administrative
+(e)  Included in other income (expense), net
+(f)  Included in gross profit
+(g)  Included in total operating expense
+(h)  Included in interest income (expense), net
+</pre>
+
+</p>
+<pre>
+Contact:
+Steve Workman
+VP Finance, Chief Financial Officer
+408-548-1000
+
+Shelby Palmer
+Investor Relations
+408-542-5050
+investor.relations@Finisar.com</a>
+
+
+</pre>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

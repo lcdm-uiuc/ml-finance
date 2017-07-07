@@ -1,0 +1,814 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MJg8BR8Hx/17AllD/rk5kI2czpfA7NRKIIS2ELIxqg9hGw7duUIf+nc72BYgRT5h
+ YvwASIqyAsdUQ/e31b/Pew==
+
+<SEC-DOCUMENT>0001144204-04-013616.txt : 20040831
+<SEC-HEADER>0001144204-04-013616.hdr.sgml : 20040831
+<ACCEPTANCE-DATETIME>20040831165213
+ACCESSION NUMBER:		0001144204-04-013616
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040830
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040831
+DATE AS OF CHANGE:		20040831
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FUELCELL ENERGY INC
+		CENTRAL INDEX KEY:			0000886128
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				060853042
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14204
+		FILM NUMBER:		041008991
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 GREAT PASTURE RD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06813
+		BUSINESS PHONE:		2038256000
+
+	MAIL ADDRESS:	
+		STREET 1:		3 GREAT PASTURE ROAD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENERGY RESEARCH CORP /NY/
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>v06413_8k.htm
+<TEXT>
+<HTML><HEAD>
+<TITLE>
+Unassociated Document
+</TITLE>
+<!-- Licensed to: Vintage Filings-->
+<!-- Document Created using EDGARIZER HTML -->
+<!-- Copyright 2004 EDGARfilings, Ltd., an IEC company.-->
+<!-- All rights reserved EDGARfilings.com -->
+</HEAD>
+<BODY><DIV><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>UNITED STATES</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>SECURITIES AND EXCHANGE COMMISSION</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>WASHINGTON, D.C. 20549</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>
+<DIV>
+<HR align=center width="20%" color=black noShade SIZE=1>
+</DIV></STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>FORM 8-K</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>CURRENT REPORT</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Pursuant to Section 13 or 15(d) of the</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Securities Exchange Act of 1934</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Date of report (Date of earliest event reported): August 30, 2004</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">FUELCELL ENERGY, INC.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">(Exact Name of Registrant as Specified in Charter)</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="33%" align="center"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Delaware</font><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><br>
+      (State or Other Jurisdiction</FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;</FONT><font id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt"><br>
+      </font><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">of Incorporation)</FONT><font style="COLOR: black; LETTER-SPACING: 27pt"><br>
+      </font></td>
+    <td width="33%" align="center"><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">1-14204<br>
+      (Commission <br>
+      <FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">File Number)</FONT>    </FONT></td>
+    <td width="33%" align="center"><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">06-0853042<br>
+        <FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">(IRS Employer</FONT> <br>
+      Identification No.)</FONT></td>
+  </tr>
+</table>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">3 Great Pasture Road, Danbury, Connecticut</FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;&nbsp;&nbsp;</FONT> <FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;&nbsp;&nbsp;</FONT> <FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;&nbsp;&nbsp;</FONT> <FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">06813</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">(Address of Principal Executive Offices) </FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;&nbsp;&nbsp;</FONT> <FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;&nbsp;&nbsp;</FONT> <FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;&nbsp;&nbsp;</FONT> <FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">(Zip Code)</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Registrant's telephone number, including area code: (203) 825-6000</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Not Applicable</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">(Former Name or Former Address, if Changed Since Last Report)</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Wingdings">&#168;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 3pt; FONT-FAMILY: Times New Roman, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Wingdings">&#168;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 3pt; FONT-FAMILY: Times New Roman, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Wingdings">&#168;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 3pt; FONT-FAMILY: Times New Roman, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">(17 CFR 240.14d-2(b))</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Wingdings">&#168;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 3pt; FONT-FAMILY: Times New Roman, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">(17 CFR 240.13e-4(c))</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp; </TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR style="PAGE-BREAK-AFTER: always" align=left width="100%" color=#000000 noShade SIZE=1>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Item 2.02. Results of Operations and Financial Condition.</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">On August 30, 2004, FuelCell Energy, Inc. issued a press release announcing its financial results for the three and nine months ended July 31, 2004. A copy of the press release is attached hereto as Exhibit 99.1. </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">The information set forth in this Form 8-K, including the exhibit attached hereto, is being furnished solely pursuant to Item 2.02 of Form 8-K. Consequently, it shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except as expressly set forth by specific reference in such a filing.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Item 9.01. Financial Statements and Exhibits.</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">(a)</FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;&nbsp;</FONT> <FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Financial Statements of Businesses Acquired: Not Applicable</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">(b)</FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;&nbsp;</FONT> <FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Pro Forma Financial Information: Not Applicable</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">(c)<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Exhibits.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;</FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;</FONT> <FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left>
+  <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+    <tr valign="top">
+      <td>&nbsp;</td>
+      <td nowrap><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><U>Exhibit No</U></FONT></td>
+      <td>&nbsp;</td>
+      <td><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><U>Description</U></FONT></td>
+    </tr>
+    <tr valign="top">
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr valign="top">
+      <td width="5%">&nbsp;</td>
+      <td width="5%"><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">99.1</FONT></td>
+      <td width="5%">&nbsp;</td>
+      <td width="85%"><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Press Release of FuelCell Energy, Inc., dated August 30, 2004, announcing FuelCell&#146;s financial results for the three and nine months ended July 31, 2004.</FONT></td>
+    </tr>
+  </table>
+  <BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 144pt; TEXT-INDENT: -108pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left> </DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>SIGNATURES</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">FUELCELL ENERGY, INC.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">By: /s/ Joseph G. Mahler</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Joseph G. Mahler</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Senior Vice President, Chief Financial</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Officer, Corporate Secretary and Treasurer</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Date: August 31, 2004</FONT></DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp; </TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR style="PAGE-BREAK-AFTER: always" align=left width="100%" color=#000000 noShade SIZE=1>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>EXHIBIT INDEX</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left>
+  <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+    <tr valign="top">
+      <td nowrap><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><U>Exhibit No</U></FONT></td>
+      <td>&nbsp;</td>
+      <td><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><U>Description</U></FONT></td>
+    </tr>
+    <tr valign="top">
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr valign="top">
+      <td width="5%"><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">99.1</FONT></td>
+      <td width="5%">&nbsp;</td>
+      <td width="85%"><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Press Release of FuelCell Energy, Inc., dated August 30, 2004, announcing FuelCell&#146;s financial results for the three and nine months ended July 31, 2004.</FONT></td>
+    </tr>
+  </table>
+  <BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 108pt; TEXT-INDENT: -108pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV valign="top">
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR vAlign=top>
+<TD width="100%" colSpan=3></TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR align=left width="100%" color=#000000 noShade SIZE=1>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE></DIV></DIV></BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>v06413_ex99-1.txt
+<TEXT>
+
+                                                                    Exhibit 99.1
+
+[LOGO] FuelCell Energy
+
+CONTACT:
+Steven P. Eschbach, CFA
+203-825-6000
+seschbach@fce.com
+
+                              FOR IMMEDIATE RELEASE
+                              ---------------------
+
+     FUELCELL ENERGY REPORTS THIRD QUARTER 2004 RESULTS AND ACCOMPLISHMENTS
+
+       Started Operating First One Megawatt DFC Power Plant on Natural Gas
+          45 Million Kilowatt Hours Generated To Date at Customer Sites
+
+DANBURY, CONN., AUGUST 30, 2004 -- FUELCELL ENERGY, INC. (NASDAQNM:FCEL) (THE
+COMPANY), a leading manufacturer of stationary fuel cell power plants for
+distributed generation, today reported results and accomplishments for the
+quarter and nine months ended July 31, 2004.
+
+FINANCIAL RESULTS
+
+FuelCell Energy reported a net loss for the third quarter of fiscal 2004 of
+$18.9 million or $0.39 per basic and diluted share, compared to $15.0 million or
+$0.38 per basic and diluted share in the same period of the previous year.
+Revenues for the third quarter of fiscal 2004 were $8.1 million compared to $7.3
+million in the same period a year ago.
+
+Cash, cash equivalents and investments (U.S. Treasuries) on hand as of July 31,
+2004 totaled $169.4 million. Net cash used during the quarter was $1.9 million.
+The Company received proceeds of approximately $16.0 million in cash from the
+sale of Global Thermoelectric Inc. (Global) on May 28, 2004. Excluding the
+proceeds from the Global sale, cash used during the quarter was $17.9 million,
+which included $2.0 million related to the Canadian operations and $3.4 million
+of capital expenditures.
+
+Capital expenditures were primarily for two City of Santa Barbara power purchase
+agreement power plants and one DFC300A for the Department of Defense (DoD) Fuel
+Cell Test and Evaluation Center (FCTec). Depreciation and amortization expense
+from continuing operations for the three-month period ended July 31, 2004 was
+approximately $2.4 million.
+
+For the nine months ended July 31, 2004, FuelCell Energy reported a total net
+loss of $65.7 million or $1.37 per basic and diluted share, including net income
+from discontinued operations of $0.8 million or $0.02 per basic and diluted
+share. This compares to a net loss of $52.0 million, or $1.32 per basic and
+diluted share, during the nine months ended July 31, 2003. Included in the 2004
+total net loss was a one-time charge of $12.2 million, or $0.25 per basic and
+diluted share, related to purchased in-process research and development expense
+from the acquisition of Global in November 2003. Adjusted Net Loss and Adjusted
+Basic and Diluted Loss Per Share were $53.5 million and $1.12 per share,
+respectively (see reconciliation chart included in the financial tables).
+
+Components of revenue and costs for the third quarter and year to date of fiscal
+2004 were as follows:
+
+      o     Research and development contract revenue for the third quarter of
+            fiscal 2004 was $4.4 million compared to $4.7 million in the same
+            period a year ago and $14.9 million compared to $14.3 million for
+            the nine month period ended July 31, 2003. For the third quarter and
+            year to date, the Company's revenues increased on the Product Design
+            Improvement, Vision 21 and Solid State Energy Conversion Alliance
+            (SECA) contracts with the U.S. Department of Energy (DOE). These
+            increases were offset by a decline in revenue related to the
+            completion of the Company's first two-megawatt DFC3000 power plant
+            under the Clean Coal contract. The cost of research and development
+            contract revenue declined by $2.2 million in the third quarter of
+            fiscal 2004 and $6.5 million for the nine month ended July 31, 2004
+            compared to similar periods in 2003 due to the mix of cost shared
+            contracts.
+<PAGE>
+
+FuelCell Energy Reports Third Quarter 2004 Earnings
+August 30, 2004
+Page 2 of 8
+
+
+      o     Fuel cell product sales were $3.6 million for the third quarter of
+            fiscal 2004 compared to $2.6 million in the same period of a year
+            ago. Revenue during the quarter ended July 31, 2004 was higher than
+            the previous year primarily due to progress on power plants for
+            Marubeni and Caterpillar customers. Year to date fuel cell product
+            sales were $7.6 million for fiscal 2004 compared to $12.2 million in
+            fiscal 2003. Product sales backlog totaled $25.4 million as of July
+            31, 2004 compared with $17.1 million for the same period a year ago.
+
+Administrative and selling expenses were $3.4 million and $10.9 million,
+respectively, for the three months and nine months ended July 31, 2004 compared
+to $3.2 million and $9.6 million in the same periods of the prior year. This
+increase was primarily due to Canadian operations and higher sales and marketing
+costs over the prior year.
+
+Research and development expenses for the three and nine months ended July 31,
+2004 were $6.7 million and $19.0 million, respectively, compared to $2.0 million
+and $6.1 million for the same periods of the prior year. Of these increases,
+approximately $1.7 million (three months ended July 31, 2004) and $6.8 million
+(nine months ended July 31, 2004) were related to solid oxide fuel cell (SOFC)
+research and development costs in Canada. The remaining increases in the three
+and nine month periods ended July 31, 2004 were primarily related to product
+development including the Company's cost reduction program implemented in fiscal
+2003. These continuing efforts are expected to reduce product costs to increase
+market penetration.
+
+ACCOMPLISHMENTS
+
+"We continue to execute our strategy of establishing positions in key target
+customer segments that demonstrate the performance and reliability of our DFC
+power plants, while focusing on driving cost out of our products, that will lead
+to sustainable order flow," said Jerry D. Leitman, Chairman and CEO of FuelCell
+Energy. "We believe that working with a strong global network of distribution
+partners, now expanded to include LOGANEnergy, certifying our products,
+including our efforts on the DFC1500 for California emissions standards and
+cooperating with the Department of Defense to develop high reliability
+government and military applications furthers implementation of our strategy."
+
+      o     FuelCell Energy began operating its first one-megawatt DFC1500 power
+            plant at the King County Wastewater Treatment Facility in Washington
+            State on natural gas at full load in July 2004. It has completed
+            testing requirements for the California Air Resources Board (CARB)
+            2007 distributed generation emission standards and the Company's
+            certification application is currently being reviewed. In 2003,
+            FuelCell Energy's DFC300A power plant was certified under the CARB
+            2007 standards, which categorized it as an 'ultra-clean' technology
+            and exempted it from air pollution control or air quality district
+            permitting requirements by CARB. In addition, this certification
+            qualified the Company's products for preferential rate treatment by
+            the California Public Utilities Commission (CPUC) including the
+            elimination of 'exit fees' and 'standby charges' for customer
+            electric generation, and for project funding through the California
+            Self Generation Incentive Program.
+
+      o     FuelCell Energy shipped five DFC300A power plants to four U.S.
+            customers - Sanitation Districts of L.A. County and American
+            Municipal Power-Ohio for Caterpillar customers; two units for the
+            City of Santa Barbara and one unit for the DoD FCTec. The Company
+            has generated more than 45 million kilowatt-hours of electricity at
+            35 customer installations worldwide and its current fleet produces
+            over 60 million kilowatt hours of electricity annually. The
+            operational availability continues to meet customer expectations for
+            a non-legacy product. FuelCell Energy expects to ship another four
+            to six DFC300A power plants to U.S. and Japanese customers by the
+            end of fiscal year 2004.
+<PAGE>
+
+FuelCell Energy Reports Third Quarter 2004 Earnings
+August 30, 2004
+Page 3 of 8
+
+
+      o     FuelCell Energy and Roswell, Georgia-based LOGANEnergy Corp. (LOGAN)
+            entered into a Market Development Agreement to develop and sell
+            commercial fuel cell power plants, with a focus on megawatt-class
+            systems in California. FuelCell Energy will provide the DFC power
+            plants along with engineering and technical support while LOGAN will
+            contribute its expertise in planning, designing, developing and
+            implementing fuel cell projects. LOGAN currently has fuel cell
+            projects at 21 U.S. locations and one project in the United Kingdom.
+
+      o     FuelCell Energy entered into a Cooperative Research and Development
+            Agreement (CRADA) with the U. S. Army Engineer Research and
+            Development Center/Construction Engineering Research Laboratory
+            (ERDC-CERL) to provide a 250-kilowatt DFC power plant to the DoD
+            FCTec for evaluation in a combined heat and power application. This
+            distributed generation fuel cell system will supply electricity, and
+            the byproduct heat will be coupled with an absorption chiller.
+
+      o     During a "town hall" meeting today in Torrington with FuelCell
+            Energy employees, U.S. Congressman Larson announced federal funding
+            for dual-fuel carbonate fuel cell projects in the Department of
+            Defense Appropriations Bill for Fiscal Year 2005. Defense
+            Appropriations (PL 108-287) includes a total of $7 million for
+            carbonate fuel cell projects. The Company expects the funding to
+            result in definitive contracts employing the firm's DFC products to
+            meet the military's desire for power in critical applications.
+
+      o     The power plant shipped to the FCTec is the same unit that
+            accomplished a number of firsts when it operated in Boston at the
+            Democratic National Convention, where it supplied electric power to
+            a temporary media campus:
+
+            o     First DFC power plant to operate in a customer micro-grid--a
+                  distributed generation system that operates independently from
+                  the local utility's transmission and distribution
+                  infrastructure;
+
+            o     First DFC power plant to operate in parallel with diesel
+                  generators; and,
+
+            o     First DFC power plant to automatically operate in islanded
+                  mode (separate from the micro-grid).
+
+CONFERENCE CALL INFORMATION
+
+A conference call is scheduled for 10:00 A.M. EDT on August 31, 2004 to review
+results and discuss the Company's outlook. Listeners can gain access to the call
+live over the Internet by clicking on the web cast link on the Company's
+homepage at www.fuelcellenergy.com. A playback version will be available for
+seven days after the call by calling 800-583-3753 for the U.S./Canada and
+706-645-9625 for international. The confirmation number is 9607425.
+
+ABOUT DIRECT FUELCELLS
+
+Direct FuelCells efficiently generate clean electricity at distributed customer
+locations, including hospitals, schools, universities, hotels and other
+commercial and industrial facilities, as well as in grid-support applications
+for utility customers. Direct FuelCells operate similar to large, continuously
+operating batteries except they utilize a fuel to generate electricity, such as
+natural gas or digester gas from wastewater treatment facilities. DFC power
+plants are hydrogen generators, and because of this are ready today and do not
+require the creation of a hydrogen infrastructure. This high-efficiency
+technology generates more electric power from less fuel and with less carbon
+dioxide emissions than traditional combustion methods. The sub-megawatt fuel
+cell power plant is a collaborative effort using Direct FuelCell(R) technology
+of FuelCell Energy and the Hot Module(R) balance of plant design of MTU CFC
+Solutions, GmbH, a subsidiary of DaimlerChrysler.
+<PAGE>
+
+FuelCell Energy Reports Third Quarter 2004 Earnings
+August 30, 2004
+Page 4 of 8
+
+
+ABOUT SOLID OXIDE FUEL CELLS
+
+In April 2003, FuelCell Energy was selected by the U.S. Department of Energy
+(DOE) to lead a project team for its $139 million Solid State Energy Conversion
+Alliance (SECA) program. The goal of the SECA program is to accelerate the
+commercialization of low-cost solid oxide fuel cells for residential, commercial
+and light industrial applications ranging in product size from 3 to 10 kilowatts
+each for applications up to 100 kWh. If successfully commercialized, these
+products would be complementary to our larger scale DFC product line.
+
+ABOUT FUELCELL ENERGY, INC.
+
+FuelCell Energy, Inc., based in Danbury, Connecticut, is a world leader in the
+development and manufacture of high-temperature hydrogen fuel cells for clean
+electric power generation. The Company has developed commercial distribution
+alliances for its carbonate Direct FuelCell products with MTU CFC Solutions in
+Europe; Marubeni Corporation in Asia; Enbridge Inc. in Canada; and Caterpillar,
+PPL Energy Plus, Chevron Energy Solutions, Alliance Power, and LOGANEnergy in
+the U.S. FuelCell Energy developed its patented Direct FuelCell technology for
+stationary power plants with the U.S. Department of Energy through its Office of
+Fossil Energy's National Energy Technology Laboratory.
+
+FuelCell Energy is also developing next-generation high-temperature fuel cell
+products, such as a diesel-fueled marine Ship Service Fuel Cell, a
+combined-cycle DFC/Turbine(R) power plant, and solid oxide fuel cells for
+applications up to 100 kilowatts. For more information about FuelCell Energy,
+please visit www.fuelcellenergy.com.
+
+This news release contains forward-looking statements, including statements
+regarding the Company's plans and expectations regarding the development and
+commercialization of its fuel cell technology. All forward-looking statements
+are subject to risks and uncertainties that could cause actual results to differ
+materially from those projected. Factors that could cause such a difference
+include, without limitation, the risk that commercial field trials of the
+Company's products will not occur when anticipated, general risks associated
+with product development, manufacturing, changes in the utility regulatory
+environment, potential volatility of energy prices, rapid technological change,
+and competition, as well as other risks set forth in the Company's filings with
+the Securities and Exchange Commission. The forward-looking statements contained
+herein speak only as of the date of this press release. The Company expressly
+disclaims any obligation or undertaking to release publicly any updates or
+revisions to any such statement to reflect any change in the Company's
+expectations or any change in events, conditions or circumstances on which any
+such statement is based.
+
+                           (Financial tables attached)
+<PAGE>
+
+FuelCell Energy Reports Third Quarter 2004 Earnings
+August 30, 2004
+Page 5 of 8
+
+
+                              FUELCELL ENERGY, INC.
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                                   (UNAUDITED)
+           (DOLLARS IN THOUSANDS, EXCEPT SHARE AND PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+                                                                     THREE MONTHS ENDED
+                                                                           JULY 31,
+                                                                     2004            2003
+                                                                     ----            ----
+<S>                                                              <C>             <C>
+REVENUES:
+   Research and development contracts                            $      4,422    $      4,715
+   Product sales and revenues                                           3,646           2,561
+                                                                 ------------    ------------
+      TOTAL REVENUES                                                    8,068           7,276
+
+COSTS AND EXPENSES:
+   Cost of research and development contracts                           7,436           9,623
+   Cost of product sales and revenues                                   9,740           8,283
+   Administrative and selling expenses                                  3,448           3,248
+   Research and development expenses                                    6,670           2,015
+                                                                 ------------    ------------
+         Total costs and expenses                                      27,294          23,169
+                                                                 ------------    ------------
+
+LOSS FROM OPERATIONS                                                  (19,226)        (15,893)
+
+License fee income, net                                                    68              68
+Interest expense                                                          (32)            (29)
+Interest and other income, net                                            357             834
+                                                                 ------------    ------------
+
+Net loss from continuing operations before provision for
+income tax                                                       $    (18,833)   $    (15,020)
+                                                                 ------------    ------------
+
+Provision for income taxes                                                 --              --
+
+NET LOSS FROM CONTINUING OPERATIONS                              $    (18,833)   $    (15,020)
+                                                                 ------------    ------------
+
+Discontinued operations, net of tax                                       (95)             --
+                                                                 ------------    ------------
+
+NET LOSS                                                         $    (18,928)   $    (15,020)
+                                                                 ============    ============
+
+LOSS PER SHARE BASIC AND DILUTED:
+         Continuing operations                                   $      (0.39)   $      (0.38)
+         Discontinued operations                                           --              --
+                                                                 ------------    ------------
+         NET LOSS                                                $      (0.39)   $      (0.38)
+                                                                 ============    ============
+         Basic and diluted weighted average shares
+         outstanding                                               48,097,321      39,339,724
+                                                                 ============    ============
+</TABLE>
+<PAGE>
+
+FuelCell Energy Reports Third Quarter 2004 Earnings
+August 30, 2004
+Page 6 of 8
+
+
+                              FUELCELL ENERGY, INC.
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                                   (UNAUDITED)
+           (DOLLARS IN THOUSANDS, EXCEPT SHARE AND PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+                                                                      NINE MONTHS ENDED
+                                                                          JULY 31,
+                                                                     2004           2003
+                                                                     ----           ----
+<S>                                                              <C>               <C>
+REVENUES:
+   Research and development contracts                            $     14,913          14,312
+   Product sales and revenues                                           7,598          12,157
+                                                                 ------------    ------------
+      TOTAL REVENUES                                                   22,511          26,469
+
+COSTS AND EXPENSES:
+   Cost of research and development contracts                          21,882          28,365
+   Cost of product sales and revenues                                  26,930          38,232
+   Administrative and selling expenses                                 10,872           9,590
+   Research and development expenses                                   18,982           6,050
+   Purchased in-process research and development                       12,200              --
+                                                                 ------------    ------------
+         Total costs and expenses                                      90,866          82,237
+                                                                 ------------    ------------
+
+LOSS FROM OPERATIONS                                                  (68,355)        (55,768)
+
+License fee income, net                                                   204             203
+Interest expense                                                          (92)           (102)
+Interest and other income, net                                          1,738           3,633
+                                                                 ------------    ------------
+
+Net loss from continuing operations before provision for
+income tax                                                       $    (66,505)        (52,034)
+                                                                 ------------    ------------
+
+Provision for income taxes                                                 --              --
+
+NET LOSS FROM CONTINUING OPERATIONS                              $    (66,505)        (52,034)
+                                                                 ------------    ------------
+
+Discontinued operations, net of tax                                       846              --
+
+NET LOSS                                                         $    (65,659)        (52,034)
+                                                                 ============    ============
+
+LOSS PER SHARE BASIC AND DILUTED:
+         Continuing operations                                   $      (1.39)          (1.32)
+
+         Discontinued operations                                         0.02              --
+                                                                 ------------    ------------
+         NET LOSS                                                $      (1.37)          (1.32)
+                                                                 ============    ============
+         Basic and diluted weighted average shares
+         outstanding                                               47,874,599      39,328,881
+                                                                 ============    ============
+</TABLE>
+<PAGE>
+
+FuelCell Energy Reports Third Quarter 2004 Earnings
+August 30, 2004
+Page 7 of 8
+
+
+                              FUELCELL ENERGY, INC.
+                           CONSOLIDATED BALANCE SHEETS
+           (DOLLARS IN THOUSANDS, EXCEPT SHARE AND PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+                                                                             JULY 31,
+                                                                              2004       OCTOBER 31,
+                                                                            UNAUDITED       2003
+                                                                            ---------    ---------
+<S>                                                                         <C>          <C>
+                                       ASSETS
+CURRENT ASSETS:
+   Cash and cash equivalents                                                $  66,794    $  41,000
+   Investments: U.S. treasury securities                                       87,863       93,750
+   Accounts receivable                                                          6,021        4,948
+   Inventories, net                                                            14,941       15,954
+   Other current assets                                                         5,738        5,140
+                                                                            ---------    ---------
+      TOTAL CURRENT ASSETS                                                    181,357      160,792
+
+   Property, plant and equipment, net                                          49,380       39,778
+   Investments: U.S. treasury securities                                       14,764       18,690
+   Goodwill                                                                     4,760           --
+   Other assets, net                                                            3,728        4,103
+                                                                            ---------    ---------
+      TOTAL ASSETS                                                          $ 253,989    $ 223,363
+                                                                            =========    =========
+
+                        LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+   Current portion of long-term debt                                        $     518    $     323
+   Accounts payable                                                             7,071        6,667
+   Accrued liabilities                                                          4,476        5,369
+   Deferred license fee income                                                    113           37
+   Deferred revenue                                                             6,486        4,398
+                                                                            ---------    ---------
+      TOTAL CURRENT LIABILITIES                                                18,664       16,794
+
+ Long-term debt and other liabilities                                           1,605        1,484
+                                                                            ---------    ---------
+        TOTAL LIABILITIES                                                      20,269       18,278
+
+Shareholders' equity
+   Common stock ($.0001 par value); 150,000,000 shares authorized at July
+      31, 2004 and October 31, 2003; 48,127,032 and 39,423,133 shares
+      issued and outstanding at July 31, 2004 and October 31, 2003,
+      respectively                                                                  5            4
+   Preferred shares of subsidiary                                               9,687           --
+   Additional paid-in capital                                                 425,165      340,559
+   Accumulated deficit                                                       (201,137)    (135,478)
+                                                                            ---------    ---------
+          TOTAL SHAREHOLDERS' EQUITY                                          233,720      205,085
+                                                                            ---------    ---------
+
+      TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                            $ 253,989    $ 223,363
+                                                                            =========    =========
+</TABLE>
+<PAGE>
+
+FuelCell Energy Reports Third Quarter 2004 Earnings
+August 30, 2004
+Page 8 of 8
+
+
+                              FUELCELL ENERGY, INC.
+           RECONCILIATION FROM REPORTED NET LOSS AND LOSS PER SHARE TO
+                  ADJUSTED NET LOSS AND ADJUSTED LOSS PER SHARE
+                                   (UNAUDITED)
+           (DOLLARS IN THOUSANDS, EXCEPT SHARE AND PER SHARE AMOUNTS)
+
+                                                        NINE MONTHS ENDED(1)
+                                                               JULY 31,
+                                                          2004          2003
+                                                       ----------    ----------
+
+NET LOSS AS REPORTED                                   $  (65,659)      (52,034)
+
+Purchased in-process research and development              12,200            --
+
+ADJUSTED NET LOSS                                      $  (53,459)   $  (52,034)
+                                                       ==========    ==========
+
+- --------------------------------------------------------------------------------
+
+BASIC AND DILUTED LOSS PER SHARE, AS REPORTED          $    (1.37)   $    (1.32)
+
+Purchased in-process research and development               (0.25)           --
+
+                                                       ----------    ----------
+ADJUSTED BASIC AND DILUTED LOSS PER SHARE              $    (1.12)   $    (1.32)
+                                                       ==========    ==========
+
+- ----------
+NOTES
+
+(1)   There are no adjustments to net loss for the three months ended July 30,
+      2004 and 2003, respectively. "Adjusted Net Loss" and "Adjusted Basic and
+      Diluted Loss Per Share" are defined as reported net loss and reported
+      basic and diluted loss per share excluding the impact of the purchased
+      in-process research and development charge taken in conjunction with the
+      acquisition of Global during the three months ended January 31, 2004.
+      These are not GAAP financial measures.
+
+o     On November 3, 2003, FuelCell Energy completed the acquisition of Global
+      Thermoelectric Inc. (Global) and combined operations. The acquisition has
+      been accounted for as a purchase under accounting principles generally
+      accepted in the United States of America (GAAP) and therefore FuelCell
+      Energy's financial data prior to the acquisition has not been restated to
+      include Global's financial data. Global's financial results have been
+      reported in FuelCell Energy's financial reporting beginning on November 3,
+      2003.
+
+o     As required by Financial Accounting Standards Board Interpretation No. 4,
+      "Applicability of FASB Statement No. 2 to Business Combinations Accounted
+      for by the Purchase Method ("FIN 4")", the portion of the purchase price
+      allocated to in-process research and development (related to Global's
+      research of Solid Oxide Fuel Cells) of $12.2 million was expensed in the
+      three-month period ended January 31, 2004. Purchased in-process research
+      and development is excluded from Adjusted net loss as this is a one-time
+      charge to the purchase accounting of our acquisition of Global.
+
+o     The Company has used non-GAAP pro forma financial measures in analyzing
+      financial results because they provide meaningful information regarding
+      the Company's operational performance and facilitate management's internal
+      comparisons to the Company's historical operating results and comparisons
+      to competitors' operating results. The Company believes that these
+      non-GAAP financial measures are useful to investors because they allow for
+      greater transparency.
+
+o     These non-GAAP financial measures may be different from non-GAAP financial
+      measures used by other companies. Non-GAAP financial measures should not
+      be considered as a substitute for, or superior to, measures of financial
+      performance prepared in accordance with GAAP.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

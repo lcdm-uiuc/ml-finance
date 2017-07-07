@@ -1,0 +1,689 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AwdOoi6Hd9Sz/QEFiE9kOem30PLUXTltTCHlNlZcnsQulwNUf2CWW0nl50Up4lTz
+ 0WzxuqQalYS3JB4yMXLu2Q==
+
+<SEC-DOCUMENT>0000950136-04-002921.txt : 20040909
+<SEC-HEADER>0000950136-04-002921.hdr.sgml : 20040909
+<ACCEPTANCE-DATETIME>20040909162148
+ACCESSION NUMBER:		0000950136-04-002921
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20040908
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040909
+DATE AS OF CHANGE:		20040909
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GLOBECOMM SYSTEMS INC
+		CENTRAL INDEX KEY:			0001031028
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				113225567
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22839
+		FILM NUMBER:		041023199
+
+	BUSINESS ADDRESS:	
+		STREET 1:		45 OSER AVENUE
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+		BUSINESS PHONE:		5162319800
+
+	MAIL ADDRESS:	
+		STREET 1:		45 OSER AVENUE
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WSI COMMUNICATIONS INC
+		DATE OF NAME CHANGE:	19970121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>file001.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<page>
+<!--0-->
+<table border="0" cellpadding="0" cellspacing="0" width="602">
+<tr>
+<td><img src="spacer.gif" width="1" height="8"></td>
+</tr>
+<tr>
+<td bgcolor="#000000"><img src="spacer.gif" height="1"><img src="spacer.gif" height="1" width="602"></td>
+<td><img src="spacer.gif" height="1" width="0"></td>
+</tr>
+<tr>
+<td><img src="spacer.gif" height="8" width="1"></td>
+</tr>
+</table>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:12pt;  width: 456pt; text-align: center; font-style: normal; line-height: 14pt; padding-top:12pt; padding-left:0pt; padding-right:0pt; padding-bottom: 6pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">SECURITIES
+AND EXCHANGE COMMISSION<br> WASHINGTON, D.C. 20549</p>
+<!--0--><table border="0" cellpadding="0" cellspacing="0" width="602">
+<tr>
+<td><img src="spacer.gif" width="1" height="8"></td>
+</tr>
+<tr>
+<td><img src="spacer.gif" height="1" width="237"></td>
+<td bgcolor="#000000"><img src="spacer.gif" height="1"><img src="spacer.gif" height="1" width="127"></td>
+<td><img src="spacer.gif" height="1" width="237"></td>
+<td><img src="spacer.gif" height="1" width="475"></td>
+</tr>
+<tr>
+<td><img src="spacer.gif" height="8" width="1"></td>
+</tr>
+</table>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:12pt;  width: 456pt; text-align: center; font-style: normal; line-height: 14pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 0pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">FORM 8-K</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:12pt;  width: 456pt; text-align: center; font-style: normal; line-height: 14pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 0pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">CURRENT REPORT PURSUANT TO<br>SECTION 13 OR
+15(d) OF THE<br>SECURITIES EXCHANGE ACT OF 1934</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:12pt;  width: 456pt; text-align: center; font-style: normal; line-height: 14pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 6pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">DATE OF REPORT (DATE OF EARLIEST EVENT
+REPORTED):<br> September 8, 2004</p>
+<!--0--><table border="0" cellpadding="0" cellspacing="0" width="602">
+<tr>
+<td><img src="spacer.gif" width="1" height="8"></td>
+</tr>
+<tr>
+<td><img src="spacer.gif" height="1" width="237"></td>
+<td bgcolor="#000000"><img src="spacer.gif" height="1"><img src="spacer.gif" height="1" width="127"></td>
+<td><img src="spacer.gif" height="1" width="237"></td>
+<td><img src="spacer.gif" height="1" width="475"></td>
+</tr>
+<tr>
+<td><img src="spacer.gif" height="8" width="1"></td>
+</tr>
+</table>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:12pt;  width: 456pt; text-align: center; font-style: normal; line-height: 14pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 0pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">GLOBECOMM
+SYSTEMS INC.<br>(EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS
+CHARTER)</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:12pt;  width: 456pt; text-align: center; font-style: normal; line-height: 14pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 6pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">DELAWARE<br> (STATE OR OTHER
+JURISDICTION OF
+INCORPORATION)</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:12pt;  width: 456pt; text-align: center; font-style: normal; line-height: 14pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 0pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">000-22839<br>
+(COMMISSION FILE NUMBER)</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:12pt;  width: 456pt; text-align: center; font-style: normal; line-height: 14pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 6pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">11-3225567<br> (I.R.S. EMPLOYER
+IDENTIFICATION NO.)</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:12pt;  width: 456pt; text-align: center; font-style: normal; line-height: 14pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 0pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">45
+Oser Avenue<br> Hauppauge, New York 11788<br>(ADDRESS OF PRINCIPAL
+EXECUTIVE<br> OFFICES)</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:12pt;  width: 456pt; text-align: center; font-style: normal; line-height: 14pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 0pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">(631)
+231-9800<br>(REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA
+CODE)</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:12pt;  width: 456pt; text-align: center; font-style: normal; line-height: 14pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 6pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">Not Applicable<br> (FORMER NAME OR
+FORMER ADDRESS, IF CHANGED SINCE LAST REPORT)</p>
+<!--0--><table border="0" cellpadding="0" cellspacing="0" width="602">
+<tr>
+<td><img src="spacer.gif" width="1" height="8"></td>
+</tr>
+<tr>
+<td bgcolor="#000000"><img src="spacer.gif" height="1"><img src="spacer.gif" height="1" width="602"></td>
+<td><img src="spacer.gif" height="1" width="0"></td>
+</tr>
+<tr>
+<td><img src="spacer.gif" height="8" width="1"></td>
+</tr>
+</table>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:10pt;  width: 456pt; text-align: left; font-style: normal; line-height: 12pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 0pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">Check the appropriate box below if the Form
+8-K filing is intended to simultaneously satisfy the filing obligation
+of the registrant under any of the following provisions:</p>
+<table cellpadding="0" cellspacing="0" border="0" width="602">
+<tr>
+<td><img src="spacer.gif" height="1" width="30"></td>
+<td><img src="spacer.gif" height="1" width="572"></td>
+</tr>
+<tr>
+<td align="right" valign="top" style="font-family:serif;font-weight:normal;color:#000000;font-size: 10pt; padding-top: 6pt; padding-left: 0pt; text-align: left;  font-style: normal; width: 23pt"><img src="ebox.gif" alt="[ ]" width="10" height="10">&nbsp;</td>
+<td valign="top" style="font-family:serif;font-weight:normal;color:#000000;font-size: 10pt; padding-top:6pt; padding-bottom: 6pt; text-align: left; font-style: normal; width: 433pt">Written communications pursuant to Rule 425
+under the Securities Act (17 CFR 230.425)</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="602">
+<tr>
+<td><img src="spacer.gif" height="1" width="30"></td>
+<td><img src="spacer.gif" height="1" width="572"></td>
+</tr>
+<tr>
+<td align="right" valign="top" style="font-family:serif;font-weight:normal;color:#000000;font-size: 10pt; padding-top: 6pt; padding-left: 0pt; text-align: left;  font-style: normal; width: 23pt"><img src="ebox.gif" alt="[ ]" width="10" height="10">&nbsp;</td>
+<td valign="top" style="font-family:serif;font-weight:normal;color:#000000;font-size: 10pt; padding-top:6pt; padding-bottom: 6pt; text-align: left; font-style: normal; width: 433pt">Soliciting material pursuant to Rule 14a-12
+under the Exchange Act (17 CFR 240.14a-12)</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="602">
+<tr>
+<td><img src="spacer.gif" height="1" width="30"></td>
+<td><img src="spacer.gif" height="1" width="572"></td>
+</tr>
+<tr>
+<td align="right" valign="top" style="font-family:serif;font-weight:normal;color:#000000;font-size: 10pt; padding-top: 6pt; padding-left: 0pt; text-align: left;  font-style: normal; width: 23pt"><img src="ebox.gif" alt="[ ]" width="10" height="10">&nbsp;</td>
+<td valign="top" style="font-family:serif;font-weight:normal;color:#000000;font-size: 10pt; padding-top:6pt; padding-bottom: 6pt; text-align: left; font-style: normal; width: 433pt">Pre-commencement communications pursuant to
+Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="602">
+<tr>
+<td><img src="spacer.gif" height="1" width="30"></td>
+<td><img src="spacer.gif" height="1" width="572"></td>
+</tr>
+<tr>
+<td align="right" valign="top" style="font-family:serif;font-weight:normal;color:#000000;font-size: 10pt; padding-top: 6pt; padding-left: 0pt; text-align: left;  font-style: normal; width: 23pt"><img src="ebox.gif" alt="[ ]" width="10" height="10">&nbsp;</td>
+<td valign="top" style="font-family:serif;font-weight:normal;color:#000000;font-size: 10pt; padding-top:6pt; padding-bottom: 6pt; text-align: left; font-style: normal; width: 433pt">Pre-commencement communications pursuant to
+Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</td>
+</tr>
+</table>
+<br>
+<hr width="760" style="padding-left: 0pt;" align="left">
+<br>
+<page>
+<p style="font-family:serif;font-weight:bold;color:#000000;font-size:10pt;  width: 456pt; text-align: left; font-style: normal; line-height: 12pt; padding-top: 12pt; padding-left:0pt; padding-right:0pt; margin: 0pt; text-indent: 0pt; padding-bottom: 0pt; background-color: #ffffff;">Item 2.02&nbsp;&nbsp;&nbsp;&nbsp;Results of Operations and
+Financial Conditions</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:10pt;  width: 456pt; text-align: left; font-style: normal; line-height: 12pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 0pt; margin: 0pt; text-indent: 20pt; background-color: #ffffff"> On September 8, 2004, the
+Registrant reported its financial results for its fiscal 2004 fourth
+quarter and twelve-months ended June 30, 2004. A copy of the press
+release issued by the Registrant concerning the foregoing results is
+furnished herewith as Exhibit  99.1 and is incorporated herein by
+reference.</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:10pt;  width: 456pt; text-align: left; font-style: normal; line-height: 12pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 0pt; margin: 0pt; text-indent: 20pt; background-color: #ffffff"> The information contained herein and in the
+accompanying exhibit shall not be incorporated by reference into any
+filing of the Registrant, whether made before or after the date hereof,
+regardless of any general incorporation language in such filing, unless
+expressly incorporated by specific reference to such filing. The
+information in this report, including the exhibit hereto, shall not be
+deemed to be "filed" for purposes of Section
+18 of the Securities Exchange Act of 1934, as amended, or otherwise
+subject to the liabilities of that section or Sections  11 and
+12(a)(2) of the Securities Act of 1933, as amended.</p>
+<p style="font-family:serif;font-weight:bold;color:#000000;font-size:10pt;  width: 456pt; text-align: left; font-style: normal; line-height: 12pt; padding-top: 12pt; padding-left:0pt; padding-right:0pt; margin: 0pt; text-indent: 0pt; padding-bottom: 0pt; background-color: #ffffff;">Item 9.01
+&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements and Exhibits</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:10pt;  width: 456pt; text-align: left; font-style: normal; line-height: 12pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 0pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">(c)&nbsp;&nbsp;&nbsp;&nbsp;
+Exhibits</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:10pt;  width: 456pt; text-align: left; font-style: normal; line-height: 12pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 6pt; margin: 0pt; text-indent: 20pt; background-color: #ffffff">The following exhibit is filed herewith:</p>
+<img src="spacer.gif" height="10" width="1"><br>
+<div style="border: 1px; width: 602px; padding-top: 12px" align="center">
+<table cellpadding="0" cellspacing="0" border="0" width="602" bgcolor="#ffffff">
+<tr>
+<!--col #: 1 / width: 95 / data-type: text-->
+<td><img src="spacer.gif" height="1" width="1"></td>
+<td><img src="spacer.gif" height="1" width="95"></td>
+<td><img src="spacer.gif" height="1" width="1"></td>
+<td><img src="spacer.gif" height="1" width="8"></td>
+<!--col #: 2 / width: 491 / data-type: text--><td><img src="spacer.gif" height="1" width="1"></td>
+<td><img src="spacer.gif" height="1" width="491"></td>
+<td><img src="spacer.gif" height="1" width="1"></td>
+</tr>
+<tr>
+<td style="font-family: serif; font-size: 8pt; color: #000000; font-weight: bold; font-style: normal; border-bottom: 1px solid #000000 ;padding-top: 0pt" align="center" valign="bottom" colspan="3">Exhibit
+Number</td>
+<td style="padding-top: 0pt "><img src="spacer.gif" height="1" width="2"></td>
+<td style="font-family: serif; font-size: 8pt; color: #000000; font-weight: bold; font-style: normal; border-bottom: 1px solid #000000 ;padding-top: 0pt" align="center" valign="bottom" colspan="3">Description</td>
+</tr>
+<tr>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 0pt" align="left" valign="top" colspan="3">99.1</td>
+<td style="padding-top: 0pt "><img src="spacer.gif" height="1" width="2"></td>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 0pt" align="left" valign="top" colspan="3">Press
+Release, dated September 8, 2004, reporting the financial results of
+Globecomm Systems Inc. (the "Registrant") for
+its fiscal 2004 fourth quarter and twelve-months ended June 30, 2004
+(furnished and not filed herewith solely pursuant to Item
+12).</td>
+</tr>
+<tr>
+<td><img src="spacer.gif" height="10" width="1"></td>
+</tr>
+</table>
+</div>
+<br>
+<hr width="760" style="padding-left: 0pt;" align="left">
+<br>
+<page>
+<p style="font-family:serif;font-weight:bold;color:#000000;font-size:10pt;  width: 456pt; text-align: left; font-style: normal; line-height: 12pt; padding-top: 12pt; padding-left:0pt; padding-right:0pt; margin: 0pt; text-indent: 0pt; padding-bottom: 0pt; background-color: #ffffff;">
+<font style="font-weight: normal; font-style: normal">SIGNATURES</font>
+</p>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:10pt;  width: 456pt; text-align: left; font-style: normal; line-height: 12pt; padding-top:6pt; padding-left:0pt; padding-right:0pt; padding-bottom: 6pt; margin: 0pt; text-indent: 20pt; background-color: #ffffff">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the Registrant has
+duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.</p>
+<img src="spacer.gif" height="10" width="1"><br>
+<div style="border: 1px; width: 602px; padding-top: 18px" align="center">
+<table cellpadding="0" cellspacing="0" border="0" width="602" bgcolor="#ffffff">
+<tr>
+<!--col #: 1 / width: 238 / data-type: text-->
+<td><img src="spacer.gif" height="1" width="1"></td>
+<td><img src="spacer.gif" height="1" width="238"></td>
+<td><img src="spacer.gif" height="1" width="1"></td>
+<td><img src="spacer.gif" height="1" width="8"></td>
+<!--col #: 2 / width: 32 / data-type: text--><td><img src="spacer.gif" height="1" width="1"></td>
+<td><img src="spacer.gif" height="1" width="32"></td>
+<td><img src="spacer.gif" height="1" width="1"></td>
+<td><img src="spacer.gif" height="1" width="8"></td>
+<!--col #: 3 / width: 285 / data-type: text--><td><img src="spacer.gif" height="1" width="1"></td>
+<td><img src="spacer.gif" height="1" width="285"></td>
+<td><img src="spacer.gif" height="1" width="1"></td>
+</tr>
+<tr>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 0pt" align="left" valign="top" colspan="3">&nbsp;</td>
+<td style="padding-top: 0pt "><img src="spacer.gif" height="1" width="2"></td>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 0pt" align="left" valign="top" colspan="7"><u>Globecomm Systems
+Inc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
+<br>(Registrant)</td>
+</tr>
+<tr>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 0pt" align="left" valign="top" colspan="3">&nbsp;</td>
+<td style="padding-top: 0pt "><img src="spacer.gif" height="1" width="2"></td>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 48pt" align="left" valign="top" colspan="3">By:</td>
+<td style="padding-top: 48pt "><img src="spacer.gif" height="1" width="2"></td>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 48pt" align="left" valign="top" colspan="3"><u>/s/ Andrew C. Melfi</u></td>
+</tr>
+<tr>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 0pt" align="left" valign="top" colspan="3">&nbsp;</td>
+<td style="padding-top: 0pt "><img src="spacer.gif" height="1" width="2"></td>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 0pt" align="left" valign="top" colspan="3">Name:</td>
+<td style="padding-top: 0pt "><img src="spacer.gif" height="1" width="2"></td>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 0pt" align="left" valign="top" colspan="3">Andrew C. Melfi</td>
+</tr>
+<tr>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 0pt" align="left" valign="top" colspan="3">&nbsp;</td>
+<td style="padding-top: 0pt "><img src="spacer.gif" height="1" width="2"></td>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 0pt" align="left" valign="top" colspan="3">Title:</td>
+<td style="padding-top: 0pt "><img src="spacer.gif" height="1" width="2"></td>
+<td style="font-family: serif; font-size: 9pt; color: #000000; font-weight: normal; font-style: normal; border-bottom: 3px double #ffffff;padding-left: 0pt; text-indent: 0pt;padding-top: 0pt" align="left" valign="top" colspan="3">Vice
+President, Chief Financial Officer and Treasurer (Principal Financial
+and Accounting Officer)</td>
+</tr>
+<tr>
+<td><img src="spacer.gif" height="10" width="1"></td>
+</tr>
+</table>
+</div>
+<p style="font-family:serif;font-weight:normal;color:#000000;font-size:10pt;  width: 456pt; text-align: left; font-style: normal; line-height: 12pt; padding-top:12pt; padding-left:0pt; padding-right:0pt; padding-bottom: 6pt; margin: 0pt; text-indent: 0pt; background-color: #ffffff">Dated:
+September 8, 2004</p>
+<br>
+<hr width="760" style="padding-left: 0pt;" align="left">
+<br>
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>ebox.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 ebox.gif
+M1TE&.#EA"@`*`(```````/___R'Y!```````+``````*``H```(1A(\0RVO=
+- -'G1J!CDQU+'FE!0`.S\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>spacer.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 spacer.gif
+K1TE&.#EA`0`!`(```````````"'Y!`$`````+``````!``$```("1`$`.S\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>4
+<FILENAME>file002.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD><TITLE></TITLE></HEAD><BODY><PRE>
+
+
+
+<PAGE>
+
+
+                                                                    Exhibit 99.1
+
+
+                                                    [GSI GLOBECOMM SYSTEMS LOGO]
+
+
+FOR IMMEDIATE RELEASE
+
+
+               GLOBECOMM SYSTEMS INC. ANNOUNCES FISCAL 2004 FOURTH
+                        QUARTER AND TWELVE-MONTH RESULTS
+
+o REVENUE INCREASE OF 48.2% IN THE FOURTH QUARTER OF FISCAL 2004 AS COMPARED TO
+                         FOURTH QUARTER OF FISCAL 2003
+
+ o EARNINGS PER SHARE OF $0.03 IN THE FOURTH QUARTER OF FISCAL 2004 AS COMPARED
+          TO LOSS PER SHARE OF $0.44 IN FOURTH QUARTER OF FISCAL 2003
+
+
+HAUPPAUGE, N.Y., SEPTEMBER 8, 2004 /BUSINESSWIRE/ -- Globecomm Systems Inc.
+(Nasdaq: GCOM), a global provider of end-to-end satellite-based communications
+solutions, today announced financial results for the fiscal 2004 fourth quarter
+and twelve-months ended June 30, 2004.
+
+
+FISCAL 2004 FOURTH QUARTER RESULTS
+- ----------------------------------
+
+Revenues for the Company's fiscal 2004 fourth quarter ended June 30, 2004
+increased 48.2% to $20.8 million, compared to $14.0 million in the same period
+last year. The increase in revenues was primarily the result of increased
+infrastructure sales activity in the Government marketplace.
+
+Net income for the Company's fiscal 2004 fourth quarter was $0.4 million, or
+$0.03 per diluted share. This compares to a net loss of $5.5 million, or $0.44
+per diluted share, in the fourth quarter of fiscal 2003. The turnaround in the
+Company's net loss to a net profit was primarily driven by an increase in
+revenues and an improvement in the overall gross margin of the Company, coupled
+with benefits achieved by the Company's cost cutting initiatives. The net loss
+for the fourth quarter of fiscal 2003 included non-recurring charges of $4.5
+million relating to contracts with a major customer, offset by a $1.0 million
+non-recurring cash recovery in connection with the previously announced
+termination of services by a major customer in the Middle East.
+
+
+FISCAL 2004 TWELVE-MONTH RESULTS
+- --------------------------------
+
+Revenues for the Company's fiscal year 2004 ended June 30, 2004 increased 61.5%
+to $87.2 million, compared to $54.0 million in fiscal year 2003. The increase in
+revenues was primarily the result of increased infrastructure sales in the
+Government marketplace, coupled with a general overall improvement in the
+telecommunications industry segments that the Company serves.
+
+Net loss for the Company's fiscal year 2004 decreased 93.2% to $1.3 million, or
+$0.10 per diluted share, compared to a net loss of $19.6 million, or $1.56 per
+diluted share, in fiscal year 2003. The decrease in the net loss was primarily
+attributed to an increase in revenues and an improvement in the overall gross
+margin of the Company. The net loss was further reduced by a reduction of
+satellite bandwidth costs
+
+<PAGE>
+
+based on agreements reached with certain Company vendors and benefits achieved
+by the Company's cost cutting initiatives. The net loss for fiscal 2003 included
+non-recurring charges of $4.5 million relating to contracts with a major
+customer.
+
+
+MANAGEMENT'S REVIEW OF RESULTS
+- ------------------------------
+
+Commenting on the fourth quarter and twelve-month financial results, David
+Hershberg, Chairman and Chief Executive Officer of Globecomm said, "Fiscal 2004
+was a turnaround year for Globecomm as we increased revenues by 62%, decreased
+our net loss by 93% and capped off the year with profitability in the fourth
+quarter. I am proud of the management team and employees who endured difficult
+years as we restructured the Company in an effort to return to growth and
+profitability. Our vision throughout that period had been to invest in the
+Company and emerge with better products, enhanced capabilities and new service
+offerings. The ability to integrate multiple technologies required in modern
+large-scale complex communication networks positions Globecomm to win contracts
+for these types of opportunities as evidenced by two recently announced
+contracts to reconstruct communications in Afghanistan totaling $28.9 million."
+
+Mr. Hershberg continued, "The Company is now well positioned in the Government
+marketplace where we see new requirements for our products and services. We
+expect this will lead Globecomm to increased revenues and profitability for the
+fiscal year ending June 30, 2005. I look forward to discussing our progress on
+this front over the next few quarters."
+
+
+MANAGEMENT'S CURRENT EXPECTATIONS FOR THE FULL YEAR ENDING JUNE 30, 2005
+- ------------------------------------------------------------------------
+
+Globecomm expects consolidated revenues for the full year ending June 30, 2005
+to be in excess of $105 million. The Company anticipates achieving full year
+profitability at this revenue level, excluding a non-recurring gain of $1.9
+million pursuant to a previously announced settlement agreement with a major
+customer, which will be reflected in the Company's fiscal first quarter ending
+September 30, 2004. The Company further anticipates quarterly income statement
+fluctuations resulting from the nature of the business and the size of certain
+contracts in backlog.
+
+These expectations reflect management's current view of the next twelve months.
+Actual results for the fiscal year ending June 30, 2005 will remain susceptible
+to factors beyond our control in certain areas of the world. This may include,
+but is not limited to, major disruptions in the marketplaces we operate due to
+political unrest, local violence, global economic recession and changes in
+United States Government foreign policy. Results will also remain susceptible to
+possible cost overruns on projects.
+
+The Company ended fiscal year 2004 with $28.3 million in cash and cash
+equivalents, which is an increase of approximately $6.2 million from fiscal year
+2003, primarily resulting from the $6.2 million in net proceeds received from
+consummation of a private placement of the Company's securities during fiscal
+2004. During fiscal 2005, Globecomm currently anticipates a significant
+quarter-to-quarter fluctuation in cash and cash equivalents based on working
+capital requirements to support the projected revenue growth.
+
+
+Globecomm Systems Inc. is an end-to-end satellite-based communications solutions
+provider. The Company's core business provides end-to-end value-added
+satellite-based communications solutions. This business supplies ground segment
+systems and networks for satellite-based communications, including hardware and
+software to support a wide range of satellite systems. Its wholly-owned
+subsidiary, NetSat Express, Inc., provides end-to-end satellite-based Internet
+solutions, including network connectivity, broadband connectivity to end users,
+Internet connectivity, intranet extension, media distribution and other network
+services on a global basis. Both Globecomm Systems' and NetSat Express'
+customers include communication service providers, multinational corporations,
+Internet Service Providers, content providers and government entities.
+
+
+<PAGE>
+
+Based in Hauppauge, New York, Globecomm Systems also maintains offices in Hong
+Kong, the United Kingdom and United Arab Emirates.
+
+For more information contact:
+
+David Hershberg: Chairman and Chief Executive Officer 631-231-9800, Globecomm
+Systems Inc. Matthew Byron: Investor Relations 631-457-1301, Globecomm Systems
+Inc.
+
+Globecomm Systems Inc., 45 Oser Avenue, Hauppauge, NY 11788-3816, USA.
+TEL:  631-231-9800, FAX:  631-231-1557;
+Email: info@globecommsystems.com; Web: www.globecommsystems.com.
+                                       ------------------------
+
+
+
+This press release contains projections or other forward-looking statements
+regarding future events or the future financial performance of Globecomm Systems
+Inc., including, but not limited to, the information contained within the
+sections entitled "Management's Review of Results" and "Management's Current
+Expectations for the Full Year Ending June 30, 2005." These statements reflect
+the current beliefs and expectations of the Company. Some matters addressed in
+this press release, involve a number of risks and uncertainties. Among the
+factors that could cause actual results to differ materially from these
+statements include risks and other factors detailed, from time to time, in the
+Company's reports filed with the Securities and Exchange Commission, including,
+but not limited to, the Company's Annual Reports on Form 10-K and its Quarterly
+Reports on Form 10-Q, which the Company urges investors to consider. The Company
+undertakes no obligation to publicly release the revisions to such
+forward-looking statements that may be made to reflect events or circumstances
+after the date hereof or to reflect the occurrence of unanticipated events.
+
+
+
+                            -Financial tables follow-
+
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+                             GLOBECOMM SYSTEMS INC.
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+
+
+                                                     THREE MONTHS ENDED                           YEARS ENDED
+                                                 JUNE 30,         JUNE 30,               JUNE 30,         JUNE 30,
+                                                   2004             2003                   2004             2003
+                                              ---------------------------------      ----------------- ----------------
+
+Revenues from ground segment systems,
+   networks and enterprise solutions          $   17,427       $    10,876           $      73,305    $       40,125
+Revenues from data communications services         3,387             3,170                  13,931            13,903
+                                              ---------------------------------      ----------------------------------
+Total revenues                                    20,814            14,046                  87,236            54,028
+                                              ---------------------------------      ----------------------------------
+Costs and operating expenses:
+      Costs from ground segment systems,
+        networks and enterprise solutions         14,000            12,001                  63,282            39,447
+      Costs from data communications
+         services                                  3,381             3,326                  12,992            17,796
+      Selling and marketing                        1,347             1,282                   4,808             6,042
+      Research and development                       375               247                   1,328               800
+      General and administrative                   1,414             2,772                   6,529             9,423
+                                              ---------------------------------      ----------------------------------
+Total costs and operating expenses                20,517            19,628                  88,939            73,508
+                                              ---------------------------------      ----------------------------------
+Income (loss) from operations                        297            (5,582)                 (1,703)          (19,480)
+Other income (expense):
+      Interest income                                 80                63                     271               422
+      Interest expense                                 -                 -                       -              (539)
+      Gain on sale of available-for-sale
+        securities                                     -                 -                      91                 -
+                                              ---------------------------------      ----------------------------------
+Net income (loss)                             $      377       $    (5,519)          $      (1,341)   $      (19,597)
+                                              =================================      ==================================
+
+
+Basic net income (loss) per common share      $     0.03       $     (0.44)          $         (0.10) $        (1.56)
+                                              =================================      ==================================
+
+Diluted net income (loss) per common share    $     0.03       $     (0.44)          $         (0.10) $        (1.56)
+                                              =================================      ==================================
+
+Weighted-average shares used in the
+   calculation of basic net income (loss)
+   per common share                               14,141            12,555                  13,346            12,565
+                                              =================================      ==================================
+
+Weighted-average shares used in the
+   calculation of  diluted net income (loss)
+   per common share                               14,593            12,555                    13,346          12,565
+                                              =================================      ==================================
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+
+                             GLOBECOMM SYSTEMS INC.
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                 (IN THOUSANDS)
+
+
+
+                                                                                      JUNE 30,           JUNE 30,
+                                                                                        2004               2003
+                                                                                 --------------------------------------
+
+ASSETS
+Current assets:
+      Cash and cash equivalents                                                  $      28,252       $      22,016
+      Restricted cash                                                                    1,903                 608
+      Accounts receivable, net                                                          14,318               7,865
+      Inventories                                                                        3,904              10,990
+      Prepaid expenses and other current assets                                          1,274               2,040
+      Deferred income taxes                                                                 83                 125
+                                                                                 --------------------------------------
+Total current assets                                                                    49,734              43,644
+Fixed assets, net                                                                       15,441              17,536
+Goodwill                                                                                 7,204               7,204
+Other assets                                                                             1,096               1,960
+                                                                                 --------------------------------------
+Total assets                                                                     $      73,475       $      70,344
+                                                                                 ======================================
+
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities                                                              $      19,682       $      21,604
+Deferred liabilities, less current portion                                                 987               1,303
+Total stockholders' equity                                                              52,806              47,437
+                                                                                 --------------------------------------
+Total liabilities and stockholders' equity                                       $      73,475       $      70,344
+                                                                                 ======================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE></BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

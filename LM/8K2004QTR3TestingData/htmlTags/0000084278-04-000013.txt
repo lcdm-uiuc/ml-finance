@@ -1,0 +1,1175 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HTt3ioL3chpj163ehVEkqj9MsbGLAAAUzCYsKWINuLR/EsJ2cJxeBeNJ9ZV2T5hz
+ P/HqS7TldzOg/SF6si/oHw==
+
+<SEC-DOCUMENT>0000084278-04-000013.txt : 20040830
+<SEC-HEADER>0000084278-04-000013.hdr.sgml : 20040830
+<ACCEPTANCE-DATETIME>20040830143830
+ACCESSION NUMBER:		0000084278-04-000013
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040826
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040830
+DATE AS OF CHANGE:		20040830
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ROANOKE ELECTRIC STEEL CORP
+		CENTRAL INDEX KEY:			0000084278
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL WORKS, BLAST FURNACES  ROLLING MILLS (COKE OVENS) [3312]
+		IRS NUMBER:				540585263
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-02389
+		FILM NUMBER:		041005057
+
+	BUSINESS ADDRESS:	
+		STREET 1:		102 WESTSIDE BLVD N W
+		STREET 2:		P O BOX 13948
+		CITY:			ROANOKE
+		STATE:			VA
+		ZIP:			24038-3948
+		BUSINESS PHONE:		5403421831
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 13948
+		CITY:			ROANOKE
+		STATE:			VA
+		ZIP:			24038-3948
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>resc8-k3q04.htm
+<DESCRIPTION>RESC 8-K 08-30-2004
+<TEXT>
+<html>
+<title>UNITED STATES</title>
+<body bgcolor="#FFFFFF" lang=EN-US>
+<div>
+  <p align=center><b><font size="5">UNITED STATES</font></b>
+    <br>
+    <b><font size="5">SECURITIES AND EXCHANGE COMMISSION </font></b>
+  <br>
+    <b>Washington</b><b>, </b><b>D.C.</b><b> </b><b>20549</b>
+  <hr size=1 width="21%" noshade color=black align=center>
+  <p align=center><b><font size="5">FORM 8-K</font></b></p>
+  <div  align=center>
+    <hr size=1 width="21%" noshade color=black align=center>
+  </div>
+  <p align=center><b>Current Report </b></p>
+  <p align=center><b>Pursuant to Section 13 or 15(d)
+    of </b>
+  <br><b>the Securities Exchange Act of
+    1934 </b></p>
+  <p align=center><b>Date of Report (Date of earliest
+    event reported): </b><b>August 26, 2004</b><b> </b></p>
+  <div  align=center>
+    <hr size=1 width="21%" noshade color=black align=center>
+  </div>
+  <p align=center><b><font size="5">ROANOKE ELECTRIC
+    STEEL CORPORATION</font></b>
+  <br>
+    <font size="2">(Exact name of registrant as specified in its charter)</font>
+  </p>
+  <div  align=center>
+    <hr size=1 width="21%" noshade color=black align=center>
+  </div>
+  <div align=center>
+    <table border=0 cellspacing=0 cellpadding=0 width="100%">
+      <tr>
+        <td width="33%">&nbsp; </td>
+        <td width="2%" valign=bottom>&nbsp; </td>
+        <td width="31%" colspan=3>&nbsp; </td>
+        <td width="2%" valign=bottom>&nbsp; </td>
+        <td width="32%">&nbsp; </td>
+      </tr>
+      <tr>
+        <td valign=top> <p align=center><b>Virginia</b></p></td>
+        <td valign=bottom>&nbsp; </td>
+        <td colspan=3 valign=top> <p align=center><b>0-2389</b></p></td>
+        <td valign=bottom>&nbsp; </td>
+        <td valign=top> <p align=center><b>54-0585263</b></p></td>
+      </tr>
+      <tr>
+        <td valign=top>
+          <p align=center><font size="2">(State or other jurisdiction of</font>
+            <font size="2"><br>
+            incorporation or organization)</font></p>
+        </td>
+        <td valign=bottom>&nbsp; </td>
+        <td colspan=3 valign=top>
+          <p align=center><font size="2">(Commission File Number)</font></p>
+        </td>
+        <td valign=bottom>&nbsp; </td>
+        <td valign=top>
+          <p align=center><font size="2">(I.R.S. Employer<br>
+            Identification Number)</font></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="48%" colspan=3>&nbsp; </td>
+        <td width="5%" valign=bottom>&nbsp; </td>
+        <td width="47%" colspan=3>&nbsp; </td>
+      </tr>
+      <tr>
+        <td colspan=3 valign=top> <p align=center style='
+  text-align:center'><b>102 Westside Boulevard, NW</b><br><b>Roanoke</b><b>, </b><b>Virginia</b></p></td>
+        <td valign=bottom>&nbsp; </td>
+        <td colspan=3 valign=bottom> <p align=center><b>24017</b></p></td>
+      </tr>
+      <tr>
+        <td colspan=3 valign=top>
+          <p align=center><font size="2">(Address of principal executive offices)</font></p>
+        </td>
+        <td valign=bottom>&nbsp; </td>
+        <td colspan=3 valign=top>
+          <p align=center><font size="2">(Zip Code)</font></p>
+        </td>
+      </tr>
+      <tr height=0>
+        <td width=247></td>
+        <td width=15></td>
+        <td width=97></td>
+        <td width=37></td>
+        <td width=97></td>
+        <td width=15></td>
+        <td width=239></td>
+      </tr>
+    </table>
+  </div>
+  <p align=center><b>(540) 342-1831</b><br>
+    <font size="2">(Registrant's telephone number, including area code) </font></p>
+  <br>
+  <p>&nbsp;</p>
+  <p><b>Item 2.02.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Results of Operations and Financial
+    Condition </b></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On August 26, 2004, Roanoke Electric Steel
+    Corporation issued a news release reporting its financial results for the
+    quarter ended July 31, 2004. A copy of the news release is furnished and
+    attached to this report as Exhibit 99.1.</p>
+  <p align=center>&nbsp;</p>
+  <p><b>Item 9.01.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements and Exhibits
+    </b></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)
+    Exhibits </p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are furnished as Exhibits to
+    this Report. </p>
+  <div align=center>
+    <table border=0 cellspacing=0 cellpadding=0 width="92%">
+      <tr>
+        <td width=93>&nbsp; </td>
+        <td width=18 valign=bottom>&nbsp; </td>
+        <td width=463>&nbsp; </td>
+      </tr>
+      <tr>
+        <td width=93 valign=bottom>
+          <p><b><u>Exhibit No.</u></b></p>
+        </td>
+        <td width=18 valign=bottom>&nbsp; </td>
+        <td width=463 valign=bottom>
+          <p><b><u>Description of Exhibit</u></b></p>
+        </td>
+      </tr>
+      <tr>
+        <td width=93 valign=top>&nbsp; </td>
+        <td width=18 valign=bottom>&nbsp; </td>
+        <td width=463 valign=bottom>&nbsp; </td>
+      </tr>
+      <tr>
+        <td width=93 valign=top>
+          <p>99.1</p>
+        </td>
+        <td width=18 valign=bottom>&nbsp; </td>
+        <td width=463 valign=bottom>
+          <p>News release issued August 26, 2004 (FILED HEREWITH)</p>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <p align=center>&nbsp;</p>
+  <p align=center>&nbsp;</p>
+  <p align=center><b>SIGNATURES </b></p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities
+    Exchange Act of 1934, the registrant has duly caused this report to be signed
+    on its behalf by the undersigned hereunto duly authorized. </p>
+  <table width="100%" border="0">
+    <tr>
+      <td width="25%">&nbsp;</td>
+      <td colspan="2">ROANOKE ELECTRIC STEEL CORPORATION</td>
+      <td width="7%">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="25%">&nbsp;</td>
+      <td colspan="2">&nbsp;</td>
+      <td width="7%">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="25%">&nbsp;</td>
+      <td colspan="2">By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>/s/ Donald G. Smith&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></td>
+      <td width="7%">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="25%">&nbsp;</td>
+      <td width="5%">&nbsp;</td>
+      <td width="63%">Donald G. Smith</td>
+      <td width="7%">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="25%">&nbsp;</td>
+      <td width="5%">&nbsp;</td>
+      <td width="63%">Chairman and Chief Executive Officer</td>
+      <td width="7%">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="25%">&nbsp;</td>
+      <td colspan="2">&nbsp;</td>
+      <td width="7%">&nbsp;</td>
+    </tr>
+  </table>
+  <p>Dated: August 30, 2004</p>
+  <br>
+  <p align=center><b>EXHIBIT INDEX</b></p>
+  <div align=center>
+    <table border=0 cellspacing=0 cellpadding=0 width="100%">
+      <tr>
+        <td width=96>&nbsp; </td>
+        <td width=19 valign=bottom>&nbsp; </td>
+        <td width=546>&nbsp; </td>
+      </tr>
+      <tr>
+        <td width=96 valign=bottom> <p><b><u>Exhibit No.</u></b></p></td>
+        <td width=19 valign=bottom>&nbsp; </td>
+        <td width=546 valign=bottom> <p><b><u>Description of Exhibit</u></b></p></td>
+      </tr>
+      <tr>
+        <td width=96 valign=top>&nbsp; </td>
+        <td width=19 valign=bottom>&nbsp; </td>
+        <td width=546 valign=bottom>&nbsp; </td>
+      </tr>
+      <tr>
+        <td width=96 valign=top> <p>99.1</p></td>
+        <td width=19 valign=bottom>&nbsp; </td>
+        <td width=546 valign=bottom> <p>News release issued August
+            26, 2004 (FILED HEREWITH)</p></td>
+      </tr>
+    </table>
+  </div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>newsrel3q04.htm
+<DESCRIPTION>RESC 3RD QUARTER NEWS RELEASE
+<TEXT>
+<HTML>
+
+<BODY BGCOLOR="#FFFFFF">
+<table width="100%" border="0">
+  <tr>
+    <td width="39%"><b>NEWS RELEASE </b></td>
+    <td width="24%">&nbsp;</td>
+    <td colspan="3"><b>FOR IMMEDIATE RELEASE</b></td>
+  </tr>
+  <tr>
+    <td width="39%">&nbsp;</td>
+    <td width="24%">&nbsp;</td>
+    <td><b>CONTACT:</b></td>
+    <td>Mark G. Meikle</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="39%">&nbsp;</td>
+    <td width="24%">&nbsp;</td>
+    <td>&nbsp; </td>
+    <td>William M. Watson, Jr.</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="39%" height="23">&nbsp;</td>
+    <td width="24%" height="23">&nbsp;</td>
+    <td width="9%" height="23">&nbsp;</td>
+    <td width="20%" height="23" align="left">(540) 342-1831</td>
+    <td width="8%" height="23">&nbsp;</td>
+  </tr>
+</table>
+<P>&nbsp;
+<P ALIGN="CENTER"><B>ROANOKE ELECTRIC STEEL CORPORATION</B>
+<br><B>REPORTS RECORD SALES AND THIRD QUARTER RESULTS</B>
+<P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ROANOKE, Virginia, August 26, 2004 -- Roanoke Electric Steel Corporation (Nasdaq: RESC) today reported net earnings for the third quarter ended July 31, 2004, of $7,757,545, compared to a net loss of $319,569 in the third quarter last year.  Basic earnings per share for the quarter were $.71 ($.70 diluted), compared to basic loss per share of $.03 ($.03 diluted) in the 2003 third quarter.  Sales for the quarter were a record $129,443,989, up 57% from sales of $82,285,245 for the same period last year.
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the nine months ended July 31, 2004, the Company reported net earnings of $14,513,277, compared to a net loss of $3,925,688 for the same period last year.  Basic earnings per share were $1.33 ($1.32 diluted), compared to basic loss per share of $.36 ($.36 diluted) last year.  Sales for the nine months of 2004 were $335,649,021, a 52% increase from sales of $220,490,923 for the same period last year.
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Donald G. Smith, Chairman and CEO, and T. Joe Crawford, President and COO, stated:
+
+<p>
+<table width="100%" border="0">
+  <tr>
+    <td width="4%">&nbsp;</td>
+    <td width="92%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"We
+      are very pleased to report that for the sixth consecutive quarter our per
+      share results have improved. Revenues for the quarter were the highest of
+      any quarter in the history of our Company. The increase in revenues was
+      attributable to improved selling prices and shipments of most products as
+      demand continued to be strong. The increase in revenues and rising capacity
+      utilization has helped the Company achieve the highest quarterly earnings
+      per share since the fourth quarter of 1997. We have managed well in a rapidly
+      rising cost and price environment, enabling us to maintain our profit margins
+      while continuing to offer competitive prices on our products. </td>
+    <td width="4%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="4%">&nbsp;</td>
+    <td width="92%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;The
+      quarter's results reflect the volatile nature of today's domestic steel
+      industry as the Company and the steel industry continue to attempt to cope
+      with the unpredictable prices of scrap, the Company's principal raw material.
+      Our mills and melt shops continue to be busy and we are working near capacity.
+      The second furnace and caster, which was restarted in early June at our
+      Roanoke facility, has helped us increase our steel output in order to meet
+      the increased demand we are experiencing.&quot;</td>
+    <td width="4%">&nbsp;</td>
+  </tr>
+</table>
+<P ALIGN="CENTER">-more-
+<P>NEWS RELEASE (con'd.)
+<br>Pg. #2 of 3
+<br>8-26-04
+<P ALIGN="CENTER"><font size="4">Consolidated Statements of Earnings (Loss)</font>
+<P>
+<TABLE BORDER="0" BORDERCOLOR="#000000" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD WIDTH="31%" HEIGHT="10" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD WIDTH="2%" HEIGHT="10" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD WIDTH="13%" HEIGHT="10" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD WIDTH="1%" HEIGHT="10" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD WIDTH="2%" HEIGHT="10" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD WIDTH="13%" HEIGHT="10" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD WIDTH="1%" HEIGHT="10" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD WIDTH="2%" HEIGHT="10" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD WIDTH="13%" HEIGHT="10" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD WIDTH="1%" HEIGHT="10" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD WIDTH="2%" HEIGHT="10" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD WIDTH="13%" HEIGHT="10" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD COLSPAN="4" ALIGN="CENTER" VALIGN="TOP"><font size="2">(Unaudited)</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD COLSPAN="4" ALIGN="CENTER" VALIGN="TOP"><font size="2">(Unaudited)</font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD COLSPAN="5" ALIGN="CENTER" VALIGN="TOP"><font size="2">Three Months Ended</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD COLSPAN="4" ALIGN="CENTER" VALIGN="TOP"><font size="2">Nine Months Ended</font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD COLSPAN="4" ALIGN="CENTER" VALIGN="TOP"><font size="2">July 31,</font>
+      <hr>
+    </TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD COLSPAN="4" ALIGN="CENTER" VALIGN="TOP"><font size="2">July 31,</font>
+      <hr>
+    </TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">2004</font>
+      <hr>
+    </TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">2003</font>
+      <hr>
+    </TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">2004</font>
+      <hr>
+    </TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">2003</font>
+      <hr>
+    </TD>
+  </TR>
+  <TR>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">Sales</font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">129,443,989</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">82,285,245</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">335,649,021</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">220,490,923</font></TD>
+  </TR>
+  <TR>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">Cost of sales</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">103,505,946</font>
+      <hr>
+    </TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">76,028,790</font>
+      <hr>
+    </TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">281,490,908</font>
+      <hr>
+    </TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">206,884,930</font>
+      <hr>
+    </TD>
+  </TR>
+  <TR>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">Gross earnings </font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">25,938,043</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">6,256,455</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">54,158,113</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">13,605,993</font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">Other operating expenses </font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">13,012,073</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">6,792,753</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">29,982,337</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">19,780,691</font>
+      <hr>
+    </TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">Earnings (loss) before income
+      taxes</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and
+      cumulative effect of change</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in
+      accounting principle</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">12,925,970</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(536,298) </font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">24,175,776</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(6,174,698)</font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">Income tax expense (benefit)</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">5,168,425</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(216,729) </font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">9,662,499</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(2,477,420)</font>
+      <hr>
+    </TD>
+  </TR>
+  <TR>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">Earnings (loss) before
+      cumulative</font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2"> </font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;effect
+      of change in </font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;accounting
+      principle</font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">7,757,545</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">(319,569) </font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">14,513,277</font></TD>
+    <TD HEIGHT="14" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="CENTER" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="14" ALIGN="RIGHT" VALIGN="TOP"><font size="2">(3,697,278)</font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">Cumulative effect of change</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in
+      accounting principle</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">- - - </font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">- - - </font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">- - - </font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="right" VALIGN="TOP"><font size="2">(228,410)</font>
+      <hr>
+    </TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">Net earnings (loss)</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">7,757,545</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="right" VALIGN="TOP"><font size="2">(319,569)</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">14,513,277</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="right" VALIGN="TOP"><font size="2">(3,925,688)</font>
+      <hr>
+    </TD>
+  </TR>
+  <TR>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">Earnings (loss) per share of
+      </font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common
+      stock:</font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Earnings
+      (loss) before cumulative</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;effect
+      of change in accounting</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;principle:
+      </font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic
+      </font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">0.71</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(0.03) </font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">1.33</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(0.34)</font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diluted</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">0.70</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(0.03) </font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">1.32</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2"> (0.34)</font></TD>
+  </TR>
+  <TR>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cumulative
+      effect of change in </font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;accounting
+      principle: </font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">- - -</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">- - -</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">- - -</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(0.02)</font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diluted</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">- - - </font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">- - - </font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">- - - </font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(0.02)</font>
+      <hr>
+    </TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net
+      earnings (loss) per share of </font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common
+      stock: </font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">0.71 </font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(0.03)</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">1.33</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(0.36)</font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diluted</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">0.70 </font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(0.03)</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2"> 1.32</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">(0.36)</font>
+      <hr>
+    </TD>
+  </TR>
+  <TR>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">Cash dividends per share of</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common
+      stock</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">0.10 </font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">0.05 </font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2"> 0.25 </font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="CENTER" VALIGN="TOP"><font size="2">$</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">0.15</font>
+      <hr>
+    </TD>
+  </TR>
+  <TR>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD HEIGHT="7" ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">Weighted average number of</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common
+      shares outstanding:</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2"></font></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic
+      </font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">10,958,009</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">10,937,683</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">10,943,266</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">10,941,084</font>
+      <hr>
+    </TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diluted</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2"></font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">11,045,557</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">10,937,683</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">11,014,517</font>
+      <hr>
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="LEFT" VALIGN="TOP"><font size="2">&nbsp;</font></TD>
+    <TD ALIGN="RIGHT" VALIGN="TOP"><font size="2">10,945,119</font>
+      <hr>
+    </TD>
+  </TR>
+</TABLE>
+
+<P ALIGN="CENTER">
+<P ALIGN="CENTER">-more-
+<P ALIGN="CENTER">
+<P>NEWS RELEASE (con'd)
+<br>Pg. #3 of 3
+<br>8-26-04
+<P>
+<P> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This release contains
+  various forward-looking statements which represent the Company's expectations
+  or beliefs concerning future events. In accordance with the safe harbor provisions
+  of the securities laws regarding such statements, the Company notes that a variety
+  of factors, including economic and industry conditions, availability and prices
+  of utilities, supplies and raw materials, prices of steel products, foreign
+  and domestic competition, trade policies affecting imports and exports, governmental
+  regulations, interest rates, inflation, labor relations, environmental concerns
+  and compliance issues and other matters, could cause actual results and experience
+  to differ materially from those expressed in the forward-looking statements.
+<P>
+<P> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Roanoke
+  Electric Steel Corporation has steel manufacturing facilities in Roanoke, Virginia
+  and Huntington, West Virginia, producing angles, rounds, flats, channels, beams,
+  special sections and billets, which are sold to steel service centers, fabricators,
+  original equipment manufacturers and other steel producers. Five subsidiaries
+  are involved in various steel-related activities, consisting of scrap processing
+  and bar joist, reinforcing bar and truck trailer beam fabrication.
+<P>
+<P ALIGN="CENTER"># # #
+<P>
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

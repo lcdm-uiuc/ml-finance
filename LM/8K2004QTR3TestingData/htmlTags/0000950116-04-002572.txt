@@ -1,0 +1,716 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LZH70fDkJhBmUhfhRoNfV/wkNocfdjPoqLVF3yvMArKZsKSGrOe3PvVVNZ674/f7
+ 3X4PUBuzJb+sEcAZrmJQ7Q==
+
+<SEC-DOCUMENT>0000950116-04-002572.txt : 20040825
+<SEC-HEADER>0000950116-04-002572.hdr.sgml : 20040825
+<ACCEPTANCE-DATETIME>20040825111356
+ACCESSION NUMBER:		0000950116-04-002572
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040825
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040825
+DATE AS OF CHANGE:		20040825
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TOLL BROTHERS INC
+		CENTRAL INDEX KEY:			0000794170
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATIVE BUILDERS [1531]
+		IRS NUMBER:				232416878
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09186
+		FILM NUMBER:		04995723
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3103 PHILMONT AVE
+		CITY:			HUNTINGDON VALLEY
+		STATE:			PA
+		ZIP:			19006
+		BUSINESS PHONE:		2159388000
+
+	MAIL ADDRESS:	
+		STREET 1:		3103 PHILMONT AVENUE
+		CITY:			HUNTINGDON VALLEY
+		STATE:			PA
+		ZIP:			19006
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>eight-k.htm
+<TEXT>
+<html>
+<head><title>
+Prepared and filed by St Ives Burrups
+</title>
+</head>
+<body bgcolor="#FFFFFF">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="4" valign="bottom" bgcolor="#000000"></td>
+  </tr>
+  <tr>
+    <td height="2" valign="top"></td>
+  </tr>
+  <tr>
+    <td height="1" valign="top" bgcolor="#000000"></td>
+  </tr>
+</table>
+<p align="center"><b><font size="2" face="serif">UNITED STATES<br>
+</font></b><font size="2" face="serif"><b>SECURITIES AND EXCHANGE COMMISSION<br>
+WASHINGTON, DC 20549</b></font></p>
+<hr align="center" width="20%" size="1" noshade>
+<p align="center"><b><font face="serif" size="4">FORM 8-K</font></b></p>
+<p align="center"><font size="2" face="serif"><b>CURRENT REPORT<br>
+</b></font><font size="2" face="serif"><b>PURSUANT TO SECTION 13 OR 15(d) OF THE<br>
+</b></font><font size="2" face="serif"><b>SECURITIES EXCHANGE ACT OF 1934</b></font></p>
+<p align="left"><font size="2" face="serif">Date of report (Date of earliest event reported): <u>&nbsp;August 25, 2004</u></font></p>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+  <tr valign="top" bgcolor="#FFFFFF">
+    <td align="center" valign="bottom"><font size="2" face="serif">Toll Brothers,
+    Inc.</font></td>
+  </tr>
+  <tr valign="top" bgcolor="#FFFFFF">
+    <td align="center"><hr size="1" noshade>
+    </td>
+  </tr>
+  <tr valign="top" bgcolor="#FFFFFF">
+    <td align="center"><font size="2" face="serif"><u>    </u>(Exact Name of Registrant as Specified in Charter)</font></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="center" valign="bottom"><font size="2" face="serif">Delaware</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="right" valign="bottom">&nbsp;</td>
+<td width="30%" align="center" valign="bottom"><font size="2" face="serif">001-09186</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="right" valign="bottom">&nbsp;</td>
+<td width="30%" align="center" valign="bottom"><font size="2" face="serif">23-2416878</font></td>
+<td width="2%" align="left">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+  <td colspan="8" align="center"><hr size="1" noshade>
+  </td>
+  </tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="center"><font size="2" face="serif">(State or Other Jurisdiction<br>
+  of Incorporation)</font></td>
+<td align="left">&nbsp;</td>
+<td align="right">&nbsp;</td>
+<td align="center"><font size="2" face="serif">(Commission<br>
+  File Number)</font></td>
+<td align="left">&nbsp;</td>
+<td align="right">&nbsp;</td>
+<td align="center"><font size="2" face="serif">(IRS Employer<br>
+  Identification No.)</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+</table>
+<br><br>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="center" valign="bottom"><font size="2" face="serif">3103 Philmont Avenue, Huntingdon Valley, PA</font></td>
+<td width="2%" align="left" valign="bottom">&nbsp;</td>
+<td width="1%" align="right" valign="bottom">&nbsp;</td>
+<td width="43%" align="center" valign="bottom"><font size="2" face="serif">19006</font></td>
+<td width="2%" align="left">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+  <td colspan="5" align="center"><hr size="1" noshade></td>
+  </tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="center"><font size="2" face="serif">(Address of Principal Executive Offices)</font></td>
+<td align="left">&nbsp;</td>
+<td align="right">&nbsp;</td>
+<td align="center"><font size="2" face="serif">(Zip Code)</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+</table>
+<p align="left"><font size="2" face="serif">Registrant's telephone number, including area code:&nbsp; <u>(215) 938-8000</u></font></p>
+<hr size="1" noshade>
+<div align="center"><font size="2" face="serif">(Former Name or Former Address, if Changed Since Last Report)</font>
+</div>
+<p align="left"><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<i>see </i>General Instruction A.2. below):</font></p>
+<p align="left"><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="emptybox.gif" width="12" height="12">&nbsp;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+<p align="left"><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="emptybox.gif" width="12" height="12">&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+<p align="left"><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="emptybox.gif" width="12" height="12">&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act <br>
+(17 CFR 240.14d-2(b))</font></p>
+<p align="left"><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="emptybox.gif" width="12" height="12">&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act <br>
+(17 CFR 240.13e-4(c))</font></p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="1" valign="bottom" bgcolor="#000000"></td>
+  </tr>
+  <tr>
+    <td height="2" valign="top"></td>
+  </tr>
+  <tr>
+    <td height="4" valign="top" bgcolor="#000000"></td>
+  </tr>
+</table>
+<page> <a name="p?"></a>
+<p>&nbsp;</p>
+<p align="left"><font size="2" face="serif"><b>Item 2.02. </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Results of Operations and Financial Condition.</b></font></p>
+<p align="left"><font size="2" face="serif">         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On August 25, 2004, Toll Brothers, Inc. issued a press release which contained Toll Brothers, Inc.&#8217;s results of operations for its nine-month and three-month periods ended July 31, 2004, a copy of which release is attached hereto as Exhibit 99 to this report.</font></p>
+<p align="left"><font size="2" face="serif">         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information hereunder shall not be deemed to be &#147;filed&#148; for the purposes of Section 18 of the Securities Exchange Act of 1934 (the &#147;Exchange Act&#148;) or otherwise subject to the liabilities of that section, nor shall it be incorporated by reference into a filing under the Securities Act of 1933, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.</font></p>
+<p align="left"><b><font size="2" face="serif">Item 9.01. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial
+Statements and Exhibits.</font></b></p>
+<p align="left"><font size="2" face="serif">(c)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibits.</font></p>
+<p align="left"><font size="2" face="serif">         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following exhibit is furnished as part of this Current Report on Form 8-K:</font></p>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr valign="top" bgcolor="#FFFFFF">
+<td width="9%" align="left">&nbsp;</td>
+<td align="left" width="1%">&nbsp;</td>
+<td width="1%" align="right">&nbsp;</td>
+<td width="87%" align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td width="2%" align="left">&nbsp;</td> </tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left" valign="bottom"><font size="2" face="serif"><b>Exhibit<br>
+  <u>No. </u></b></font></td>
+<td align="left" valign="bottom">&nbsp;</td>
+<td align="right" valign="bottom">&nbsp;</td>
+<td align="center" valign="bottom"><font size="2" face="serif"><b><u>Description</u></b></font></td>
+<td align="left">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left">&nbsp;</td>
+<td align="right">&nbsp;</td>
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><font size="2" face="serif">99</font></td>
+<td align="left">&nbsp;</td>
+<td align="right">&nbsp;</td>
+<td align="left"><font size="2" face="serif">Press release of Toll Brothers, Inc. dated August 25, 2004 announcing its financial results for the nine-month and three-month periods ended July 31, 2004.</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+</table>
+<p align="center">&nbsp;</p>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<a name="p?"></a>
+<p>&nbsp;</p>
+<p align="center"><font size="2" face="serif"><b>SIGNATURES</b></font></p>
+<p align="left"><font size="2" face="serif">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+<p align="left">&nbsp;</p>  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+  <td align="left">&nbsp;</td>
+  <td colspan="2" align="left"><font size="2" face="serif">TOLL BROTHERS, INC.</font></td>
+  </tr>
+<tr valign="top">
+  <td align="left">&nbsp;</td>
+  <td align="left">&nbsp;</td>
+  <td align="left">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td align="left" width="54%"><font size="2" face="serif">Dated: August 25, 2004 </font></td>
+<td width="4%" align="left"><font size="2" face="serif">By:</font></td>
+<td width="42%" align="left"><u><font size="2" face="serif"> Joseph R. Sicree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></u></td>
+</tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left">&nbsp;</td>
+<td align="left"><font size="2" face="serif">Joseph R. Sicree<br>
+  Vice President, Chief<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accounting Officer</font></td>
+</tr>
+</table>
+<br>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<a name="p?"></a>
+<p>&nbsp;</p>
+<p align="center"><font size="2" face="serif"><b>EXHIBIT INDEX</b></font></p>
+<p align="left"><font size="2" face="serif">The following exhibit is furnished as part of this Current Report on Form 8-K:</font></p>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr valign="top" bgcolor="#FFFFFF">
+<td width="13%" align="left"><font size="2" face="serif"><b>Exhibit</b><u><b><br>
+  No.</b></u></font></td>
+<td width="1%" align="left">&nbsp;</td>
+<td width="2%" align="right">&nbsp;</td>
+<td width="82%" align="center"><font size="2" face="serif"><b><u>Description</u></b></font></td>
+<td width="2%" align="left">&nbsp;</td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="left"><font size="2" face="serif">99*</font></td>
+<td align="left">&nbsp;</td>
+<td align="right">&nbsp;</td>
+<td align="left"><font size="2" face="serif">Press release of Toll Brothers, Inc. dated August 25, 2004 announcing its financial results for the nine-month and three-month periods ended July 31, 2004.</font></td>
+<td align="left">&nbsp;</td>
+</tr>
+</table>
+<p align="left"><font size="2" face="serif">* Filed electronically herewith.</font></p> <p align="center">&nbsp;</p>
+<hr noshade align="center" width="100%" size="2">
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>emptybox.gif
+<TEXT>
+begin 644 emptybox.gif
+M1TE&.#EA#``,`/?^``````$!`0("`@,#`P0$!`4%!08&!@<'!P@("`D)"0H*
+M"@L+"PP,#`T-#0X.#@\/#Q`0$!$1$1(2$A,3$Q04%!45%186%A<7%Q@8&!D9
+M&1H:&AL;&QP<'!T='1X>'A\?'R`@("$A(2(B(B,C(R0D)"4E)28F)B<G)R@H
+M*"DI*2HJ*BLK*RPL+"TM+2XN+B\O+S`P,#$Q,3(R,C,S,S0T-#4U-38V-C<W
+M-S@X.#DY.3HZ.CL[.SP\/#T]/3X^/C\_/T!`0$%!04)"0D-#0T1$1$5%149&
+M1D='1TA(2$E)24I*2DM+2TQ,3$U-34Y.3D]/3U!04%%145)24E-34U145%55
+M55965E=75UA86%E965I:6EM;6UQ<7%U=75Y>7E]?7V!@8&%A86)B8F-C8V1D
+M9&5E969F9F=G9VAH:&EI:6IJ:FMK:VQL;&UM;6YN;F]O;W!P<'%Q<7)R<G-S
+M<W1T='5U=79V=G=W=WAX>'EY>7IZ>GM[>WQ\?'U]?7Y^?G]_?X"`@(&!@8*"
+M@H.#@X2$A(6%A8:&AH>'AXB(B(F)B8J*BHN+BXR,C(V-C8Z.CH^/CY"0D)&1
+MD9*2DI.3DY24E)65E9:6EI>7EYB8F)F9F9J:FIN;FYR<G)V=G9Z>GI^?GZ"@
+MH*&AH:*BHJ.CHZ2DI*6EI::FIJ>GIZBHJ*FIJ:JJJJNKJZRLK*VMK:ZNKJ^O
+MK["PL+&QL;*RLK.SL[2TM+6UM;:VMK>WM[BXN+FYN;JZNKN[N[R\O+V]O;Z^
+MOK^_O\#`P,'!P<+"PL/#P\3$Q,7%Q<;&QL?'Q\C(R,G)R<K*RLO+R\S,S,W-
+MS<[.SL_/S]#0T-'1T=+2TM/3T]34U-75U=;6UM?7U]C8V-G9V=K:VMO;V]S<
+MW-W=W=[>WM_?W^#@X.'AX>+BXN/CX^3DY.7EY>;FYN?GY^CHZ.GIZ>KJZNOK
+MZ^SL[.WM[>[N[N_O[_#P\/'Q\?+R\O/S\_3T]/7U]?;V]O?W]_CX^/GY^?KZ
+M^OO[^_S\_/W]_?[^_O___R'Y!`$``/X`+``````,``P`!P@Z`/\)'$APX)L?
+M"!,J_/<#F;B'$!\:8"BNX,`#%"T*Q/BCHD:.'BV"U/AOY,>,)SN2Y&C@@,N7
+&+@$$!``[
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>ex-99.txt
+<TEXT>
+<PAGE>
+EXHIBIT 99
+
+8/24/2004 8:28 PM
+FOR IMMEDIATE RELEASE                CONTACT: Frederick N. Cooper (215) 938-8312
+August 25, 2004                                      fcooper@tollbrothersinc.com
+                                                 Joseph R. Sicree (215) 938-8045
+                                                     jsicree@tollbrothersinc.com
+
+
+     TOLL BROTHERS' RECORD 3RD QTR 2004 NET INCOME UP 56% TO $106.0 MILLION
+               RECORD 3RD QTR EPS INCREASES 46% TO $1.31 PER SHARE
+                RECORD 3RD QTR REVENUES GROW 46% TO $1.0 BILLION
+                RECORD 3RD QTR CONTRACTS RISE 69% TO $1.6 BILLION
+              RECORD 3RD QTR-END BACKLOG IS UP 75% TO $4.3 BILLION
+
+
+Huntingdon Valley, PA, August 25, 2004 -- Toll Brothers, Inc., (NYSE:TOL)
+(www.tollbrothers.com), the nation's leading builder of luxury homes, today
+reported that its third quarter ended July 31, 2004 was the best quarter in its
+history for net income, earnings per share, revenues, contracts and backlog. In
+addition, unconsolidated joint ventures in which the Company had an interest
+signed contracts of $79.1 million in the third quarter of FY 2004.
+
+Robert I. Toll, chairman and chief executive officer, stated: "Buyer appetite
+for new luxury homes has remained tremendous throughout 2004 and we are enjoying
+very strong demand across all our product lines. Therefore, we believe that FY
+2004 will be our twelfth consecutive year of record earnings.
+
+"Based on our current backlog, which affords revenue visibility over the next
+nine to twelve months, and the pace of current demand, we project FY 2005
+deliveries of between 7,700 and 8,000 homes with an average delivered price in
+excess of $600,000. Therefore, we believe we'll achieve at least 30% net income
+growth (25% earnings per share growth) in FY 2005. Based on our projections of
+community growth in the coming year, assuming continuing strong demand, we
+believe that 20% revenue and net income growth should be achievable in FY 2006.
+
+"We continue to demonstrate our ability to grow dramatically in a very difficult
+economy: Since 2000, despite an economic recession, dramatic job losses, a
+severe stock market slump, and global political turmoil, we have doubled our
+revenues and net income. While much of this can be attributed to the tremendous
+hard work of our associates, we also believe it reflects the strength of the
+luxury market, the brand name we have built, the growing number of affluent U.S.
+households and the industry's environment of greater stability and reduced
+cyclicality.
+
+"Geographic and product diversification, access to lower-cost capital, a
+versatile and abundant home mortgage market and improving demographics are
+promoting strong and steady demand across many price points for those builders
+who can control land and persevere through the increasingly difficult regulatory
+approval process. This evolution in our industry favors the large, publicly
+traded home building companies with the capital and expertise to control sites
+and gain market share. This helps explain the growth of many of the public home
+building companies during these difficult economic times.
+
+                                     *more*
+<PAGE>
+"Two recent studies, one from Harvard University and the other from the
+Homeownership Alliance, project that demand for new housing should range from
+1.85 million up to 2.17 million new single and multi-family units annually over
+the next ten years. Yet our industry's average annual production peaked in the
+1970's at 1.77 million units and has never reached that sustained pace again
+because of increasing regulatory land approval constraints that restrict supply.
+In this environment, we envision a growing shortage of home sites as demand
+increases. In anticipation, we now control more than 61,000 home sites in
+affluent lot constrained urban and suburban markets. With this supply, we
+believe we are well positioned for continued growth in the coming years."
+
+Toll Brothers' financial highlights for the period ended July 31, 2004
+(unaudited):
+
+o    FY 2004's third-quarter net income of $106.0 million ($1.31 per share
+     diluted) grew 56% versus FY 2003's third-quarter net income of $68.2
+     million ($0.90 per share diluted), the previous third-quarter record. FY
+     2004's nine-month net income of $228.5 million ($2.82 per share diluted)
+     grew 37% versus FY 2003's record nine-month net income of $166.4 million
+     ($2.23 per share diluted).
+
+o    FY 2004 third-quarter revenues of $1.01 billion increased 46% over FY
+     2003's third-quarter revenues of $693.7 million, the previous third-quarter
+     record. Record third quarter home building revenues of $991.3 million
+     (1,684 homes) increased 46% over FY 2003's third-quarter home building
+     revenues of $678.5 million (1,188 homes), the previous third-quarter
+     record. Revenues from land sales totaled $12.9 million for FY 2004's third
+     quarter, compared to $7.6 million in FY 2003's third quarter.
+
+o    FY 2004 nine-month revenues of $2.43 billion increased 30% over FY 2003's
+     nine-month revenues of $1.87 billion, the previous record. Record
+     nine-month home building revenues of $2.40 billion (4,232 homes) increased
+     30% over FY 2003's nine-month home building revenues of $1.84 billion
+     (3,333 homes), the previous record. FY 2004 revenues from land sales for
+     the nine-month period totaled $20.9 million compared to $21.0 million in
+     the same period in FY 2003.
+
+o    In addition, in the Company's fiscal 2004 third-quarter and nine-month
+     periods, unconsolidated joint ventures in which the Company had an interest
+     delivered $12.1 million (30 homes) and $15.5 million (41 homes),
+     respectively, compared to $2.9 million (9 homes) and $8.2 million (26
+     homes), respectively, in the same periods of fiscal 2003. The Company's
+     share of the profits from the delivery of these homes is included in
+     `Equity Earnings in Unconsolidated Entities' on the Company's Income
+     Statement.
+
+o    The Company's FY 2004 third-quarter contracts of $1.6 billion (2,329 homes)
+     grew by 69% over FY 2003's third-quarter contracts of $951.6 million (1,668
+     homes), the previous third-quarter record. In addition, in third-quarter
+     2004, unconsolidated joint ventures in which the Company had an interest
+     signed contracts of $79.1 million (188 homes).
+
+o    FY 2004's nine-month contracts of $4.1 billion (6,436 homes), grew by 67%
+     over FY 2003's nine-month total of $2.46 billion (4,383 homes), the
+     previous record. In addition, in the nine-month FY 2004 period,
+     unconsolidated joint ventures in which the Company had an interest signed
+     contracts of $82.2 million (198 homes).
+
+                                     *more*
+
+<PAGE>
+o    FY 2004 third-quarter-end backlog of $4.3 billion (6,856 homes), the
+     highest backlog in the Company's history, increased 75% over FY 2003's
+     record third-quarter-end backlog of $2.48 billion (4,392 homes). In
+     addition, in third- quarter FY 2004, unconsolidated joint ventures in which
+     the Company had an interest had a cumulative backlog of $71.4 million (172
+     homes).
+
+As previously announced, Toll Brothers will be broadcasting live via the
+Investor Relations section of its website, www.tollbrothers.com, a conference
+call hosted by chairman and chief executive officer Robert I. Toll at 2:00 p.m.
+(EDT) today, August 25, 2004, to discuss these results and our outlook for
+fiscal 2004 and fiscal 2005. Prior to this conference call, the Company intends
+to file a Form 8-K with the Securities and Exchange Commission containing its
+guidance for expected results of operations for Fiscal 2004 and Fiscal 2005
+which will be discussed on the call. To access the call, enter the Toll Brothers
+website, then click on the Investor Relations page, and select "Conference
+Calls". Participants are encouraged to log on at least fifteen minutes prior to
+the start of the presentation to register and download any necessary software.
+The call can be heard live with an on-line replay which will follow and continue
+through October 31, 2004.
+
+Toll Brothers, Inc. is the nation's leading builder of luxury homes. The Company
+began business in 1967 and became a public company in 1986. Its common stock is
+listed on the New York Stock Exchange and the Pacific Exchange under the symbol
+"TOL". The Company serves move-up, empty-nester, active-adult and second-home
+home buyers and operates in 21 states: Arizona, California, Colorado,
+Connecticut, Delaware, Florida, Illinois, Massachusetts, Maryland, Michigan,
+Nevada, New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania,
+Rhode Island, South Carolina, Texas, and Virginia.
+
+Toll Brothers builds luxury single-family and attached home communities,
+master-planned luxury residential resort-style golf communities and urban low,
+mid- and high-rise communities, principally on land it develops and improves.
+The Company operates its own architectural, engineering, mortgage, title, land
+development and land sale, golf course development and management, home
+security, landscape, cable T.V. and broadband Internet delivery subsidiaries.
+The Company also operates its own lumber distribution, and house component
+assembly and manufacturing operations.
+
+Toll Brothers is the only publicly traded national home building company to have
+won all three of the industry's highest honors: America's Best Builder from the
+National Association of Home Builders, the National Housing Quality Award and
+Builder of the Year. For more information visit WWW.TOLLBROTHERS.COM.
+
+
+      Certain information included herein and in other Company reports, SEC
+      filings, statements and presentations is forward-looking within the
+      meaning of the Private Securities Litigation Reform Act of 1995,
+      including, but not limited to, statements concerning anticipated operating
+      results, financial resources, changes in revenues, changes in
+      profitability, interest expense, growth and expansion, anticipated income
+      from joint ventures and the Toll Brothers Realty Trusts Group, the ability
+      to acquire land, the ability to secure governmental approvals and the
+      ability to open new communities, the ability to sell homes and properties,
+      the ability to deliver homes from backlog, the average delivered price of
+      homes, the ability to secure materials and subcontractors, the ability to
+      maintain the liquidity and capital necessary to expand and take advantage
+      of future opportunities, and stock market valuations. Such forward-looking
+      information involves important risks and uncertainties that could
+      significantly affect actual results and cause them to differ materially
+      from expectations expressed herein and in other Company reports, SEC
+      filings, statements and presentations. These risks and uncertainties
+      include local, regional and national economic conditions, the demand for
+      homes, domestic and international political events, uncertainties created
+      by terrorist attacks, the effects of governmental regulation, the
+      competitive environment in which the Company operates, fluctuations in
+      interest rates, changes in home prices, the availability and cost of land
+      for future growth, the availability of capital, uncertainties and
+      fluctuations in capital and securities markets, changes in tax laws and
+      their interpretation, legal proceedings, the availability of adequate
+      insurance at reasonable cost, the ability of customers to finance the
+      purchase of homes, the availability and cost of labor and materials, and
+      weather conditions.
+
+                                     *more*
+<PAGE>
+                      TOLL BROTHERS, INC. AND SUBSIDIARIES
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                             (AMOUNTS IN THOUSANDS)
+<TABLE>
+<CAPTION>
+                                                             July 31,               October 31,
+                                                               2004                    2003
+                                                            ----------              ----------
+ASSETS                                                      (Unaudited)
+<S>                                                        <C>                     <C>
+Cash and cash equivalents                                   $  197,914              $  425,251
+Inventory                                                    3,888,738               3,080,349
+Property, construction and office equipment, net                48,494                  43,711
+Receivables, prepaid expenses and other assets                 155,699                 113,633
+Mortgage loans receivable                                       90,929                  57,500
+Customer deposits held in escrow                                55,042                  31,547
+Investments in and advances to
+  unconsolidated entities                                       83,332                  35,400
+                                                            ----------              ----------
+                                                            $4,520,148              $3,787,391
+                                                            ==========              ==========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Liabilities:
+Loans payable                                               $  344,548              $  281,697
+Senior notes                                                   845,540                 546,669
+Subordinated notes                                             450,000                 620,000
+Mortgage company warehouse loan                                 82,061                  49,939
+Customer deposits                                              287,708                 176,710
+Accounts payable                                               177,910                 151,730
+Accrued expenses                                               438,426                 346,944
+Income taxes payable                                           163,624                 137,074
+                                                            ----------              ----------
+                  Total liabilities                          2,789,817               2,310,763
+                                                            ----------              ----------
+
+Stockholders' equity:
+Preferred stock, none issued
+Common stock                                                       770                     770
+Additional paid-in capital                                     203,863                 190,596
+Retained earnings                                            1,590,156               1,361,619
+Treasury stock                                                 (64,458)                (76,357)
+                                                            ----------              ----------
+                  Total stockholders'equity                  1,730,331               1,476,628
+                                                            ----------              ----------
+                                                            $4,520,148              $3,787,391
+                                                            ==========              ==========
+</TABLE>
+                                     *more*
+
+<PAGE>
+                      TOLL BROTHERS, INC. AND SUBSIDIARIES
+                   CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+                  (AMOUNTS IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                   (UNAUDITED)
+<TABLE>
+<CAPTION>
+                                                     Nine months ended                         Three months ended
+                                                         July 31,                                  July 31,
+                                              -------------------------------            ----------------------------
+                                                 2004                2003                  2004                2003
+                                              ----------          -----------            ----------         ---------
+<S>                                          <C>                 <C>                    <C>                <C>
+Revenues:
+     Home sales                               $2,395,150          $ 1,837,386            $  991,264         $ 678,523
+     Land sales                                   20,938               21,027                12,940             7,640
+     Equity earnings in
+       unconsolidated entities                     6,945                  700                 5,551               555
+     Interest and other                            7,483               12,764                 3,364             6,967
+                                              ----------          -----------            ----------         ---------
+                                               2,430,516            1,871,877             1,013,119           693,685
+                                              ----------          -----------            ----------         ---------
+Costs and expenses:
+     Home sales                                1,716,535            1,334,645               709,484           492,239
+     Land sales                                   14,315               13,462                 7,509             2,745
+     Selling, general and
+       administrative expenses                   270,155              206,354               103,608            73,216
+     Interest                                     59,970               50,135                24,216            17,630
+     Expenses related to early
+       retirement of debt                          8,229                3,890                   481
+                                              ----------          -----------            ----------         ---------
+                                               2,069,204            1,608,486               845,298           585,830
+                                              ----------          -----------            ----------         ---------
+
+Income before income taxes                       361,312              263,391               167,821           107,855
+Income taxes                                     132,775               96,953                61,806            39,696
+                                              ----------          -----------            ----------         ---------
+Net income                                    $  228,537          $   166,438            $  106,015         $  68,159
+                                              ==========          ===========            ==========         =========
+
+Earnings per share:
+     Basic                                    $     3.08          $      2.38            $     1.43         $    0.98
+     Diluted                                  $     2.82          $      2.23            $     1.31         $    0.90
+
+Weighted average number of shares:
+     Basic                                        74,199               70,038                74,352            69,848
+     Diluted                                      81,055               74,481                80,920            75,534
+
+
+Additional information:
+   Interest incurred                          $   85,137          $    76,831            $   28,632         $  25,800
+   Depreciation and
+     amortization                             $   11,231          $     8,841            $    3,895         $   2,913
+</TABLE>
+
+                                     *more*
+
+<PAGE>
+PERIOD ENDED JULY 31:
+<TABLE>
+<CAPTION>
+                                                             UNITS                              $ (MILL)
+                                                   3RD QTR.          3RD QTR.          3RD QTR.          3RD QTR.
+CLOSINGS                                             2004              2003              2004              2003
+- ---------------------------                       ---------          ---------         ---------        ---------
+<S>                                                <C>                <C>              <C>              <C>
+NORTHEAST                                             256                179              149.8            112.6
+(CT,MA,NH,NJ,NY,RI)
+MID-ATLANTIC                                          616                445              314.4            221.7
+(DE,MD,PA,VA)
+MID-WEST   (IL,MI,OH)                                 136                103               74.4             57.1
+SOUTHEAST  (FL,NC,SC,TN)                              205                131               97.9             69.3
+SOUTHWEST  (AZ,CO,NV,TX)                              205                212              124.7            114.0
+WEST COAST (CA)                                       266                118              230.1            103.8
+                                                    -----              -----            -------          -------
+TOTAL CONSOLIDATED ENTITIES                         1,684              1,188              991.3            678.5
+UNCONSOLIDATED ENTITIES                                30                  9               12.1              2.9
+                                                    -----              -----            -------          -------
+         TOTAL                                      1,714              1,197            1,003.4            681.4
+                                                    =====              =====            =======          =======
+CONTRACTS
+- ---------------------------
+NORTHEAST                                             270                247              155.4            141.7
+(CT,MA,NH,NJ,NY,RI)
+MID-ATLANTIC                                          748                643              473.8            322.5
+(DE,MD,PA,VA)
+MID-WEST   (IL,MI,OH)                                 164                133              105.9             73.5
+SOUTHEAST  (FL,NC,SC,TN)                              361                154              229.5             77.3
+SOUTHWEST  (AZ,CO,NV,TX)                              455                207              300.0            119.1
+WEST COAST (CA)                                       331                284              341.6            217.5
+                                                    -----              -----            -------          -------
+TOTAL CONSOLIDATED ENTITIES                         2,329              1,668            1,606.2            951.6
+UNCONSOLIDATED ENTITIES                               188                  3               79.1              1.1
+                                                    -----              -----            -------          -------
+         TOTAL                                      2,517              1,671            1,685.3            952.7
+                                                    =====              =====            =======          =======
+
+BACKLOG
+- ---------------------------
+NORTHEAST                                           1,051                853              596.1            483.6
+(CT,MA,NH,NJ,NY,RI)
+MID-ATLANTIC                                        2,305              1,647            1,320.6            810.8
+(DE,MD,PA,VA)
+MID-WEST   (IL,MI,OH)                                 458                332              279.2            186.3
+SOUTHEAST  (FL,NC,SC,TN)                              696                336              421.5            202.0
+SOUTHWEST  (AZ,CO,NV,TX)                            1,278                613              774.7            341.6
+WEST COAST (CA)                                     1,068                611              953.7            456.0
+                                                    -----              -----            -------          -------
+TOTAL CONSOLIDATED ENTITIES                         6,856              4,392            4,345.8          2,480.3
+UNCONSOLIDATED ENTITIES                               172                 19               71.4              5.8
+                                                    -----              -----            -------          -------
+         TOTAL                                      7,028              4,411            4,417.2          2,486.1
+                                                    =====              =====            =======          =======
+</TABLE>
+
+                                     *more*
+
+<PAGE>
+PERIOD ENDED JULY 31:
+<TABLE>
+<CAPTION>
+                                                             UNITS                              $ (MILL)
+                                                   9 Months          9 Months          9 Months          9 Months
+CLOSINGS                                             2004              2003              2004              2003
+- ---------------------------                       ---------          ---------         ---------        ---------
+<S>                                                <C>                <C>              <C>              <C>
+NORTHEAST                                             655                511              379.1            307.8
+(CT,MA,NH,NJ,NY,RI)
+MID-ATLANTIC                                        1,555              1,213              789.9            593.4
+(DE,MD,PA,VA)
+MID-WEST   (IL,MI,OH)                                 307                269              174.0            143.4
+SOUTHEAST  (FL,NC,SC,TN)                              518                476              243.0            219.2
+SOUTHWEST  (AZ,CO,NV,TX)                              544                512              313.9            267.8
+WEST COAST (CA)                                       653                352              495.2            305.8
+                                                    -----              -----            -------          -------
+TOTAL CONSOLIDATED ENTITIES                         4,232              3,333            2,395.1          1,837.4
+UNCONSOLIDATED ENTITIES                                41                 26               15.5              8.2
+                                                    -----              -----            -------          -------
+         TOTAL                                      4,273              3,359            2,410.6          1,845.6
+                                                    =====              =====            =======          =======
+
+CONTRACTS
+- ----------------------------
+NORTHEAST                                             774                704              455.8            406.7
+(CT,MA,NH,NJ,NY,RI)
+MID-ATLANTIC                                        2,186              1,726            1,273.5            856.8
+(DE,MD,PA,VA)
+MID-WEST   (IL,MI,OH)                                 471                335              289.9            184.6
+SOUTHEAST  (FL,NC,SC,TN)                              803                428              446.3            216.8
+SOUTHWEST  (AZ,CO,NV,TX)                            1,113                589              691.8            340.7
+WEST COAST (CA)                                     1,089                601              951.8            453.3
+                                                    -----              -----            -------          -------
+TOTAL CONSOLIDATED ENTITIES                         6,436              4,383            4,109.1          2,458.9
+UNCONSOLIDATED ENTITIES                               198                 21               82.2              6.5
+                                                    -----              -----            -------          -------
+         TOTAL                                      6,634              4,404            4,191.3          2,465.4
+                                                    =====              =====            =======          =======
+</TABLE>
+
+                                       ###
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

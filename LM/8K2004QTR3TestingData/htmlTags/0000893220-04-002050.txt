@@ -1,0 +1,435 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DMTTSxBn2jwB2uUR15Dgai8FTldAc8FXA0PVhHNId4xjGdNcob8AiYrfciMjdm30
+ PvQ6BC5SFVZ8kkXJg6iEIg==
+
+<SEC-DOCUMENT>0000893220-04-002050.txt : 20040930
+<SEC-HEADER>0000893220-04-002050.hdr.sgml : 20040930
+<ACCEPTANCE-DATETIME>20040930160225
+ACCESSION NUMBER:		0000893220-04-002050
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040929
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20040930
+DATE AS OF CHANGE:		20040930
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMKOR TECHNOLOGY INC
+		CENTRAL INDEX KEY:			0001047127
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				231722724
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-29472
+		FILM NUMBER:		041055387
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1345 ENTERPRISE DR
+		CITY:			WEST CHESTER
+		STATE:			PA
+		ZIP:			19380
+		BUSINESS PHONE:		6104319600
+
+	MAIL ADDRESS:	
+		STREET 1:		1345 ENTERPRISE DR
+		CITY:			WEST CHESTER
+		STATE:			PA
+		ZIP:			19380
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>w03050e8vk.htm
+<DESCRIPTION>AMKOR TECHNOLOGY, INC.
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, DC 20549</B>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="25%">
+
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 or 15(d) of the<BR>
+Securities Exchange Act of 1934</B>
+
+
+
+<P align="center" style="font-size: 10pt">Date of Report (Date of earliest event reported)
+
+
+
+<P align="center" style="font-size: 10pt"><B>September&nbsp;29, 2004</B>
+
+
+
+<P align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="25%">
+
+
+<P align="center" style="font-size: 24pt"><B>AMKOR TECHNOLOGY, INC.</B>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>DELAWARE</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>000-29472</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>23-1722724</B></TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or Other Jurisdiction of
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">Incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Identification No.)</TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>1345 ENTERPRISE DRIVE<BR>
+WEST CHESTER, PA 19380</B><BR>
+(Address of Principal Executive Offices, including Zip Code)
+
+
+
+<P align="center" style="font-size: 10pt"><B>(610)&nbsp;431-9600</B><BR>
+(Registrant&#146;s telephone number, including area code)
+
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Written communications pursuant to Rule&nbsp;425 under the Securities Act
+(17 CFR 230.425)
+
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17
+CFR 240.14a-12)
+
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))
+
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">ITEM 2.02 RESULTS OF OPERATIONS AND FINANCIAL CONDITION.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#001">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">EXHIBIT INDEX:</A></TD></TR>
+<TR><TD colspan="9"><A HREF="w03050exv99w1.htm">Text of Press Release dated September 29, 2004.</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link1 "ITEM 2.02 RESULTS OF OPERATIONS AND FINANCIAL CONDITION." -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>ITEM 2.02 RESULTS OF OPERATIONS AND FINANCIAL CONDITION.</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On September&nbsp;29, 2004, Amkor Technology, Inc. issued a press release
+announcing its revised earnings guidance for the third quarter of 2004 and
+certain other information. A copy of the press release is attached to this
+Form 8-K as Exhibit&nbsp;99.1. The information provided in this Form 8-K report is
+being filed for the purposes of Section&nbsp;18 of the Securities Exchange Act of
+1934, as amended.
+
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3"><B>AMKOR TECHNOLOGY, INC.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000"><I>/s/ Kenneth T. Joyce</I>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Kenneth T. Joyce&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P align="left" style="font-size: 10pt">Date: September&nbsp;30, 2004
+
+<!-- link1 "EXHIBIT INDEX:" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>EXHIBIT INDEX:</B>
+
+<P align="left" style="font-size: 10pt">99.1 Text of Press Release dated September&nbsp;29, 2004.
+
+
+
+
+<P align="center" style="font-size: 10pt">2
+</DIV>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>w03050exv99w1.htm
+<DESCRIPTION>TEXT OF PRESS RELEASE DATED SEPTEMBER 29, 2004.
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="right" style="font-size: 10pt">Exhibit&nbsp;99.1
+
+
+<P align="center" style="font-size: 10pt"><B>Amkor Revises Third Quarter Outlook</B>
+
+
+<P align="left" style="font-size: 10pt">CHANDLER, Ariz., Sept. 29 &#151; Amkor Technology, Inc. (Nasdaq: AMKR) said today
+that revenues for the third quarter ended September&nbsp;30, 2004 are expected to be
+approximately $480&nbsp;million, or 3% lower than the second quarter of 2004,
+compared with prior guidance of flat quarter- over-quarter revenue. Amkor
+expects gross margin for the third quarter to be around 17% compared with prior
+guidance of around 19%. The net loss for the third quarter is expected to be
+approximately $0.13 cents per diluted share, compared with prior guidance of a
+net loss of $0.07 to $0.09.
+
+
+<P align="left" style="font-size: 10pt">&#147;Our revenue shortfall in the third quarter was due to declining customer
+forecasts during the quarter and lower-than-expected support of these
+forecasts, which we believe reflects an industry-wide inventory correction that
+has distorted the normal seasonal trends in our business,&#148; said John Boruch,
+Amkor&#146;s president and chief operating officer. &#147;Our view is that the
+semiconductor industry is experiencing a classical correction, and it is
+unclear at this time when business will improve.&#148;
+
+
+<P align="left" style="font-size: 10pt">&#147;Our gross margin shortfall in the third quarter was principally due to the
+impact of Amkor&#146;s operating leverage on a lower revenue stream. In addition, we
+anticipated that the product mix would improve in the quarter and partially
+offset higher factory costs associated with our capacity expansion and
+corporate growth initiatives; however the product mix did not improve,&#148; said
+Ken Joyce, Amkor&#146;s chief financial officer.
+
+
+<P align="left" style="font-size: 10pt">Amkor will release third quarter financial results on Tuesday, October&nbsp;26, 2004
+after the market closes and will conduct a conference call at 5:00 p.m. Eastern
+time on October&nbsp;26 to discuss the third quarter results in more detail. This
+call can be accessed by dialing 303-262-2075 or by visiting the investor
+relations page of our web site: www.amkor.com or CCBN&#146;s website,
+www.companyboardroom.com.
+
+
+<P align="left" style="font-size: 10pt">Amkor is a leading provider of contract semiconductor assembly and test
+services. The company offers semiconductor companies and electronics OEMs a
+complete set of microelectronic design, manufacturing and support services.
+More information on Amkor is available from the company&#146;s SEC filings and on
+Amkor&#146;s web site: www.amkor.com.
+
+
+<P align="left" style="font-size: 10pt">This press release contains forward-looking statements within the meaning of
+federal securities laws, including, without limitation, statements regarding
+expected revenues, expected gross margin, expected net income per share, and
+product mix. These forward-looking statements are subject to a number of risks
+and uncertainties that could affect future operating results and cause actual
+results to differ materially from historical and expected results, including,
+but not limited to, the following: the highly unpredictable nature of the
+semiconductor industry; volatility of consumer demand for products
+incorporating our semiconductor packages; deterioration of the U.S. or other
+economies; worldwide economic effects of terrorist attacks; military conflict;
+competitive pricing; declines in average selling prices; ability to transition
+to lower cost vendors; competition; and exchange rate fluctuations. Further
+information on risk factors that could affect the outcome of the events set
+forth in these statements and that could affect our operating results and
+financial
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="left" style="font-size: 10pt">condition is detailed in our filings with the Securities and Exchange
+Commission, including the Report on Form 10-K for the year ended December&nbsp;31,
+2003 and the Report on Form 10-Q for the quarter ended June&nbsp;30, 2004.
+
+
+<P align="left" style="font-size: 10pt">For further information please contact Jeffrey Luth of Amkor Technology, Inc.,
+&#043;1-480-821-5000 ext. 5130.
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

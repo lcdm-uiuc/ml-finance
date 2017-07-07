@@ -1,0 +1,461 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ N+bGAO+Q4VZKJVD6oy0qLPPWQADog2TogCBGGPdwrQIvADJpGLOgOGW2+lZ+DFL8
+ 3/V7+UsEVVm90hNlY+ns1g==
+
+<SEC-DOCUMENT>0000874733-04-000102.txt : 20040831
+<SEC-HEADER>0000874733-04-000102.hdr.sgml : 20040831
+<ACCEPTANCE-DATETIME>20040831163901
+ACCESSION NUMBER:		0000874733-04-000102
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20040630
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20040831
+DATE AS OF CHANGE:		20040831
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MEDIWARE INFORMATION SYSTEMS INC
+		CENTRAL INDEX KEY:			0000874733
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				112209324
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10768
+		FILM NUMBER:		041008848
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11711 WEST 79TH STREET
+		CITY:			LENEXA
+		STATE:			KS
+		ZIP:			66214
+		BUSINESS PHONE:		9133071000
+
+	MAIL ADDRESS:	
+		STREET 1:		11711 WEST 79TH STREET
+		CITY:			LENEXA
+		STATE:			KS
+		ZIP:			66214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8kaugust04.htm
+<TEXT>
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>FORM 8-K</TITLE>
+</HEAD>
+<BODY LINK="#0000ff">
+
+<FONT FACE="CG Times,Times New Roman">
+<P>&nbsp;</P>
+<B><P ALIGN="CENTER">SECURITIES AND EXCHANGE COMMISSION</P>
+<P ALIGN="CENTER">Washington, D.C.  20549</P>
+</B><P ALIGN="CENTER"></P>
+<B><P ALIGN="CENTER">FORM 8-K</P>
+</B><P ALIGN="CENTER"></P>
+<B><P ALIGN="CENTER">CURRENT REPORT</P>
+<P ALIGN="CENTER">Pursuant to Section 13 or 15(d) of the<BR>
+Securities Exchange Act of 1934</P>
+</B><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">Date of Report (Date of earliest event reported): August 25, 2004</P>
+
+<P>&nbsp;</P>
+<U><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mediware Information Systems, Inc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+</U></FONT><FONT FACE="CG Times,Times New Roman" SIZE=2>(Exact name of registrant as specified in its charter)</P>
+</FONT><FONT FACE="CG Times,Times New Roman">
+<P>&nbsp;</P></FONT>
+<P ALIGN="CENTER"><CENTER><TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=638>
+<TR><TD VALIGN="TOP" COLSPAN=4>
+<U><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-10768&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11-2209324&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="CENTER">(State or other jurisdiction<BR>
+of incorporation)</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="CENTER">(Commission File Number)</FONT></TD>
+<TD WIDTH="38%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=2><P ALIGN="CENTER">(IRS Employer<BR>
+Identification No.)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=4>
+<P ALIGN="CENTER">&nbsp;</P>
+<U><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11711 West 79th Street, Lenexa, KS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;66214&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></TD>
+</TR>
+<TR><TD WIDTH="63%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=2><P ALIGN="CENTER">(Address of principal executive offices)</FONT></TD>
+<TD WIDTH="37%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="CENTER">(Zip Code)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=4>
+<FONT FACE="CG Times,Times New Roman"><P ALIGN="CENTER">Registrant's telephone number, including area code<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(913) 307-1000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U></FONT><FONT SIZE=2></FONT></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<U><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+</U>(Former name or former address, if changed since last report)</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P><DIR>
+<DIR>
+
+<FONT SIZE=1><P>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</P>
+
+<P>[  ]  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+
+<P>[  ]  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+
+<P>[  ]  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+
+<P>[  ]  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+
+</FONT><FONT FACE="CG Times,Times New Roman"><P>&nbsp;</P>
+<P>&nbsp;</P>
+</FONT><P>Item 1.01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entry into a Material Definitive Agreement.</P><DIR>
+<DIR>
+
+<P>&#9;&#9;</P>
+<P ALIGN="JUSTIFY">&#9;&#9;On August 25, 2004, Mediware Information Systems, Inc. (the &quot;Company&quot;) entered into an employment agreement (the &quot;Agreement&quot;) with George J. Barry, the Company's Chief Executive Officer and President (the &quot;CEO&quot;).</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&#9;&#9;Pursuant to the Agreement, the Company will continue to employ Mr. Barry as Chief Executive Officer and President.  The term of employment under the Agreement is 2 years.  The Agreement will automatically renew for successive 1 year terms unless either the Company or the CEO gives timely notice of non-renewal.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&#9;&#9;The Agreement provides for an annual base salary of $300,000 and a discretionary bonus of up to $150,000 per year during the term of the Agreement.  The Agreement grants the CEO 25,000 restricted shares (the &quot;Restricted Shares&quot;) of the Company's common stock, par value $.10 per share (&quot;Common Stock&quot;), pursuant to the Company's 2003 Equity Incentive Plan (the &quot;Plan&quot;).  The Restricted Shares vest on August 25, 2005 only if the CEO is employed by the Company on such date.  Upon an acquisition or sale of the Company, as defined in the Agreement, any unvested Restricted Shares immediately vest. </P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&#9;&#9;In addition, if the Company's shareholders approve an amendment to the Plan that increases the number of shares of Common Stock subject to the Plan on or before August 25, 2005 (the &quot;Amendment&quot;), the CEO will immediately be granted 25,000 additional restricted shares under the Plan, provided that the CEO is employed by the Company on such date. The additional restricted shares will vest on August 24, 2006, if the CEO is employed by the Company on such date.  Upon an acquisition or sale of the Company (as defined in the Agreement), these shares will immediately vest.  If there is an acquisition or sale of the Company before the Amendment is approved and the CEO is employed by the Company, the CEO will receive an equivalent cash payment in lieu of a grant of additional restricted shares.  If the Amendment is not approved on or before August 25, 2005, the Agreement will terminate on August 25, 2005, any unvested restricted shares will be forfeited and the CEO will not be eli
+gible for the cash bonus.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&#9;&#9;In addition to termination for disability, death, cause or failure of the Amendment to be approved on or before August 25, 2005, the Agreement may be terminated  (i) by either the Company or the CEO without cause upon 90 days prior written notice and (ii) by the CEO for Good Reason (as defined in the Agreement).  </P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&#9;&#9;If the Company terminates the CEO's employment without cause or the CEO terminates the Agreement for Good Reason, the Company will pay the CEO an amount equal to 12 months of the CEO's annual salary at the highest rate in effect during the term of employment and will provide the CEO with certain health insurance coverage.  If the CEO voluntarily resigns his employment, the Company will pay the CEO an amount equal to 3 months annual salary at the highest rate in effect during the term of employment and will provide the CEO with certain health insurance coverage.  If a third party terminates the CEO due to an acquisition or sale of the Company, the Company will pay the CEO an amount equal to 12 months of the CEO's annual salary at the rate in effect at the date of termination and will provide the CEO with certain health insurance coverage.  </P>
+<P ALIGN="JUSTIFY">The Agreement provides for a 1 year non-compete covenant by the CEO following the date of termination of the CEO's employment with the Company.</P>
+<P ALIGN="JUSTIFY"></P></DIR>
+</DIR>
+
+<P>Item 2.02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Results of Operations and Financial Condition.</P>
+<FONT SIZE=3><P ALIGN="JUSTIFY"></P><DIR>
+<DIR>
+
+<P ALIGN="JUSTIFY">On August 31, 2004, the Company issued a press release announcing its financial results for the year ended June 30, 2004.  The press release is attached hereto as Exhibit 99.1.</P>
+<P ALIGN="JUSTIFY"></P></DIR>
+</DIR>
+
+</FONT><P>Item 9.01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements and Exhibits.</P>
+
+<P>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibits.</P>
+
+<P>Exhibit 99.1&nbsp;&nbsp;&nbsp;Press Release of Mediware Information Systems, Inc., dated August 31, 2004</P>
+
+<FONT FACE="CG Times,Times New Roman"><P>&nbsp;</P>
+<P>&nbsp;</P></DIR>
+</DIR>
+
+<B><P ALIGN="CENTER">SIGNATURES</P>
+</B><P><BR>
+</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+
+<P>&nbsp;</P></FONT>
+<P ALIGN="CENTER"><CENTER><TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=615>
+<TR><TD WIDTH="45%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="55%" VALIGN="TOP">
+<FONT FACE="CG Times,Times New Roman"><P>MEDIWARE INFORMATION SYSTEMS, INC</FONT></TD>
+</TR>
+<TR><TD WIDTH="45%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="55%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="CG Times,Times New Roman"><P>Date:&#9;August 31, 2004</FONT></TD>
+<TD WIDTH="55%" VALIGN="TOP">
+<FONT FACE="CG Times,Times New Roman"><P>By:&nbsp;&nbsp;<U>/s/ George J. Barry<BR>
+</U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;George J. Barry<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chief Executive Officer and President</FONT></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<FONT FACE="CG Times,Times New Roman">
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<B><U><P ALIGN="CENTER">EXHIBIT INDEX</P>
+</B></U></FONT>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=638>
+<TR><TD WIDTH="31%" VALIGN="TOP">
+<U><FONT FACE="CG Times,Times New Roman"><P>Exhibit No.</U><BR>
+</FONT></TD>
+<TD WIDTH="69%" VALIGN="TOP">
+<U><FONT FACE="CG Times,Times New Roman"><P>Description<BR>
+</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="CG Times,Times New Roman"><P>99.1</FONT></TD>
+<TD WIDTH="69%" VALIGN="TOP">
+<FONT FACE="CG Times,Times New Roman"><P>Press Release of Mediware Information Systems, Inc., dated August 31, 2004</FONT></TD>
+</TR>
+</TABLE>
+
+<FONT FACE="CG Times,Times New Roman">
+<P ALIGN="RIGHT">&nbsp;</P>
+</FONT><B><P ALIGN="RIGHT">EXHIBIT 99.1</P>
+</B>
+<I><FONT SIZE=1><P>&nbsp;</P></I></FONT>
+<P ALIGN="CENTER"><CENTER><TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=513>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<B><U><FONT SIZE=2><P>Contact</B></U></FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<B><U><FONT SIZE=2><P>George Barry<BR>
+913/307-1000<BR>
+www.mediware.com</B></U></FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<B><U><FONT SIZE=2><P>Thomas Redington<BR>
+203/222-7399<BR>
+212/926-1733<BR>
+www.redingtoninc.com</B></U></FONT></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<B><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">&nbsp;</P><DIR>
+<DIR>
+<DIR>
+
+<U><P ALIGN="CENTER">Mediware Reports Fiscal 2004 Results</P>
+</U><P ALIGN="CENTER"></P>
+<I><P ALIGN="CENTER">Fourth Quarter Caps Third Consecutive Year of Record <BR>
+Revenue: Full Year Income Dampened by Expected Costs of New<BR>
+Product Launches </P>
+</B></I><P ALIGN="CENTER"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><P ALIGN="JUSTIFY">LENEXA, KS AUG. 31 -- </B>Mediware Information Systems, Inc. (Nasdaq: MEDW) reported its third consecutive year of record revenue for the fiscal year ended June 30, 2004 of $36.7 million, up 11 percent compared to $33.0 million for fiscal 2003. Operating income for the year just ended was $5.6 million versus $7.0 million for the prior year.</P>
+<P ALIGN="JUSTIFY">Net income for fiscal 2004 was $3.6 million, or 48 cents per basic share and 44 cents per fully diluted share, compared to net income of $4.4 million, or 60 cents per basic share and 56 cents per fully diluted share.</P>
+<P ALIGN="JUSTIFY">For the quarter just ended, revenue was $9.2 million, up 5 percent from the year-ago period.  Net income for the fourth quarter of fiscal 2004 decreased to $875,000, or 12 cents per basic share and 11 cents per diluted share, compared to $1,169,000, or 16 cents per basic share and 15 cents per fully diluted share, for the fourth quarter of fiscal 2003.</P>
+<P ALIGN="JUSTIFY">Commenting on the quarter and the year, George Barry, Mediware's CEO, said, &quot;Fiscal 2004 included the introduction of our new blood bank transfusion system along with the early release of our computerized clinician order entry and medication administration solutions from our pharmacy division.  Annual results were dampened by approximately $1.5 million of new product amortization costs along with other related marketing rollout and infrastructure buildup costs.   We are pleased with the early acceptance and field performance of these new products and anticipate they will substantially add to our future growth rates, beginning in the current fiscal year.&quot;</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P></DIR>
+</DIR>
+</DIR>
+
+<P ALIGN="CENTER"><CENTER><TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=583>
+<TR><TD VALIGN="TOP" COLSPAN=5>
+<B><FONT SIZE=3><P ALIGN="CENTER">Fourth Quarter and Annual Fiscal<BR>
+2004 and 2003 Operating Statement Highlights<BR>
+(in thousands) (unaudited):</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="48%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="26%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="CENTER">Three Months Ended<BR>
+June 30</FONT></TD>
+<TD WIDTH="26%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="CENTER">Twelve Months Ended<BR>
+June 30</FONT></TD>
+</TR>
+<TR><TD WIDTH="48%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="12%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">   <U>2004</U></FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">   <U>2003</U></FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<U><FONT SIZE=3><P ALIGN="RIGHT">2004</U></FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<U><FONT SIZE=3><P ALIGN="RIGHT">2003</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="48%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="12%" VALIGN="MIDDLE">&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="48%" VALIGN="MIDDLE">
+<FONT SIZE=3><P>&nbsp;&nbsp;System Sales</FONT></TD>
+<TD WIDTH="12%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 3,247 </FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 3,071 </FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 12,421</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 12,564</FONT></TD>
+</TR>
+<TR><TD WIDTH="48%" VALIGN="MIDDLE">
+<FONT SIZE=3><P>&nbsp;&nbsp;Services</FONT></TD>
+<TD WIDTH="12%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 5,967 </FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 5,734 </FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 24,233</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 20,419</FONT></TD>
+</TR>
+<TR><TD WIDTH="48%" VALIGN="MIDDLE">
+<FONT SIZE=3><P>Total Revenue</FONT></TD>
+<TD WIDTH="12%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 9,214</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 8,805</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 36,654</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 32,983</FONT></TD>
+</TR>
+<TR><TD WIDTH="48%" VALIGN="MIDDLE">
+<FONT SIZE=3><P>   Operating Expenses</FONT></TD>
+<TD WIDTH="12%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 7,796</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 7,051</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 31,011</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 26,645</FONT></TD>
+</TR>
+<TR><TD WIDTH="48%" VALIGN="MIDDLE">
+<FONT SIZE=3><P>   Proceeds from Settlement</FONT></TD>
+<TD WIDTH="12%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0      </FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">($ &nbsp;&nbsp;&nbsp;614)</FONT></TD>
+</TR>
+<TR><TD WIDTH="48%" VALIGN="MIDDLE">
+<FONT SIZE=3><P>Operating Income </FONT></TD>
+<TD WIDTH="12%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 1,418 </FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 1,754 </FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;5,643</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;6,952</FONT></TD>
+</TR>
+<TR><TD WIDTH="48%" VALIGN="MIDDLE">
+<FONT SIZE=3><P>Net Earnings </FONT></TD>
+<TD WIDTH="12%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;&nbsp;875</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 1,169</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;3,607</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;4,389</FONT></TD>
+</TR>
+<TR><TD WIDTH="48%" VALIGN="MIDDLE">
+<FONT SIZE=3><P>Earnings Per Basic Share</FONT></TD>
+<TD WIDTH="12%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;0.12</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;0.16</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;&nbsp;0.48</FONT></TD>
+<TD WIDTH="13%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;&nbsp;0.60</FONT></TD>
+</TR>
+<TR><TD WIDTH="48%" VALIGN="TOP">
+<FONT SIZE=3><P>Earnings Per Common Share- Diluted (as reported)</FONT></TD>
+<TD WIDTH="12%" VALIGN="TOP">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;0.11</FONT></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;0.15</FONT></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;&nbsp;0.44</FONT></TD>
+<TD WIDTH="13%" VALIGN="TOP">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;&nbsp;0.56</FONT></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<FONT SIZE=3><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<P ALIGN="JUSTIFY">&nbsp;</P></FONT>
+<P ALIGN="CENTER"><CENTER><TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=377>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT SIZE=3><P ALIGN="CENTER">Fiscal 2004 and 2003 Condensed Balance Sheet Highlights</P>
+<P ALIGN="CENTER">(in thousands) (unaudited):</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="56%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="44%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="CENTER">As of the Period Ended</P>
+<P ALIGN="CENTER">June 30</FONT></TD>
+</TR>
+<TR><TD WIDTH="56%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="22%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">   <U>2004</U></FONT></TD>
+<TD WIDTH="21%" VALIGN="MIDDLE">
+<U><FONT SIZE=3><P ALIGN="RIGHT">2003</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="56%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="22%" VALIGN="MIDDLE">&nbsp;</TD>
+<TD WIDTH="21%" VALIGN="MIDDLE">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="56%" VALIGN="MIDDLE">
+<FONT SIZE=3><P>Cash and Cash Equivalents</FONT></TD>
+<TD WIDTH="22%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 10,213</FONT></TD>
+<TD WIDTH="21%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;7,525</FONT></TD>
+</TR>
+<TR><TD WIDTH="56%" VALIGN="MIDDLE">
+<FONT SIZE=3><P>Working Capital</FONT></TD>
+<TD WIDTH="22%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;9,783 </FONT></TD>
+<TD WIDTH="21%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ &nbsp;&nbsp;4,241</FONT></TD>
+</TR>
+<TR><TD WIDTH="56%" VALIGN="MIDDLE">
+<FONT SIZE=3><P>Stockholders' Equity</FONT></TD>
+<TD WIDTH="22%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 30,065</FONT></TD>
+<TD WIDTH="21%" VALIGN="MIDDLE">
+<FONT SIZE=3><P ALIGN="RIGHT">$ 23,935</FONT></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<FONT SIZE=3><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P><DIR>
+<DIR>
+<DIR>
+
+<P ALIGN="JUSTIFY">Mediware provides clinical information systems for hospitals and integrated healthcare delivery systems. Its products include HEMOCARE LifeLine<FONT FACE="Symbol">&#228;</FONT>
+, Hemocare&reg;, LifeLine&reg; and LifeTrak&reg; (blood bank), WORx&reg;, Pharmakon&reg;, and Digimedics&trade; (pharmacy), Surgiware&trade; and Perioperative Solutions&trade; (operating room), as well as the JAC Stock Control System (pharmacy) in the United Kingdom. Mediware has over 1,100 systems installed in the U.S., Canada, the U.K., and elsewhere.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="CENTER">#&#9;&#9;#&#9;&#9;#</P>
+<P ALIGN="JUSTIFY"></P>
+</FONT><I><FONT FACE="CG Times,Times New Roman"><P ALIGN="JUSTIFY">Certain statements in this press release may constitute "forward-looking'' statements within the meaning of the Private Securities Litigation Reform Act of 1995, as the same may be amended from time to time (the ``Act'') and in releases made by the SEC from time to time. Such forward-looking statements are not based on historical facts and involve known and unknown risks, uncertainties and other factors disclosed in the Company's Annual Report on Form 10-K for the year ended June 30, 2004, which may cause the actual results of the Company to be materially different from any future results expressed or implied by such forward-looking statements. The Company disclaims any obligation to update its forward-looking statements. </P>
+</I></FONT><FONT SIZE=3><P ALIGN="JUSTIFY"></P>
+</FONT><P ALIGN="JUSTIFY">8/31/04</P>
+<FONT FACE="CG Times,Times New Roman">
+<P>&nbsp;</P></DIR>
+</DIR>
+</DIR>
+</FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

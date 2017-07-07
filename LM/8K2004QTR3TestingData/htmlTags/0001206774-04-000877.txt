@@ -1,0 +1,2422 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ArrAOQv4dKMzb0fdeWHhQZ1ALJIM03u2vt+rxAgzTjxYtO7BejjSMXZmTS2udZHl
+ LmZte29/trXCDaVS+q0bnw==
+
+<SEC-DOCUMENT>0001206774-04-000877.txt : 20040826
+<SEC-HEADER>0001206774-04-000877.hdr.sgml : 20040826
+<ACCEPTANCE-DATETIME>20040826115602
+ACCESSION NUMBER:		0001206774-04-000877
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040825
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040826
+DATE AS OF CHANGE:		20040826
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XETA TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0000742550
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE & TELEGRAPH APPARATUS [3661]
+		IRS NUMBER:				731130045
+		STATE OF INCORPORATION:			OK
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-16231
+		FILM NUMBER:		04997912
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1814 WEST TACOMA
+		CITY:			BROKEN ARROW
+		STATE:			OK
+		ZIP:			74012
+		BUSINESS PHONE:		9186648200
+
+	MAIL ADDRESS:	
+		STREET 1:		1814 WEST TACOMA
+		CITY:			BROKEN ARROW
+		STATE:			OK
+		ZIP:			74012
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	XETA CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>xt71295.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<html>
+
+<head>
+<title></title>
+</head>
+
+<body bgcolor="white">
+
+<p  align="center"><font size="5" face="Times New Roman"><b>UNITED STATES<br> SECURITIES AND EXCHANGE COMMISSION</b></font><br>
+<font size="3"><b>Washington, D.C.&#160; 20549</b></font></p>
+<p  align="center">
+<font size="5" face="Times New Roman"><b>FORM 8-K</b></font></p>
+<p  align="center">
+<font size="3" face="Times New Roman"><b>CURRENT REPORT<br> Pursuant to Section 13 or 15(d) of the Securities and Exchange Act of 1934</b></font></p>
+<p>
+<font size="2" face="Times New Roman"><b>Date of Report (Date of earliest event reported):&#160; August 25, 2004 </b></font></p>
+<table align="center"  border="0" style="border-collapse:collapse" cellspacing="0"  cellpadding="0"  width="100%">
+
+ <tr>
+  <td  colspan="8"  valign="bottom">
+  <p align="center">
+<font size="6" face="Times New Roman"><b>XETA Technologies, Inc.</b></font></p>  </td>
+ </tr>
+ <tr>
+  <td  colspan="8"  valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+ </tr>
+ <tr>
+  <td  colspan="8"  valign="bottom">
+  <p align="center">
+<font size="1" face="Times New Roman"><b>(Exact   name of registrant as specified in its charter)</b></font></p>  </td>
+ </tr>
+ <tr>
+  <td width="32%" valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td width="3%" colspan="2" valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td width="29%" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td width="2%" colspan="2" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td width="32%" colspan="2" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p align="center">
+<font size="2" face="Times New Roman"><b>Oklahoma</b></font></p>  </td>
+  <td  colspan="2" valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center">
+<font size="2" face="Times New Roman"><b>0-16231</b></font></p>  </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center">
+<font size="2" face="Times New Roman"><b>73-1130045</b></font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+  <td  colspan="2" valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p align="center"><font size="1" face="Times New Roman"><b>(State or   other jurisdiction of incorporation)</b></font></p>  </td>
+  <td  colspan="2" valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center">
+<font size="1" face="Times New Roman"><b>(Commission   File Number)</b></font></p>  </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center">
+<font size="1" face="Times New Roman"><b>(IRS   Employer Identification No.)</b></font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+ </tr>
+</table>
+
+<br>
+
+<table align="center" width="100%">
+ <tr>
+  <td  width="50%"valign="bottom">
+  <p align="center">
+<font size="2" face="Times New Roman"><b>1814 West Tacoma, Broken Arrow, Oklahoma</b></font></p>  </td>
+  <td  colspan="2" valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  width="40%" colspan="2" valign="bottom">
+  <p  align="center">
+<font size="2" face="Times New Roman"><b>74012</b></font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+  <td  colspan="2" valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p align="center"><font size="1" face="Times New Roman"><b>(Address   of principal executive offices)</b></font></p>  </td>
+  <td  colspan="2" valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center">
+<font size="1" face="Times New Roman"><b>(Zip Code)</b></font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+ </tr>
+ <tr>
+  <td  colspan="8"  valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em">
+<font size="2" face="Times New Roman"><b>Registrant&#146;s telephone number, including   area code:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;918-664-8200</b></font></p>  </td>
+ </tr>
+ <tr>
+  <td  colspan="8"  valign="bottom">
+  <p style="margin-left:1em; text-indent:-1em"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+ </tr>
+
+ <tr>
+  <td  colspan="8"  valign="bottom">
+<p><font>&nbsp;</font></p>
+   </td>
+ </tr>
+
+ <tr>
+  <td  colspan="8"  valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+ </tr>
+ <tr>
+  <td  colspan="8"  valign="bottom">
+  <p align="center">
+<font size="1" face="Times New Roman"><b>(Former   name or address, if changed since last report.)</b></font></p>  </td>
+ </tr>
+ <tr>
+
+  <td  style='border:none'></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
+
+<p>
+<font size="2" face="Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></p>
+<p>
+<font size="2" face="Times New Roman">[&nbsp;&nbsp;]&nbsp;&nbsp;Written communications pursuant to Rule 425 under the Securities Act</font></p>
+<p>
+<font size="2" face="Times New Roman">[&nbsp;&nbsp;]&nbsp;&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act</font></p>
+
+<p><font size="2" face="Times New Roman">[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act</font></p>
+<p>
+<font size="2" face="Times New Roman">[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act</font></p>
+
+<div style="page-break-before:always"></div>
+<PAGE>
+<br>
+
+<p>
+<font size="2" face="Times New Roman">Item 2.02.&nbsp;&nbsp;<u>Results of Operations and Financial Condition</u>.</font></p>
+<p>
+<font size="2" face="Times New Roman">On August 25, 2004, XETA Technologies, Inc. issued a press release reporting the Company&#146;s financial results for the third quarter of fiscal 2004.&#160; A copy of the Company&#146;s press release is attached hereto as Exhibit 99.1.</font></p>
+<p>
+<font size="2" face="Times New Roman">Item 9.01.&nbsp;&nbsp;<u>Financial Statements and Exhibits</u>.</font></p>
+<p>
+<font size="2" face="Times New Roman">&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibits.</font></p>
+<p>
+<font size="2" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press release issued by XETA Technologies, Inc. dated August 25, 2004.</font></p>
+<p>
+<font size="2" face="Times New Roman">The information in this Form 8-K shall not be deemed &#147;filed&#148; for purposes of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, regardless of any general incorporation language in such filing.</font></p>
+
+<p  align="center"><font size="2" face="Times New Roman">2</font></p>
+
+<div style="page-break-before:always"></div>
+<PAGE>
+<br>
+
+<p  align="center">
+<font size="2" face="Times New Roman">SIGNATURES</font></p>
+<p>
+<font size="2" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. </font></p>
+<table align="center"  border="0" style="border-collapse:collapse" cellspacing="0"  cellpadding="0"  width="100%">
+  <tr>
+    <td width="54%" valign="bottom">
+      <p><font size="1" face="Times New Roman">&nbsp;</font></p>
+    </td>
+    <td colspan="2" valign="bottom">
+      <p> <font size="2" face="Times New Roman">XETA T<small>ECHNOLOGIES</small><small></small>,
+        I<small>NC</small><small></small>.</font></p>
+      </td>
+  </tr>
+  <tr>
+    <td  valign="bottom">
+      <p> <font size="1" face="Times New Roman">&nbsp;</font></p>
+    </td>
+    <td  valign="bottom" colspan="2">
+      <p><font size="2" face="Times New Roman">(Registrant)</font></p>
+      </td>
+  </tr>
+  <tr>
+    <td  valign="bottom">
+      <p> <font size="1" face="Times New Roman">&nbsp;</font></p>
+    </td>
+    <td  valign="bottom">
+      <p> <font size="1" face="Times New Roman">&nbsp;</font></p>
+    </td>
+    <td  valign="bottom">
+      <p> <font size="1" face="Times New Roman">&nbsp;</font></p>
+    </td>
+  </tr>
+  <tr>
+    <td  valign="bottom">
+      <p> <font size="2" face="Times New Roman">Dated:&nbsp;&nbsp;&nbsp;August
+        25, 2004</font></p>
+    </td>
+    <td  valign="bottom">
+      <p> <font size="2" face="Times New Roman">By:</font></p>
+    </td>
+    <td  valign="bottom">
+      <p  align="center"> <font size="2" face="Times New Roman">/s/&nbsp;R<small>OBERT</small>&nbsp;B.&nbsp;W<small>AGNER</small><small></small></font></p>
+    </td>
+  </tr>
+  <tr>
+    <td  valign="bottom">
+      <p> <font size="1" face="Times New Roman">&nbsp;</font></p>
+    </td>
+    <td  valign="bottom">
+      <p> <font size="1" face="Times New Roman">&nbsp;</font></p>
+    </td>
+    <td  valign="bottom">
+      <hr size="1" width="100%" noshade color=black>
+    </td>
+  </tr>
+  <tr>
+    <td  valign="bottom">
+      <p> <font size="1" face="Times New Roman">&nbsp;</font></p>
+    </td>
+    <td  valign="bottom">
+      <p> <font size="1" face="Times New Roman">&nbsp;</font></p>
+    </td>
+    <td  valign="bottom">
+      <p  align="center"> <font size="1" face="Times New Roman"><b>Robert B. Wagner</b></font></p>
+    </td>
+  </tr>
+  <tr>
+    <td  valign="bottom">
+      <p><font size="1" face="Times New Roman">&nbsp;</font></p>
+    </td>
+    <td  valign="bottom">
+      <p><font size="1" face="Times New Roman">&nbsp;</font></p>
+    </td>
+    <td  valign="bottom">
+      <p  align="center"><font size="1" face="Times New Roman"><b>Chief Financial
+        Officer</b></font></p>
+    </td>
+  </tr>
+</table>
+
+<p  align="center"><font size="2" face="Times New Roman">3</font></p>
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1 CHARTER
+<SEQUENCE>2
+<FILENAME>xt71295ex991.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+
+<head>
+<title></title>
+</head>
+
+<body bgcolor="white">
+
+
+
+
+<p align="center"><font size="2" face="Times New Roman"><img src="image001.jpg"></font></p>
+
+<hr size="4" width="100%" noshade color=black>
+
+
+<p>
+<font size="2" face="Times New Roman"><b><u>NEWS RELEASE</u></b></font></p>
+<table align="center"  border="0" style="border-collapse:collapse" cellspacing="0"  cellpadding="0"  width="100%">
+
+ <tr>
+  <td width="13%" valign="top">
+  <p>
+<font size="2" face="Times New Roman">Date:</font></p>  </td>
+  <td width="86%" valign="top">
+  <p>
+<font size="2" face="Times New Roman">August 25,   2004</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="top">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="top">
+  <p>
+<font size="2" face="Times New Roman">FOR   IMMEDIATE RELEASE</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="top">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="top">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="top">
+  <p>
+<font size="2" face="Times New Roman">Contact:</font></p>  </td>
+  <td  valign="top">
+  <p>
+<font size="2" face="Times New Roman">Cheryl Moll</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="top">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="top">
+  <p>
+<font size="2" face="Times New Roman">XETA   Technologies</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="top">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="top">
+  <p>
+<font size="2" face="Times New Roman">(918)   664-8200</font></p>  </td>
+ </tr>
+</table>
+
+<p  align="center">
+<font size="2" face="Times New Roman"><b>XETA TECHNOLOGIES REPORTS</b><br> <b>THIRD QUARTER RESULTS</b></font></p>
+<p>
+<font size="2" face="Times New Roman"><b>Broken Arrow, Okla.</b> &#151;XETA Technologies (NASDAQ: XETA) today reported third quarter earnings of $0.371 million, or $0.04 per diluted share, on revenues of $13.9 million for the fiscal quarter ended July 31, 2004. This compares to earnings of $0.376 million, or $0.04 per diluted share, on revenues of $12.9 million for the third quarter of 2003.</font></p>
+
+<p><font size="2" face="Times New Roman">The Company also reported nine-month year-to-date earnings of $1.343 million, or $0.13 per diluted share, on revenues of $44.0 million. In the comparable nine months of 2003, earnings were $1.180 million, or $0.12 per diluted share, on revenues of $40.1 million.</font></p>
+<p>
+<font size="2" face="Times New Roman">&#147;Considering the continued sluggishness in capital spending in our market space, we are pleased with the steady revenue growth we are seeing this year,&#148; said Jack Ingram, President and CEO of XETA Technologies. &#147;We are especially pleased with our 15 percent growth in services revenues, and we accomplished this while maintaining margins. Growth in this recurring revenue stream, with the maintenance of the margins, was a primary initiative for this year. We fully expect the growth in services to continue.&#148;</font></p>
+<p>
+<font size="2" face="Times New Roman">XETA&#146;s 9 percent growth in systems sales is essentially triple the overall enterprise communications market growth rate of 2.7 percent to 3 percent. &#147;While 9 percent growth is well below the rate to which we are historically accustomed, we are pleased that we continue to significantly outperform the market,&#148; said Ingram</font></p>
+<p>
+<font size="2" face="Times New Roman">&#147;On a year-to-date basis, our earnings growth rate of 14 percent continues to exceed our revenue growth rate of 10 percent,&#148; he continued. &#147;We&#146;ve accomplished this despite a 3-point decline in overall profit margins. This margin decline is the result of pressures on system sales caused by competitive factors and compounded by reductions in rebate programs and price support initiatives from our major equipment supplier. Adjustments are being made to abate the future effects of these factors and prevent further erosion.&#148;</font></p>
+
+<div style="page-break-before:always"></div>
+<PAGE>
+<br>
+
+<p>
+<font size="2" face="Times New Roman">The third quarter operational highlight was XETA&#146;s acquisition of Bluejack Systems, a Nortel business partner headquartered in Seattle, Washington. The deal was finalized on August 2.</font></p>
+<p>
+<font size="2" face="Times New Roman">&#147;Bluejack&#146;s sales and services activities will be operated as a branch office serving customers in the Pacific Northwest, while administrative and support functions will be centralized at our headquarters here in Oklahoma,&#148; said Larry Patterson, Executive Director of Operations for XETA. &#147;Our re-entry into the acquisition market reflects our improved confidence in the predictability of the economy and we plan to expand this branch model of operations through additional acquisitions and/or organic growth. We are very excited about this opportunity and expect the Seattle branch to begin positive contributions to earnings as early as the fourth fiscal quarter of this year.&#148;</font></p>
+
+<p><font size="2" face="Times New Roman">According to Patterson, the third quarter also saw XETA all but complete its 15-month buildup of technical expertise for the Nortel family of products. XETA has achieved Nortel&#146;s highest certification level in most of this extensive product line and will complete the remainder in the next few weeks. This accomplishment places XETA as one of only 10 Nortel partners (out of a total of approximately 1,000 partners) with such certification levels. </font></p>
+<p>
+<font size="2" face="Times New Roman">&#147;We are very pleased that the process is ahead of schedule and expect significant sales of this new product line to begin in the first quarter of fiscal 2005,&#148; added Patterson. &#147;We feel the addition of this Nortel product line will in no way compete with our efforts to continue aggressively marketing the Avaya products. We plan to continue expansion of our Avaya efforts and see the Nortel initiative as a very significant addition.&#148;</font></p>
+<p>
+<font size="2" face="Times New Roman">Ingram said XETA is cautiously optimistic about the fourth fiscal quarter, which is traditionally one of the company&#146;s strongest. &#147;Assuming this trend is realized, we expect revenues to exceed those of the third quarter with earnings in the 5 to 9 cents per share range. And while we feel the market continues to exhibit an unnatural degree of sluggishness, at least the predictability of the economy is quickly returning to the point where we will be able to re-institute longer range guidance to the stockholders. Assuming there is continued improvement through the quarter, we intend to resume our practice of publishing our revenue and earnings targets for the upcoming year. Until then, we will continue setting expectations one quarter at a time.&#148;</font></p>
+<p>
+<font size="2" face="Times New Roman">XETA Technologies will host a conference call to discuss issues related to this press release at 10 a.m. CDST on Thursday, August 26. The media, analysts and investors are invited to participate by dialing 800-450-0785.&#160; A replay of the call will be available from 1:30 p.m. on August 26 until 11:59 p.m. on September 2 by dialing 800-475-6701, access code 734379. The third quarter 10-Q will be available within the &#147;SEC Filings&#148; section of the Company&#146;s website at www.xeta.com. </font></p>
+<table align="center"  border="0" style="border-collapse:collapse" cellspacing="0"  cellpadding="0"  width="100%">
+
+ <tr>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="5"  valign="bottom">
+  <p  align="center">
+<font size="1" face="Times New Roman"><b>Quarter   Ending July 31</b></font></p>  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="5"  valign="bottom">
+  <p  align="center">
+<font size="1" face="Times New Roman"><b>Nine   Months Ending July 31</b></font></p>  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="5"  valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="5"  valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center"><font size="1" face="Times New Roman"><b>2004</b></font></p>  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center">
+<font size="1" face="Times New Roman"><b>2003</b></font></p>  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center">
+<font size="1" face="Times New Roman"><b>2004</b></font></p>  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center">
+<font size="1" face="Times New Roman"><b>2003</b></font></p>  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td width="43%" valign="bottom">
+  <p><font size="2" face="Times New Roman">Revenues</font></p>  </td>
+  <td width="2%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="1%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="8%" valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Systems</font></p>  </td>
+  <td width="2%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="1%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="8%" valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">7,052</font></p>  </td>
+  <td width="2%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="1%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="8%" valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">6,851</font></p>  </td>
+  <td width="2%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="1%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="8%" valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">23,539</font></p>  </td>
+  <td width="2%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="1%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="8%" valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">21,586</font></p>  </td>
+  <td width="1%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Services</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">6,685</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">5,703</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">19,961</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">17,425</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p><font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Other</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">153</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">356</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">508</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">1,096</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Total</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">13,890</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">12,910</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">44,008</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">40,107</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p><font size="2" face="Times New Roman">Gross Profit   Margins</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">24</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">%</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">28</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">%</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">24</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">%</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">27</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">%</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Operating   Expense</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">2,755</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">2,818</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">8,435</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">8,601</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p><font size="2" face="Times New Roman">Income from   Operations</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">607</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">742</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">2,156</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">2,316</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Interest and   Other Expense</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">2</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">-125</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">50</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">-376</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p><font size="2" face="Times New Roman">Net Income   After Tax</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">371</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">376</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">1,343</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">1,180</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Basic   Earnings Per Share</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">$</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">0.04</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">$</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">0.04</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">$</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">0.13</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">$</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">0.12</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p><font size="2" face="Times New Roman">Diluted   Earnings Per Share</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">$</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">0.04</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">$</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">0.04</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">$</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">0.13</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">$</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">0.12</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Wt. Avg.   Common Shares Outstanding</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">10,012</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">9,878</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">10,007</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">9,769</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p><font size="2" face="Times New Roman">Wt. Avg.   Common Equivalent Shares</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">10,147</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">10,042</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">10,184</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">9,970</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+</table>
+
+<p  align="center">
+<font size="2" face="Times New Roman">(The information is presented in thousands except percentages and per-share data.)</font></p>
+
+<div style="page-break-before:always"></div>
+<PAGE>
+<br>
+
+<table align="center"  border="0" style="border-collapse:collapse" cellspacing="0"  cellpadding="0"  width="94%">
+
+ <tr>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center">
+<font size="1" face="Times New Roman"><b>July 31,   2004</b></font></p>  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <p  align="center">
+<font size="1" face="Times New Roman"><b>October   31, 2003</b></font></p>  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  colspan="2" valign="bottom">
+  <hr size="1" width="100%" noshade color=black>
+
+  </td>
+  <td  valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td width="27%" valign="bottom">
+  <p><font size="2" face="Times New Roman">Assets</font></p>  </td>
+  <td width="2%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="1%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="15%" valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Current</font></p>  </td>
+  <td width="2%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="1%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="20%" valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Cash</font></p>  </td>
+  <td width="2%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="1%" valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td width="10%" valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">244</font></p>  </td>
+  <td width="2%" valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td width="1%" valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td width="11%" valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">291</font></p>  </td>
+  <td width="1%" valign="bottom">
+  <p  align="center"><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p><font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Receivables   (net)</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">8,091</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">5,795</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Inventories   (net)</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">5,889</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">5,615</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p><font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Other</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">1,682</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">2,188</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Subtotal</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">15,906</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">13,889</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p><font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Non-Current</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Receivables   (net)</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">341</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">420</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">PPE (net)</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">10,677</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">10,467</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p><font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Goodwill</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">25,685</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">25,727</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Other</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">64</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">170</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p><font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Subtotal</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">36,767</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">36,784</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Total Assets</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">52,673</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">50,673</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p><font size="2" face="Times New Roman">Liabilities</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Current</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Notes   Payable</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">1,210</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">1,210</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Revolving   Line of Credit</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">3,136</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">719</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p><font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Accounts   Payable</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">2,951</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">3,929</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Unearned   Revenue</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">1,528</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">1,620</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p><font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Accrued   Liabilities</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">2,017</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">2,206</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Subtotal</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">10,842</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">9,684</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p><font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Non-Current</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Long Term   Debt</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">3,123</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">4,030</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Other</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">2,683</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">2,348</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p><font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Subtotal</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">5,806</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">6,378</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr bgcolor="#cceeff">
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="2" face="Times New Roman">Total   Liabilities</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">16,648</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">16,062</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+ <tr>
+  <td  valign="bottom">
+  <p><font size="2" face="Times New Roman">Equity</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right><font size=1 face="Times New Roman">&nbsp;</font></p> </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">36,025</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+  <td  valign="bottom">
+  <p  align=right>
+<font size="2" face="Times New Roman">34,611</font></p>  </td>
+  <td  valign="bottom">
+  <p>
+<font size="1" face="Times New Roman">&nbsp;</font></p>  </td>
+ </tr>
+</table>
+
+<p  align="center">
+<font size="2" face="Times New Roman">(The information is presented in thousands)</font></p>
+<p  align="center">
+<font size="2" face="Times New Roman"><b># # #</b></font></p>
+<p>
+<font size="2" face="Times New Roman"><b>About XETA Technologies </b></font></p>
+<p>
+          <font size="2" face="Times New Roman">XETA Technologies is a leading
+          provider of communications solutions with sales and service locations
+          nationwide, serving national business clients in sales, consulting,
+          engineering, project management, installation and service support.
+          Through internal growth and corporate acquisitions, XETA is a
+          frontrunner in the emerging, highly technical world of converged
+          communications solutions for voice, data and video applications.&#160;
+          XETA is one of the largest providers of Avaya voice and data systems
+          and has recently added the Nortel Networks product line of voice and
+          data solutions.&#160; XETA is also the largest distributor for
+          Hitachi&#146;s PBX group&#151;the leading provider of communication
+          systems for the lodging industry&#151;and has long been recognized as
+          the leading provider of call accounting solutions to the hospitality
+          industry.</font></p>
+
+<div style="page-break-before:always"></div>
+<PAGE>
+<br>
+
+<p>
+<font size="2" face="Times New Roman">XETA Technologies has recently been recognized by Business 2.0 magazine&#146;s &#147;Fastest-Growing Technology Companies&#148; and has also been recognized by Fortune Small Business magazine&#146;s Top 100 Fastest-Growing Companies, Fortune magazine&#146;s &#147;100 Fastest-Growing Companies,&#148; Forbes magazine&#146;s &#147;Best 200 Small Companies in America&#148; and BusinessWeek&#146;s &#147;Top 100 Hot Growth Companies.&#148; For more information about XETA Technologies, visit <u>www.xeta.com</u></font></p>
+<p>
+<font size="2" face="Times New Roman">This news release contains forward-looking statements, which are made subject to the provisions of the Private Securities Litigation Reform Act of 1995. These statements include statements concerning XETA&#146;s plans and expectations with regard to growth in services revenues, expansion of branch model operations, contributions from its Seattle branch, sales of Nortel product, and revenues and earnings expectations for the fourth quarter of fiscal 2004. These and other forward-looking statements (generally identified by such words as &#147;expects,&#148; &#147;plans,&#148; &#147;believes,&#148; &#147;anticipates&#148; and similar words or expressions) reflect management&#146;s current expectations, assumptions, and beliefs based upon information currently available to management. Investors are cautioned that all forward-looking statements are subject to certain risks and uncertainties which are difficult to predict and that could cause actual results to differ
+materially from those projected. These risks and uncertainties include, but are not limited to, the state of the U.S. economy and the telecommunications market specifically, the Company&#146;s ability to successfully exploit the Nortel Networks market, recent SEC problems at Nortel Networks, the continuance of various vendor incentive programs that support the Company&#146;s sales and marketing efforts, the long term success of the Company&#146;s growth strategies, market acceptance of and demand for the Company&#146;s product and service offerings, competition, inflation, and the availability and retention of sales professionals and trained technicians. Additional factors which could affect actual results are described in the section entitled &#147;Outlook and Risk Factors&#148; contained in the Company&#146;s Form 10-K for its fiscal year ended October 31, 2003.</font></p>
+
+<p><font size=1 face="Times New Roman">&nbsp;</font></p>
+
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>image001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 image001.jpg
+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
+7`I2E`*4I0"E*4`I2E`*4I0"E*4!__]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

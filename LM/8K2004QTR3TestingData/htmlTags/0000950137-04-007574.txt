@@ -1,0 +1,1656 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Mi25NyTTQnFIPYm8/wmCBzhLodJDcVxnvO5r5aE1Rc8zr4Clym1bfr5K9cuqUM0t
+ cSKAPo9Rfu7RJNj3tp22jQ==
+
+<SEC-DOCUMENT>0000950137-04-007574.txt : 20040909
+<SEC-HEADER>0000950137-04-007574.hdr.sgml : 20040909
+<ACCEPTANCE-DATETIME>20040909123843
+ACCESSION NUMBER:		0000950137-04-007574
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040908
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040909
+DATE AS OF CHANGE:		20040909
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AASTROM BIOSCIENCES INC
+		CENTRAL INDEX KEY:			0000887359
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		IRS NUMBER:				943096597
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22025
+		FILM NUMBER:		041022199
+
+	BUSINESS ADDRESS:	
+		STREET 1:		24 FRANKL LLOYD WRIGHT DR
+		STREET 2:		PO BOX 376
+		CITY:			ANN ARBOR
+		STATE:			MI
+		ZIP:			48106
+		BUSINESS PHONE:		7349305555
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a01737e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Aastrom Biosciences, Inc.</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="25%">
+
+
+<P align="center" style="font-size: 18pt"><B>Form&nbsp;8-K</B>
+
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT<BR>
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B>
+
+
+
+<P align="center" style="font-size: 10pt">Date of report (date of earliest event reported):<BR>
+<B>September&nbsp;8, 2004</B>
+
+
+<P align="center" style="font-size: 24pt"><B>Aastrom Biosciences, Inc.</B>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="85%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="31%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Michigan</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>0-22025</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>94-3096597</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction of<BR>
+incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File No.)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer Identification<BR>
+No.)</TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>24 Frank Lloyd Wright Drive<BR>
+P.O. Box 376<BR>
+Ann Arbor, Michigan 48106</B><BR>
+(Address of principal executive offices)
+
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code:<BR>
+<B>(734)&nbsp;930-5555</B>
+
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17
+CFR 230.425)</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17
+CFR 240.14a-12)</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">Item&nbsp;2.02 Results of Operations and Financial Condition.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;9.01 Financial Statements and Exhibits.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="a01737exv99w1.htm">EXHIBIT 99.1</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link2 "Item&nbsp;2.02 Results of Operations and Financial Condition." -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;2.02 Results of Operations and Financial Condition.</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On September&nbsp;8, 2004, we issued a press release announcing financial
+results and operational achievements for our fourth fiscal quarter and fiscal
+year ended June&nbsp;30, 2004. A copy of the press release is attached hereto as
+Exhibit&nbsp;99.1.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to General Instruction B.2 of Form 8-K, this report and the
+exhibit are not deemed to be &#147;filed&#148; for purposes of Section&nbsp;18 of the
+Securities Exchange Act of 1934, nor shall this report and the exhibit be
+incorporated by reference into our filings under the Securities Act of 1933 or
+the Securities Exchange Act of 1934, except as expressly set forth by specific
+reference in such future filing.
+
+<!-- link2 "Item&nbsp;9.01 Financial Statements and Exhibits." -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01 Financial Statements and Exhibits.</B>
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right"><B>(c)</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Exhibits.</B></TD>
+</TR>
+
+</TABLE>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="55%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="11%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="84%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release dated September&nbsp;8, 2004</TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+<P align="left" style="font-size: 10pt">Date: September&nbsp;8, 2004
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3"><B>AASTROM BIOSCIENCES, INC.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000">/s/ Alan M. Wright
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Alan M. Wright&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Senior Vice President,
+Administrative and
+Financial Operations, CFO&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">2
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a01737exv99w1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Aastrom Biosciences, Inc.</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="font-size: 10pt"><IMG src="a01737a0173700.gif" alt="(AASTROM LETTERHEAD)">
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="10%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="56%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FOR IMMEDIATE RELEASE</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CONTACTS:
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Kris M. Maly or
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Kevin McGrath</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Becky Anderson
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Cameron Associates</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Investor Relations Department
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Phone: (212)&nbsp;245-4577</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Aastrom Biosciences, Inc.</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Phone: (734)&nbsp;930-5777</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>AASTROM BIOSCIENCES, INC. REPORTS FOURTH QUARTER 2004<BR>
+FINANCIAL RESULTS</B>
+
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt"><B>Ann Arbor, Michigan, September&nbsp;8, 2004 &#151; </B>Aastrom Biosciences, Inc. (NasdaqSC:
+ASTM) today reported financial results for the fourth quarter and fiscal year
+ended June&nbsp;30, 2004. The Company also reported significant achievements during
+the last quarter and fiscal year, both clinically and operationally. For the
+quarter ended June&nbsp;30, 2004, these achievements included:
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Expanding U.S. Phase I/II clinical trial for bone fractures to
+include a second site. We added The University of Michigan Health
+System&#146;s orthopedic trauma center for the trial of our bone generation
+Tissue Repair Cell (TRC)&nbsp;adult stem cell product. We expect a third
+clinical site to be included in this trial for patients with severe
+tibial leg fractures</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Appointing James A. Cour President and Chief Operating Officer on
+July 6th, strengthening senior management&#146;s operational expertise.
+Previously Mr.&nbsp;Cour held executive level management positions with
+Baxter International, Windsor VanGelder Limited and Cytomedix</TD>
+</TR>
+
+</TABLE>
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">&#147;Aastrom achieved a significant number of milestones in fiscal year 2004, led
+by the expansion and advancement of our clinical trials for patient treatment
+and our product development pipeline,&#148; commented R. Douglas Armstrong, Ph.D.,
+Chief Executive Officer and Chairman of Aastrom. &#147;We are demonstrating
+material progress toward our goal of generating a focused portfolio of adult
+stem cell-based products for the regenerative repair of damaged human tissues
+that have substantial therapeutic and commercial potential. I believe fiscal
+year 2005 is going to be an important year in our evolution from the research
+and development phase into the commercialization phase as we expand the
+clinical evaluation of our adult stem cell-based TRCs for tissue regeneration,
+and begin to report on the results.&#148;
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">Other significant highlights during the 2004 fiscal year included the
+following:
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Received the Company&#146;s first TRC-related FDA approved
+Investigational New Drug (IND)&nbsp;application for a multi-center clinical
+trial for local bone repair, followed by the initiation of our lead
+clinical trial site in Chicago, IL</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Commenced European Union (EU)&nbsp;bone graft clinical studies with
+BG-Kliniken &#145;Bergmannsheil&#146; Ruhr-University Hospital in Germany and the
+Hospital General de l&#146;Hospitalet in Barcelona, Spain. These studies
+utilize our proprietary bone-forming TRCs in combination with
+commercial synthetic matrix products to treat non-union large bone
+fractures</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Issued a patent by the U.S. Patent and Trademark Office that covers
+a method of bone marrow transplantation, often referred to as stem cell
+transplants, using cells produced with our proprietary single-pass
+perfusion technology</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">-more-
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<P align="right" style="font-size: 10pt">Aastrom-4<SUP>th</SUP> Q<BR>
+September&nbsp;8, 2004<BR>
+Page 2
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Awarded a Phase I SBIR grant by the NIH for the development of a
+bone marrow stem cell-based treatment of circulation ischemia caused by
+vascular diseases and diabetes</TD>
+</TR>
+
+</TABLE>
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt"><B>Fourth Quarter and Twelve Months ended June&nbsp;30, 2004 Results</B>
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">Total revenue for the quarter ended June&nbsp;30, 2004, consisting of product sales
+and rentals in the EU and grants, was $0.2&nbsp;million, unchanged from the same
+period in fiscal year 2003. Total revenue for the twelve months ended June&nbsp;30,
+2004 was $1.3&nbsp;million compared to $0.8&nbsp;million for the same period in fiscal
+year 2003.
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">Net loss for the quarter ended June&nbsp;30, 2004 was $2.7&nbsp;million, or $.03 per
+share, compared to a net loss of $2.7&nbsp;million, or $.05 per share for the same
+period in fiscal year 2003. Net loss for the twelve months ended June&nbsp;30,
+2004, was $10.5&nbsp;million, or $.14 per share, compared to $9.6&nbsp;million, or $.19
+per share for the same period in fiscal year 2003.
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">At June&nbsp;30, 2004, the Company had $16.9&nbsp;million in cash, cash equivalents and
+marketable securities as compared to $10.5&nbsp;million in cash, cash equivalents
+and marketable securities at June&nbsp;30, 2003.
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">&#147;Our financial condition continues to be strong. The Company&#146;s cash position
+and our controlled level of expenditures allow us to advance our ongoing bone
+grafting clinical trials, and move forward with the planned expansion of our
+clinical trials program,&#148; said Alan M. Wright, Senior Vice President
+Administrative and Financial Operations and Chief Financial Officer of Aastrom.
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">Total costs and expenses for the quarter ended June&nbsp;30, 2004 were $3.0&nbsp;million,
+compared to $2.9&nbsp;million for the same period in fiscal year 2003. Total costs
+and expenses for the twelve months ended June&nbsp;30, 2004 increased to $12.0
+million, compared to $10.6&nbsp;million for the same period in fiscal year 2003.
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">Research and development expenses for the quarter ended June&nbsp;30, 2004 increased
+slightly to $1.8&nbsp;million, from $1.5&nbsp;million for the same period in fiscal year
+2003. Research and development expenses for the twelve months ended June&nbsp;30,
+2004 increased to $6.3&nbsp;million, compared to $5.6&nbsp;million for the same period in
+fiscal year 2003. These increases reflect our continued research and product
+development activities in the area of tissue regeneration, including our
+on-going and planned bone grafting clinical trials in the United States and the
+EU.
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">Selling, general and administrative expenses increased slightly to $1.2&nbsp;million
+for the quarter ended June&nbsp;30, 2004, compared to $1.1&nbsp;million for the same
+period in fiscal year 2003. Selling, general and administrative expenses
+increased to $5.4&nbsp;million for the twelve months ended June&nbsp;30, 2004, from $4.0
+million for the same period in fiscal year 2003. The increase in these
+expenses resulted from continued expansion of business and clinical trial
+activities in the EU, and additional capital raising expenses not related to
+specific transactions. Selling, general and administrative expenses for fiscal
+year ended June&nbsp;30, 2004 also include a non-cash charge of $53,000 relating to
+certain warrants issued in August&nbsp;2003 for public and investor relations
+services and a $372,000 non-cash charge related to an employee
+performance-based stock option that vested in September&nbsp;2003.
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">Dr.&nbsp;Armstrong concluded, &#147;After serving with distinction for the past 6&nbsp;years
+we regretfully report that on August&nbsp;5, 2004, Mary Lincoln Campbell resigned
+from our Board and as audit committee chairperson, due to the requirements of
+her other business commitments. We thank Mary for her many contributions and
+for her devotion to helping guide the Company through important issues over the
+years.&#148;
+
+
+<P align="center" style="font-size: 10pt">-more-
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<P align="right" style="font-size: 10pt">Aastrom-4<SUP>th</SUP> Q<BR>
+September&nbsp;8, 2004<BR>
+Page 3
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt"><B>Outlook for the Coming Year</B>
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">Aastrom entered fiscal year 2005 with sufficient funding to support planned
+clinical and operational goals and objectives, including:
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Continue the accrual of patients in our current FDA multi-center
+bone graft trial in the U.S., and add a third institution as a clinical
+site</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Complete the first phase of clinical studies in the EU for bone
+grafting repair of severe non-union fractures; pending positive
+results, move toward commercialization</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Initiate and complete a jaw bone reconstruction clinical trial in
+the EU for sinus lift procedures for dental implants</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Prepare for and initiate an EU clinical study utilizing TRCs to
+regenerate vascular tissue in patients with diabetic limb ischemia</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pursue applicable opportunities for grants, to further define
+potential uses and applications for our proprietary technology and cell
+products</TD>
+</TR>
+
+</TABLE>
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt"><B>Aastrom Conference Call Information</B>
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">R. Douglas Armstrong, Ph.D., Chief Executive Officer and Chairman, James A.
+Cour, President and Chief Operating Officer, and Alan M. Wright, Senior Vice
+President Administrative &#038; Financial Operations and Chief Financial Officer of
+Aastrom Biosciences, Inc., will review and discuss the fourth quarter fiscal
+year 2004 financial results and the Company&#146;s recent progress and future goals
+today, September&nbsp;8, 2004, at 11:00&nbsp;a.m. (EDT)&nbsp;when they will host a conference
+call. Interested parties should call (785)&nbsp;832-1508, or toll-free (800)
+540-0559, fifteen minutes before the start of the call to register and identify
+themselves as registrants of the &#145;Aastrom Conference Call&#146;. The call will be
+simulcast on the web at
+http://phx.corporate-ir.net/playerlink.zhtml?c=85924&#038;s=wm&#038;e=938425, and the
+entire call will be archived for replay at the same site for 90&nbsp;days.
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt"><B>About Aastrom Biosciences, Inc.</B>
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">Aastrom Biosciences, Inc. (NasdaqSC: ASTM) is developing proprietary stem
+cell-based products for the regenerative repair of damaged human tissues and
+other medical disorders. Aastrom&#146;s strategic position in the tissue
+regeneration and cell therapy sectors is enabled by its proprietary Tissue
+Repair Cells (TRCs), a mix of bone marrow stem and progenitor cells, and the
+AastromReplicell&#174; System, an industry-unique automated cell production platform
+used to produce cells for clinical use. Together TRCs and the AastromReplicell
+System provide a foundation that the Company is leveraging to produce multiple
+Prescription Cell Products (PCPs), the first of which is now in the clinical
+stage in the U.S. and EU.
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">TRCs are the core component of the PCPs Aastrom is developing for the bone
+grafting, peripheral vascular disease and cartilage markets. The Company also
+markets the AastromReplicell System and disposable dendritic cell production
+kits to researchers and institutions developing vaccines to treat cancer and
+infectious diseases, under its Cell Production Products line.
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">For more information, visit Aastrom&#146;s website at www.aastrom.com.
+
+
+<P align="center" style="font-size: 10pt">-more-
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<P align="right" style="font-size: 10pt">Aastrom-4<SUP>th</SUP> Q<BR>
+September&nbsp;8, 2004<BR>
+Page 4
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt"><I>This document contains forward-looking statements, including without
+limitation, statements concerning clinical trial plans and expectations,
+intended product development and commercialization objectives, the expected
+adequacy of capital resources to support planned activities, plans for the
+current fiscal year, potential product applications, and potential advantages
+of the AastromReplicell System and related cell therapy products, which involve
+certain risks and uncertainties. The forward-looking statements are also
+identified through use of the words &#147;expect,&#148; &#147;planned,&#148; &#147;potential,&#148;
+&#147;believe,&#148; and other words of similar meaning. Actual results may differ
+significantly from the expectations contained in the forward-looking
+statements. Among the factors that may result in differences are the inherent
+uncertainties associated with clinical trial and product development
+activities, regulatory approval requirements, the availability of resources and
+the allocation of resources among different potential uses. </I><B><I>These and other
+significant factors are discussed in greater detail in Aastrom&#146;s Annual Report
+on Form10-K and other filings with the Securities and Exchange Commission.</I></B>
+
+
+<P align="center" style="font-size: 10pt">&#151; Financial Table Follows &#151;
+
+
+
+<P align="center" style="font-size: 10pt">-more-
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<P align="center" style="font-size: 10pt"><B>AASTROM BIOSCIENCES, INC.</B>
+
+
+
+<P align="left" style="font-size: 10pt"><B>CONSOLIDATED STATEMENT OF OPERATIONS DATA:</B>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Quarter ended June 30,</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Year ended June 30,</B><HR size="1" noshade></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2003</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2004</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2003</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2004</B><HR size="1" noshade></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>(Unaudited)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">REVENUES:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Product sales and rentals</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">16,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">4,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">314,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">49,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Grants and other</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">159,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">206,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">530,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,253,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:40px; text-indent:-10px">Total revenues</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">175,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">210,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">844,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,302,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">COSTS AND EXPENSES:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Cost of product sales and rentals</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">145,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">27,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Cost of product sales and rentals &#150; provision
+for obsolete and excess inventory</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">303,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">748,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">253,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Research and development</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,479,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,818,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,647,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,289,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Selling, general and administrative</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,148,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,190,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,017,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,390,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:40px; text-indent:-10px">Total costs and expenses</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,943,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,013,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10,557,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">11,959,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">OTHER INCOME</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">30,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">56,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">134,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">169,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">NET LOSS</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(2,738,000</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(2,747,000</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(9,579,000</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(10,488,000</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">NET LOSS PER SHARE</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">(Basic and Diluted)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(.05</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(.03</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(.19</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(.14</TD>
+    <TD nowrap>)</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Weighted average number of common shares outstanding</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">58,945,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">80,713,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">50,984,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">73,703,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="left" style="font-size: 10pt"><B>CONSOLIDATED BALANCE SHEET DATA:</B>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="65%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="77%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="8%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="9%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>June 30, 2004</B><HR size="1" noshade></TD>
+</TR>
+
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">ASSETS:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Cash and investments </DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">16,926,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Other current assets </DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">906,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Property, net </DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">334,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Total assets </DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">18,166,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">LIABILITIES AND SHAREHOLDERS&#146; EQUITY:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Current liabilities </DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">558,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Shareholders&#146; equity </DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">17,608,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #eeeeee">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Total liabilities and shareholders&#146; equity </DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">18,166,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><HR size="4" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"># # #
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>a01737a0173700.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 a01737a0173700.gif
+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
+62$="$C[;T!(M4U#'$08]T3H7$```.S\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

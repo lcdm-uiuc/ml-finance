@@ -1,0 +1,518 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ro65Go0GJijt3Ft2j5P2c22ga+0lwtCReeEphT8EFzml4VzlJiyrsTCFmuN51a5x
+ ix64pNSAsvUlRFXlGElf7A==
+
+<SEC-DOCUMENT>0000891092-04-004317.txt : 20040901
+<SEC-HEADER>0000891092-04-004317.hdr.sgml : 20040901
+<ACCEPTANCE-DATETIME>20040901103107
+ACCESSION NUMBER:		0000891092-04-004317
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040831
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040901
+DATE AS OF CHANGE:		20040901
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CARREKER CORP
+		CENTRAL INDEX KEY:			0001057709
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				751622836
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24201
+		FILM NUMBER:		041009874
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4055 VALLEY VIEW LANE
+		STREET 2:		STE 1000
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75244
+		BUSINESS PHONE:		9724581981
+
+	MAIL ADDRESS:	
+		STREET 1:		4055 VALLEY VIEW LANE
+		STREET 2:		STE 1000
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75244
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CARREKER ANTINORI INC
+		DATE OF NAME CHANGE:	19980313
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>e18982_8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                                    FORM 8-K
+                                 CURRENT REPORT
+
+                     Pursuant to Section 13 or 15(d) of the
+                         Securities Exchange Act of 1934
+
+                                 Date of Report
+              (Date of earliest event reported): September 1, 2004
+
+                              CARREKER CORPORATION
+               (Exact name of registrant as specified in charter)
+
+         Delaware                         0-24201                 75-1622836
+(State or other jurisdiction            (Commission             (IRS Employer
+     of incorporation)                  File Number)         Identification No.)
+
+                              4055 Valley View Lane
+                               Dallas, Texas 75244
+                    (Address of principal executive offices)
+
+                                 (972) 458-1981
+              (Registrant's telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act
+    (17 CFR 230.425).
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+    (17 CFR 240.14a-12).
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+    Act (17 CFR 240.14d-2(b)).
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+    Act (17 CFR 240.13e-4(c)).
+
+<PAGE>
+
+Item 2.02 Results of Operations and Financial Condition
+
+Carreker Corporation has reported its 2nd quarter fiscal 2004 financial results.
+The Company's press release dated August 31, 2004 announcing the results is
+attached hereto as Exhibit 99.1.
+
+The information in this Report and the exhibit attached hereto is furnished
+solely pursuant to Item 2.02 of this Form 8-K and shall not be deemed "filed"
+for purposes of Section 18 of the Securities Exchange Act of 1934, as amended
+(the "Exchange Act"), or otherwise subject to the liabilities of that Section,
+unless the registrant specifically states that the information is to be
+considered "filed" under the Securities Exchange Act or incorporates it by
+reference into a filing under the Securities Act of 1933 or the Securities
+Exchange Act of 1934.
+
+Item 9.01 Financial Statements and Exhibits
+
+      (c) Exbibits.
+
+          Exhibit
+          Number        Description
+          ------        -----------
+          99.1          Carreker Corporation press release dated August 31, 2004
+
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                                 CARREKER CORPORATION
+                                                     (Registrant)
+
+Date: September 1, 2004                          By: /s/ Lisa K. Peterson
+                                                     ---------------------------
+                                                     Executive Vice President
+                                                     and Chief Financial Officer
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>e18982ex991.txt
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+                                                                    Exhibit 99.1
+
+       Carreker Corporation Reports Second Quarter Fiscal 2004 Results
+                         and Refines Q3 2004 Guidance
+
+    DALLAS, Aug. 31 /PRNewswire-FirstCall/ -- Carreker Corporation
+(Nasdaq: CANI), a leading provider of payments technology and consulting
+solutions for the financial services industry, today reports its second
+quarter results.  For the quarter-ended July 31, 2004, the Company reports
+revenues of $29.6 million, net income of $199,000 and diluted earnings per
+share of $0.01.
+
+                                      ($ in millions, except per share data)
+                                          2Q             1Q             2Q
+                                       FY 2004        FY 2004         FY 2003
+
+    Total revenue                       $29.6           $29.8         $36.2
+    Operating income (loss)              $0.6           $(1.2)         $4.3
+    Net income (loss)                    $0.2           $(0.8)         $3.9
+    Earnings (loss) per share, basic    $0.01          $(0.03)        $0.17
+    Earnings (loss) per share,
+     diluted                            $0.01          $(0.03)        $0.17
+
+    Comparison of Q2 2004 vs. Q1 2004
+
+    Second quarter 2004 revenue was $29.6 million as compared to the first
+quarter 2004 revenue of $29.8 million.  While revenue in total was essentially
+flat, the Company did experience an increase in both software implementation
+and consulting revenue.  Both the Revenue Enhancement ("RevE") consulting
+business segment and the Global Payments Consulting ("GPC") business segment
+experienced revenue increases from the prior quarter.  Offsetting the
+aforementioned increases were declines in both software license and
+maintenance revenue, primarily within the Global Payments Technology ("GPT")
+business segment.  However, the addition of a number of significant new
+contracts in GPT in Q2 resulted in the strongest quarterly sales to date of
+software and services in that segment, with the resulting revenue being
+recognized during the balance of 2004 and 2005.  The decline in license fees
+in Q2 2004 from the prior quarter is primarily due to a large sale of a
+license for our Check Image Archive product, which generated $2.9 million of
+revenue during Q1. Maintenance revenue declined in Q2 versus Q1 primarily due
+to the timing of cash receipts on maintenance contracts.  The Company's first
+fiscal quarter typically reflects increased maintenance revenue in association
+with payments on calendar year maintenance contract renewals. Gross margin in
+Q2 2004 was 51% versus 52% in the prior quarter.
+
+    Second quarter 2004 operating income of $631,000 compares favorably to the
+$1.2 million operating loss during the first quarter 2004 primarily because of
+a $1.7 million litigation-related charge recorded in Q1. The second quarter
+included two notable items that impacted the quarter:  a $1.2 million benefit
+associated with a change in estimate related to a reserve for a discontinued
+product and $1.2 million of litigation costs associated with now settled
+litigation.
+
+    Comparison of Q2 2004 vs. Q2 2003
+
+    The second quarter 2004 revenue of $29.6 million declined approximately
+18% from the second quarter 2003.  The decrease primarily occurred in software
+license, maintenance, and implementation fees.  Soft sales in Q4 2003 and Q1
+2004 and the timing of maintenance collections contributed to the decline in
+revenue.  Additionally, Q2 2003 revenue was unusually high as the Company was
+able to recognize maintenance revenue that previously had not been recognized
+in Q4 2002 and Q1 2003 as some banks delayed cash payments for their
+maintenance renewals pending the completion of the Company's restatement.
+Consulting revenue increased in Q2 2004 and served to partially offset the
+decline in total revenue.  Second quarter 2004's gross margin of 51% was below
+the 55% in Q2 2003 due to lower revenue in Q2 2004.
+
+    Second quarter 2004 operating income of $631,000 was significantly below
+the $4.3 million operating income in the second quarter 2003 mainly due to the
+higher Q2 2003 revenues as noted above.  This decline in operating income was
+partially offset by a decrease in operating expenses.  Operating expenses were
+$1.1 million lower in Q2 2004 than Q2 2003 primarily as a result of lower
+personnel costs, a reduction in the Allowance for Doubtful Accounts
+approximating $200,000 and lower restructuring charges.  Second quarter 2004
+operating expenses included both the previously mentioned $1.2 million of
+litigation costs associated with now settled litigation and the $1.2 million
+benefit resulting from the change in estimated reserves related to a
+discontinued product.
+
+    Guidance
+
+    As you may recall, in the fourth quarter 2003 and the first quarter 2004
+earnings conference calls we indicated that the timing of bank decisions,
+relative to Check 21, was generally 1 to 2 quarters later than our initial
+assumption.  While it does appear that the decision process is picking up as
+reflected in our record sales contracts in GPT in Q2, the revenue impact will
+not be visible until later 2004 or early 2005 due to our revenue recognition
+policies surrounding the significant number of new products to become
+Generally Available or GA in Q3, Q4 of 2004 and Q1 2005.
+
+    We continue to feel confident regarding the market and demand for products
+and services in our space.  Consistent with our prior guidance, we believe
+that we are still on track for attractive revenue growth in late 2004 or early
+2005.  While we expect continued strength in contracted sales in Q3 and
+beyond, we expect revenues for Q3 to remain relatively flat and operating
+profits to be approximately break-even or slightly negative due to the effect
+of soft sales in Q4 2003 and Q1 2004, delays in implementation schedules by
+our Check 21 clients, increases in non-capitalized R&D expense associated with
+new product opportunities, and expansion of our Global Payments Consulting
+business segment.  Q4's outlook will be very sensitive to the volume and
+timing of sales, product delivery, and client implementation schedules.
+
+    "Although our second quarter profitability was not at desired levels, the
+record sales contracts achieved in our GPT business during the quarter is an
+indication that we are gaining momentum," said J.D. (Denny) Carreker, Chairman
+and Chief Executive Officer of Carreker Corporation. "We are positioning
+ourselves to take full advantage of the present and continuing opportunities
+afforded by recent regulatory changes as well as revenue growth pressures
+challenging our clients and expect to realize associated revenue growth from
+these changes in late 2004 or 2005."
+
+    Conference Call
+
+    Management has scheduled a conference call tomorrow, Wednesday,
+September 1, 2004, at 11:00 a.m. Eastern Time. The conference call is intended
+to provide a forum for a discussion of the Company's second quarter fiscal 2004
+financial results, business conditions, industry trends and other points of
+interest to investors. To join the conference call, domestic participants dial
+888-396-2384, international participants dial 617-847-8711. All participants
+enter the passcode 66823469. A replay of the call will be available on
+Wednesday, September 1 from 1:00 p.m. Eastern Time through Wednesday, September
+8 at 11:45 p.m. Eastern Time. To access the replay, domestic participants dial
+888-286-8010, international participants dial 617-801-6888. All replay
+participants enter the passcode 61805314.
+
+    Webcast
+
+    A live webcast of the conference call, as well as the archive webcast,
+will be available through the investor relations (IR) section of the Company's
+website at http://ir.carreker.com.  The webcast will also be distributed over
+CCBN's Investor Distribution Network.  Individual investors can listen to the
+call through CCBN's individual investor center at
+http://www.fulldisclosure.com or by visiting any of the investor sites in
+CCBN's Individual Investor Network.  Institutional investors can access the
+call via CCBN's password-protected event management site, StreetEvents
+(http://www.streetevents.com).
+
+    About Carreker Corporation
+
+    Carreker Corporation improves earnings for financial institutions around
+the world.  The Company's integrated consulting and software solutions are
+designed to increase clients' revenues and reduce their expenses, while
+improving security and increasing the value of their customer relationships.
+Carreker provides products and services to more than 250 clients in the United
+States, Canada, the United Kingdom, Ireland, continental Europe, Australia,
+New Zealand, South Africa, South America, Mexico, and the Caribbean.  Clients
+include the full range of community, regional and large banks, among them more
+than 75 of the largest 100 banks in the United States. Headquartered in
+Dallas, Texas since 1978, Carreker Corporation has offices in London and
+Sydney.  For more information, visit http://www.carreker.com.
+
+    Forward-Looking Statements -- Except for historical information, the
+statements in this release, including statements regarding future financial
+performance, constitute forward-looking statements within the meaning of the
+federal securities laws. These statements are subject to numerous risks and
+uncertainties that could cause actual results to differ materially, including
+but not limited to the volatility in the Company's common stock price, as well
+as the risks and uncertainties arising out of economic, competitive,
+governmental and technological factors affecting the Company's operations,
+markets, services, products and prices. For further information concerning
+certain of these risks and uncertainties, see under the caption "Business-
+Forward Looking Statements and Risk Factors" in the Company's most recent Form
+10-K for the year ended January 31, 2004. We assume no obligation to update or
+revise any forward-looking statements, whether as a result of new information,
+future events or otherwise, except as may be required by law.
+
+
+                             CARREKER CORPORATION
+                    Condensed Consolidated Balance Sheets
+                                 (Unaudited)
+                   (In thousands, except per share amounts)
+                                    ASSETS
+                                                     July 31,    January 31,
+                                                       2004          2004
+                                                     --------    -----------
+
+    Current assets
+       Cash and cash equivalents                     $28,449        $28,605
+       Accounts receivable, net of allowance of
+        $986 and $1,512 at July 31, 2004 and
+        January 31, 2004, respectively                15,246         21,751
+       Prepaid expenses and other current assets       3,288          3,331
+                                                     -------       --------
+    Total current assets                              46,983         53,687
+
+    Property and equipment, net of accumulated
+     depreciation of $18,768 and $17,140 at
+     July 31, 2004 and January 31, 2004,
+     respectively                                      6,398          6,690
+    Capitalized software costs, net of
+     accumulated amortization of $11,529 and
+     $11,050 at July 31, 2004 and January 31, 2004,
+     respectively                                      3,158          2,028
+    Acquired developed technology, net of
+     accumulated amortization of $13,463
+     and $11,153 at July 31, 2004 and
+     January 31, 2004, respectively                   12,237         14,547
+    Goodwill, net of accumulated amortization
+     of $3,405 at July 31, 2004 and
+     January 31, 2004                                 20,806         21,193
+    Customer relationships, net of accumulated
+     amortization of $4,433 and $3,733 at
+     July 31, 2004 and January 31, 2004,
+     respectively                                      3,967          4,667
+    Deferred loan costs, net of accumulated
+     amortization of $1,164 and $1,028 at
+     July 31, 2004 and January 31, 2004,
+     respectively                                        543            680
+    Other assets                                         952          1,087
+                                                     -------       --------
+    Total assets                                     $95,044       $104,579
+                                                     =======       ========
+
+
+    Current liabilities
+       Accounts payable                                 $899           $913
+       Accrued compensation and benefits               6,926          9,219
+       Other accrued expenses                          4,309          4,520
+       Income tax payable                                135            181
+       Deferred revenue                               24,725         25,231
+       Accrued merger and restructuring costs            536          1,898
+                                                     -------       --------
+    Total current liabilities                         37,530         41,962
+    Long-term debt                                        --          6,250
+    Other long-term liabilities                          309             49
+                                                     -------       --------
+    Total liabilities                                 37,839         48,261
+
+    Commitments and Contingencies
+
+    Stockholders' equity
+       Preferred stock, $.01 par value:
+        2,000 shares authorized; no shares
+        issued or outstanding                             --             --
+       Common stock, $.01 par value:
+        100,000 shares authorized; 24,802 and
+        24,357 shares issued at
+        July 31, 2004 and January 31, 2004,
+        respectively                                     248            244
+       Additional paid-in capital                    110,253        108,757
+       Accumulated deficit                           (53,293)       (52,680)
+       Less treasury stock, at cost:1 common
+        share at July 31, 2004 and
+        January 31, 2004                                  (3)            (3)
+                                                     -------       --------
+    Total stockholders' equity                        57,205         56,318
+                                                     -------       --------
+    Total liabilities and stockholders' equity       $95,044       $104,579
+                                                     =======       ========
+
+
+                             CARREKER CORPORATION
+               Condensed Consolidated Statements of Operations
+                                 (Unaudited)
+                   (In thousands, except per share amounts)
+
+                              Three Months Ended       Six Months Ended
+                                   July 31,                 July 31,
+                            --------------------      --------------------
+                              2004         2003         2004         2003
+                              ----         ----         ----         ----
+
+    Revenues:
+     Consulting fees        $10,514       $8,202      $19,571      $14,953
+     Software license fees    4,577        8,351       10,433       14,929
+     Software maintenance
+      fees                   10,232       14,284       21,316       22,994
+     Software implementation
+      fees                    3,642        4,508        6,521        9,402
+     Outsourcing service
+      fees                       10           --           10           --
+     Out-of-pocket expense
+      reimbursements            662          816        1,552        2,139
+                             ------       ------       ------       ------
+       Total revenues        29,637       36,161       59,403       64,417
+
+    Cost of revenues:
+     Consulting fees          5,082        5,288        9,611       10,257
+     Software license fees    1,670        1,905        3,268        3,626
+     Software maintenance
+      fees                    3,386        3,133        7,184        6,310
+     Software implementation
+      fees                    3,810        5,058        7,179        9,913
+     Outsourcing service fees    14           --           14           --
+     Out-of-pocket expenses     652        1,038        1,595        2,291
+                             ------       ------       ------       ------
+      Total cost of
+       revenues              14,614       16,422       28,851       32,397
+                             ------       ------       ------       ------
+    Gross profit             15,023       19,739       30,552       32,020
+
+    Operating costs and
+     expenses:
+      Selling, general and
+       administrative        11,971       12,538       24,163       24,470
+      Research and
+       development            1,874        1,779        3,582        3,645
+      Amortization of
+       intangible assets        350          350          700          700
+      Restructuring and other
+       nonrecurring
+       charges                  197          778        2,712        1,462
+                             ------       ------       ------       ------
+        Total operating
+         costs and expenses  14,392       15,445       31,157       30,277
+                             ------       ------       ------       ------
+    Income (loss) from
+     operations                 631        4,294         (605)       1,743
+
+    Other income (expense):
+     Interest income             66           73          115          154
+     Interest expense          (121)        (339)        (230)        (757)
+     Other income (expense)     (27)          36          457           50
+                             ------       ------       ------       ------
+     Total other income
+      (expense)                 (82)        (230)         342         (553)
+                             ------       ------       ------       ------
+    Income (loss) before
+     provision for
+     income taxes               549        4,064         (263)       1,190
+    Provision for income
+     taxes                      350          133          350          226
+                             ------       ------       ------       ------
+    Net income (loss)          $199       $3,931        $(613)        $964
+                             ======       ======       ======       ======
+    Basic earnings (loss)
+     per share                $0.01        $0.17       $(0.03)       $0.04
+                             ======       ======       ======       ======
+    Diluted earnings (loss)
+     per share                $0.01        $0.17       $(0.03)       $0.04
+                             ======       ======       ======       ======
+    Shares used in
+     computing basic
+     earnings (loss) per
+     share                   24,671       23,547       24,524       23,547
+                             ======       ======       ======       ======
+    Shares used in
+     computing diluted
+     earnings (loss)
+     per share               25,481       23,723       24,524       23,631
+                             ======       ======       ======       ======
+
+SOURCE  Carreker Corporation
+    -0-                             08/31/2004
+    /CONTACT:  Lisa Peterson, Executive Vice President and CFO, Carreker
+Corporation, +1-972-371-1454, or fax, +1-972-458-2567, lpeterson@carreker.com/
+    /Web site:  http://www.carreker.com
+                http://ir.carreker.com /
+    (CANI)
+
+CO:  Carreker Corporation
+ST:  Texas
+IN:  FIN
+SU:  ERN CCA ERP
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

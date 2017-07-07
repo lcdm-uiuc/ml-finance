@@ -1,0 +1,451 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EQTgxWcm7nXItTww4I1Fqwj9/40Do4wk7Y+O07/ai3zowdFKNFlb/bVrmVFE5LMG
+ Smy29NHoUwOXU47f1DPq0w==
+
+<SEC-DOCUMENT>0001193125-04-160234.txt : 20040922
+<SEC-HEADER>0001193125-04-160234.hdr.sgml : 20040922
+<ACCEPTANCE-DATETIME>20040922164132
+ACCESSION NUMBER:		0001193125-04-160234
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20040921
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Material Impairments
+ITEM INFORMATION:		Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040922
+DATE AS OF CHANGE:		20040922
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DYNEGY INC /IL/
+		CENTRAL INDEX KEY:			0000879215
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				742928353
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15659
+		FILM NUMBER:		041041473
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 LOUISIANA
+		STREET 2:		STE 5800
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+		BUSINESS PHONE:		7133677600
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 LOUISIANA
+		STREET 2:		SUITE 5800
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DYNEGY INC
+		DATE OF NAME CHANGE:	19980717
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRIDENT NGL HOLDING INC
+		DATE OF NAME CHANGE:	19930916
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>CURRENT REPORT </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="2"><B>PURSUANT TO SECTION 13 OR 15(d) OF THE </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Date of Report (Date of earliest event reported) </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>September 21, 2004 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE
+COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>DYNEGY INC. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="33%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="31%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Illinois</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1-15659</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>74-2928353</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or Other Jurisdiction</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>of Incorporation)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1000 Louisiana,
+Suite 5800 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Houston, Texas 77002 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices including Zip Code) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>(713) 507-6400 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Registrant&#146;s telephone number, including area code)
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>N.A. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Former name or former address, if changed since last report) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2"
+COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"> Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12) </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2"
+COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"> Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+ <HR  SIZE="NO" COLOR="#NO" WIDTH="NO" ALIGN="SEC">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 2.02. Results of Operations and Financial Condition. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">As more fully discussed below in Item 4.02, on September 22, 2004, Dynegy Inc.
+(&#147;Dynegy&#148; or the &#147;Company&#148;) issued a press release announcing that the previously issued financial statements contained in its 2003 Form 10-K and first and second quarter 2004 Form 10-Qs should not be relied upon because of
+errors in those financial statements and that those financial statements would be restated to make the necessary accounting adjustments.<B></B> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 2.06 Material Impairments. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">In the fourth quarter of 2003, the Company recorded a $242 million goodwill impairment to reflect the fair value of its regulated energy delivery business. As more fully
+discussed below in Item 4.02, the Audit and Compliance Committee of the Board of Directors of Dynegy (&#147;Audit Committee&#148;) concluded on September 21, 2004, upon the recommendation of management and in consultation with its independent
+auditors, PricewaterhouseCoopers (&#147;PwC&#148;), that an additional after-tax impairment charge of approximately $259 million should have been reflected in the fourth quarter 2003 and additional after-tax impairments of $4 million and $2 million
+should have been reflected in the first and second quarters of 2004, respectively. Neither the initial impairment nor the additional impairments will result in cash expenditures by the Company. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 4.02 Non-Reliance on Previously Issued Financial Statements or a Related Audit Report
+or Completed Interim Review. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">On September 22, 2004, Dynegy issued a press
+release announcing that, on September 21, 2004, the Audit Committee concluded that the previously issued financial statements contained in the Company&#146;s 2003 Form 10-K and first and second quarter 2004 Form<BR> 10-Qs should not be relied upon
+because of errors in those financial statements and that the Company would restate those financial statements to make the necessary accounting adjustments. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The restatements, which will be effected through amendments to Dynegy&#146;s 2003 Form 10-K and first and second quarter 2004 Form 10-Qs, relate to Dynegy&#146;s (i)
+previously disclosed goodwill impairment charge associated with the pending sale of Illinois Power Company (&#147;Illinois Power&#148;) and (ii) deferred income tax accounts. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The previously disclosed $242 million goodwill impairment, which was taken by Dynegy to reflect the fair value of Illinois Power, was
+originally recorded in the fourth quarter 2003. Recently, while preparing to record the sale of Illinois Power, Dynegy identified a deferred tax asset that was excluded from its fourth quarter 2003 impairment analysis. Dynegy&#146;s exclusion of
+this asset understated the net book value of the assets and, as a result, understated the impairment that had been recorded in the fourth quarter 2003. The Company, in consultation with PwC, concluded that an additional after-tax impairment charge
+of $259 million should have been reflected in the fourth quarter 2003 and additional after-tax impairments of $4 million and $2 million should have been reflected in the first and second quarters of 2004, respectively. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">As previously disclosed in Dynegy&#146;s second quarter 2004 Form 10-Q, the Company is
+currently engaged in an evaluation of its tax accounting and reconciliation controls and processes, including an income tax review initiative. Through this initiative, Dynegy has also determined that adjustments related to its deferred income tax
+accounts in periods prior to 2004 are required. As Dynegy has not completed its analysis of all deferred income tax items, it is currently unable to determine the amount of the adjustments and the periods affected with certainty. However, Dynegy
+does anticipate, based on its ongoing review of these tax items, that these adjustments will reduce the Company&#146;s deferred tax liability reflected on the balance sheet. Dynegy is working to complete this review as expeditiously as possible.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Based upon these matters, Dynegy expects to file amendments to its 2003 Form
+10-K and first and second quarter 2004 Form 10-Qs, reflecting the additional impairment charges of $265 million and all necessary deferred tax adjustments, prior to filing its third quarter 2004 Form 10-Q in November 2004. Accordingly, the
+referenced financial statements should not be relied upon until such time as Dynegy files its restatements. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">The decision to restate prior financial statements based on these matters was made by the Audit Committee, upon the recommendation of management and with the concurrence of PwC. Dynegy believes that the adjustments
+will not impede the completion of the sale of Illinois Power, which remains on schedule to close before the end of 2004, or impact the Company&#146;s current cash and liquidity positions or its previously announced 2004 earnings guidance estimate of
+$0.03 to $0.08 per share. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The Audit Committee has discussed with PwC,
+Dynegy&#146;s independent auditors, the matters disclosed in this Current Report on<BR> Form 8-K. </FONT></P>
+ <HR  SIZE="NO" COLOR="#NO" WIDTH="NO" ALIGN="SEC">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">A copy of Dynegy&#146;s September 22nd press release is attached hereto as exhibit 99.1 and is incorporated herein by
+this reference. A copy of Dynegy&#146;s September 22nd message to employees and letter to the financial community are also attached hereto as exhibits 99.2 and 99.3, respectively. In addition, this current report on Form 8-K and the September 22nd
+press release, message to employees and letter to the financial community contain statements intended as &#147;forward-looking statements&#148; which are subject to the cautionary statements about forward-looking statements set forth in the press
+release and the letter to the financial community. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 9.01 Financial
+Statements and Exhibits. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) Financial Statements of
+Businesses Acquired: Not applicable </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b) Pro Forma Financial
+Information: Not applicable </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(c) Exhibits: </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="91%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit<BR>No.</B></FONT><BR><HR WIDTH="37" SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Document</B></FONT></P><HR WIDTH="58" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press Release dated September 22, 2004.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">99.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Message to Employees dated September 22, 2004.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">99.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Letter to the Financial Community dated September 22, 2004.</FONT></TD></TR>
+</TABLE>
+ <HR  SIZE="NO" COLOR="#NO" WIDTH="NO" ALIGN="SEC">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>DYNEGY INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman"
+SIZE="2">(Registrant)</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Dated: September 22, 2004</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ C<SMALL>AROL</SMALL> F. G<SMALL>RAEBNER</SMALL></FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Carol F. Graebner</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Secretary</FONT></TD></TR>
+</TABLE>
+ <HR  SIZE="NO" COLOR="#NO" WIDTH="NO" ALIGN="SEC">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="91%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit<BR>No.</B></FONT><BR><HR WIDTH="37" SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Document</B></FONT></P><HR WIDTH="58" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press Release dated September 22, 2004.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">99.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Message to Employees dated September 22, 2004.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">99.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Letter to the Financial Community dated September 22, 2004.</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Sept. 22, 2004 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>Media:</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">John Sousa or David Byford </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:10%"><FONT FACE="Times New Roman" SIZE="2">(713) 767-5800 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>Analysts:</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B>Peter Wilt, Norelle Lundy or Hillarie Bloxom </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:10%"><FONT FACE="Times New Roman"
+SIZE="2">(713) 507-6466 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><U>DYNEGY TO FILE AMENDED FINANCIAL
+STATEMENTS </U></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Restatements related to previously disclosed goodwill impairment charge for Illinois Power and deferred income tax accounts </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Restated periods to include fiscal year ended 2003 and first and second quarters of 2004 </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Adjustments will not impact the company&#146;s cash and liquidity positions or previously announced 2004 guidance estimates </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Illinois Power sale remains on schedule to close before the end of 2004<B></B> </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>HOUSTON (Sept. 22, 2004)</B> &#150; Dynegy Inc. (NYSE: DYN) today announced that it will restate the previously issued financial statements contained in its 2003
+Form 10-K and first and second quarter 2004 Form 10-Qs. The restatements relate to the company&#146;s previously disclosed goodwill impairment charge associated with the pending sale of Illinois Power Company and its deferred income tax accounts.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The previously disclosed $242 million goodwill impairment,
+which was taken by Dynegy to reflect the fair value of Illinois Power, was originally recorded in the fourth quarter 2003. Recently, while preparing to record the Illinois Power sale, the company identified a deferred tax asset that was excluded
+from its fourth quarter 2003 impairment analysis. Dynegy&#146;s exclusion of this asset understated the net book value of the assets and, as a result, understated the impairment that had been recorded in the fourth quarter 2003. The company, in
+consultation with its independent auditors, PricewaterhouseCoopers, concluded that an additional after-tax impairment charge of $259 million should have been reflected in the fourth quarter 2003, and additional after-tax impairments of $4 million
+and $2 million should have been reflected in the first and second quarters of 2004, respectively. </FONT></P>
+ <HR  SIZE="NO" COLOR="#NO" WIDTH="NO" ALIGN="SEC">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">As previously disclosed in the company&#146;s second quarter 2004 Form 10-Q, Dynegy is currently engaged
+in an evaluation of its tax accounting and reconciliation controls and processes, including an income tax review initiative. Through this initiative, the company has also determined that adjustments related to its deferred income tax accounts in
+periods prior to 2004 are required. As the company has not completed its analysis of all deferred income tax items, it is currently unable to determine the amount of the adjustments and the periods affected with certainty. However, Dynegy does
+anticipate, based on its ongoing review of these tax items, that these adjustments will reduce the company&#146;s deferred tax liability reflected on the balance sheet. The company is working to complete this review as expeditiously as possible.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Based upon these matters, Dynegy expects to file an amended
+2003 Form 10-K and amended first and second quarter 2004 Form 10-Qs, reflecting the additional after-tax impairment charges of $265 million and all necessary deferred tax adjustments, prior to filing its third quarter 2004 Form 10-Q in November
+2004. Accordingly, the referenced financial statements should not be relied upon until such time as the company files its restatements. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The decision to restate prior financial statements based on these matters was made by the Audit and Compliance Committee of Dynegy&#146;s Board of
+Directors, upon the recommendation of management and with the concurrence of the company&#146;s independent auditors. Dynegy believes that the adjustments will not impede the completion of the sale of Illinois Power to Ameren Corp., which remains on
+schedule to close before the end of 2004, or impact the company&#146;s current cash and liquidity positions or its previously announced 2004 earnings guidance estimate of $0.03 to $0.08 per share. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Dynegy Inc. provides electricity, natural gas and natural gas liquids to
+customers throughout the United States. Through its energy businesses, the company owns and operates a diverse portfolio of assets, including power plants totaling 11,885 megawatts of net generating capacity, gas processing plants that process
+approximately 1.8 billion cubic feet of natural gas per day and nearly 38,000 miles of electric transmission and distribution lines. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">### </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="1">Certain statements included in this news release are intended as &#147;forward-looking statements.&#148; These statements include assumptions, expectations, predictions, intentions or beliefs about future events,
+particularly the statements concerning the anticipated impact of the adjustments and the timing of Dynegy&#146;s restatement of its financial statements. Dynegy cautions that actual future results may vary materially from those expressed or implied
+in any forward-looking statements. Some of the key factors that could cause actual results and the periods affected to vary materially from those expected include the actual results of Dynegy&#146;s ongoing review of its deferred income tax
+</FONT></P>
+ <HR  SIZE="NO" COLOR="#NO" WIDTH="NO" ALIGN="SEC">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1">items and the ability of the company to file the restatements of its financial statements in the anticipated timeframe.
+More information about the risks and uncertainties relating to these forward-looking statements are found in Dynegy&#146;s SEC filings, including its Annual Report on Form 10-K for the year ended Dec. 31, 2003, as amended, and its Quarterly Report
+on Form 10-Q for the quarter ended June 30, 2004, which are available free of charge on the SEC&#146;s web site at http://www.sec.gov. Dynegy expressly disclaims any obligation to update any forward-looking statements contained in this news release
+to reflect events or circumstances that may arise after the date of this release, except as otherwise required by applicable law. </FONT></P>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>dex992.htm
+<DESCRIPTION>MESSAGE TO EMPLOYEES
+<TEXT>
+<HTML><HEAD>
+<TITLE>Message to Employees</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.2 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dear Fellow Employees: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">I wanted to provide some details around the news release that was issued this afternoon in which we announced that Dynegy will restate the previously issued financial
+statements contained in our 2003 Form 10-K and first and second quarter 2004 Form 10-Qs. Open and honest communication has been a critical part of everything we do, and I felt it was important to explain this issue and the factors that led to the
+restatements. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The adjustments are related to two areas: our previously
+disclosed goodwill impairment charge associated with the pending sale of Illinois Power and our deferred income tax accounts. These were isolated issues and, as you will see in the following overviews, the restatements will not have an impact on our
+cash and liquidity positions or previously announced 2004 guidance estimates. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B><I>Goodwill Impairment Charge </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">In the fourth quarter of
+2003, we recorded a goodwill impairment charge of $242 million associated with the pending sale of Illinois Power. In calculating a goodwill impairment, the fair value of an asset has to be compared to the book value of the asset in order to
+determine if a goodwill impairment is necessary. In calculating the book value of Illinois Power, we did not consider a corporate deferred tax asset, which would be used to offset the tax liability triggered upon the closing of the transaction. Not
+considering the deferred tax asset understated the net book value of the assets to be sold and, therefore, understated the required amount of impairment charge recorded. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">After careful review, Dynegy and our independent auditors concluded that an additional after-tax impairment charge of $259 million should
+have been reflected in the fourth quarter 2003. In addition, after-tax impairments of $4 million and $2 million should have been reflected in the first and second quarters of 2004, respectively. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">We believe that the impairment charge will not impact the expected timing of the sale to
+Ameren, which remains on schedule to close before the end of 2004, the cash to be received by Dynegy through the transaction or our liquidity position.<B><U></U></B> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Deferred Income Tax Accounts </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">As previously disclosed in our second quarter 2004 Form 10-Q, we are currently engaged in an evaluation of our tax accounting and reconciliation controls and processes,
+including an income tax review initiative. More specifically, we are reviewing the tax basis of all our assets and liabilities and working to ensure that any differences between the tax basis and book basis of our assets and liabilities are
+appropriately reflected in our financial statements. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">While we have not
+concluded this review, based on our analysis to date, we expect that these adjustments will reduce the company&#146;s deferred tax liability reflected on the balance sheet. Any </FONT></P>
+ <HR  SIZE="NO" COLOR="#NO" WIDTH="NO" ALIGN="SEC">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">adjustments resulting from this initiative will not impact our cash and liquidity positions or our previously announced
+2004 guidance estimate of $0.03 to $0.08 per share. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">It is our goal to reflect
+any adjustments necessary in previous financial statements prior to the filing of our third quarter 2004 10-Q in November. In the meantime, we will keep you updated on this issue and continue our efforts to complete our income tax review initiative
+as expeditiously as possible. As always, please contact any member of the Executive Management Committee or myself should you have any questions or feel free to use the Employee Comment Form available on myDynegy. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Best regards, </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Bruce A. Williamson </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Chairman, President &amp;
+CEO </FONT></P>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>4
+<FILENAME>dex993.htm
+<DESCRIPTION>LETTER TO FINANCIAL COMMUNITY
+<TEXT>
+<HTML><HEAD>
+<TITLE>Letter to Financial Community</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.3 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">September 22, 2004 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">To the Members of the Financial Community: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">I wanted to provide some details around the news release that was issued this afternoon in which we announced that Dynegy will restate the previously issued financial
+statements contained in our 2003 Form 10-K and first and second quarter 2004 Form 10-Qs. Open and honest communication has been a critical part of everything we do at Dynegy, and I felt it was important to explain this issue and the factors that led
+to the restatements. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The adjustments are related to two areas: our previously
+disclosed goodwill impairment charge associated with the pending sale of Illinois Power and our deferred income tax accounts. These were isolated issues and, as you will see in the following overviews, the restatements will not have an impact on our
+cash and liquidity positions or previously announced 2004 guidance estimates. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B><I>Goodwill Impairment Charge </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">In the fourth quarter of
+2003, we recorded a goodwill impairment charge of $242 million associated with the pending sale of Illinois Power. In calculating a goodwill impairment, the fair value of an asset has to be compared to the book value of the asset in order to
+determine if a goodwill impairment is necessary. In calculating the book value of Illinois Power, we did not consider a corporate deferred tax asset, which would be used to offset the tax liability triggered upon the closing of the transaction. Not
+considering the deferred tax asset understated the net book value of the assets to be sold and, therefore, understated the required amount of impairment charge recorded. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">After careful review, Dynegy and our independent auditors concluded that an additional after-tax impairment charge of $259 million should
+have been reflected in the fourth quarter 2003. In addition, after-tax impairments of $4 million and $2 million should have been reflected in the first and second quarters of 2004, respectively. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">We believe that the impairment charge will not impact the expected timing of the sale to
+Ameren, which remains on schedule to close before the end of 2004, the cash to be received by Dynegy through the transaction or our liquidity position.<B><U></U></B> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Deferred Income Tax Accounts </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">As previously disclosed in our second quarter 2004 Form 10-Q, we are currently engaged in an evaluation of our tax accounting and reconciliation controls and processes,
+including an income tax review initiative. More specifically, we are reviewing the tax basis of all our assets and liabilities and working to ensure that any differences between the tax basis and book basis of our assets and liabilities are
+appropriately reflected in our financial statements. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">1 </FONT></P>
+
+ <HR  SIZE="NO" COLOR="#NO" WIDTH="NO" ALIGN="SEC">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">While we have not concluded this review, based on our analysis to date, we expect that these adjustments will reduce the
+company&#146;s deferred tax liability reflected on the balance sheet. Any adjustments resulting from this initiative will not impact our cash and liquidity positions or our previously announced 2004 guidance estimate of $0.03 to $0.08 per share.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">It is our goal to reflect any adjustments necessary in previous financial
+statements prior to the filing of our third quarter 2004 10-Q in November. In the meantime, we will keep you updated on this issue and continue our efforts to complete our income tax review initiative as expeditiously as possible. As always, please
+feel free to contact our Investor Relations department at 713-507-6466 or via email at ir@dynegy.com should you have any questions. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Sincerely, </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Bruce A. Williamson </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Chairman, President &amp; CEO </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1">Certain statements included in this letter are intended as &#147;forward-looking statements.&#148; These statements include assumptions,
+expectations, predictions, intentions or beliefs about future events, particularly the statements concerning the anticipated impact of the adjustments and the timing of Dynegy&#146;s restatement of its financial statements. Dynegy cautions that
+actual future results may vary materially from those expressed or implied in any forward-looking statements. Some of the key factors that could cause actual results and the periods affected to vary materially from those expected include the actual
+results of Dynegy&#146;s ongoing review of its deferred income tax items and the ability of the company to file the restatements of its financial statements in the anticipated timeframe. More information about the risks and uncertainties relating to
+these forward-looking statements are found in Dynegy&#146;s SEC filings, including its Annual Report on Form 10-K for the year ended Dec. 31, 2003, as amended, and its Quarterly Report on Form 10-Q for the quarter ended June 30, 2004, which are
+available free of charge on the SEC&#146;s web site at <U>http://www.sec.gov</U>. Dynegy expressly disclaims any obligation to update any forward-looking statements contained in this letter to reflect events or circumstances that may arise after the
+date of this letter, except as otherwise required by applicable law. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

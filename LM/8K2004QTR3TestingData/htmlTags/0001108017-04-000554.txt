@@ -1,0 +1,276 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Hdhk3mI5sOB3V44dBrogIxzWIA33nTDH2lFUDi4zEkuTJnPNF4YRJyTyHlTXsuGR
+ VllBuzu01jl6zcTwVs76sA==
+
+<SEC-DOCUMENT>0001108017-04-000554.txt : 20040929
+<SEC-HEADER>0001108017-04-000554.hdr.sgml : 20040929
+<ACCEPTANCE-DATETIME>20040929131902
+ACCESSION NUMBER:		0001108017-04-000554
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040920
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040929
+DATE AS OF CHANGE:		20040929
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TS&B HOLDINGS INC
+		CENTRAL INDEX KEY:			0001019852
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				752337459
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00644
+		FILM NUMBER:		041052051
+
+	BUSINESS ADDRESS:	
+		STREET 1:		556 SAND LAKE CENTER IV
+		STREET 2:		7380 SAND LAKE RD.
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32819
+		BUSINESS PHONE:		(407) 649-8325
+
+	MAIL ADDRESS:	
+		STREET 1:		556 SAND LAKE CENTER IV
+		STREET 2:		7380 SAND LAKE RD.
+		CITY:			ORLANDO
+		STATE:			FL
+		ZIP:			32819
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMMONIA HOLD INC
+		DATE OF NAME CHANGE:	19970618
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>tsb8k.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Form 8-K for TS&amp;B</TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SECURITIES
+AND EXCHANGE COMMISSION<BR>WASHINGTON, D.C. 20549</FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT<BR>PURSUANT
+TO SECTION 13 OF 15(d) OF THE<BR> SECURITIES EXCHANGE ACT OF 1934</FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date
+of report (Date of earliest event reported): September 20, 2004 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Default" -->
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>TS&amp;B HOLDINGS INC.</B> <BR>Exact Name of
+Registrant Specified in Charter </FONT></P>
+
+
+
+
+
+
+<TABLE WIDTH=600 BORDER="0" CELLPADDING="0" CELLSPACING="0" align=center>
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Utah</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">333-74970</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">30-0123229</FONT><HR WIDTH=95% SIZE=1 COLOR=BLACK NOSHADE></TH></TR>
+<TR VALIGN="TOP" align=center>
+     <TD WIDTH="34%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(State or Other Jurisdiction <BR>
+of Incorporation)
+</FONT></TD>
+     <TD WIDTH="33%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Commission  <BR>
+File Number)
+</FONT></TD>
+     <TD WIDTH="33%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(IRS Employer<BR>
+Identification No.)
+</FONT></TD></TR>
+</TABLE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Workstation" -->
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>7380 Sand Lake Rd.
+Suite 500. Orlando, Florida 32819</B><BR>(Address of Principal Executive Offices) (Zip Code) </FONT></p>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Default" -->
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>(407)-649-8325</B><BR>Registrant&#146;s
+telephone number, including area code </FONT></p>
+
+
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+                                     (Former Name or Former Address, if Changed Since Last Report)</FONT></p>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>TS&amp;B
+HOLDINGS INC.</B></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 2.2. Financial
+Results </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>TS&amp;B Holdings, Inc. issues press release
+on extension of filing of Form 10K. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURE</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+
+
+
+
+
+
+
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="TOP">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">By: <U>/s/ Charles Giannetto</U><BR>
+&nbsp;&nbsp;&nbsp;Charles Giannetto<BR>
+&nbsp;&nbsp;&nbsp;Corporate Secretary<BR>
+&nbsp;&nbsp;&nbsp;September 28, 2004<BR>
+</FONT></TD></TR>
+</TABLE><BR>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Default" -->
+<P ALIGN=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>EXHIBIT
+INDEX</FONT></P>
+
+
+
+
+
+
+
+
+
+<TABLE WIDTH=600 BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">EXHIBIT</FONT><HR WIDTH=98% SIZE=1 COLOR=BLACK NOSHADE></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">DESCRIPTION</FONT><HR WIDTH=98% SIZE=1 COLOR=BLACK NOSHADE></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="20%" align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2">99
+</FONT></TD>
+     <TD WIDTH="80%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Company issues press release on extension of filing of Form 10K.
+</FONT></TD></TR>
+</TABLE><BR>
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>e99.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Exhibit 99</TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Default" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>TS&amp;B Holdings, Inc.
+announces Extension on 10K filing </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>ORLANDO, FL. September
+28, 2004/ (Businesswire)/ -- TS&amp;B Holdings,  Inc. ("Company" or "TS&amp;B") (OTC-BB:TSBB),
+ filed an 8K disclosing a filing of an extension on the SEC Form 10K. </FONT></P>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The CFO of TS&amp;B Holdings Inc.,
+James Sadrianna, &#147;we were forced to file the extension as a direct result of the
+recent hurricanes. Unfortunately, our auditors are located in Tampa, FL and they have been
+plagued by the two recent hurricanes which directly impacted the completion of the audit
+work. We expect to have the filing completed this week.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>About TS&amp;B Holdings
+Inc. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>TS&amp;B Holdings Inc., is a
+Business Development Company under the Investment Act of 1940 aggressively  seeking
+ opportunities in emerging and fast growth industries. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>TS&amp;B Holdings Inc. has a
+financial services  subsidiary,  TS&amp;B Financial  Services,  Inc. that provides investment
+and merchant banking services and strategic planning to both the public and private
+sectors. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Safe Harbor <BR>The statements made in this release
+constitute &#147;forward-looking&#148; statements, usually containing the words
+&#147;believe,&#148; &#147;estimate,&#148; &#147;project,&#148; &#147;expect,&#148; or
+similar expressions. These statements are made pursuant to the safe harbor provisions of
+the Private Securities Litigation Reform Act of 1995. Forward-looking statements
+inherently involve risks and uncertainties that could cause actual results to differ
+materially from the forward-looking statements. Factors that would cause or contribute to
+such differences include, but are not limited to, changing economic conditions, interest
+rates trends, continued acceptance of the Company&#146;s products in the marketplace,
+competitive factors and other risks detailed in the Company&#146;s periodic report Filings
+with the Securities and Exchange Commission. By making these forward-looking statements,
+the Company undertakes no obligation to update these statements for revisions or changes
+after the date of this release. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Contact:<BR>TS&amp;B Holdings
+Inc.<BR>James Sadrianna, CFO <BR>407 649 8325 </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>_____________________________________<BR>Source: TS&amp;B Holdings
+Inc </FONT></P>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,582 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SHYAaAZaWMtNjCeNIUffm3yeiQPVfO05CGBNOfQvdXT59WK+x2/YVQo8zIbqLhid
+ HlnDVnRwFf/x13nWEibBrw==
+
+<SEC-DOCUMENT>0000950005-04-000692.txt : 20040826
+<SEC-HEADER>0000950005-04-000692.hdr.sgml : 20040826
+<ACCEPTANCE-DATETIME>20040826165642
+ACCESSION NUMBER:		0000950005-04-000692
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040826
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040826
+DATE AS OF CHANGE:		20040826
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VA SOFTWARE CORP
+		CENTRAL INDEX KEY:			0001096199
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				770399299
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-28369
+		FILM NUMBER:		04999515
+
+	BUSINESS ADDRESS:	
+		STREET 1:		47071 BAYSIDE PARKWAY
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94538
+		BUSINESS PHONE:		4085428000
+
+	MAIL ADDRESS:	
+		STREET 1:		47071 BAYSIDE PARKWAY
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94538
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VA LINUX SYSTEMS INC
+		DATE OF NAME CHANGE:	19991004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>p18867_8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                       ----------------------------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                       Pursuant to Section 13 or 15(d) of
+                       The Securities Exchange Act of 1934
+
+                Date of Report (Date of earliest event reported)
+
+                                 August 26, 2004
+
+                       ----------------------------------
+
+                             VA Software Corporation
+             (Exact name of registrant as specified in its charter)
+
+            Delaware                     000-28369                77-0399299
+            --------                     ---------                ----------
+(State or other jurisdiction of   (Commission File Number)      (IRS Employer
+        incorporation)                                       Identification No.)
+
+                              46939 Bayside Parkway
+                            Fremont, California 94538
+          (Address of principal executive offices, including zip code)
+
+                                 (510) 687-7000
+              (Registrant's telephone number, including area code)
+
+
+          (Former name or former address, if changed since last report)
+
+
+Check  the  appropriate  box  below  if the  Form  8-K  filing  is  intended  to
+simultaneously  satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)
+
+
+[ ] Soliciting  material  pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)
+
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+Act (17 CFR 240.13e-4(c))
+
+================================================================================
+
+
+
+<PAGE>
+
+
+
+Item 2.02.  Results of Operations and Financial Condition.
+
+         On August 26,  2004,  VA Software  Corporation  ("VA  Software"  or the
+"Company")  issued a press  release  regarding  its  financial  results  for the
+quarter  and fiscal  year ended July 31,  2004.  A copy of the press  release is
+furnished as Exhibit 99.1 to this report and a copy of the financial  statements
+included  in the press  release  are filed  separately  as Exhibit  99.2 to this
+report.
+
+Use of Non-GAAP Financial Information
+
+         To  supplement  its  consolidated  financial  statements  presented  in
+accordance with GAAP, VA Software uses non-GAAP  measures of operating  results,
+net income and earnings per share, which are adjusted from results based on GAAP
+to exclude certain expenses.  These non-GAAP adjustments are provided to enhance
+the user's overall  understanding of the Company's current financial performance
+and its  prospects  for the  future.  Specifically,  the  Company  believes  the
+non-GAAP results provide useful  information to both management and investors by
+excluding  certain  expenses  that it believes  are not  indicative  of its core
+operating results.  In addition,  because the Company has historically  reported
+non-GAAP  results to the  investment  community,  it believes  the  inclusion of
+non-GAAP numbers provides consistency in its financial reporting. Further, these
+non-GAAP results are one of the primary indicators the Company's management uses
+for  planning  and  forecasting  in future  periods.  The  presentation  of this
+additional  information  is not  meant to be  considered  in  isolation  or as a
+substitute  for  results  prepared  in  accordance  with  accounting  principles
+generally accepted in the United States.
+
+Item 9.01.  Financial Statements and Exhibits.
+
+(c)  Exhibits.
+
+Exhibit No.  Description
+- -----------  -----------
+
+99.1         Press release issued by VA Software Corporation on August 26, 2004.
+99.2         Financial Statements
+
+         The  information  in this Current Report on Form 8-K under Section 2.02
+hereunder and Exhibit 99.1 attached  hereto is being furnished to the Securities
+and  Exchange  Commission  and shall not be deemed  "filed" for the  purposes of
+Section 18 of the  Securities  Exchange  Act of 1934,  as amended,  or otherwise
+subject to the liabilities of that Section,  nor shall it be deemed incorporated
+by reference into any filing under the  Securities  Act of 1933, as amended,  or
+the Securities Exchange Act of 1934, as amended.  Exhibit 99.2 to this report is
+being filed with the Securities and Exchange Commission.
+
+
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+         Pursuant to the  requirements  of the Securities  Exchange Act of 1934,
+the  registrant  has duly  caused  this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                      VA SOFTWARE CORPORATION
+                                      a Delaware corporation
+
+                                      By:/s/ Kathleen R. McElwee
+                                      ------------------------------------------
+                                      Kathleen R. McElwee
+                                      Vice President and Chief Financial Officer
+
+Date:  August 26, 2004
+
+
+
+<PAGE>
+
+
+
+                                  EXHIBIT INDEX
+
+Exhibit No.  Description
+- -----------  -----------
+
+99.1         Press release issued by VA Software Corporation on August 26, 2004.
+99.2         Financial Statements
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>p18867-ex99_1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+                                                                    EXHIBIT 99.1
+
+
+                               [VA SOFTWARE LOGO]
+
+- --------------------------------------------------------------------------------
+                                 PRESS RELEASE
+- --------------------------------------------------------------------------------
+
+                     VA SOFTWARE REPORTS FOURTH QUARTER AND
+                            FISCAL YEAR 2004 RESULTS
+
+ Fourth quarter software revenue grows by 92% year-over-year and total fiscal
+      year 2004 company revenue increases 21% compared to fiscal year 2003
+
+FREMONT,  CA--August 26, 2004--VA Software Corporation (Nasdaq:  LNUX), provider
+of  the  award-winning   SourceForge(R)  Global  Development   Platform(TM)  for
+optimizing  distributed  development,  and parent  company of OSTG,  the leading
+online  network of news and  information  sites for IT managers and  development
+professionals,  today  announced  financial  results for its fourth  quarter and
+fiscal year 2004, ended July 31, 2004.
+
+Total fourth quarter  fiscal 2004 revenue grew 12% to $7.3 million,  compared to
+fourth  quarter  fiscal 2003 total  revenue of $6.6  million.  Revenue  from the
+software  business  increased 92% to $1.6 million in fourth  quarter fiscal 2004
+from $0.8  million in fourth  quarter  fiscal 2003.  Total  revenue for the year
+ended July 31, 2004 was $29.3 million,  up 21% compared to $24.2 million for the
+year ended July 31, 2003.  Revenue from the software  business  increased 71% to
+$5.0  million for the year ended July 31, 2004  compared to $2.9 million for the
+year end July 31, 2003.
+
+On a GAAP basis,  the fourth quarter  fiscal 2004 net loss was $0.9 million,  or
+$0.01 per share,  compared to last year's  fourth  quarter  fiscal 2003 GAAP net
+loss of $2.4 million,  or $0.04 per share.  The fourth  quarter fiscal 2004 GAAP
+net loss includes a $12,000 restructuring credit classified in cost of sales due
+to the release of remaining  warranty  reserve  associated with the pre-existing
+hardware business and a $3,000 charge for amortization of intangible assets. For
+the year ended July 31, 2004, the company's  GAAP net loss was $7.6 million,  or
+$0.13 per share,  compared to $13.8  million,  or $0.25 per share,  for the year
+July 31, 2003.
+
+As specified in the attached reconciliation of net loss as reported to pro forma
+net loss, the fourth quarter fiscal 2004 net loss before  non-recurring  charges
+was $0.9 million,  or $0.01 per share,  compared to last year's  fourth  quarter
+fiscal 2003 net loss before non-recurring  charges of $2.1 million, or $0.04 per
+share.  For the year  ended July 31,  2004,  the net loss  before  non-recurring
+charges was $6.0  million,  or $0.10 per share,  compared to $12.0  million,  or
+$0.22 per share,  for the year ended July 31, 2003. Cash and investments  remain
+strong at $45.5 million as of July 31, 2004.
+
+"Our  financial  results  for the fourth  quarter  and for the year  reflect our
+emphasis on execution.  Software  revenue  increased to $1.6 million  during the
+fourth quarter driven by the addition of 11 new accounts as well as purchases by
+our  installed  base.  We enter  fiscal year 2005  having  sold our  SourceForge
+solution to 97  customers,"  said Ali Jenab,  President  and CEO.  "We have also
+positioned our online business,  OSTG for growth in fiscal year 2005. OSTG, with
+its focused  emphasis on providing  up-to-the-minute  news about Linux and other
+open source  technologies  to the IT  community,  is poised to capitalize on the
+growing  interest  in  open  source  solutions.  In  addition,  OSTG's  recently
+announced  strategic  reltationships  with IDG and Yahoo!  expand  OSTG's  reach
+beyond our historical advertisers."
+<PAGE>
+
+A conference call to review results will be held at 5:00 pm (Eastern) today. The
+call may be  accessed  via  webcast at  http://www.vasoftware.com  or by dialing
+(800) 862-9098 or (785) 424-1051.  A replay of the call will be available for 30
+days by dialing (800) 934-3942 or (402) 220-1162.
+
+
+Recent Highlights
+
+o    Customers.  During the fourth  quarter of fiscal 2004, VA Software added 11
+     new SourceForge  Enterprise Edition accounts,  including Acxiom,  Bank One,
+     Bowman  Systems,  First American,  Sony Pictures  Imageworks and the US Air
+     Force, among others, to its installed base. In addition, existing customers
+     including  Pfizer,   Hewlett  Packard,   Fleet  Numerical  Meteorology  and
+     Oceanography  Center,  TNO and Los  Alamos  National  Laboratory  purchased
+     additional SourceForge licenses and services.
+
+o    SourceForge  Enterprise Edition 4.1. SourceForge Enterprise Edition 4.1 was
+     released  in June.  The latest  release is built on a  platform-independent
+     Java 2 Enterprise  Edition(TM)(J2EE)  architecture and includes an open API
+     and  complementary  software  development kit. These  enhancements  make it
+     easier  to  integrate  with  a  wide  range  of  third-party  applications,
+     authentication  systems,   databases,   software  configuration  management
+     systems and in-house  tools.  A  significantly  enhanced and more intuitive
+     user  interface  is also a key new  feature  of this  release.  SourceForge
+     Enterprise  Edition  4.1  allows  customers  to  lower  development  costs,
+     increase  development  efficiency,  and improve development  visibility and
+     control beyond the results provided by earlier releases of the product.
+
+o    OSTG.  Formerly known as OSDN, OSTG (Open Source  Technology  Group) is the
+     leading  network  of  news  and  information  sites  for  IT  managers  and
+     development  professionals.  During  the fourth  quarter,  in  addition  to
+     announcing its new name, OSTG relaunched  several of its IT-focused  sites.
+     The name change to OSTG reflects the company's  long-term  strategy to meet
+     the evolving information needs of its growing audience,  and address market
+     trends driving the rapid adoption of Open Source  technologies for business
+     and the desktop. For the tenth-consecutive  quarter,  based on composition,
+     OSTG has been named the number one network for delivering visitors who look
+     for technology  news online and for  delivering  visitors who make software
+     purchases online,  according to the  Nielsen//NetRatings  @Plan Summer 2004
+     Report.
+
+     OSTG continues to experience rapid traffic growth and increased advertising
+     revenue while  maintaining its commitment to a  community-based  technology
+     audience   working   with  a   range   of   platforms   and   technologies.
+     SourceForge.net(R), the world's largest repository of Open Source software,
+     continues  to break new  records  with over  900,000  registered  users and
+     86,000  projects.  Two  Microsoft  projects  released  under the  company's
+     "Shared Source  Initiative" are in the top 10% of active projects hosted on
+     SourceForge.net.  The network as a whole  serves more than 250 million page
+     views,  and 16 million unique visitors  monthly.* This ranks OSTG among the
+     top  technology  networks  both in  terms  of size  and  purchasing  power.
+     Advertisers   and  sponsors  of  the  network   include   Microsoft,   IBM,
+     Hewlett-Packard,  Intel, Red Hat, Legato, AMD, Sun Microsystems,  Interland
+     and Rackspace.
+
+o    OSTG   Strategic   Relationships.    OSTG   announced   several   strategic
+     relationships  designed to expand its reach beyond historical  advertisers.
+     On August 5, 2004,  OSTG  announced a marketing  and sales  agreement  with
+     International  Data Group (IDG),  where IDG's Global Solutions' sales force
+     will sell  advertising  on OSTG's  network  of sites  giving  international
+     technology  advertisers  more  media  options  and  exposing  them  to  the
+     fast-growing  global open source  community.  On August 17, OSTG  announced
+     that it would  expand  its site and Web  search  capabilities  with  Yahoo!
+     Search  Technology and add  contextually-relevant  paid  advertising to its
+     sites using Overture Services' Content Match product.
+
+Use of Non-GAAP Financial Information
+
+In addition to reporting financial results in accordance with generally accepted
+accounting  principles,  or GAAP, VA Software uses non-GAAP  financial  results.
+Non-GAAP net income and earnings per share  exclude  amortization  of intangible
+assets and deferred  stock  compensation,  impairment  of  goodwill,  intangible
+
+<PAGE>
+
+assets and other long-term assets,  remeasurement of warrant liability,  as well
+as restructuring costs and other special charges. These non-GAAP adjustments are
+provided  to  enhance  the user's  overall  understanding  of current  financial
+performance and prospects for the future. Specifically, VA believes the non-GAAP
+results provide useful information to both management and investors by excluding
+certain  non-recurring  expenses  that VA believes  are not  indicative  of core
+operating results.  In addition,  because VA has historically  reported non-GAAP
+results to the  investment  community,  VA believes  the  inclusion  of non-GAAP
+numbers provides  consistency in financial  reporting.  Further,  these non-GAAP
+results are one of the  primary  indicators  management  uses for  planning  and
+forecasting in future periods. The method VA uses to produce non-GAAP results is
+not  computed  according  to GAAP,  is likely to differ from the methods used by
+other companies and should not be regarded as a substitute for results  prepared
+in  accordance  with  accounting  principles  generally  accepted  in the United
+States.
+
+About VA Software
+
+VA Software (Nasdaq: LNUX) is at the center of today's technology revolution and
+incites  innovation  by  empowering  the  IT  and  developer   communities  with
+information,  community support and software.  VA Software is the parent company
+of OSTG (Open  Source  Technology  Group),  formerly  OSDN,  and the  creator of
+SourceForge.  SourceForge.net  is the global nexus for the Open Source community
+with 85,000+ Open Source  projects and 900,000+  registered  users.  SourceForge
+Enterprise Edition optimizes distributed development for Fortune 500 companies.
+
+OSTG, the cornerstone of the Open Source movement, is the leading online network
+for IT managers and development  professionals.  OSTG  technology-focused  sites
+include  Slashdot.org,  SourceForge.net,  ITManagersJournal.com,  NewsForge.com,
+Linux.com and freshmeat.net. OSTG also runs ThinkGeek.com, an online retailer of
+technology    products,     and    the    MediaBuilder    network,     featuring
+AnimationFactory.com.  OSTG receives more than 250 million page views and nearly
+16 million unique visitors monthly.
+
+For more  information  about VA  Software,  visit  www.vasoftware.com.
+For more information about OSTG, visit www.ostg.com.
+
+
+
+Note  Regarding   Forward-Looking   Statements:   This  press  release  contains
+forward-looking  statements  that  involve  risks and  uncertainties,  including
+statements  regarding  VA's  anticipated  financial  performance  and  continued
+progress as a company, including OSTG's anticpated online advertising growth and
+ability to capitalize on interest in open source  solutions.  Actual results may
+differ  materially  from those  expressed  or  implied  in such  forward-looking
+statements  due to various  factors,  including:  VA's success in expanding  its
+SourceForge  enterprise  software business;  VA's ability to achieve and sustain
+higher levels of revenue; VA's reliance upon strategic  relationships with other
+companies;  VA's ability to protect and defend its intellectual property rights;
+the size and timing of  execution  of  enterprise-level  licenses;  decreases or
+delays in online advertising  spending;  rapid  technological and market change;
+future guidelines and  interpretations  regarding software revenue  recognition;
+unforeseen expenses that VA may incur in future quarters;  and competition with,
+and  pricing  pressures  from more  established  competitors.  Investors  should
+consult VA's filings with the Securities and Exchange Commission,  including its
+Annual Report on Form 10-K for the fiscal year ended July 31, 2003 and Form 10-Q
+for the fiscal quarter ended April 30, 2004, for further  information  regarding
+these  and the  other  risks of the  Company's  business.  These  documents  are
+available at the SEC Web site:  www.sec.gov.  VA assumes no obligation to update
+the forward-looking information contained in this news release.
+
+Note to editors: VA Software,  SourceForge and OSTG are trademarks or registered
+trademarks of VA Software  Corporation in the United States and other countries.
+Slashdot is a registered  trademark of the OSTG,  Inc., in the United States and
+other countries. All other trademarks are property of their respective owners.
+
+* Publisher's own data based on internal traffic audits.
+
+Contact:
+
+Investor Relations
+VA Software Corp.
+(510) 687-8731
+ir@vasoftware.com
+
+
+
+<PAGE>
+<TABLE>
+
+                                                       VA Software Corporation
+                                           CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                                                (In thousands, except per share data)
+<CAPTION>
+
+                                                                            Three Months Ended               Twelve Months Ended
+                                                                      ------------------------------    ----------------------------
+                                                                      July 31, 2004    July 31, 2003    July 31, 2004  July 31, 2003
+                                                                      -------------    -------------    -------------  -------------
+<S>                                                                     <C>              <C>              <C>              <C>
+  Software revenues                                                     $  1,618         $    845         $  4,995         $  2,917
+  Online revenues                                                          5,699            5,555           24,217           20,551
+  Other revenues                                                            --                156               49              760
+                                                                        --------         --------         --------         --------
+       Net revenues                                                        7,317            6,556           29,261           24,228
+
+  Software cost of revenues                                                  364              484            1,860            1,997
+  Online cost of revenues                                                  3,108            2,774           13,689           11,166
+  Other cost of revenues                                                     (12)              (6)             (12)            (383)
+                                                                        --------         --------         --------         --------
+       Cost of revenues                                                    3,460            3,252           15,537           12,780
+                                                                        --------         --------         --------         --------
+       Gross margin                                                        3,857            3,304           13,724           11,448
+  Operating Expenses:
+       Sales and marketing                                                 2,470            2,531           10,093            9,791
+       Research and development                                            1,522            1,828            6,732            7,815
+       General and administrative                                            893            1,342            4,665            6,455
+       Restructuring costs and other special charges                        --               (229)           3,209             (263)
+       Amortization of deferred stock compensation                          --                 28               20              144
+       Amortization of intangible assets                                       3              217               12            2,149
+                                                                        --------         --------         --------         --------
+          Total operating expenses                                         4,894            5,717           24,731           26,091
+                                                                        --------         --------         --------         --------
+  Loss from operations                                                    (1,031)          (2,413)         (11,007)         (14,643)
+  Remeasurement of warrant liability                                        --               --              1,566             --
+  Interest and other, net                                                    170               30            1,801              845
+                                                                        --------         --------         --------         --------
+  Net loss                                                              $   (861)        $ (2,383)        $ (7,640)        $(13,798)
+                                                                        ========         ========         ========         ========
+
+  Basic and diluted net loss per share                                  $  (0.01)        $  (0.04)        $  (0.13)        $  (0.25)
+                                                                        ========         ========         ========         ========
+
+  Weighted-average shares outstanding:
+  Basic and diluted                                                       61,141           54,895           59,684           54,110
+                                                                        ========         ========         ========         ========
+
+  Reconciliation of net loss as reported
+  to pro forma net loss:
+</TABLE>
+<TABLE>
+<CAPTION>
+
+                                                                            Three Months Ended               Twelve Months Ended
+                                                                      ------------------------------    ----------------------------
+                                                                      July 31, 2004    July 31, 2003    July 31, 2004  July 31, 2003
+                                                                      -------------    -------------    -------------  -------------
+<S>                                                                     <C>              <C>              <C>              <C>
+  Net loss as reported                                                  $   (861)        $ (2,383)        $ (7,640)        $(13,798)
+  Non recurring charges:
+       Restructuring cost and other special charges                         --               (229)           3,209             (316)
+       Restructuring costs classified as cost of goods                       (12)              (6)             (12)            (432)
+       Amortization of deferred stock compensation                          --                 28               20              144
+       Amortization of intangible assets                                       3              217               12            2,149
+       Amortization of intangible assets, and
+       other long-term assets                                               --                239             --                239
+       Remeasurement of warrant liability                                   --               --             (1,566)            --
+                                                                        --------         --------         --------         --------
+  Net loss before non cash charges                                      $   (870)        $ (2,134)        $ (5,977)        $(12,014)
+                                                                        ========         ========         ========         ========
+
+  Basic and diluted net loss per share - pro forma                      $  (0.01)        $  (0.04)        $  (0.10)        $  (0.22)
+                                                                        ========         ========         ========         ========
+
+  Weighted-average shares outstanding:
+  Basic and diluted                                                       61,141           54,895           59,684           54,110
+                                                                        ========         ========         ========         ========
+
+</TABLE>
+<PAGE>
+
+<TABLE>
+                                            VA Software Corporation
+
+                                     CONDENSED CONSOLIDATED BALANCE SHEETS
+                                                 (In thousands)
+<CAPTION>
+
+                                                                   July 31, 2004          July 31, 2003
+                                                                   -------------          -------------
+                                     ASSETS
+<S>                                                                   <C>                  <C>
+Current assets:
+  Cash, cash equivalents, and current marketable securities           $  28,560            $  34,617
+  Accounts receivable, net                                                3,909                1,928
+  Inventories                                                             1,069                  388
+  Prepaid expenses and other assets                                       1,045                1,231
+                                                                      ---------            ---------
+      Total current assets                                               34,583               38,164
+Long-term marketable securities                                          16,933                5,130
+Property and equipment, net                                               1,208                4,267
+Intangible assets, net                                                       13                   21
+Other assets                                                                942                  913
+                                                                      ---------            ---------
+Total assets                                                          $  53,679            $  48,495
+                                                                      =========            =========
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+  Accounts payable                                                    $   1,674            $     863
+  Accrued restructuring liabilities                                       3,440                4,117
+  Accrued liabilities and other                                           3,602                4,360
+                                                                      ---------            ---------
+      Total current liabilities                                           8,716                9,340
+Accrued restructuring liabilities, net of current portion                 7,843               10,772
+Other long-term liabilities                                               1,349                1,181
+                                                                      ---------            ---------
+Total liabilities                                                        17,908               21,293
+                                                                      ---------            ---------
+
+Stockholders' equity:
+  Common stock                                                               62                   56
+  Additional paid-in capital                                            783,242              766,761
+  Deferred stock compensation                                              --                    (20)
+  Accumulated other comprehensive income/(loss)                            (171)                 128
+  Accumulated deficit                                                  (747,362)            (739,723)
+                                                                      ---------            ---------
+      Total stockholders' equity                                         35,771               27,202
+                                                                      ---------            ---------
+Total liabilities and stockholders' equity                            $  53,679            $  48,495
+                                                                      =========            =========
+
+
+</TABLE>
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

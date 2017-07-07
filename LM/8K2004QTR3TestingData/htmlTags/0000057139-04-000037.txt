@@ -1,0 +1,2397 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EOzlmPQbGGfA8D1GSqfzAkoxJizRD45xgT7XGl6I5DEs8UHioaWyNd2em28DJTsV
+ xNpVh73VsD4YB/ZSGXt93w==
+
+<SEC-DOCUMENT>0000057139-04-000037.txt : 20040826
+<SEC-HEADER>0000057139-04-000037.hdr.sgml : 20040826
+<ACCEPTANCE-DATETIME>20040826135815
+ACCESSION NUMBER:		0000057139-04-000037
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040627
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040826
+DATE AS OF CHANGE:		20040826
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LABARGE INC
+		CENTRAL INDEX KEY:			0000057139
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]
+		IRS NUMBER:				730574586
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05761
+		FILM NUMBER:		04998438
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9900A CLAYTON RD
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63124
+		BUSINESS PHONE:		3149970800
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 14499
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63178-4499
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DORSETT ELECTRONICS INC
+		DATE OF NAME CHANGE:	19690406
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM8K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>UNITED STATESSECURITIES AND EXCHANGE COMMISSION</TITLE>
+</HEAD>
+<BODY>
+
+<FONT FACE="Arial"><P ALIGN="CENTER"></P></FONT>
+<P ALIGN="RIGHT"><TABLE CELLSPACING=0 BORDER=0 WIDTH=624>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial"><P ALIGN="CENTER">UNITED STATES</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial"><P ALIGN="CENTER">SECURITIES AND EXCHANGE COMMISSION</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial"><P ALIGN="CENTER">Washington, D.C. 20549</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">FORM 8-K</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">CURRENT REPORT</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">Date of Report (Date of earliest event reported)<B> August 26, 2004 (August 26, 2004)</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><U><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">LaBARGE, INC.</B></U></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">(Exact name of registrant as specified in its charter)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<B><U><FONT FACE="Arial"><P ALIGN="CENTER">DELAWARE</B></U></FONT></TD>
+<TD WIDTH="35%" VALIGN="TOP">
+<B><U><FONT FACE="Arial"><P ALIGN="CENTER">001-05761</B></U></FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<B><U><FONT FACE="Arial"><P ALIGN="CENTER">73-0574586</B></U></FONT></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">(State or other jurisdiction of incorporation)</FONT></TD>
+<TD WIDTH="35%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">(Commission File Number)</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">(IRS Employer <BR>
+Identification No.)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><U><FONT FACE="Arial"><P ALIGN="CENTER">9900A Clayton Road, St. Louis, Missouri</U>&nbsp;<U>63124</B></U></FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">(Address of principal executive offices)<B>&nbsp;&nbsp;&nbsp;&nbsp;</B> </FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B>(Zip Code)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><U><FONT FACE="Arial"><P ALIGN="CENTER">(314) 997-0800</B></U></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">Registrant's telephone number, including area code</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">(Former Name or Former Address, if Changed Since Last Report)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial" SIZE=2><P>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing</P>
+<P>Obligation of the registrant under any of the following provisions (see General Instruction A.2. below):</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial" SIZE=1><P>(  ) Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial" SIZE=1><P>(  ) Soliciting material pursuant to Rule 425 under the Securities Act (17 CFT 240.14a-12)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial" SIZE=1><P>(  ) Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17CFT 240.14d-2(b))</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial" SIZE=1><P>(  ) Pre-commencement communications pursuant to Rule 13e-4&copy; under the Exchange Act (17CFR 240.13e-4(c))</FONT></TD>
+</TR>
+</TABLE>
+</P>
+
+<FONT FACE="Arial"><P ALIGN="CENTER"></P>
+<P>&nbsp;</P></FONT>
+<P ALIGN="RIGHT"><TABLE CELLSPACING=0 BORDER=0 WIDTH=624>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="CENTER">FORM 8-K</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P>Item 2.02&nbsp;&nbsp;&nbsp;&nbsp;Results of Operations and Financial Condition</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="12%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="88%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On August 26, 2004, LaBarge, Inc. issued a press release announcing its financial results for the 2004 fourth quarter and full fiscal year.  A copy of the press release is attached hereto and hereby incorporated by reference.  The information in this Form 8-K shall not be deemed to be &quot;filed&quot; for the purposes of Section 18 of the Securities Exchange Act of 1934 (the &quot;Exchange Act&quot;), or otherwise subject to the liabilities of such section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act of 1933 or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P>Item 9.01&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements and Exhibits</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial" SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp;Exhibits</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="12%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P>99.1</FONT></TD>
+<TD WIDTH="88%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=3><P>Press Release for LaBarge, Inc. for the 2004 fourth quarter and full fiscal year ended June 27, 2004, and forward-looking statements relating to fiscal 2005 as presented in a press release of August 26, 2004.</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+</TABLE>
+</P>
+
+<FONT FACE="CG Times">
+<P>&nbsp;</P></FONT>
+<P ALIGN="CENTER"><CENTER><TABLE CELLSPACING=0 BORDER=0 WIDTH=624>
+<TR><TD VALIGN="TOP">
+<B><FONT FACE="Arial"><P ALIGN="CENTER">SIGNATURES</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial"><P>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<P>&nbsp;</TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<FONT SIZE=2><P>&nbsp;</P></FONT>
+<P ALIGN="CENTER"><CENTER><TABLE CELLSPACING=0 BORDER=0 WIDTH=624>
+<TR><TD WIDTH="55%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<B><FONT FACE="Arial"><P>LaBarge, Inc.</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="55%" VALIGN="TOP">
+<P>&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial"><P>(Registrant)</FONT></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<FONT SIZE=2><P>&nbsp;</P></FONT>
+<P ALIGN="CENTER"><CENTER><TABLE CELLSPACING=0 BORDER=0 WIDTH=624>
+<TR><TD WIDTH="49%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</FONT><FONT FACE="Arial">Date: August 26, 2004</FONT></TD>
+<TD WIDTH="51%" VALIGN="TOP" COLSPAN=2>
+<P>&nbsp;&nbsp;<FONT FACE="Arial">By:&nbsp;&nbsp;/s/Donald H. Nonnenkamp</FONT></TD>
+</TR>
+<TR><TD WIDTH="49%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Donald H. Nonnenkamp<BR>
+Vice President, Chief Financial<BR>
+Officer and Secretary</FONT></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<FONT FACE="CG Times"><P>&nbsp;</P>
+</FONT><P ALIGN="CENTER">&nbsp;</P>
+<P ALIGN="CENTER">&nbsp;</P>
+<FONT FACE="Arial"><P ALIGN="CENTER">Exhibit Index</P></FONT>
+<P ALIGN="CENTER"><CENTER><TABLE CELLSPACING=0 BORDER=0 WIDTH=628>
+<TR><TD WIDTH="14%" VALIGN="TOP">
+<B><FONT FACE="Arial"><P ALIGN="RIGHT">Index Number</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<B><FONT SIZE=2><P>&nbsp;</B></FONT></TD>
+<TD WIDTH="82%" VALIGN="TOP">
+<B><FONT FACE="Arial"><P>Description</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</FONT></TD>
+<TD WIDTH="82%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">99.1</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</FONT></TD>
+<TD WIDTH="82%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Press Release for LaBarge, Inc. for the 2004 fourth quarter and full fiscal year ended June 27, 2004, and forward-looking statements relating to fiscal 2005 as presented in a press release of August 26, 2004.</FONT></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<FONT FACE="CG Times"></FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1 CHARTER
+<SEQUENCE>2
+<FILENAME>fy04q4.htm
+<DESCRIPTION>FY04Q4PR
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>FOR IMMEDIATE RELEASE</TITLE>
+<META NAME="Template" CONTENT="C:\Program Files\Microsoft Office\Templates\Other Documents\NewsUpdateHeaderOnly.dot">
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#808080">
+
+<FONT SIZE=6><P>NEWS UPDATE</P>
+</FONT><FONT SIZE=2><P><IMG SRC="logoclr.gif" WIDTH=105 HEIGHT=75></P>
+</FONT><B><U><FONT SIZE=3></B></U></FONT>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=690>
+<TR><TD VALIGN="TOP">
+<B><FONT SIZE=2><P>Contact:</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>Colleen Clements</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>LaBarge, Inc.<BR>
+<B>314-997-0800, ext. 409</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT SIZE=2><P>colleen.clements@labarge.com</FONT></TD>
+</TR>
+</TABLE>
+
+<B><FONT SIZE=3>
+</FONT><P ALIGN="CENTER">LaBARGE, INC. REPORTS SUBSTANTIAL INCREASES IN FISCAL 2004 <BR>
+FOURTH-QUARTER AND FULL-YEAR SALES AND EARNINGS</P>
+<P ALIGN="CENTER"></P>
+<I><P ALIGN="CENTER">Full-Year Net Sales Increase 28 Percent;</P>
+<P ALIGN="CENTER">Full-Year Net EPS Rise to $.44 Vs. $.15;</P>
+<P ALIGN="CENTER">Record Backlog - Up 27 Percent</P>
+</B></I>
+<P>ST. LOUIS, August 26, 2004 . . . . . LaBarge, Inc. (AMEX: LB) today reported that financial results for its fiscal 2004 fourth quarter and full year ended June 27, 2004 rose significantly over prior-year levels.</P>
+
+<P>For the fiscal 2004 fourth quarter, net sales rose 38 percent to $40,910,000, compared with $29,735,000 for the year-ago period. Fourth-quarter net earnings from continuing operations increased 93 percent to $2,501,000, or $.16 per diluted share, in fiscal 2004 compared with $1,294,000, or $.09 per diluted share, in fiscal 2003. Total net earnings for the fiscal 2004 fourth quarter grew 135 percent to $2,501,000, or $.16 per diluted share, compared with $1,066,000, or $.07 per diluted share, in the fiscal 2003 fourth quarter. Included in the Company's fiscal 2004 fourth-quarter results are net sales of $11,938,000 and earnings of approximately $.03 per diluted share contributed by the Company's Pittsburgh operation, which was acquired in February 2004. Fiscal 2003 fourth-quarter results included a net loss from discontinued operations of $228,000, or $.02 per diluted share.</P>
+
+<P>For the 2004 fiscal year, net sales rose 28 percent to $131,510,000, compared with $102,901,000 in fiscal 2003. Net earnings from continuing operations for the 12-month period increased 110 percent to $6,971,000, or $.45 per diluted share, in fiscal 2004, compared with $3,319,000, or $.22 per diluted share, in fiscal 2003. Total net earnings for fiscal 2004 grew 205 percent to $6,869,000, or $.44 per diluted share, compared with $2,248,000, or $.15 per diluted share, in fiscal 2003. Discontinued operations resulted in a net loss of $102,000, or $.01 per diluted share, in fiscal 2004, and a net loss of $1,071,000, or $.07 per diluted share, in fiscal 2003. Fiscal 2004 full-year results included net sales of $17,553,000 and earnings of approximately $.06 per diluted share contributed by the recently acquired Pittsburgh operation. </P>
+<B>
+</B><P>Gross margin for the 2004 fiscal year increased to 23.1 percent, compared with 20.3 percent for the previous fiscal year. The improvement in gross margin is primarily the result of product mix, operating productivity gains in our manufacturing process and the impact of higher sales volume. Selling and administrative expenses declined as a percentage of sales to 14 percent in fiscal 2004, versus 15 percent last year. Total selling and administrative expenses rose 20 percent from last year in contrast to the 28 percent increase in sales volume. Interest expense was $718,000 in fiscal 2004, versus $820,000 for the year-ago period.</P>
+
+<P>Total debt at June 27, 2004 was $37,735,000, compared with $7,064,000 at June 29, 2003. Cash and cash equivalents at June 27, 2004 were $793,000 versus $4,030,000 at June 29, 2003. &quot;The Company's continuing operations generated $13,034,000 of cash in fiscal 2004, compared with $7,589,000 in the previous year. The increased debt and reduced cash levels at fiscal 2004 year-end reflect the cash acquisition of our new Pittsburgh operation, which was acquired during the third fiscal quarter, and capital expenditures,&quot; said Craig LaBarge, chief executive officer and president. &quot;We expect cash flow from operations to continue to be strong, and are planning significant debt reductions during the next year.&quot; Stockholders' equity was $42,584,000 at the end of fiscal 2004, up 19 percent from $35,879,000 at fiscal 2003 year-end.</P>
+
+<P>Mr. LaBarge stated further, &quot;In addition to improved growth in sales and earnings, bookings of new business - particularly from the defense and natural resources market sectors - were strong during fiscal 2004. Backlog of unshipped orders set a record at the end of the fiscal year, growing to $156,949,000, up 27 percent from $123,640,000 at the end of last fiscal year, and up 9 percent from $144,048,000 at the end of the fiscal 2004 third quarter.</P>
+
+<P> &quot;The largest contributor to fiscal 2004 revenues was shipments to defense customers, representing 48 percent of sales, versus 49 percent in fiscal 2003,&quot; said Mr. LaBarge. &quot;During the year, LaBarge provided cables and electronic assemblies for a variety of defense applications, including military aircraft, radar systems and shipboard programs.&quot;</P>
+
+<P>&quot;Revenues from the natural resources market generated 14 percent of fiscal 2004 shipments, versus 17 percent last year,&quot; continued Mr. LaBarge. &quot;Natural resources sales represent shipments of capital equipment to customers in the oil-and-gas and mining sectors, and include downhole tools and industrial mining equipment. The increase in current year revenues from this market is attributable to strengthening activity among oil-and-gas customers, business from the Pittsburgh acquisition and the development of new mining customers.</P>
+
+<P>&quot;Shipments of capital equipment to industrial customers were 13 percent of fiscal 2004 revenues compared with an insignificant amount last year,&quot; said Mr. LaBarge. &quot;This growth is largely from our recent acquisition which has broadened our customer mix to include companies that do business in the glass packaging and specialized instrumentation industries, as well as other industrial markets.&quot;</P>
+
+<P>&quot;The remaining 25 percent of fiscal 2004 sales is attributable to customers in a variety of other market sectors,&quot; said Mr. LaBarge.</P>
+
+<B><P>Fiscal 2005 First-Quarter and Full-Year Outlook</P>
+</B>
+<P>&quot;Based on our strong backlog and the current pipeline of new business opportunities, we are optimistic about our current fiscal year. We anticipate, compared with the same period last year, fiscal 2005 first-quarter net sales to increase at least 36 percent to approximately $41.0 million to $42.0 million, and earnings per diluted share to improve at least 75 percent to approximately $.14 to $.15. Looking further ahead, we continue to expect fiscal 2005 sales and earnings to increase approximately 25 percent from fiscal 2004 levels.&quot;</P>
+
+<B><P>Today's Conference Call Webcast</P>
+</B>
+<P>Today, at 11:00 a.m. Eastern time, LaBarge will host a live audio webcast of its discussion with the investment community regarding financial results for the Company's fiscal 2004 fourth quarter and full year. The webcast can be accessed at http://www.labarge.com/investor/stockholder_calendar.asp . Following the live discussion, a replay of the webcast will be available at the same location on the Internet.</P>
+
+<P>LaBarge, Inc. reports the following . . . . </P>
+
+<P>&nbsp;</P>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=704>
+<TR><TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="66%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=2><P ALIGN="CENTER">L</FONT><FONT SIZE=1>A</FONT><FONT SIZE=2>BARGE, INC.<BR>
+C<A NAME="CSofI"></A>ONSOLIDATED STATEMENTS OF INCOME<BR>
+(Unaudited)</B></FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="35%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</FONT></TD>
+<TD WIDTH="66%" VALIGN="TOP" COLSPAN=2>
+<I><FONT SIZE=1><P ALIGN="CENTER">(Amounts In Thousands -- Except Per-Share Amounts)</I></FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP">
+<FONT SIZE=2><P>&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+
+<FONT SIZE=2></FONT>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=705>
+<TR><TD WIDTH="13%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="31%" VALIGN="TOP" COLSPAN=22>
+<B><U><FONT SIZE=3><P ALIGN="CENTER">Three Months Ended</B></U></FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="31%" VALIGN="TOP" COLSPAN=19>
+<B><U><FONT SIZE=3><P ALIGN="CENTER">Twelve Months Ended</B></U></FONT></TD>
+</TR>
+<TR><TD WIDTH="13%" VALIGN="TOP" COLSPAN=5 HEIGHT=1><P></P></TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=5 HEIGHT=1><P></P></TD>
+<TD WIDTH="31%" VALIGN="TOP" COLSPAN=22 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="31%" VALIGN="TOP" COLSPAN=19 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="13%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=11>
+<B><FONT SIZE=3><P ALIGN="CENTER">June 27,</B></FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=11>
+<FONT SIZE=3><P ALIGN="CENTER">June 29,</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=10>
+<B><FONT SIZE=3><P ALIGN="CENTER">June 27,</B></FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=7>
+<FONT SIZE=3><P ALIGN="CENTER">June 29,</FONT></TD>
+</TR>
+<TR><TD WIDTH="13%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=11>
+<B><FONT SIZE=3><P ALIGN="CENTER">2004</B></FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=11>
+<FONT SIZE=3><P ALIGN="CENTER">2003</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=10>
+<B><FONT SIZE=3><P ALIGN="CENTER">2004</B></FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=7>
+<FONT SIZE=3><P ALIGN="CENTER">2003</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=8>
+<B><U><FONT SIZE=3><P>Net sales</B></U></FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="TOP" COLSPAN=8>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">40,910</B></FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="TOP" COLSPAN=6>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">29,735</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="TOP" COLSPAN=9>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">131,510</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">102,901</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P>&nbsp;</B></FONT></TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>
+<B><FONT SIZE=3><P>&nbsp;</B></FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="25%" VALIGN="TOP" COLSPAN=8>
+<B><U><FONT SIZE=3><P>Costs and expenses:</B></U></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=13>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="21%" VALIGN="TOP" COLSPAN=6>
+<FONT SIZE=3><P>Cost of sales</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT">31,234</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">23,462</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=3>
+<B><FONT SIZE=3><P ALIGN="RIGHT">101,138</B></FONT></TD>
+<TD WIDTH="5%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">82,053</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP" COLSPAN=8>
+<FONT SIZE=3><P>Selling and administrative expense</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=8>
+<B><FONT SIZE=3><P ALIGN="RIGHT">5,336</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">4,121</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT">18,828</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">15,662</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP" COLSPAN=11>
+<FONT SIZE=3><P>Interest expense</FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=6>
+<B><FONT SIZE=3><P ALIGN="RIGHT">427</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">198</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT">718</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">820</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP" COLSPAN=11>
+<FONT SIZE=3><P>Other income, net</FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=6>
+<B><FONT SIZE=3><P ALIGN="RIGHT">(158</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>
+<B><FONT SIZE=3><P>)</B></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">(45</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P>)</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT">(677</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>
+<B><FONT SIZE=3><P>)</B></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">(710</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<FONT SIZE=3><P>)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=10>
+<FONT SIZE=3><P>Earnings from continuing operations<BR>
+&nbsp;before income taxes</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=6>
+<B><FONT SIZE=3><P ALIGN="RIGHT"><BR>
+4,071</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT"><BR>
+1,999</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT"><BR>
+11,503</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT"><BR>
+5,076</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=10>
+<FONT SIZE=3><P>Income tax expense </FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=6>
+<B><FONT SIZE=3><P ALIGN="RIGHT">1,570</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">705</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT">4,532</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">1,757</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP" COLSPAN=11>
+<FONT SIZE=3><P>Net earnings from continuing operations</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=6>
+<B><FONT SIZE=3><P ALIGN="RIGHT">2,501</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">1,294</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT">6,971</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">3,319</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="13%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=11>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=10>
+<B><FONT SIZE=3><P>Discontinued operations:</B></FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=11>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="36%" VALIGN="TOP" COLSPAN=12>
+<FONT SIZE=3><P>Loss from discontinued operations less applicable income tax benefit of $(131), $(70) and $(519), respectively</FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=6>
+<B><FONT SIZE=3><P ALIGN="RIGHT"><BR>
+<BR>
+- ---</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT"><BR>
+<BR>
+(228</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P><BR>
+<BR>
+)</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT"><BR>
+<BR>
+(114</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>
+<B><FONT SIZE=3><P><BR>
+<BR>
+)</B></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">(859</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<FONT SIZE=3><P><BR>
+<BR>
+)</FONT></TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="36%" VALIGN="TOP" COLSPAN=12>
+<FONT SIZE=3><P>Gain (loss) on disposal of discontinued operations net of income tax expense of $8 and $2,434, respectively</FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=6>
+<B><FONT SIZE=3><P ALIGN="RIGHT"><BR>
+<BR>
+- ---</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT"><BR>
+<BR>
+- ---</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT"><BR>
+12</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT"></P>
+<P ALIGN="RIGHT">&nbsp;</P>
+<P ALIGN="RIGHT">(212</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<FONT SIZE=3><P><BR>
+<BR>
+)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="26%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=8>&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="7%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="29%" VALIGN="TOP" COLSPAN=9>
+<B><FONT SIZE=3><P ALIGN="JUSTIFY">Net earnings</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=5>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">2,501</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">1,066</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="TOP" COLSPAN=9>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">6,869</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">2,248</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="TOP" COLSPAN=2 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="13%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2 HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=11 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5 HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7 HEIGHT=1><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=5 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=5 HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="37%" VALIGN="TOP" COLSPAN=13>
+<B><FONT SIZE=3><P>Basic net earnings per common share:</B></FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=8>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="37%" VALIGN="TOP" COLSPAN=13>
+<FONT SIZE=3><P>Net earnings from continuing operations</FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=5>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">0.17</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">0.09</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="TOP" COLSPAN=9>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">0.47</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">0.22</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="37%" VALIGN="TOP" COLSPAN=13>
+<FONT SIZE=3><P>Net loss from discontinued operations</FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=3>
+<B><FONT SIZE=3><P ALIGN="RIGHT">---</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P ALIGN="RIGHT">(0.02</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>)</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT">(0.01</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>
+<B><FONT SIZE=3><P>)</B></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">(0.07</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<FONT SIZE=3><P>)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=10>
+<B><FONT SIZE=3><P ALIGN="JUSTIFY">Basic net earnings</B></FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=5>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">0.17</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">0.07</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="TOP" COLSPAN=9>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">0.46</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">0.15</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<B><FONT SIZE=3><P>&nbsp;</B></FONT></TD>
+<TD WIDTH="37%" VALIGN="TOP" COLSPAN=13>
+<B><FONT SIZE=3><P>Average common shares outstanding</B></FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=6>
+<B><FONT SIZE=3><P ALIGN="RIGHT">14,965</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P ALIGN="RIGHT">14,927</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT">14,981</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">14,977</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="TOP" COLSPAN=2 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="13%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2 HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=11 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5 HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7 HEIGHT=1><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=5 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=5 HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=10>
+<B><FONT SIZE=3><P>Diluted net earnings per share:</B></FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=11>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="37%" VALIGN="TOP" COLSPAN=13>
+<FONT SIZE=3><P>Net earnings from continuing operations</FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">0.16</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">0.09</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="TOP" COLSPAN=9>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">0.45</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">0.22</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="37%" VALIGN="TOP" COLSPAN=13>
+<FONT SIZE=3><P>Net loss from discontinued operations</FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=6>
+<B><FONT SIZE=3><P ALIGN="RIGHT">---</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P ALIGN="RIGHT">(0.02</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>)</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT">(0.01</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>
+<B><FONT SIZE=3><P>)</B></FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">(0.07</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">
+<FONT SIZE=3><P>)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="37%" VALIGN="TOP" COLSPAN=13>
+<B><FONT SIZE=3><P ALIGN="JUSTIFY">Diluted net earnings</B></FONT></TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=5>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">0.16</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">0.07</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="TOP" COLSPAN=9>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">0.44</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">0.15</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="1%" VALIGN="TOP">
+<FONT SIZE=3><P>&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="37%" VALIGN="TOP" COLSPAN=15>
+<B><FONT SIZE=3><P>Average diluted common <BR>
+&nbsp;&nbsp;shares outstanding</B></FONT></TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=6>
+<B><FONT SIZE=3><P ALIGN="RIGHT"><BR>
+15,660</B></FONT></TD>
+<TD WIDTH="7%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5>
+<FONT SIZE=3><P ALIGN="RIGHT"><BR>
+15,072</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<B><FONT SIZE=3><P ALIGN="RIGHT"><BR>
+15,552</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT"><BR>
+15,101</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="TOP" COLSPAN=2 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="13%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2 HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=11 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5 HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7 HEIGHT=1><P></P></TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=5 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=5 HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=57 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="36%" VALIGN="TOP" COLSPAN=12>&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="0%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=11>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="1%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="TOP" COLSPAN=7>&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<I><FONT SIZE=2>
+<P>&nbsp;</P>
+</I><P>&nbsp;</P></FONT>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=658>
+<TR><TD WIDTH="15%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=11>
+<B><FONT SIZE=2><P ALIGN="CENTER">L</FONT><FONT SIZE=1>A</FONT><FONT SIZE=2>BARGE, INC.</B></FONT></TD>
+<TD WIDTH="5%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="15%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=11>
+<B><FONT SIZE=2><P ALIGN="CENTER"><A NAME="BalanceSheet"></A>CONSOLIDATED BALANCE SHEETS</B></FONT></TD>
+<TD WIDTH="5%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="15%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=11>
+<B><FONT SIZE=2><P ALIGN="CENTER">(Unaudited)</B></FONT></TD>
+<TD WIDTH="5%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="15%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=11>
+<I><FONT SIZE=1><P ALIGN="CENTER">(Amounts In Thousands -- Except Share Amounts)</I></FONT></TD>
+<TD WIDTH="5%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6 HEIGHT=33><P></P></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM" HEIGHT=33>
+<B><FONT SIZE=3><P ALIGN="CENTER">&nbsp;</B></FONT></TD>
+<TD WIDTH="15%" VALIGN="BOTTOM" COLSPAN=4 HEIGHT=33>
+<B><FONT SIZE=3><P ALIGN="CENTER">June 27,<BR>
+2004</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM" HEIGHT=33>
+<B><FONT SIZE=3><P ALIGN="CENTER">&nbsp;</B></FONT></TD>
+<TD WIDTH="16%" VALIGN="BOTTOM" COLSPAN=6 HEIGHT=33>
+<FONT SIZE=3><P ALIGN="CENTER">June 29,<BR>
+2003</FONT></TD>
+<TD WIDTH="0%" VALIGN="BOTTOM" HEIGHT=33><P></P></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6 HEIGHT=21>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">ASSETS</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM" HEIGHT=21>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=21>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM" COLSPAN=3 HEIGHT=21>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM" HEIGHT=21>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=21>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="13%" VALIGN="BOTTOM" COLSPAN=5 HEIGHT=21>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="0%" VALIGN="BOTTOM" HEIGHT=21>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6>
+<B><FONT SIZE=3><P>Current assets:</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="13%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="0%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Cash and cash equivalents</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="BOTTOM">
+<B><FONT SIZE=3><P ALIGN="RIGHT">793</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="9%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">4,030</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Accounts and other receivables, net</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">22,335</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">15,653</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Inventories</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">40,202</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">25,743</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Prepaid expenses</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">854</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">956</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Deferred tax assets, net</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">803</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">637</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Current assets of discontinued operations</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">---</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">215</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=5 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" COLSPAN=2 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="64%" VALIGN="BOTTOM" COLSPAN=4 HEIGHT=17>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Total current assets</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=17>
+<B><FONT SIZE=3><P ALIGN="RIGHT">64,987</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=17><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3 HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">47,234</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3 HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=5 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" COLSPAN=2 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP" HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=3 HEIGHT=9>
+<B><FONT SIZE=3><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2 HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=4 HEIGHT=9><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3 HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6>
+<FONT SIZE=3><P>Property, plant and equipment, net</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">18,910</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">14,255</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6>
+<FONT SIZE=3><P>Deferred tax assets, net</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">37</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">299</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6>
+<FONT SIZE=3><P>Intangible assets, net</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">3,881</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">270</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6>
+<FONT SIZE=3><P>Goodwill, net</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">24,471</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">206</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6>
+<FONT SIZE=3><P>Other assets, net</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">5,694</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">4,727</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6>
+<FONT SIZE=3><P>Non-current assets of discontinued operations</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">---</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">171</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=5 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" COLSPAN=2 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="64%" VALIGN="BOTTOM" COLSPAN=3>
+<B><FONT SIZE=3><P>Total assets</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="BOTTOM">
+<B><FONT SIZE=3><P ALIGN="RIGHT">117,980</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="9%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">67,162</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=5 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" COLSPAN=2 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2 HEIGHT=1><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=4 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=5 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" COLSPAN=2 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 HEIGHT=11>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP" HEIGHT=11><P></P></TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=3 HEIGHT=11><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2 HEIGHT=11><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=4 HEIGHT=11><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3 HEIGHT=11><P></P></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">LIABILITIES AND STOCKHOLDERS' EQUITY</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">&nbsp;</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6>
+<B><FONT SIZE=3><P>Current liabilities:</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">&nbsp;</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Short-term borrowings</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="BOTTOM">
+<B><FONT SIZE=3><P ALIGN="RIGHT">7,050</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="9%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">---</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Current maturities of long-term debt</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="BOTTOM">
+<B><FONT SIZE=3><P ALIGN="RIGHT">4,415</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="BOTTOM" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="9%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P ALIGN="RIGHT">395</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Trade accounts payable </FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">12,305</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">7,808</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Accrued employee compensation</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">8,466</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">5,930</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Advances from customers for purchase of materials</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">2,656</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">3,419</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Other accrued liabilities</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">8,864</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">4,208</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Current liabilities of discontinued operations</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">---</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">66</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=5 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" COLSPAN=2 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="64%" VALIGN="BOTTOM" COLSPAN=4 HEIGHT=17>
+<B><FONT SIZE=3><P>Total current liabilities</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=17><P></P></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=17>
+<B><FONT SIZE=3><P ALIGN="RIGHT">43,756</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=17><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3 HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">21,826</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3 HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=5 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" COLSPAN=2 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 HEIGHT=9><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=3 HEIGHT=9><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2 HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=4 HEIGHT=9><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3 HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6>
+<B><FONT SIZE=3><P>Long-term advances from customers for purchase of materials</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">5,370</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">2,788</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6>
+<B><FONT SIZE=3><P>Long-term debt</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">26,270</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">6,669</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=5 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" COLSPAN=2 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%" VALIGN="TOP" HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=3 HEIGHT=9><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2 HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=4 HEIGHT=9>
+<FONT SIZE=3><P ALIGN="RIGHT">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3 HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="BOTTOM" COLSPAN=6>
+<B><FONT SIZE=3><P>Stockholders' equity:</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P>&nbsp;</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Common stock, $.01 par value.  Authorized 40,000,000 shares; 15,773,253 issued at June 27, 2004 and June 29, 2003, <BR>
+including shares in treasury</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">158</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">158</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Additional paid-in capital</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">13,462</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">13,486</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Retained earnings</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">31,853</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">24,984</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="65%" VALIGN="BOTTOM" COLSPAN=5>
+<FONT SIZE=3><P>Accumulated other comprehensive gain</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">&nbsp;</TD>
+<TD WIDTH="12%" VALIGN="BOTTOM" COLSPAN=3>
+<B><FONT SIZE=3><P ALIGN="RIGHT">157</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="14%" VALIGN="BOTTOM" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT">---</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="61%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P>Less cost of common stock in treasury, shares of 808,754 at <BR>
+June 27, 2004 and 844,903 at June 29, 2003</FONT></TD>
+<TD WIDTH="5%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=3>
+<B><FONT SIZE=3><P ALIGN="RIGHT"><BR>
+(3,046</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2>
+<B><FONT SIZE=3><P><BR>
+)</B></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=4>
+<FONT SIZE=3><P ALIGN="RIGHT"><BR>
+(2,749</FONT></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3>
+<FONT SIZE=3><P><BR>
+)</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=5 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" COLSPAN=2 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 HEIGHT=9><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=3 HEIGHT=9><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2 HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=4 HEIGHT=9><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3 HEIGHT=9>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="64%" VALIGN="BOTTOM" COLSPAN=4>
+<B><FONT SIZE=3><P>Total stockholders' equity</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="10%" VALIGN="BOTTOM" COLSPAN=2>
+<B><FONT SIZE=3><P ALIGN="RIGHT">42,584</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM">
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P ALIGN="RIGHT">35,879</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=5 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" COLSPAN=2 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=24>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM" HEIGHT=24><P></P></TD>
+<TD WIDTH="64%" VALIGN="BOTTOM" COLSPAN=4 HEIGHT=24>
+<B><FONT FACE="Arial" SIZE=3><P ALIGN="JUSTIFY">Total liabilities and stockholders' equity</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="BOTTOM" HEIGHT=24>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=24>
+<B><FONT SIZE=3><P ALIGN="RIGHT">$</B></FONT></TD>
+<TD WIDTH="9%" VALIGN="BOTTOM" HEIGHT=24>
+<B><FONT SIZE=3><P ALIGN="RIGHT">117,980</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=24>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=24>
+<FONT SIZE=3><P ALIGN="RIGHT">$</FONT></TD>
+<TD WIDTH="9%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=24>
+<FONT SIZE=3><P ALIGN="RIGHT">67,162</FONT></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" COLSPAN=3 HEIGHT=24>
+<FONT SIZE=3><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=5 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" COLSPAN=2 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" HEIGHT=1><P></P></TD>
+<TD WIDTH="12%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+<TD WIDTH="4%" VALIGN="TOP" COLSPAN=2 HEIGHT=1><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" COLSPAN=4 HEIGHT=1><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" COLSPAN=3 HEIGHT=1><P></P></TD>
+</TR>
+<TR><TD WIDTH="67%" VALIGN="TOP" COLSPAN=6 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="15%" VALIGN="TOP" COLSPAN=4 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="1%" VALIGN="TOP" BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" COLSPAN=5 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+<TD WIDTH="0%" VALIGN="TOP" COLSPAN=2 BGCOLOR="#000000" HEIGHT=1><P></P></TD>
+</TR>
+</TABLE>
+
+<I>
+<P>&nbsp;</P>
+</I><P>LaBarge, Inc. is a broad-based provider of electronics to technology-driven companies in diverse industrial markets. The Company provides its customers with sophisticated electronic products through contract design and manufacturing services. Headquartered in St. Louis, LaBarge has operations in Arkansas, Missouri, Oklahoma, Pennsylvania and Texas. The Company's Web site address is http://www.labarge.com .</P>
+
+<I><FONT SIZE=2><P>Statements contained in this release relating to LaBarge, Inc. that are not historical facts are forward-looking statements within the meaning of the federal securities laws. Matters subject to forward-looking statements are subject to known and unknown risks and uncertainties, including economic, competitive and other factors that may cause LaBarge or its industry's actual results, levels of activity, performance and achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. Important factors that could cause LaBarge's actual results to differ materially from those projected in, or inferred by, forward-looking statements are (but are not necessarily limited to) the following: the impact of increasing competition or deterioration of economic conditions in LaBarge's markets; cutbacks in defense spending by the U.S. Government; loss of one or more large customers; LaBarge's ability
+ to replace completed and expired contracts on a timely basis; the Company's ability to integrate recently acquired businesses; the outcome of litigation the Company may be party to; increases in the cost of raw materials, labor and other resources necessary to operate LaBarge's business; the availability, amount, type and cost of financing for LaBarge and any changes to that financing; and other factors summarized in our reports filed from time to time with the Securities and Exchange Commission. Given these uncertainties, undue reliance should not be placed on the forward-looking statements. Unless otherwise required by law, LaBarge disclaims any obligation to update any forward-looking statements or to publicly announce any revisions thereto to reflect future events or developments.</P>
+
+</I></FONT><P ALIGN="CENTER"># # #</P>
+<B><P ALIGN="CENTER"></P></B></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>logoclr.gif
+<TEXT>
+begin 644 logoclr.gif
+M1TE&.#=A*06I`_<``````%4``(```*H``-4``/\````K`%4K`(`K`*HK`-4K
+M`/\K``!5`%55`(!5`*I5`-55`/]5``"``%6``("``*J``-6``/^```"J`%6J
+M`("J`*JJ`-6J`/^J``#5`%75`(#5`*K5`-75`/_5``#_`%7_`(#_`*K_`-7_
+M`/__````554`58``5:H`5=4`5?\`50`K554K58`K5:HK5=4K5?\K50!55555
+M58!55:I55=555?]550"`556`58"`5:J`5=6`5?^`50"J556J58"J5:JJ5=6J
+M5?^J50#5557558#55:K55=755?_550#_557_58#_5:K_5=7_5?__50``@%4`
+M@(``@*H`@-4`@/\`@``K@%4K@(`K@*HK@-4K@/\K@`!5@%55@(!5@*I5@-55
+M@/]5@`"`@%6`@("`@*J`@-6`@/^`@`"J@%6J@("J@*JJ@-6J@/^J@`#5@%75
+M@(#5@*K5@-75@/_5@`#_@%7_@(#_@*K_@-7_@/__@```JE4`JH``JJH`JM4`
+MJO\`J@`KJE4KJH`KJJHKJM4KJO\KJ@!5JE55JH!5JJI5JM55JO]5J@"`JE6`
+MJH"`JJJ`JM6`JO^`J@"JJE6JJH"JJJJJJM6JJO^JJ@#5JE75JH#5JJK5JM75
+MJO_5J@#_JE7_JH#_JJK_JM7_JO__J@``U54`U8``U:H`U=4`U?\`U0`KU54K
+MU8`KU:HKU=4KU?\KU0!5U555U8!5U:I5U=55U?]5U0"`U56`U8"`U:J`U=6`
+MU?^`U0"JU56JU8"JU:JJU=6JU?^JU0#5U575U8#5U:K5U=75U?_5U0#_U57_
+MU8#_U:K_U=7_U?__U0``_U4`_X``_ZH`_]4`__\`_P`K_U4K_X`K_ZHK_]4K
+M__\K_P!5_U55_X!5_ZI5_]55__]5_P"`_U6`_X"`_ZJ`_]6`__^`_P"J_U6J
+M_X"J_ZJJ_]6J__^J_P#5_U75_X#5_ZK5_]75___5_P#__U7__X#__ZK__]7_
+M_S\_/VMK:Y65E</#P____R'Y!```````+``````I!:D#0`BM`/\)'$BPH,&#
+M"!,J7,BPH<.'$"-*G$BQHL6+&#-JW,BQH\>/($.*'$FRI,F3*%.J7,FRI<N7
+M,&/*G$FSILV;.'/JW,FSI\^?0(,*'4JTJ-&C2),J7<JTJ=.G4*-*G4JUJM6K
+M6+-JW<JUJ]>O8,.*'4NVK-FS:-.J7<NVK=NW<./*G4NWKMV[>//JW<NWK]^_
+M@`,+'DRXL.'#B!,K7LRXL>/'D"-+GDRYLN7+F#-;:][,N;/GSZ!#BQY-NK3I
+MTZA3JU[-NK7KU[!CRYY-N[;MV[ASZ][-N[?OW\"#"Q].O+CQX\B3BR[`O+GS
+MYP642Y].O;IUH]"S:]_._+KW[^##BY?(O;SY\]W'JW=?S[X];O3PX\M/[[Z^
+M_?OX'<_?S[\__?P`!BC@@&3Y9^"!"/Y'X((,-NB@3@E&*.&$"CYHX8489@@1
+MA1QVZ&&%&H8HXHCL?6CBB2B"2.**++;X7HHPQBAC<R[6:..-G<VHXXX>(H0>
+MCD`&*>1=/!9I)'\443CDDH),-OG4D5!&F1U(,SIIY958KB3EED:R5&668(8I
+M)GE<EAFC35\F"=^8;+8IH)EP]AC4F1=UZ.:=>`H7YYX1(J5D26GF*>B@I/%I
+M:'_832A3H(0VZJADAT:ZYE!_\L1H1/,]JNFF74GJZ79"57I4BAI]R.FIJ%KZ
+MZ:HJXB2J4G:>1&>J@K36.A*KK/KT:E&QTC2KK<`&BRFNDJHJ(:P<A@JCL,PV
+M.Q"QQ>:T*U"]-O6KL]@Z"FVDKBI*:;)119GMN&YN>RB:?7X[[:B?DNMND^8:
+MBNZ!RJY+E*?OYHMEO'SZFJZQWOI)K+X$P\MOOS$E"/"Q[!Y\7L$0A^CPGHL:
+M""&XB4Z,<<2*')>H<9PPT7M3M=1^O&7'*"-G,L4M^=<MP_6NC&O*--,F,\LJ
+MN5R3O=+>[+-S-0=MVL]2YHSH3#S/2_32V@GM-&M,DPSHT2XEC7346#?]]-:W
+M93TI2DB^!'//7I?]'-=H$V<VV/MY^>_(9L<-7=IT7R>S26&S+?++<O?=:MV`
+M@P<MWO(9K;/2?OL==OCB#>(<4MZW6KQSXI3_S?CE#Q9)4J93'RYVY:!C+OJ2
+M)XK$N>E4MPSZZJ.WSJ;"'YT>>^J&KTZYZ[AK&A^5A7?D>>VVRYW[\,S.[7OO
+M'/W>>?#"$^^\Z+*7BKRLS,?]_/6Y[[Y1],M7OS3VX!//O9K:$^Z]S^%UIX]]
+M^1FQC_KY'ZLOO_KNU_GUX_#'.__^_`M4/_D/PU_^VM6_`AK0?_>SR/_L-T#'
+M'?"!$$2@>:3WH^,UL$L1S*`&?93`B50P>1=$T09'2$*'?)"!Y0%A""57PA:Z
+MT(,!5&`',;)"X[WPACCDG=9H.#T*]BV'0$`,XIQJ"#LA&O&(&2/BE)#(Q"8Z
+M98!.C*(4K=*\*5KQBELQ&1:WR,4"1:N+8`QC6HXDQC*:42Y2.Z,:USB7!;*<
+M47X`B*,<YTC'.MKQCKBYHQ[WR,<^QO&-@&R2'P?)1]L0\I"(3.0A`\G(_"A2
+MD89\I"0G24DZ-O*2WZGD(".IR4YZ,I&8#"5R/KE'3I*RCA`YY2)%R<K@J-*.
+MIGSE'S,B2TNV\I:[J>4<8RE+C]02E\#,HRYG29MA$G,COPRF,F=C3`!@Y9-"
+M:29'AND3:-ZEDB:QIEF2.9Y30N65_]*19E&:.4F#4#,AXL3(.5E"3DF:4Y<*
+M6>=`TAF1=H*R(/+4B#U)R95\+D2>^URE2P+J3M[04R<$36A!$:+0ALI1)0Z-
+MJ!_C*5%^_K.B&-WE1#(*SZGXDZ(<=2A(0@I)@QH3)R1-Z4/1J5*+0K2E)`4I
+M3`G)T)EBU"$*9<@^G?)1EMJ4H!;Y*2)[<]"7B'2C%96I4+EYD:-*Y*8^;6A0
+M;2D0I]8SHDKMZ$A[F92>UK2=TR0G3A,:UE*:U*LGV6E:[9G5I8JU(6I%"5BC
+M6E1?LG6M=?U'7D4"SJ.@]9U_I:56#S)7#.VU)(4UZF`!NUAD!O2K)XT)6@];
+MUL:RL[%NE7RH40)+$,X*UI^4;5!H^6I9R7(5LDPE25$]^]*^HE:5V8RL35RK
+MU\Q"-9JE?:TW$2O;VK)V0:,-R6];ZU+"]C:V`,VM:7>KV^*2-K4UH:UM;QN4
+MWPZW(O0,+H.T^Y'K(A>V=#TM7@?K7=[2EK'G%>YQ9R+=]4+&NLJM+%.Y_TL@
+M^G8DL0-5KGW5V5O\MF2R\;VO>U<"V@$S!K[0W6J!RXN?_7;WK=\]K(-3>=?F
+MIO>Y$#9N@D?B7]5FN+,&5N\FKX)@\6)XPQT6[71M2Q'JHG?%'PYO7*^J61D[
+M=[PY1:I57[QA_C*8O0$&<8\%'-@<RY>JNH%Q2:NJY,?:N,DWIC"44\SD(4=X
+MRI[%<B>94N(+/[C+6B:JEOO8UC%KLLQFIBF'TQSE>08Y)6QN\UCCK-%OOKG*
+M)A;QG9^\5#'3&<ES3BF/Y>S;/Z\4I8+&IW[WG%^5#EJ;CEVQ5L#,W#7_&,V)
+M#AJD`[3IV'0ZT%Z6:YZY9N5EFOJBH3ZUJF\XX03/CGK5-+!F=8P5S.A8VSJ"
+M.X:KDV_-:R<:6LV]#C86?WU,81N;C6X]MK*7S>QF._O9T(ZVM*=-[6HD6_O:
+MV,ZVMK?-[6Y[^]O@#K>XQTWN<IO[W.A.M[K7S>YVN_O=*?".M[SG3>]ZV_O>
+M^,ZWOO?-[W[[^]\`#[C`+7BV@1O<>7L[N,*==JV%/#N\67!ZN,2UM:V)6]Q@
+M1+NXQC-DNXU[O#U*C,['1UZ<D+N1Y"A/C<GEE/*6:V;E7[*ARV<^&)B+L"'*
+MHVJYSKUH<ZN9\.8[#SI3>OZV]RU+Z$CO"=$3[K:&;VB)28\ZF9;>0[@Y_2%,
+MEWK*J7[RA05L>T?7^K^YGL*&%9UZ5Q>[N\F^0W6=O6)IQSFHU,YLMA<\9D4<
+M8MP9DG>Z7]+N0/N)S]W>=X*7<<[O5@2\R+U>^"2.#7@F0OP1%<]X%IK]\58'
+MNN1):/?*0\[Q;]>[YC=?P,Z3#4&@;_Q2=D1Z^9D><98OV>#QSJ76BX_ML,_Y
+M3M)X>839'G>O3UCH^8;YU)OI]^&CO/"S3OSAB]YAR(<>X.%.N\P7__G6A8M^
+MT!1ON>ZU[?37]WP#M3\N[B]>=9^_VNPG9_[`DY_BYJ]:]4.V,5VUG_GO)]W]
+MSZ^W[_M+]1>S?S*2?U9"=4U7=?('@-8G@`-(@(1R0?TW/BD1?NS'@)KC@,)R
+M.VCG?UJ">KMG@46#@1'#-!$80Q/H?/0'@B$H@FD#?=YW0IOC@;FG@E"!PH((
+M]T4"A(`YF'XI2(-E8H,'=#*1TW5@IWL'Z(,_"(0X="DJ-$.&QX%'B(1)J(2)
+M5W]%Z(0^Q(,;*(532(5LI(596'8Z!(5;R(5"Z(7*Q!UC"(/M,W\O:(88A(;'
+MUGU39X)AR(;F`X=D)(?O)H$`A(=#J(<\PH?UYH<P1(1-*(AA:4>(^8:(6*>#
+M'J&(I,*(`N>(/P>(B2B)%$B)E8B%PX*);:B)^,>)%P>*3V>**"2*=DB*-&>)
+M">&*IZB*=\>*?H>*ERB&5ZB(M$B`L'@0O:@0/KB+E&B+"_&+KXA[PIB,QSA!
+MJ8B+=Q@\RCP8C6M((\T(AA5Q-]*8C4K'?=K8C<A"1-X8CE3$.N)8CF%!@N:8
+MCFUA+NK8CGH1<>X8CX6Q=_)8CX<QBO9.F(^5T7;ZR!JM!AI0UH_C]H^?06S.
+M))#31I">89!XA)#*II"=P9"%Y)"]!I&<09!41I'*9)&;P9&7II%OQ)&:(9*%
+MEFH@V4HDB1DD66HG_\E**?E?4H5JKX9G+/D0-2EJ0"63J09@-\EG$E9K3Q52
+M9$%I;99KB%9CO_&2)_93-`E>%D9HF%9I."F1$^639U:2(?9HB?:1:?9,>T:5
+M$^EA+'960(EC8#E45MF5<':6CQ25T_64;-F04L:04D&4<7EH315F9-F35W:7
+M`J5A<4EK?HF6<)E96CF8<IF64&F397F4,PF81J:3LR:98^9GC4ED%?9EF7F8
+M@:ECFXF9&9F32_F1;KF3EQF44CE.7SF9/A9@,R:6>)D;2LF8LZE3(19<,&6;
+MM4F93@F9IZEKNUF:5REDO]EBC\D3=KF8K6F:I+D>P:F8V!1=C_F<_O6<<VB9
+MFL3)E]A5G*!Y8XA)F$.1G%MF7IC%G>YAG;Z)G4"FGDUIDIHY7^;YGIXDG.5$
+MGN[9:,7UG6T9GJNIG<:97,UYGEEI:<>I6.R)E??9G>WEGV8YGH49G;"9H)=5
+M:?JY9-75GP6J3_TUH/\.@IZ<Z:#KV9L?.IP-VIL>"IPBJF@,BIKQJ:$+VJ)Y
+M(9XD.IHI&J#M<:(C"J+$-63H69VL:9_3":/T.:-KN6!"6A<R"J$$BF(<.B`X
+MFIY-RJ*OJ:(P:I1N-J5']I,KNIU8&FF?V9X9ZFH2>A-)2DE]F:+9&:5>:IF_
+M!J85FI@YZI=2^J9F]:!F"I-T2F:\65Y=BEL]::-#6I^ZR69L:FAV.IB!2I<*
+MFJ>)>D\RD:>P1&-GR5,8.J93Q:=ZF4N*.JA"Y:;S"9UT-J%]AJ"$!JB+FIND
+M^FF>B6564::"NJ1A"FJCJJD&Z:)D!:K[>:A,N116ZJDZ2J66&J*BB:L62J,8
+MO9H5KKI0L!JLEYI1+6DCIOJL+1FMDLJL--)ZK<3ZJF>JJMC:K?_YI6(:J]XZ
+MKK3YIN1ZKA%*E>BZKO@9D.SZKA<:F?`ZK_1:K_9ZK_@=FJ_ZNJ_\VJ_^^J\`
+M&[`".[`$6[`&>[`(F[`*N[`<#-NP#ONP$!NQ$CNQ%%NQ%GNQ&)NQ&KNQ'-NQ
+M'AO[L2`;LB([LB1;LB9[LBB;LBJ[LBS;LB[[LC`F&[,R.[,T6[/NZ'XV"[+,
+MF+,8:XT\>[";^+/]>GA".[0Z4K3V>H8H2.NM\K*T)SDS3IN/+ABUY8@^5!N-
+M7G.UG*B!6FN#WM.U[[="8+MY-CDWME$7?&9+<@*8MAHGA6Q[<*KXMOHFBU`G
+MMVM'M]0H075KM^"&M_Q7$(;(M\U&M[%HA((;:W%[C2Q4=[AI*(F92+2,&TBZ
+MN(.C%[EFI(<E"+F6"T9FF("+6(>;.T)NJWZ?^XES%[KT0X,!6+J%ZXFH"SC!
+MN(WT"(PH^+HHHX+W$GFY:(6VFR\6*##K5X>3=-B[SO*[O,*[E*NYQ$LK:WN\
+MP?N$RKN\NM-^QH>/D!>]CXBSTFLC]Y>[SYNYNON'I[N]&!)_A%>[_\>ZV4N&
+MY&L?YBM[7T=[IE*-L=>^WO&^LAN_O1>TPKNX]EMRTX=]UGN^"OB,O/>_NJ%\
+M]L>_@H>\,3B\>0B<P`$L?CXKP#+X.1`<P38SP>!WP<"KO]2'O1J\&FC;P0-,
+MP6[8?/,[PE"#C*M;P/G+P"KLORQ<*"Z\@"?\@=]KPC1<PYY1PNF;PR^,OLY;
+MN3Z<&4"\?$0\@S#LO8-XQ$A\PT%<OPOLP/L;AU`,*5*LQ$U<@3)LP5UZF,6,
+MD<2>*\2D^\55S"UBK!];W(-F[,9+W,!JO,:00<8=V,4A',<HK+1T'!EV?+TI
+M[,5ZK,/GTL?[V,;H1\4X/,A,G"N&/,8<7,:!G,=HO,@:\\B$H<`8K,B4S,B"
+MC(Z8O!>:+,F!R\6>W,F*$\IM%,F)7,&D[,%@7#U_JKP6^!N%I6S+L`R_*S?+
+M8E'+=\R^9YS+<LS*O#P5O@S(Q(C,G,S#S5O,3T2]K0R)T8S'P8RYSER]7/?*
+MR5R&;VS*?GO-:<R-OWS+)UC)VNRW>PO.J)S-XRS-RNS*U8S.VZS.[VQRN+RS
+MWCS)GRS/KDO/,RRVY0S,X&NX4\S/[H?LS\,,10%-SD;7S?=LT/V,T$7,//7,
+MC^U,T/D,T0<MT4-'CGEHC(\KT/&LT0S-T5!11=R\BA^]S.M,TA%MTEF!-0/M
+MC"D-SP_MTB`-TUAAM2L]SZ$HS'",T_JLTVAQR34]OCTMTD$MU$I-U'#!CF^(
+MSTF=TPW-U!CMU':Q*E--TU5=TEMMU5Z'C=5XT;0/_-(&;-9'#=8;+=8U=WR!
+MZ-/B&]9=K=9#S=:*(2YOK=*S<]513==R;=>+P7K)J]<A3=4_[=<.#=A:+,*[
+M*]70N]9SC=A-K=B@L<)[C=;]:]@\)-F)3=F?8<[K"]>A#=F7S=EU[=DMS->9
+MS=6'3=J1:-HLC=JV\==\Y]JCK=F'"-LV<2W;N2':M(O;!K';KZW;M,W;$BQS
+MA9W.9ZV&%TW<CFW<=I.WC<W:,E3<<>W<U`W=(P+<SS+9CXW=RJW=+&+=@.O=
+MR0W>="C>VXW9Q6C>K8W>LZC>0$+>!$'?MPW??RO?06+?]GV+^)W?^CTDW-W?
+M[?W?5`$>)@/.WM>MVP?^.@J^C(0]W:;=X'>2X+Y]WWY-X8+"WP_NWXBMX8^"
+MV]P=W!\.XILBXATN=U9MXK5BV"/>W4+-XL43X:W+W,/-SS*.+2C^W.\MBEHY
+M_BXNGN(<E+@_3C!!?N%##H=%7C-(_@\O/KI+SG!"[N0TGMO=&^6P6^6UW>3U
+M+<Y8+GT\7N-(3;\A]^7/P^54CN9Z"X%FSC]ACN%COMD>W>8:9.-DGMW5_3TH
+M="Y&4+[G:]3,?OYWB!SHH52VA`YK`'WHP?:UBNYL7-OHTY:UD,YM/"D]Z>$V
+MM9:.;E";Z?!&UIQN;WS\Z?LFV*(.M^%;ZA,'VJ@><,*]ZJF.YT"N/G/:"]A/
+MJAC)%NL64NN)49FX?A^ZCAAMVNOB\>N'(9'"[AW$;AAL>>S3D>R%<9?,GAS.
+M3AB(&NW%,>V#\9W6@#X<V"X8#M:GVRZ;:FH:$-GMX6[KXUX:'GFDY[Z0Z4X:
+MZ[ZE[7X:Y@X8*\GN\YX9]?X7]VZM^4[O[SX:_8ZF_\Y,`4^IJ,2K!Y^MP*::
+M"8_N=4:F@!:CD9HA<#H6=9I)"X^<:EIJ\2ZN4_FG!2KR!SJG-2GO7+IK9:&=
+M)_^C'`_N_[2*[R&/55#*K:FJG"CJ[Z=ZJW&:JS7_J3VOK";/\\!*\,O94F"1
+MK#[OJRK_J$B_ER`OK$_/]$H:]$M?K5&?I4_/D^*5D;H:F<W)JLA:J>!E4Z)J
+M]E"O\SMJK@SOJ'LJ\VU/;(TZ4[*J[2FOEE2A](:ZK+.:9!L/I)`Z]^XZ\X$?
+M]XYF^'*/]<%N9R2OGW8U^'Y/K;8*J1%O]3!V]I1?;$6O9%\OI^4*EHPOKH7?
+MK&(?\RC_^)E?\3\?9]N:^H*?:5>:^I6/^&Y_G5F_$WIO[*N:J9$/][:/E#</
+M_):/]^$*_*C:^3,V8E3O9,=/^PT_^3A?363O]6]?\JL?\'\I[H62K_@NS_VA
+MR?:DW_V_#Z[+?_K7;_[E;_3!#_1Z9OW2W_@#W_+4?_2:?QO.#O->JJ6,ZOVW
+M/_0``4#@0((%#1XT^$_A0H8('3Z$F)#A1(H5+2Z,F%'CP(L=/5K<&!(B2)$E
+M!7Y$F?*?R8TJ7;Z$29%E2)<S3<94:5/C1YTB<?[$R!'H4*)%_XT>18JRY\ZD
+M,)>V;*KT:<:.4ZU>M<H3J\.H4K<>K/H5;->)8L>2O6B6($FS:,-B=1MWI=J:
+M:D^ZM?O6+@"Y??W^!1Q8X5Z^@AON-7PX;UK$1PD_U-LV\>#&;.G*?5QX\F+%
+MEPU_G4R4LU>Q?0G+?!Q:]6K6H4\G?LUZ-.K943-;EBS;<\78>"NOSATT\_#2
+MK9WNUAH<;6_*M8T_AQY]*'/`SH$7QXT=\^_FVHTK+XN<+'75P8F?]RZ=,?C(
+M6TUSG\M>_7SZ]3O+?X_?=?K[_'V/MJX\_[H#;;L`]X-+./06S,H^V@;D3;RN
+M>B//00LOO.[`N#1$\*KV"OR+0@E;`XPQ0OV0XG`S]Q1DL$6=,&1QQ912+$I$
+M&F'$,<>F*LP/0@$3S*[$'LT;43<@3?31L2(S]#!&%Y_T"<<;XTO2*!N7U#%+
+M+6N$+T0L88.0Q_%^F])+(<,[4<DR_2H12C>CS''*-7&Z,LTM[\1SQB[9_/*S
+M,/=<CDQ`P3RSOR,#G?,_&:FT,T\'Y>R3R]H2=?^TTBW%W'#0P`[$U#9!*?54
+M/U"/&S4I\$JU],<JG6PRTTDU3376.SMU-5)$EZ153?ARO5546R6%M=8S>97U
+MNU]1)>W48(ME%D-B)TQ-L-O6^Q4HXAY$EM1!LTUVV1WWY/:X9NMJE,!%>_5O
+MVG'7A?'9,=555$QWR1WNPVI_NI;:0N/U=KIZD2Q7UZ?PA#1@:[>-UD]V%];S
+M38>G0K%%>P_%]\F&_[528GW/Y1.]B#W>>-^/[S4VX'!#YMC0?ND\BV&7`7XX
+MYC9E%BI(FJ&D%V=6WYP88D(=5EGGGBD^>-[G"EY5-%B%CHFIEY\.^N87=Y;:
+MQ:&KQO@EK&.^NB=5MV93NNL1K9[U6)*;[A?LFZ!FFU&U9\+V;9!MEMM@E.M.
+M&&:BI<5[P9S['CA/I$4V=66W`5^K;:@17SMNQGU]O-7"(^?T;&@I/QMSFE(=
+M/.50+3^\;\7N%]<\HN1*]YENU$WO>/6EQ+9).M=3KWCV9CO?^UMD&1_]Z=D1
+M^OOFJ`-7_7?-.MS:W-Q#;W`^M8=_76#$%\9=<G0)9UGNWE\V7J+LW2P^^O!Y
+M=Q9HO:U',VD2S7<<_9&K9KOZYOG%'ECAMV>X^YHG7S;-Y-N&%^P:=S?QE4U^
+MM!O2>?"G/`1V:W["\EP"`[A`"E:P:`6Q8`:KTS(-^HZ#]HO@T3[801*64%O`
+M,V$*5;A"%K;0A18ZV0ME.$,:UM"&-\1A#G5HIA#NT(<_!&(0A3A$(A;Q='9[
+M7P^-N$0F-M&)3X1B%`EFN"0N3XI7Q'5B%K6X12YVT2,3A*`5O3A&,I;1C&=$
+M8PGS=3WWI=&-;X1C'.4XQS@I$(0QI&,>];A'/O9QC_J+G1\%.4A"%M*0>00D
+MG`ZY2$8VTI&/'&(B60=)2E;2DI?$I`4EN;],=M*3GP1E*!UE.U&6TI2G1&4J
+MUT<^5;9,TI6OA&4L,R8S6=;2EK?$92XO]D!=]M*7OP1F,(4Y3&(6TYC'1&8R
+ME;E,9C;3F<^$9C2E.4UJ5M.:U\1F-K6Y36YVTYO?!&<XQ3E.<CN6TYSG1&<Z
+MU;E.=K;3G>^$9SSE.4]ZUM.>]\1G/O6Y3W[VTY__!&A`!3I0@A;4H`=%:$(5
+MNE"&-M2A#S2%:$0E.E&*5M2B%\5H1C6Z48YVU*,?!6E(13I2DI;4I"=%:4I5
+MNE*6MM2E+X5I3&4Z4YK6+]2F-\5I3G6Z4Y[VU*<_!6I0A3I4HA;5J$=%:E*5
+MNE2F-M6I3X5J5*4Z5:I6U:I7*<5J5K6Z5:YVU:M?!6M8Q3I6LI;5K&=%:UK5
+MNE:VMM6M;X5K7.4Z5[K6*-6N=\5K7O6Z5[[VU:]_!6Q@!3M8PA;6L(=%;&(5
+MNUC&-M:QCX5L9"4E.UG*5M:RE\5L9C6[6<YVUK.?!6UH13M:TI;6M*=%;6I5
+MNUK6MCK6M:^%;6QE.UO:UM:VM\5M;G5KQ@+TM@"[!:Y7?3O<WP;7N%4E;G*+
+M>USF,E6YSUUN<Z4[5.A6-[K32L6N3JV[W>MFU[LQY6YXN_M=\J)4O.<=;WG5
+M^U'TMC>]ZX6O1=T[W_?&U[X-I6]^ZWM?_A)4O__=;W\%O$\`%SC``T:P/`V\
+MX`,G2MC!Z61PA!O\8`J#4\(7GG"%-7Q-#'<XPQL&L3,]/.(/A]C$Q21QBDM\
+M8A;K4L4O7G&+9?Q*&-<XQC/&L2AMO.,;Y]C'EN1QD'O\2V,B'U+(1QYRD96\
+M1R0W.<E+AK(;G3SE)T?9REVD<I:K?&4N0U'+7]YRE\4\1#"7.<QC1C,.S;SF
+M,Z?9S2UD<YS;_&8Z:U#.=YYSG4KU/#H\]SG/>P;TPOP\Z#\'VM"I(G2B"WUH
+M1F=)T8]>=*,E;1](5SK2D\:T<2R]:=]FVM.6XG2H._UI4NM(U*<>=:E571]4
+MMSK5JU&&=6M<C6J%)#?6MS;,K$_-D.KBVM=HT36G+1+>7Q>;*,'>=$?::VQF
+MIP39D'8V?9L];5X_6]$N*3"UBVUM0N,DPMI>-;<'#90.@QO3XL:S45)3;.Y`
+MH_O.2*DQN]WL;C9W)=[R%C.]UPQL&..;R_H&<U_N[>\E`_S+?QDXP7]L<"KG
+MNM\*]S'#ISR9A,-DN!!7K\2=K)J*O^2Y&)^NQH^LZ8=[V[IC(`>NR(4,G8YC
+M6[PHKZW*=SR?EJMDOC!WK<QMS.J2Q^2_.#^MSFO.\IY;W,!`!ZW050RC%Q];
+MPDC/K-+7C:,1P]O#4)>LU$GL:`PWI>E85ZS6RZVE"_/[ZV`GK-B[3G8&"[SH
+M<&CWJ]K+;NJG^V7H<+^KW-O.]@4[_.QXUZO>^T[W;R?F[H"'J^"/3OC%<_SM
+MB(^KXG_.^,&SYO`>L37DK]IT@W.]\L^YO+*AJ_FH2EZ_.9J[=$)_$6*3/JFF
+MSR_J]\[SOQO]O*ZG+NR73?6Z.VCUPY9_-NYWJOO=,WWV&/I]1;(M?)H2'[W&
+M+[SLIT[NXS-?I<Z_/?*K3_FU.SWUUB<I]E]NH>]O:>Q6KSKXV2M^[EXH^I5Z
+MO]>7KGZ-LO_DVO\\GLH?E=K3?Z+V[S7RVS[SZSVYZ#__>R@`'#T!S#^^&T`#
+MG#\$A"@%_#A**T`"C#_`.(%`"40H"E0NWWM`Z0M!#8Q`#DPH#\P\VFL\!VQ`
+MQYL^$S0H%"0N%5P^_;M`62M!&!0H&;PX^LA`$6Q!T,M!'?0G'KRTHOA!_!M!
+MHGM!(N0G(Z1!`+/!)*2Y(73">X)"'UQ""Z1"+MRZ*\RG+*S"&F3!%03"JP-#
+M>Q+#Z.A"$&Q#)4QZOS14,!X<0S.$0SN<PB^4PW=:0R:4PC(D0U"SPCT\ISX4
+MPD"\0T1TE)DC1'4R1,O;0M7K/OA;N48L1#IDPTC,Q#?TO$JTQ'%ZQ-4(PB@<
+M14#TQ$_\IE!TP3^$/DULQ2Q#Q53$1)(K14GD1-[;MUC<)E4T/#STPEK$13EY
+MT\5LXD6_8T4&=$5DC+-AU*9B%`Q@]$-H3,2`8\9FG$4<5$3UV#\,K+=JW,5K
+MA,3)<[\;[,1<],9OE$%:/$927$=3/+AS["9G1#A?M,5D9$=8A$=ODD>[H\=#
+MM$<M7,9\C$=P#`UI7$6#!$@_$TAB)$B*:\=ZO,4Z?'ZTA:0F(^RM<#R]7^S'
+M<0PUBGPFBSS"C\A&=8Q(;=0UCU0FD,3(V$M(A(3(DT1)8U))47Q(;"3':0RV
+MF!2FF3Q(][K'C"Q'?=/)7N+)@@1*DRS):!2YH;2EHG1(EGS)D51&H6-*&K/(
+ME?1)I/Q'DI2[JD0ED+Q(HX3*3=Q*FG2$/J\,);`,2=8[2JZ4RI\T/;3,)+7L
+MR>+S1Y>T20^42TJB2[',RJAL2YRDP+UDI+Y\RK^\RXW42K4,2\(4),/LQ9LC
+M2[RL2\;L0<?4(\L\3+MTR\!T0\N\/\R,(\V,3,3$RK><3-!L/=%$(](T1LXT
+MR[+<3-5\/M8D(]=\QN#KS+'\3-KTATS;C"+5?,W:W$W=G$K?%$?@]#+0',[L
+M*T[)[$WD3$KEO"'AS$WHS,O?E$CIG$3J)#/&;,[Q.TWM3$WN[$[O+"+(=#OL
+MK$S>;$GS/$_T7*)]E#_8G$WWW$[XC$_Y;"*]O$[BC,WDA$O]5$S^[$_V"PS\
+M)$'*_$\"14,#]:*S7%#3;-":5$H'W8=&".6BN)Q0^^Q0\GQ.#&50#74BQ9M'
+M]JQ0!;U0$;U)$BTCM4M0"HU1U&Q/%IU.%]4BI9M1``U/%%U1&[U1'-U0F3M1
+M'DU1&4U,(-U/(94CC2M2#UU/$`U0)5U2)J4C@-M1Y_Q0%<U.*FU1*V4R=WM2
+M\=Q2X_Q1+Y5-,)4R:QO3U2Q3'^U2-`V'4C5M4F1KT]!\4R0=3SD=43J]4E>[
+MT^W*4BGM43[M4S_-3%J#0"@E"QHM34/-4$3E2V'C1RV-4BZM44BU4$D%,DN[
+M5#*-"T<=5$V=4TXULFM;5",-54(]4E(M4%/%I$3[5$'-4S<-45?%5%@%I3Z;
+MU?:K5#.=4EQ-4UVMI'=S"SBU-U8-5&'=AU1B325S/%95;51E_55F'59G[:0R
+M6U5&13]@S51K]59L;4HMVU90G=9<759PI59Q=:6)BU9+/==P+51U15=V'=>1
+M>U=S3=9Z+5=Z?55[Q:4@ZU=?'5ANK59_;5:`!29&W%=I[59D/5B$35B%W<G'
+M.PJ#]3YYC5B)75>*75@]C%=;30H!;56.A8=8CTW)!^4_A[U8C>U5DSU9E&6F
+M\UM9>'U8EGU9F,58F6VF2!V*G34Y?JU9G>U8GEVF0\4\G/U9E\U7HF5:HZW(
+MB?4YI:6^F#4[IWU:J+4FDE4WJIU:JPU9K`5:K>4P/45"?6U9L*U/L35;LI5%
+MFSU;N,W8L;U9MD5;MR4GN5U:O0W:MFU:NR5[6+QE)Y&=V\"M6\.M5<!-0<'E
+MPP5<6\+=6[]M6,6E5<:=IPI\7#P]W,I-7,I]-<NEI\7M6K[]6LD=6<]%7-"M
+MI\M,V[O]";5M7=1U7-4EL#8C7=OSVLR57=:EW8VZ78\SW<W=W=[U*+I%">,M
+MW-W]7.*MO]P]WN"-7>5=8$OFQ2?D9<O?%5[/I=Z0PM[GM=Z^E=[IW=XP=%W<
+MA=RK5=[QY5[G%4GVC=ST5=_U[=[VG=_W1=WX':GOG0C]-=_[Q=_\=5_@J]^J
+M]=__!>#S+5T$SEZL-6"3&N#K+=_HM5_;!CZI!Q;@U!U:Q:5@\XI@EU-@"6;@
+M#>;@#_9@#%Y@DQ7AZ^M@FUMA`A;;%%XI"U:^%GY=MH5AEI)ABLAA[R7:&VXI
+M_EV('18]I_5AF!+B?SCB"T;A(C9B&AYB$XY;CE5E8IDZXB2>88F=XIFJ8B<&
+M7G_-8ILB81[F7-W%U2^^J1VVXFI35S/&J2T.XQ(65C8>/BB&8\T%83F58YY"
+M8RZ.-DW-XYYR8SL>73[]8Z!ZXZ0]Y#Y&6=-"#JH]3F0Q!E)&)JI'5N+9'60;
+ME>2B<F0Z3F`"S62DVN0`/&'F_&2EHN3]Y6-$YLY2=JY45F-.KF/K9.6F"F5+
+MCF+<G&6G.F4=AF46QN5<AJI=#F)7ON*K703FS>OE)QYC^U7`8]XJ8:XU8N;E
+M9G;FKH)F));F8M:]:@ZK:XYF;QYF#N5FLKKF-,9F&!UGM5KF_EUG9I:X=$X\
+M6P;?9/;ESH-GNA)E=V[GY`74>]XKS*UAKM5G:"CS9\C2SX*F+.E$Z,N2Y85F
+M:+!TZ,ZBSXB.+/^DZ-"ROXLV+0G5Z*"3*;R.9BV]`^G7TKJ1EBV=,^F8>^>4
+MOBTL96G=0K>7-JYGD^GFFK6:QJY=*,-I[TJVG2ZOB?1I^!JWH+XO8R7J_H+6
+MHQ:P=U3J!W/7IM8P?(7J$&,IV*D^L0VT:JI6V:S&,9_EZA9#VJ]V,($6ZR*#
+MW;+NZFQ&ZZL6Y+4>,X!`=NLZXUV'QB,OXIFXCB>C@2/MP6MQTNLWBIR^UJ:_
+M=J/2$>QJ(NPT(J7#=J;$1B/]8>QE<NPS2J3(1J;)-J--LE'L8L+L,MJDN]AL
+M8.IL,OIL3@IM7!KM,2KMQ#EMU*:B.%IMTV[M6$IMNXYMV9[M5JKM+KIMW,[M
+M5-IM+NIMUOYMW7[MO1YNT"YN50KN+2(6!EE4;E=J;BTRFC6*;E2:[BQ*;#"Z
+M[D_*;BR:[._N;N2N:^<^[O1!HO%>)/&6HLXN;_6&[?,N;/E&;R6";TAB[RAR
+M;]"Y;T'*;RA*[?3N[T'Z[R<*</X>PG`]*G`G.G`!3_`_HN_'CO#ZYJ4'IZ0%
+M;Z(&MV\+-R0,9R(-%R,.[_`)SVP2IQJO$7%+\G`1\AX#0O#V(1X=0:$/QR#U
+M:'$;FO%IRG'\@0S7?F\6+Z!',?$?GZ4@;R$4#R.XJ2`'!Z40EY(-QZ053W(G
+M9Z`8'Q\COZ#Z\9,#0G("ZO(C:J`LCQ0FKQT[HB"[:13N%G+K]FX3_QHS]W(L
+M/_$P+W,J;QTV/Y\*G_,OI_`V"IZL@7$ZKR*+V1XNEW.RJ8^[_^XD*9<>1.]S
+M/:]R/]>:%[\CC0ET*W]T.O]K1<]T3"]R^`$@LU$63C<2FHER-]^@^X$>/E]U
+M.3\A*/\<6NIT5V>>!JIN4Y]U5O<7O/$@D]D-5?\94%=Q5)<@7(]T3]]S6@=S
+M+7\7L#EV6@>0O-DE8Z]U9']UP'$90T?Q_]F4MSEU(N>?YZEV:']M-:>?Y#Z>
+M2X\>/!<@G2F5U:$>44?W8N?V2F+T/T?W=,]U94]V.Q_T?&]W9W>@>:]SU%D7
+M;9>D*1?X80=WI<GW'=_WQ;[SAR=N=>?U+Z+X&K]VU[D=>0?X6!>=2[IWC,_X
+M$>IW@T_UDM?X/)^>.$_NC3>>8D%XS4(.]Y9G>$J_')6_\8C7G&[7^9UO=;ZV
+M>(+']]^1>8]_^$]_G&_'>9#_>7T/>LK9\J?W[7$7>IY_^9RX[5B9^<]V^)[_
+M%WEBK_2G#WALYQNJ7_FA%W>U)WJ2A_,KAW091WJ*%_/`#ON&UWJT!_J3QQQZ
+MI_JREQJV__AESQRQ5Q%?U_GO,>R[;WJEUWNHYWN.=WJ]!WQ@?_:2)WPRO_RI
+MF2+$MW2W-W>X#_F;U_Q&)_3-AVZ7!Z1__WQA9WFF<1JKMR/7%WU=KWM!?W+/
+M9_>\-QQ'+_J];Z211WWUB?K*&?Q=]QNT"1NL)_[Z+GY8?W[""7WD]W<;G_NF
+MG_[AK_ZK8?K2__K=5_RW9W[(IGYI+W_PEWWO'W_<AWF$^7'U/WSU0?_P9_;Y
+MK_3N;_Z<S_Z"EQ>5!XA_`@<2+%@0`,*$"A<R;.C0LZ'!B!(G$GQH\2)&A!0S
+M<NRHD2+(D`(]DGPH\F3$DBH;;ES9$27,B2XOQJQI\^9,CC!SDKP9DJ=.D$![
+M^JS)L"C2I$J7,FUZ<BA&ISZAOI2:DFK&EEBW<O5HM*M)JP;!AI5(UJ+8D6>/
+MIJVX=J'9MVW'@IUK]]_:G6\_BLTK="^`NU?Y"BYL^'#3O8CI`@Y<N#%AQI`G
+M\WP*&7%CK8#M3C:<>?!9S%P7._5KV71:U))5DV[M__HU;+>L12M>_#DNY=PY
+M?VZVW1NWW+NW#]=>/=KWUMA(9\L,WI:YVN+*IU.O+E4ZZ>&T0S>'?E!W4,W>
+M.3L'/5ZI=N+EHW/?GMPZRO.RVZ>F;[PK_/SZ]\=?C]S^?V2)5Q=3X$7VG7QS
+M88<@@'W]UAIK"WIV''_=$7C:A0KZEUZ%'7I(G82//>B:=R$FE1MP"9(GH(4L
+MKMA@@!0.9""-+GUHGHR\N:AAA/[=^".0[F4H)'[3E>AC:2/.B&1V,+*WXW-,
+MQDC5?35:B5:03^;X%Y3U]:ABEF&*.964+W8)VYE+@EE4>B9"."2#:5[GY)M%
+MSG<EGF4%">::9'X)YYB!"G*Z7)D\`AJ;G'@5FMB&=))XJ);OF0EIG3+F>2E-
+M8?+I:(&-)CHHJ*$.:.>46.67J)MS_DDJB)3VB=.BI5:F)J:UL@7DII]VBEJJ
+MHOKZ:Z]1ZMHDJW%2ZB"OG!*[Y9W,6A6LK+O1:BNUCN&J[+3.JDH?M+__>AMH
+MM\]BNRR5+1XK;K+#5EINBMHFJ2ZY4#5;+:99YGKN4M*%^RV_U[ZZ*[[KRFMN
+ML9.2^J]@!6<KJ:$**W<PO=7:.ZZB\!*:+L7]:NSAON\&'.]0H[J+++<9J\=P
+ME>PV//)K$$=LZ\06(QR3OK%N?'.%'3-J,9%`B8RR<.7-;+#/!)L:-,\G'QWI
+MRU?&_''%4+,IM,TX6PV?S@`[C*B[64^-\=9H=FTRK$E/R'#3,.])\=#]@2WU
+MU7%SW?;7<"?L:M7Y4FTVTF/S_17=Z"X===I6BGEOV%IGZ+7<C2O]-WID]PWT
+MO"QONV/@EP^>\L!$4S[WX(P[OO+G[9;N,>9Y1X^^NHB9V^3ZSGY+7G?JL$>^
+MM>VF6_YXZ*JS[GGG(N6.8['#_WX\X+/?KCS)IXO^^M[,"^Z\]!A"WGSOQB.?
+M?.*5JRPL@-IO_S_^SYOSWGWK>(M/O*6^>ZF^W7Y6K_CWA.]./OCH,UT_]L6[
+MCS\`];*^\IWN;/"['O3>AD"]H6I^UHN?YH#VO``F$&H#M)__+DA!Y$WP8@Z4
+M7P,UB$$X=9!V![S?\D2HN_J5<(,/+*"Q8,C`\/W/A3:,(0K[!\$4GE!_/.P2
+MA](7PAUR[X-%S*`1;V@T_BTQ>/D[5`N52+XH5E"%"^MA#D'HJ1J:<(@^/-%E
+MHL5$*[IE>XC+8ME@%$0ILI%S3.S9%SWH)BJZ478B[$P30W8^(E91C5SL(Y9N
+M=D89_M!9:VPC(D=(2.#%,8US_",!L;A`X85QA4Z<'"0I&40Z<NF23UWSX04?
+MR4G+)%)0HZ09970HRB32*)*-=%LEV??&]QT2C'BLXRQC]\J'L2V)EISE+=-7
+M2G`5KI@'ZF(L<5DT6QKHA9G<GY*\YTE,UA*5*,KC-'7)QT?)S)>R-)\T)RG_
+MLF&.R9CF3(@CFXG-<P:LE8#4C2NE!<=DPA(\\=1C!-%8G4&"<WKGLB?JX$).
+M3;&SH`H)9XWN:=!L?O.:T#3<.N4I1GA>$:(*G=4,R1C012J2H=I,G$7?>:N!
+M^FNA03&I0QN*4GS6<Z52TNA#70K#E`HPFFOKIC@[J2Z9CI2D-^)IIF(*5(RJ
+M=*@J2:=1@>G-FB:UG\I,DSN)B=-M:K*70/7I39N*SHIJ=287[2I+M`A6B3[5
+M1BT;JT>YBM:M#HJ?N:0?"HV*U9)VM:QKA4A$[\I6.>J5*+]<YEG[>M26"C94
+M;DUK1N%VU;G^%*U_%6Q/<0C9O29VLH$L*ED#:]FH35BSK[XZ+$N?^$J9,K:Q
+M8WWL9JV%V;6J,K4'S:M9>>G:RS(5K-X"+6!%JT^A-JVT'V(M;`L;7*TR,K5?
+M+8EU9JNG(PZ57[@EJFXYBEIZ__F68X[5J7)5:]>D&C"[VI4L8B<Z668NUKE6
+MI:J.YF?0ZG8(N.E-&V^].MSR[I&Z'0TM>/';JF+&-[9\-:D@S[O+SN:4G>S-
+MV76=62N$0C>_W`7=R_J[DN/Z53_P56MN_WM.JSTWLZU]*W/M>V`+)YBP>=HN
+M<N=;T/U0"\45=K%7VBLQ!S>8O,:,6X?E6US]%K+%(R;Q:<6J3AA79;H;_M&E
+MC#QA%<?8M$Y;K7_SN6#'Y3C*M$0OD^GY8R.5&)F'/-)*#3MD*"]9R8.E:RJQ
+M*UTA1W5U52XSZ78KTC%O.;FV]>=._QDQUE53PB\F\Y\/5S4KMOEX2<OI>^5L
+MXS[7N2_1]3VSH^4&XDA_.-!5'7!EPTOI35]YTIS^-,B^"^HIAG740!;H1YVZ
+MSU*;NM6G"G>JJV,MZUG36HHPK36N<ZWK7?.ZU[YFL(=_+>QA$[O8QCZVJ1&-
+M[&4SN]G.?C:T0:7L:%.[VM:^-K:'>6L_ISC;WOXVN,,M[AN>,M%K'C>ZTZWN
+M=;.;Q<^<,X_;+>]YT[O>]JYTO*FIZGOSN]_^_K>]&9UJ3P.\X&4&/SC"F2UP
+MN!(\X0Y_.,0CGFR;2GG?$K\XQC.N\;D&$]_!WCC(0R[RD0.0I@RW.,E3KO*5
+MLUQ4)D?J4ELN\YG3O.9XUK*:WVWSG?.\YSXWL6M_+O2A$[WH(;:LT9.N]*4G
+MW;M,?TLZU*,^\Z!+O>I6OSK&J8[UK7.]Z_T>K]?#+O:QJUNO9#\[VM-^[2"K
+MO>UN?_NQY0KWN=.][KHFK=WSKO>]@QK`?/\[X`/_8_X*OO`[AC\\Q]6&^,4S
+MOO&E++3C(R_YR9-;T92_/.8SK_G-<[[SGO\\Z$,O^M&3OO2F/SWJ4Z_ZU;.^
+M]:Y_/>PP8R_[V=.^]K:_/>YSK_O=\[[WOO\]\(,O_.$3O_C&/S[RDZ_\Y3._
+5^<Y_/O2C+_WI"5._^M:__K`#`@`[
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

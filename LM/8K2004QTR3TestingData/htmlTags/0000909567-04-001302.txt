@@ -1,0 +1,911 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Mp1xsTgRIA6LCO/jQEAtEYKmb3zZlJxUpdx9Xb+sNKsGHsHwF1i27fT/URsz6vMA
+ uQNuGg+4kt9lKMo1EdH5AQ==
+
+<SEC-DOCUMENT>0000909567-04-001302.txt : 20040916
+<SEC-HEADER>0000909567-04-001302.hdr.sgml : 20040916
+<ACCEPTANCE-DATETIME>20040916121927
+ACCESSION NUMBER:		0000909567-04-001302
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040915
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040916
+DATE AS OF CHANGE:		20040916
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTEL NETWORKS LTD
+		CENTRAL INDEX KEY:			0001119664
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE & TELEGRAPH APPARATUS [3661]
+		IRS NUMBER:				621262580
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-30758
+		FILM NUMBER:		041033206
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8200 DIXIE ROAD, SUITE 100
+		STREET 2:		BRAMPTON
+		CITY:			ONTARIO CANADA
+		STATE:			A6
+		ZIP:			L6T 5P6
+		BUSINESS PHONE:		9058630000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>t14142e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT</B>
+
+
+<P align="center" style="font-size: 10pt"><B>Pursuant to Section&nbsp;13 OR 15(d) of The Securities Exchange Act of 1934</B>
+
+<P align="center" style="font-size: 10pt">Date of Report (Date of earliest event reported) <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>SEPTEMBER 16, 2004</B>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><BR>
+&nbsp;
+
+
+<P align="center" style="font-size: 24pt"><B>NORTEL NETWORKS LIMITED</B>
+<DIV align="center" style="font-size: 10pt"><HR size="1" noshade width="63%"></DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="32%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="32%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="32%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>CANADA</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>000-30758</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>62-12-62580</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px"><HR size="1" noshade width="85%">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade width="85%">
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade width="85%"></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">of incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Identification No.)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="66%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="32%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top" align="center"><DIV style="margin-left:0px; text-indent:-0px"><B>8200 DIXIE ROAD, SUITE 100, BRAMPTON, ONTARIO, CANADA</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>L6T 5P6</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px"><HR size="1" noshade width="93%">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade width="85%"></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top" align="center"><DIV style="margin-left:0px; text-indent:-0px">(Address of principal executive offices)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>905-863-0000</B>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+
+<P align="center" style="font-size: 10pt">&nbsp;<BR>
+<HR size="1" noshade width="60%">
+<DIV align="center" style="font-size: 10pt">
+(Former name or former address, if changed since last report.)
+</DIV>
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation
+of the registrant under any of the following provisions (see General
+Instruction A.2. below):
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="96%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<!-- link1 "Item&nbsp;2.02 Results of Operations and Financial Condition" -->
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="6%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="91%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Item&nbsp;2.02</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Results of Operations and Financial Condition</B></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 10pt">On September&nbsp;16, 2004, Nortel Networks Corporation issued a press release
+providing a status update on its financial restatement process and other
+related matters. Such press release is attached hereto as Exhibit&nbsp;99.1 and
+furnished in accordance with Item&nbsp;2.02 of Form 8-K.
+
+
+<P align="left" style="font-size: 10pt">Nortel Networks Corporation owns all of the registrant&#146;s common shares and the
+registrant is Nortel Networks Corporation&#146;s principal direct operating
+subsidiary.
+
+
+<!-- link1 "Item&nbsp;8.01 Other Events" -->
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="6%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="91%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Item&nbsp;8.01</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Other Events</B></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 10pt">On September&nbsp;16, 2004, Nortel Networks Corporation issued the press release
+attached hereto as Exhibit&nbsp;99.1, and such press release is incorporated by
+reference herein (other than information included on or linked from the
+registrant&#146;s website, referenced in such release, which is not incorporated by
+reference into this report).
+
+
+<!-- link1 "Item&nbsp;9.01 Financial Statements and Exhibits" -->
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="6%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="91%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Item&nbsp;9.01</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Financial Statements and Exhibits</B></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="95%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(c)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><U>Exhibits</u><BR>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">99.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press Release issued by Nortel Networks Corporation on September&nbsp;16, 2004.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link1 "SIGNATURES" -->
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">NORTEL NETWORKS LIMITED<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000">/s/ Deborah J. Noble
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Deborah J. Noble&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Corporate Secretary&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000">                        /s/ Blair F. Morrison
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Blair F. Morrison&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Assistant Secretary&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P align="left" style="font-size: 10pt">Dated: September&nbsp;16, 2004
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "EXHIBIT INDEX" -->
+<P align="center" style="font-size: 10pt"><B>EXHIBIT INDEX</B>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release issued by Nortel Networks Corporation on September&nbsp;16, 2004.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>t14142exv99w1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="right" style="font-size: 10pt"><B>Exhibit&nbsp;99.1</B>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="bottom"><DIV style="margin-left:0px; text-indent:-0px"><B>News Release</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="bottom"><IMG src="t14142t1414101.jpg" alt="(NORTEL NETWORKS LOGO)"></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>www.nortelnetworks.com</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>FOR IMMEDIATE RELEASE</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>September&nbsp;16, 2004</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">For more information:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Media:
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Investors:</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Tina Warren
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">(888) 901-7286</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">(905) 863-4702
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">(905) 863-6049</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">tinawarr@nortelnetworks.com
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">investor@nortelnetworks.com</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="left" style="font-size: 10pt"><B>Nortel Networks Provides Status Update</B>
+
+<P align="left" style="font-size: 10pt">TORONTO &#150; Nortel Networks* Corporation &#091;NYSE/TSX: NT&#093; and its principal
+operating subsidiary, Nortel Networks Limited (&#147;NNL&#148;), today provided a status
+update pursuant to the alternative information guidelines of the Ontario
+Securities Commission. These guidelines contemplate that the Company and NNL
+will normally provide bi-weekly updates on their affairs until such time as
+they are current with their filing obligations under Canadian securities laws.
+
+
+<P align="left" style="font-size: 10pt">The Company and NNL reported that there have been no material developments in
+the matters reported in their status updates of June&nbsp;2, 2004, June&nbsp;29, 2004,
+July&nbsp;13, 2004, July&nbsp;27, 2004, August&nbsp;10, 2004, August&nbsp;19, 2004 and September&nbsp;2,
+2004 with the exception of the matters described below.
+
+
+
+<P align="left" style="font-size: 10pt"><B>Business Outlook</B>
+
+
+<P align="left" style="font-size: 10pt">The Company expects its revenues in the third quarter of 2004 to be lower than
+the Company&#146;s previously announced preliminary unaudited revenues for the
+second quarter of 2004. On a full year basis, the Company now expects that its
+2004 revenue percentage growth over 2003 will be in the mid single digits and
+that the overall communications equipment market will grow faster than that.
+
+
+<P align="left" style="font-size: 10pt">Bill Owens, president and chief executive officer, Nortel Networks, said, &#147;As
+we work through this challenging transition period, completing our restatement
+activity and implementing the new strategic plan for the Company, I am
+confident that Nortel Networks will be positioned to compete strongly in all of
+our markets with the right products and services as we move into 2005.&#148;
+
+
+
+<P align="left" style="font-size: 10pt"><B>Other Matters</B>
+
+
+<P align="left" style="font-size: 10pt"><B>Status of Civil Proceedings</B>
+
+
+<P align="left" style="font-size: 10pt">As previously announced, on June&nbsp;30, 2004 the United States District Court in
+the Southern District of New York signed Orders which consolidated the 27 class
+action complaints that had been filed against Nortel Networks, and certain
+former officers, in the Southern District of New York and appointed lead
+counsel and lead plaintiffs in respect of the consolidated action. On
+September&nbsp;10, 2004, a consolidated class action complaint was filed alleging
+that the named defendants (Nortel Networks, certain current directors and
+certain former officers) violated U.S. securities laws, including by making
+materially false and misleading statements.
+
+
+
+<P align="center" style="font-size: 10pt">****************
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="right" style="font-size: 10pt">Page 2
+
+
+<P align="left" style="font-size: 10pt">As a global innovation leader, Nortel Networks enriches consumer and business
+communications worldwide by offering converged multimedia networks that
+eliminate the boundaries among voice, data and video. These networks use
+innovative packet, wireless, voice and optical technologies and are underpinned
+by high standards of security and reliability. For both carriers and
+enterprises, these networks help to drive increased profitability and
+productivity by reducing costs and enabling new business and consumer services
+opportunities. Nortel Networks does business in more than 150 countries. For
+more information, visit Nortel Networks on the Web at www.nortelnetworks.com or
+www.nortelnetworks.com/media_center.
+
+
+<P align="left" style="font-size: 10pt"><I>Certain information included in this press release is forward-looking and is
+subject to important risks and uncertainties. The results or events predicted
+in these statements may differ materially from actual results or events.
+Factors which could cause results or events to differ from current expectations
+include, among other things: the outcome of Nortel Networks independent review
+and planned restatement or revisions of its previously announced or filed
+financial results; the impact of the management changes announced on April&nbsp;28,
+2004 and August&nbsp;19, 2004; the impact of the inability to meet Nortel Networks
+filing obligations on support facilities and public debt obligations; the
+sufficiency of Nortel Networks restructuring activities, including the
+potential for higher actual costs to be incurred in connection with
+restructuring actions compared to the estimated costs of such actions;
+continued reductions in spending by Nortel Networks customers; fluctuations in
+Nortel Networks operating results and general industry, economic and market
+conditions and growth rates; the communication by Nortel Networks auditors of
+the existence of material weaknesses in internal controls; Nortel Networks
+ability to recruit and retain qualified employees; fluctuations in Nortel
+Networks cash flow, level of outstanding debt and current debt ratings; the use
+of cash collateral to support Nortel Networks normal course business
+activities; the dependence on Nortel Networks subsidiaries for funding; the
+impact of Nortel Networks defined benefit plans and deferred tax assets on
+results of operations and Nortel Networks cash flows; Nortel Networks
+dependence on new product development and its ability to predict market demand
+for particular products; Nortel Networks ability to integrate the operations
+and technologies of acquired businesses in an effective manner; the impact of
+rapid technological and market change; the impact of price and product
+competition; barriers to international growth and global economic conditions,
+particularly in emerging markets and including interest rate and currency
+exchange rate fluctuations; the impact of rationalization in the
+telecommunications industry; changes in regulation of the Internet; the impact
+of the credit risks of Nortel Networks customers and the impact of customer
+financing and commitments; stock market volatility generally and as a result of
+acceleration of the settlement date or early settlement of Nortel Networks
+purchase contracts; the impact of Nortel Networks supply and outsourcing
+contracts that contain delivery and installation provisions, which, if not met,
+could result in the payment of substantial penalties or liquidated damages; the
+future success of Nortel Networks strategic alliances; and the adverse
+resolution of litigation, investigations, intellectual property disputes and
+similar matters. For additional information with respect to certain of these
+and other factors, see the most recent Form&nbsp;10 Q/A and Form 10-K/A filed by
+Nortel Networks with the United States Securities and Exchange Commission.
+Unless otherwise required by applicable securities laws, Nortel Networks
+disclaims any intention or obligation to update or revise any forward-looking
+statements, whether as a result of new information, future events or otherwise.</I>
+
+
+
+<P align="center" style="font-size: 10pt">-end-
+
+<P align="left" style="font-size: 10pt">*Nortel Networks, the Nortel Networks logo, the Globemark and Business Without
+Boundaries are trademarks of Nortel Networks.
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>t14142t1414101.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 t14142t1414101.jpg
+M_]C_X``02D9)1@`!`@``9`!D``#_[``11'5C:WD``0`$````'@``_^X`#D%D
+M;V)E`&3``````?_;`(0`$`L+"PP+$`P,$!</#0\7&Q00$!0;'Q<7%Q<7'QX7
+M&AH:&A<>'B,E)R4C'B\O,S,O+T!`0$!`0$!`0$!`0$!`0`$1#P\1$Q$5$A(5
+M%!$4$10:%!86%!HF&AH<&AHF,",>'AX>(S`K+B<G)RXK-34P,#4U0$`_0$!`
+M0$!`0$!`0$!`_\``$0@`5P#I`P$B``(1`0,1`?_$`(8```(#`0$!````````
+M```````&`P0%!P(!`0$`````````````````````$``!`P,"`P0%!P@(!04`
+M```!`@,$`!$%(1(Q$P9!46$B<9$R%`>!L4)2LB,5H7*2TC-4=#7!T6*"0W,D
+M%_"3)18V-$1DE%41`0````````````````````#_V@`,`P$``A$#$0`_`'&!
+MEX4Y^1'97:1%<4V\TK10VFVX#M2>^KU<BRDJ3#ZCFR8KBFGFY+A2M/'VCIW$
+M>%/73/5L?+I3&DV9R`'L?1=M])']5![SO5\;"34Q'8[CJE(#@4@I`L21;7T5
+MJXR>C)0&9S:"VA].X(58D"Y&MJ0?B'_/&_X='VETV]-/!CI2*^H:-,+6?0DJ
+M50876W4SK;JL/`646'^K=3[5S_A)/9X^JI^B\AG58YPOL*DP6$'W9=[/*4G_
+M``T;O:'B3IPI+B-.Y7*M-N*^\FO#F*_S%74?RUTO)Y[$]/LMPT@N/I"4,0F1
+M==N";]U!B*ZWS:E*6QA5\E!(5N#BB+=Y2BPK4P_6F+R)+<@^X2$ZE#R@$&W'
+M:LV'KM59$;JW.'F2W_P>$K5++.KZ@?K*XCUCT5D]6=*0L5C6YL12U.H<"7U.
+MJWE>_@KNXB@>69\&2%&+(:D;1=7*6E=OT2:5C\1X"21[D]H2.*/ZZU<)$Q4K
+M&1,FU#:9?4WNWM(#:@L#:H71;2XX5S;%1VI67C1G@5-//!"P#8V)UU%`\Q_B
+M'AW5A+S+S"2?;("P/3M-ZW)F8BQL2O+M?ZF.A`6GED><$A.A/II)ZQZ9QV'C
+ML28)6D.++:FUJW]A5N23KV5>Z(B)R>`GXZ45>Z+=`&TV(N$J5M-CV@4$W^Y$
+M']R>_211_N1!_<GOTD50ZKZ4Q>'Q8EQ"Z72ZE'G7N%E!1.@`[JI='8"!FU3!
+M-Y@Y`;+?+5M]O?>^A^K0.V/ZA8G85_,(96AN.'"II1&X\H;C8C36L0?$B#^Y
+M/?I(K7?Q,7#],Y")$W<KD2%^<[E74@WUL*YYTY%Q\S*M1\DH)BJ2O>2OEZA)
+M*?-IVT#>W\183CB&Q"=!6H)ON1VFU;^;R[6%@F:ZVIU(6E&U)`/F[=:QF.F.
+MC"\CDN)6[N!0E,DJ)4#<:;JEZ^_\?5_G-_TT%KI[J9C/+?2RPMGD!))60;[[
+M\-OHK<I"^&O[;(?FM?.NGV@****`HHHH"BBB@****`HHHH..YP`YZ<"+@RE@
+MC^^:VNI>D'\8HY'%[E1$D+*$WYC!XW!&I3X]E8N;(_'YO\4O[==@`ND>(H.-
+M9+*2LHXT[+4%O--AKF=J@DD@J\=:Z1TZR9'2,>.-"['<0#^<5IK%ZIZ*OOGX
+M='FU4]$'Y5-?J^JM"!->@=#-26$WD(9*6A;@XMPMIT\":#GD5R1#F-K;5R'V
+M5VWJ'[-7LDD>%=1P73D'&($DJ][G.C<Y-<\RE%6ODO>PI(ZCZ6F8EIJ85*D-
+MN)!E.'4H?.JK_P!DG@:L=.]:O8QE,*<@R(B-&UI_:-CZOF]I-!TFWKI(Z_RS
+M;J6<+%/-?4XE;R4ZV/!"-.TDUK)ZYZ;+>XR%I4/H%IS=^1)'Y:PL7END$=0J
+ME(CN,EX_=R'B.4VZ>)"-2G=WDZ>%`W8>"<=AH\)7M,M67^>?,K\IKEN%05YR
+M(A*BVI3Z0E8L2DD^T+]U=?)"FU*2004W!'#45R+`%/\`W!!U_P#<I^T:#UG'
+M\LO(JC9EY;SD96PVL!M^LA(&WS#6NF]/Q\='Q+"<9YHJT[TK/M*4KVBNWTN^
+ML#K[!^\1AEV$_?1AMD`?2:^M_=^;T5D]#=0"')_"I*P(TDW943HAT]GH7\_I
+MH-_XA?R%/\0C[*ZR_AI^TR7H8^=VM/XA&V`3?]X1\RZS/AH1S,EZ&/G=H&W/
+M?R/(?PSWV%5R;%8Q_+3408ZD)=<"B"X2$^4;CP!KK&>_D>0_AGOL*KDV,R<C
+M%RT38NWG("@G>-R;*&TZ7%`V8?H;*P<K%F/.,%MAP+4$J456'==(K7Z^_P#'
+ME?YS?]-*W^X&?_\`C_\`+/Z],O6[A<Z60XKVEK94;:"Y%Z#,^&O[;(?FM?.N
+MGVN-8O.9#$*=5`=2V7@`NZ4KOMO;VAXTW='=2Y?*Y5<6:\EQH,J6`$)3Y@I(
+M&J1XT#O17P5]H"BBB@****`HHHH"BBB@@5#BJ45*8;*B;DE";D^JI@*^T4'R
+MVM1K8:<;+2T)+:N*;"U[WX6[]:EHH,27!ZD<2IEJ7$=86+'GL$JVGL4$JVJ]
+M0K`<^&ZU-J6F<D/J-]H:VM"_8!O)%/5%!S@?#G,[K&1&V]]W+^KE_P!-;.,^
+M'N/C*#D]TS%C7EVV-7\1<D^NFVU?:#PAM#:$MH2$(2`E*4BP`'``#LJ)N-"T
+M<:9:[TK2E/K!`J>N98;JF5A9K[+@4_CRZO<UVMW4?,WW>B@Z6X6TMK4[8-A)
+M*RKV=MM;W[+53CKPTE*EQ?=W4M:K4V$*V]NMAI4<J;&G8.5)B.)=97'=VJ3^
+M8K0]Q'=2IT!_+\O^:G["Z!L7E\$ZG:[,C+3>^U2T$7]!KW&F8?8ZY%>C[&P%
+M/*;*+)'85E/97/ND,%B\N)7X@I2.3R^7M6$>UNOQ'A3C"Z4PL:+-BQ7'"W-;
+M#3Y"PI03KP\MAQH+ZLUA%)*538Y218@N(((\=:C;E=.NK2VTY$6XK1*4\LDG
+MP%)/5O2V/P<1A^*XZM3KA0H.E)%MI.FU":W.GNC\8VWC\NEQ_P!XV-O["I&S
+M<I-R+;+VU[Z#>C*PLLJ$41GRBQ4&PA5K\+V%6W&VEI#;J4J22`$J`(N-=`:0
+M\:!@.N'8GL1Y:BA`X#:[YV_4KRU[ZRS\A&8CL0B2G%J2^Z4WMS>Y5NP)-OEH
+M'5<6`VA2ULM)0D$J44)``'$G2O$-W&/[G(!97M\JE,[3:^MB4TO]5YQE?2Z'
+MHJA_U,)0BW$(/F<]5MII>E39&%P$/%1"6Y4]'O4I:=%A+OL-BW`D<:!]D9[#
+M1'"U(FM-N#0I*@2/3;A5F-,BRV^;%=0^V=-S9"A?Y*4<9\.X8C)5DG7#(6`2
+MAHA*&[]E]IN?&LG)XZ?T;DF9L!Y3D9PD)*M-UN+;H38'3@:#H<F?"B;?>GVV
+M-]]O,4$WMQM>O#66Q;R^6S+96L\$I<22?DO21U[+:FP\3,:]A]MQQ/AN#9M\
+ME29?H[$L8`Y*.7&GVVD/$*5N0HD"XLH>.EJ!]*@`2=`.)JO&R$&65"+(;?*+
+M;PVH*VWX7M6'T=*ERNF]THE1;+C;2U<5-I&FO;8DCY*6^B\C'Q3.5FR#Y&T-
+M`)[5K)<VH'B:#H$C(P(K@:DR6V7%"Z4+6$J(X:`U)(E1XK1>DNI9:3Q6LA(_
+M+23TMC9&;R;O4>33N0%WCI(\I6.!%_HM\!XU1ZS>+_4[46<XIN"UR@+?1;78
+MN.`=_'7PH'J-G</+=#,:8TXZ>"`H7/H!XU>O2JCHSIB:AE^"LE"%)45-.\Q+
+M@!U"KWM\E-'+3]4>N@]T444!1110%%%%`4444'RN=='1H\O.Y*/);#K+C3H4
+MA7`_?)KHM+?3_2K^'RDF<Y(0ZE]*TA"4E)&]87J2?"@P<IB<KTJ7WL<I3^(E
+M(4V\A6NP+!3Y_1?17KJ7H'^7Y;\U/V%T]K;2M!0M(4A0(4E0N"#Q!%96/Z=C
+M8TSA#.QJ:D6:.H;4`H>4]WFX4"+TITW&SPD^\.K:]WY>W8`;[]W&X\*><!TY
+M&P27TL.K=]X*2KF`:;+_`%1_:I<8Z`R\8'W?*\G=;=R@XB]N_:L5M=/=/93%
+MRW'YN15-;6V4!M160#<'=YUJ[J#/^)'\NB?YQ^P:8L#_`"3'_P`,U]@53ZHZ
+M?>SL5EAIY+!:<*R5)*KW3MMI:M/'150X$:(I06IAI#14-`2A(3>@4?B'#6VJ
+M%EV?*MI7*6H=A!YC1^0@U+TCA!*QDV=D1O=RP6DD\>4KBKP*E:_(*9,OC&LM
+M`=@NG:AVWG&I24D*N*M-,H9;2TTD(;;2$H2.`2!8"@Y7'QTV1F(_3DDE3<5]
+M8V_503S'%>@I%Q6IURT["SL/(!&YG:V4#L*F%7*?FIT3AXR<PK,`?ZA3(9(L
+M+:&^[TV%O17O*8J'E8BHDQ&YLZI(T4A7UDGL-!)#F1I\9$J*L.,N"Z5#YCW$
+M4G_$/)QEML8QLA;Z5\UT#78+%*1Z3>HE]`YF,M0QV1"6E<?,XRJW]H-[@:TL
+M'T*Q!D)F9!T2Y"#N0@#[M*OK'=JHT"]U5$<AX/!1GA9U#+A6#V%6Q1'R7KUU
+M$F?"?A>^N.R\,^EMQ,<K4$V`25MW38W'933U5TR_G_=N4^ACD;[[TE5]^WNM
+MW5>R6$:R6'&-?(W)0D-NV]AQ`L%C_CA031'(3F+0N`$B(IH\D)%@$VX6^>N;
+M8+"JS$/)--?^J8#;K`O8*(+@*#Z13MTYT_D<,R_%>E(?C.@E"0E0+:R+&UR=
+M#7GI?IA_!.R7'9"'_>`@)"4E-MI4=;^F@J]#9Q,F+^$2!RY4,6;!&TJ;&EK?
+M62>-;&7P6)S.UN:C[](NVXA6UU*;]G>+]XM67D^D'W<PC+XJ4F&]<+6DH*@7
+M!Q/E(T4.(HS_`$ID,E-1D8D\L2DH2C82I*4VX\M:/,D7\*!9SF'D])RV)&/E
+MJLZ3L/LK!3:X6!HH:U?_`._\C^[)]53Q^@LA)E)>S4_GH3[20I;BU@?1WN6L
+M*;/PC&_NK7Z(_JH+E%S23^/9-O)J!FK*1DC%+#C21'$>X&KX0+*_O7K=A39;
+MN:S$9;FYB*&2PBR?(5M[E:VN;GOH-F]%Z3U9?+JZ=QTQ3KNQUUP9"6PVE;R&
+MTJ6$V3ML!IJ;5=<R3J(N%5#G*EM2I:6G)"DI"G6R%^50VBUK6[#0,=Z*4CU'
+M-BYC(QY:KP2XIB*]9(##W+WH0=."O'MJ%_,Y3\(P;QE.MNS2L2G66D..*L#;
+M:WL(]0H'.]%Z5\OD9[$'&NI?DHA.;O?IJ&4B0D`#85ME/D!-[Z49;(RF<?CG
+MH\QYS'.;O?,E';2MW:!Y%%.VR03[1M0-%Z+U4Q;B'L>PXB29B%)\LD@)+FI%
+MR$@:BE*3U+F6(7NS2^=DHDI_WE6U&L:*;FXV@>8$"XH'BB]+!S,R2QGI\1\B
+M)$8`A62D@.AKFJ7>VI%QH:\9:1F$8['3V,BXR9/N[+C8;:4"IWVG+J03?PX4
+M#5K12Y/R<O#Y'&1Y$AV4RM#YD%#04XZI/L'8TF_EO]&JJ>IY28V<G)W+;C+:
+M3#9=1RRV7$[?,FP5[6NM`VWHI8<7F</(QSTF>J<U->0Q)96A"4I4X-%-;`"`
+MDU8BY&:Y'SRUNDJAO/(C&R?NTH1N2-$ZV/?0;]%*$Z9F1T]`RS.16TXZB.AU
+MM+;1"U.JVJ<\R-#KP&E,\5E^/&#;[ZI3J=UWUI2E1N21H@!.E!8HI)PN?RCL
+MV`EZ:MX2G7FWVGFDMM)""H(Y;J4)W*TX7-7T.9G,*R$J-D%06X;SC$5E"$*"
+ME,Z%3I6DD[CV=E`SWHO2S"SDR<YT\Z%<I$],CWIH`66II&G$$C772OLS*9!M
+M_J-"'BE,%AM<4;4_=J4UO)'EUU[[T#+>BDZ/U+D'D8R*ZODSQ*::FBR;/,N(
+M4M#@TX*L+V[:G+^=DR\RN+D"R,<X`S'6TVII2=F\I4K;O'KH&JBE?(]0ONX3
+M&O1GDP9644@!U6TI:2-7%><$6TJ-[/37.CD9%I_ES4+0R\\E*3Y@X&UJL4E/
+MF3KP[:!LO12E&S&17B<S(:EF7'BI'N,]3:$+4O:2X-H2$G;I]&OF5RV0;D8M
+MI,M]AN1$YKYCLH?<4X`G784*[^R@;KU\N>ZEC.Y&9'D1`[)D0L8XSN7-::2I
+M7/N-H>W).P6\.-3_`(C'_P#WT_HM?J4$:\'BB9#KV348*I9>?C\QI+(D%23L
+M6JV[C;RWJQ-P\>5DI$B)D5PY:D)1.;94A1*+>4K2JY0=O`]U%%!*WBVU8Z(Q
+MAIZXT=@%*'62AY+H)LK<5`@G=VBH&,7A$1,:RQ,268LGF1W`XVKGOC==%^!)
+M).B:**#T_CL&6LJF5*;+4QQ)E[W$)##E@$"_T3VB]1*PN-7"Q4>/DBU[J5>X
+MOMK:*G20;[;@I5IW444%Z1BICC#+3>3?:6TE277;-J+H5;58*;`CL(J!G$LJ
+MQL5G#9%<>(PE20XR6W4NA1\Q4H@B]^T444%[#QX,7&L1\>XEZ(V"&W$J"]QW
+M'>=R="=U[U1CX_!M9C(RTR&W)<AO;*CEQ!Y2`!S"4CS`'3=>BB@\8_%X5CIV
+M3CXTQ+D!Q+J7Y8<0K;O3YBI:?+Y4VXU/,Q^/=QL*.]*#<=AQA3#VY`YBF_V:
+M;G0[O"BB@GDQ(CF7A2G'PB4RAT,L;D@N!8LL[3YCM\*JN8[#6R_O,E"FIA1[
+MZE3B$A@A.U.NFT]HW444$4?"Q8LF&]/R2Y8:.W'-2%(2G<19)3:W,5;A7B5@
+MX<A^<]'RCD9AY7_4F&EME&X"RMQ5<MDCC1107)T'%2,.Q&,A$>`@LEEU*T;2
+M$$<L!2O*=UJUC8@WTTHHH%J'@\1'3$<5DU2(;3ZEPV5.-!DR%*43M*0"I043
+MI>I'L'#D/37864<BQWUJ_$66%H*`X!]Y<D$MJ/TJ**"65C<3*C8YJ)+3$6P;
+MXQUA:"3864$!5^8+<:\MXG&-0\G&?G<V1)2?Q&4XM',0"FR2H<$`)X7HHH/D
+MC&8%R7BE+EH1+AI;]U^\;"WT`60-I]H&UQ:O#^!Q[\G(/'*.ML/+W9".VXVA
+M";)MM<5;<D;?$444$TB%T_[S"E2)#`CLL%J'&<6WR%)-KN)"O:TM4!Q&#<@S
+M4,ST(@R9*'5%M;7+9=2I)V)(T&X@:444$KN+Q+GXNM$T-L3$[)Z$K;V,NCBL
+MW]A7?>OLK#Q)$J`IC)+C2F(Y;C\I394XU876$J!N/$444$V2Q#LAFSN4>8BA
+AGERA]WM<2`=RU*4GRDCB:R?P;H+]YC?_`&D?K444'__9
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

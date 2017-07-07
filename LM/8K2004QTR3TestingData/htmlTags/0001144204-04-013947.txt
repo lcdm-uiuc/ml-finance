@@ -1,0 +1,1794 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ M9biPfKRbS+DVe+hhpzMnhh8naXDZ61e/6QAXovoggI/A2FpiMvKCXr8Wtn8iQB1
+ oq5k3sEaMKl+yJBKidc4sA==
+
+<SEC-DOCUMENT>0001144204-04-013947.txt : 20040907
+<SEC-HEADER>0001144204-04-013947.hdr.sgml : 20040906
+<ACCEPTANCE-DATETIME>20040907162208
+ACCESSION NUMBER:		0001144204-04-013947
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040903
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040907
+DATE AS OF CHANGE:		20040907
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRECISION OPTICS CORPORATION INC
+		CENTRAL INDEX KEY:			0000867840
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS [3845]
+		IRS NUMBER:				042795294
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10647
+		FILM NUMBER:		041018885
+
+	BUSINESS ADDRESS:	
+		STREET 1:		22 EAST BROADWAY
+		CITY:			GARDNER
+		STATE:			MA
+		ZIP:			01440-3338
+		BUSINESS PHONE:		9786301800
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRECISION OPTICS CORP INC
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>v06552_8k.htm
+<TEXT>
+<HTML>
+<HEAD>
+   <TITLE></TITLE>
+</HEAD>
+
+<BODY bgcolor="#ffffff">
+
+
+<A name="page_1"></A>
+
+<P align="center">
+<TABLE><TR>
+    <TD align="center" nowrap> <FONT size=2 face="Times New Roman, Times, Serif">UNITED STATES </FONT><BR>
+<FONT size=2 face="Times New Roman, Times, Serif">SECURITIES AND EXCHANGE COMMISSION</FONT><BR>
+<FONT size=2 face="Times New Roman, Times, Serif">WASHINGTON, D.C. 20549 </FONT><BR>
+<FONT size=2 face="Times New Roman, Times, Serif">_______________________ </FONT><BR>
+      <FONT size=2 face="Times New Roman, Times, Serif"><br>
+      FORM 8-K </FONT><br>
+      <BR>
+<FONT size=2 face="Times New Roman, Times, Serif">CURRENT REPORT </FONT><BR>
+<FONT size=2 face="Times New Roman, Times, Serif">PURSUANT TO SECTION 13 OR 15(D) OF THE</FONT><BR>
+<FONT size=2 face="Times New Roman, Times, Serif">THE SECURITIES EXCHANGE ACT OF 1934 </FONT><BR>
+</TD></TR></TABLE>
+</P>
+<P align="center">
+<TABLE><TR><TD nowrap>
+<FONT size=2 face="Times New Roman, Times, Serif">Date of report (Date of earliest event reported):</FONT><BR>
+</TD></TR></TABLE>
+</P>
+<TABLE align="center">
+  <TR><TD nowrap>
+<FONT size=2 face="Times New Roman, Times, Serif">September 3, 2004</FONT><BR>
+</TD></TR></TABLE>
+</P>
+<P align="center">
+<TABLE><TR>
+    <TD align="center" nowrap> <FONT size=2 face="Times New Roman, Times, Serif">PRECISION
+      OPTICS CORPORATION, INC.</FONT>
+      <hr size="1" noshade>
+      <FONT size=2 face="Times New Roman, Times, Serif">.</FONT><FONT size=2 face="Times New Roman, Times, Serif">(Exact name
+      of registrant as specified in its charter)</FONT><BR>
+</TD></TR></TABLE>
+</P>
+<P align="center">
+</P>
+<P align="center">
+</P>
+<TABLE width="100%" border=0 cellpadding=0 cellspacing=0>
+  <TR align="center" valign="bottom">
+    <TD width=33% nowrap> <FONT size=2 face="Times New Roman, Times, Serif">Massachusetts</FONT>&nbsp;
+    </TD>
+	<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+	<TD width=33% nowrap><FONT size=2 face="Times New Roman, Times, Serif">001-10647</FONT>&nbsp; </TD>
+	<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+	<TD width=33% nowrap> <FONT size=2 face="Times New Roman, Times, Serif">04-2795294</FONT>&nbsp; </TD>
+</TR>
+  <TR align="center" valign="bottom">
+    <TD nowrap><hr width="200" size="1" noshade> </TD>
+	<TD>&nbsp; </TD>
+	<TD nowrap><hr width="200" size="1" noshade> </TD>
+	<TD>&nbsp; </TD>
+	<TD nowrap><hr width="200" size="1" noshade> </TD>
+</TR>
+  <TR align="center" valign="bottom">
+    <TD nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(State or other jurisdiction of</FONT>&nbsp;
+    </TD>
+	<TD>&nbsp; </TD>
+	<TD nowrap><FONT size=2 face="Times New Roman, Times, Serif">(Commission</FONT>&nbsp; </TD>
+	<TD>&nbsp; </TD>
+	<TD nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(I.R.S. Employer</FONT>&nbsp; </TD>
+</TR>
+  <TR align="center" valign="bottom">
+    <TD nowrap> <FONT size=2 face="Times New Roman, Times, Serif">of incorporation or organization)</FONT>&nbsp;
+    </TD>
+	<TD>&nbsp; </TD>
+	<TD nowrap><FONT size=2 face="Times New Roman, Times, Serif">File Number)</FONT>&nbsp; </TD>
+	<TD>&nbsp; </TD>
+	<TD nowrap> <FONT size=2 face="Times New Roman, Times, Serif">Identification No.)</FONT>&nbsp; </TD>
+</TR>
+</TABLE><BR>
+<P align="center">
+<TABLE><TR>
+    <TD nowrap> <FONT size=2 face="Times New Roman, Times, Serif">22 East Broadway, Gardner, Massachusetts&nbsp;&nbsp;&nbsp;&nbsp;
+      01440</FONT>
+      <hr size="1" noshade>
+      <FONT size=2 face="Times New Roman, Times, Serif">(Address of Principal Executive Offices)&nbsp;&nbsp;&nbsp;&nbsp;
+      (Zip Code)</FONT><BR>
+</TD></TR></TABLE>
+</P>
+<P align="center">
+<P align="center">
+<FONT size=2 face="Times New Roman, Times, Serif">Registrant&#146;s telephone number, including area code: (978) 630-1800</FONT></P>
+<P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=2 face="Times New Roman, Times, Serif">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (</FONT><I><FONT size=2
+face="Times New Roman, Times, Serif">see </FONT></I><FONT size=2 face="Times New Roman, Times, Serif">General Instruction A.2. below): </FONT></P>
+<TABLE width="100%" border=0 cellpadding=0 cellspacing=0>
+  <TR valign="bottom">
+    <TD nowrap align=right> <FONT size=2 face="Arial, Helvetica, Sans-Serif">|_|&nbsp; </FONT>&nbsp;
+    </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">Written communications pursuant
+      to Rule 425 under the Securities Act (17 CFR 230.425)</FONT>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=right> <FONT size=2 face="Arial, Helvetica, Sans-Serif">|_|&nbsp; </FONT>&nbsp;
+    </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">Soliciting material pursuant
+      to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=right> <FONT size=2 face="Arial, Helvetica, Sans-Serif">|_|&nbsp; </FONT>&nbsp;
+    </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">Pre-commencement communications
+      pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR</FONT> <font size="2">240.14d-2(b))</font></TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=right> <FONT size=2 face="Arial, Helvetica, Sans-Serif">|_|&nbsp; </FONT>&nbsp;
+    </TD>
+    <TD nowrap align=left><FONT size=2 face="Times New Roman, Times, Serif">Pre-commencement communications
+      pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e -4(c))
+      </FONT></TD>
+  </TR>
+</TABLE>
+<BR>
+<P> <FONT size=2 face="Times New Roman, Times, Serif"> </FONT><FONT size=2 face="Arial, Helvetica, Sans-Serif"> </FONT><FONT size=2 face="Times New Roman, Times, Serif">
+  </FONT></P>
+
+<HR style="page-break-after: always" noshade align="center" width="100%" size=1>
+<A name="page_2"></A>
+<P> <B><FONT size=2 face="Times New Roman, Times, Serif">Item 2.02. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Results
+  of Operations and Financial Condition.</FONT></B></P>
+<P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=2 face="Times New Roman, Times, Serif">On September 3, 2004, the Registrant issued the press release attached as Exhibit 99.1 announcing operating results on an unaudited basis for the fourth quarter of fiscal year 2004 and for the
+fiscal year ended June 30, 2004. The information in this Form 8-K and the Exhibit attached hereto shall not be deemed &#147;filed&#148; for purposes of Section 18 of the Securities Exchange Act of 1934, nor shall it be deemed incorporated by
+reference in any filing under the Securities Act of 1933, except as shall be expressly set forth by specific reference in such filing.</FONT></P>
+<TABLE width="100%" border=0 cellpadding=0 cellspacing=0>
+  <TR align="left" valign="bottom">
+    <TD colspan="6" nowrap> <B><FONT size=2 face="Times New Roman, Times, Serif">Item 9.01.</FONT></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B><FONT size=2 face="Times New Roman, Times, Serif">Financial
+      Statements and Exhibits.</FONT></B>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=right>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">(c)</FONT>&nbsp; </TD>
+    <TD nowrap align=center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+    <TD nowrap align=center> <U><FONT size=2 face="Times New Roman, Times, Serif">Exhibit Number</FONT></U>&nbsp;
+    </TD>
+    <TD nowrap align=left>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+    <TD width=100% align=left nowrap> <U><FONT size=2 face="Times New Roman, Times, Serif">Title</FONT></U>&nbsp;
+    </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left>&nbsp;</TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=center>&nbsp;</TD>
+    <TD nowrap align=center> <FONT size=2 face="Times New Roman, Times, Serif">99.1</FONT>&nbsp; </TD>
+    <TD nowrap align=left>&nbsp;</TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">Press Release issued by Precision
+      Optics Corporation, Inc. on</FONT>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=center>&nbsp;</TD>
+    <TD align=center>&nbsp; </TD>
+    <TD align=center>&nbsp;</TD>
+    <TD align=center>&nbsp;</TD>
+    <TD align=left>&nbsp;</TD>
+    <TD align=left><FONT size=2 face="Times New Roman, Times, Serif">September 3, 2004.</FONT> </TD>
+  </TR>
+</TABLE>
+<BR>
+<HR style="page-break-after: always" noshade align="center" width="100%" size=1>
+<A name="page_3"></A>
+<P align="center">
+<TABLE><TR><TD nowrap>
+<FONT size=2 face="Times New Roman, Times, Serif">SIGNATURE</FONT><BR>
+</TD></TR></TABLE>
+</P>
+<P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=2 face="Times New Roman, Times, Serif">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+</FONT></P>
+<TABLE width="100%" border=0 cellpadding=0 cellspacing=0>
+  <TR valign="bottom">
+    <TD width=50% align=left nowrap>&nbsp; </TD>
+    <TD nowrap colspan=3 align=left> <FONT size=2 face="Times New Roman, Times, Serif">PRECISION OPTICS
+      CORPORATION, INC.</FONT>&nbsp; </TD>
+  </TR>
+  <TR>
+    <TD colspan = 5>&nbsp; </TD>
+  </TR>
+  <TR>
+    <TD colspan = 5>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">Date: September 7, 2004</FONT>&nbsp;
+    </TD>
+    <TD width=5% align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">By:</FONT>&nbsp;
+    </TD>
+    <TD nowrap colspan=2 align=left> &nbsp; &nbsp;<FONT size=2 face="Times New Roman, Times, Serif">/s/
+      Jack P. Dreimiller</FONT>&nbsp; </TD>
+  </TR>
+  <TR>
+    <TD> </TD>
+    <TD> </TD>
+    <TD colspan =2> <HR noshade size=1> </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=left> &nbsp; &nbsp;<FONT size=2 face="Times New Roman, Times, Serif">Name:</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">Jack P. Dreimiller</FONT>&nbsp;
+    </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=left> &nbsp; &nbsp;<FONT size=2 face="Times New Roman, Times, Serif">Title:</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">Senior Vice President, Finance
+      and</FONT>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">Chief Financial Officer</FONT>&nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<BR>
+<HR style="page-break-after: always" noshade align="center" width="100%" size=1>
+<A name="page_4"></A>
+<P align="center">
+<TABLE><TR><TD nowrap>
+<B><FONT size=2 face="Times New Roman, Times, Serif">EXHIBIT INDEX</FONT></B><BR>
+</TD></TR></TABLE>
+</P>
+<TABLE border=0 cellspacing=0 cellpadding=0>
+<TR valign="bottom">
+	<TD width=16% nowrap align=center>
+<B><FONT size=1 face="Times New Roman, Times, Serif">Exhibit Number</FONT></B>&nbsp;
+	</TD>
+	<TD width=2%>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+	<TD width=79% nowrap align=left> <B><FONT size=1 face="Times New Roman, Times, Serif">Description</FONT></B>&nbsp;
+    </TD>
+</TR>
+<TR>
+	<TD>
+<HR noshade size=1>
+	</TD>
+	<TD>
+	</TD>
+	<TD>
+<HR noshade size=1>
+	</TD>
+</TR>
+<TR valign="bottom">
+	<TD width=16% nowrap align=center>
+<FONT size=2 face="Times New Roman, Times, Serif">99.1</FONT>&nbsp;
+	</TD>
+	<TD width=2%>&nbsp;
+	</TD>
+	<TD width=79% nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">Press Release issued
+      by Precision Optics Corporation, Inc. on September 3, 2004.</FONT>&nbsp;
+    </TD>
+</TR>
+</TABLE><BR>
+<HR noshade align="center" width="100%" size=1>
+<p>&nbsp; </p>
+</BODY>
+
+</HTML>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>v06552_ex99-1.htm
+<TEXT>
+<html>
+<head>
+<title></title>
+</head>
+
+<body>
+<p><font size="2" face="Times New Roman, Times, Serif">Exhibit 99.1</font></p>
+<p><A name="page_5"></A> </p>
+<P align="right">
+<TABLE width="100%" border=0 cellpadding=0 cellspacing=0>
+  <TR valign="bottom">
+    <TD rowspan="5" align=left nowrap>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG src="v06552x5x1.jpg" border=0>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+    <TD nowrap align=right> <FONT size=4 face="Times New Roman, Times, Serif">PRECISION
+      OPTICS CORPORATION</FONT>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">22
+      EAST BROADWAY</FONT>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">GARDNER,
+      MASSACHUSETTS 01440-3338</FONT>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">Telephone
+      978 / 630-1800</FONT>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">Telefax
+      978 / 630-1487</FONT>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=left nowrap>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=left nowrap>&nbsp;</TD>
+    <TD nowrap align=right> &nbsp;<B><I><FONT size=1 face="Times New Roman, Times, Serif">POC:24-0346</FONT></I></B>&nbsp;
+    </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=left nowrap>&nbsp;</TD>
+    <TD nowrap align=right> &nbsp;<I><FONT size=1 face="Times New Roman, Times, Serif">Page
+      1 of 4</FONT></I>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=left nowrap>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=left nowrap><B><I><FONT size=4 face="Times New Roman, Times, Serif">NEWS
+      RELEASE</FONT></I></B>&nbsp; <br> <br> </TD>
+    <TD nowrap align=right>&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD colspan="2" align=left nowrap><HR noshade size=2></TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=left nowrap><B><FONT face="Times New Roman, Times, Serif">FOR IMMEDIATE
+      RELEASE</FONT></B></TD>
+    <TD nowrap align=right><B><FONT face="Times New Roman, Times, Serif">Friday,
+      September 3, 2004</FONT></B>&nbsp; </TD>
+  </TR>
+</TABLE>
+<p align="center"><B><I><FONT face="Times New Roman, Times, Serif">PRECISION OPTICS
+  CORPORATION ANNOUNCES <br>
+  FOURTH QUARTER AND YEAR END RESULTS</FONT></I></B> </p>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">GARDNER, Massachusetts</FONT><B><FONT size=2 face="Times New Roman, Times, Serif">
+  -</FONT></B><FONT size=2 face="Times New Roman, Times, Serif"> Precision Optics
+  Corporation, Inc. (Nasdaq: POCI) today announced operating results on an unaudited
+  basis for the fourth quarter of fiscal year 2004 ended June 30, 2004. </FONT></P>
+<P> <B><U><FONT size=2 face="Times New Roman, Times, Serif">Fourth Quarter Operating
+  Results</FONT></U></B><B><FONT size=2 face="Times New Roman, Times, Serif">
+  </FONT></B></P>
+<P> <I><U><FONT size=2 face="Times New Roman, Times, Serif">Revenues</FONT></U></I><FONT size=2 face="Times New Roman, Times, Serif">
+  &#150; For the quarter ended June 30, 2004, revenues were $285,576 compared
+  to $363,947 for the same period last year, a decrease of 21.5% . Revenues in
+  the quarter decreased 9.0% from the preceding quarter ended March 31, 2004.
+  </FONT></P>
+<P> <I><U><FONT size=2 face="Times New Roman, Times, Serif">Net Loss</FONT></U></I><FONT size=2 face="Times New Roman, Times, Serif">
+  &#150; For the quarter ended June 30, 2004, net loss was $1,011,525, or $0.58
+  per share, an increase of $3,353, from the net loss of $1,008,172, or $0.58
+  per share, for the same period last year. The weighted average common shares
+  outstanding were 1,752,053 during both periods. </FONT></P>
+<P> <I><U><FONT size=2 face="Times New Roman, Times, Serif">Special Charges</FONT></U></I><FONT size=2 face="Times New Roman, Times, Serif">
+  &#150; Net loss for the quarter ended June 30, 2004 included provisions for
+  obsolete and slow moving inventories of $191,200. Net loss for the quarter ended
+  June 30, 2003 included a provision for asset impairment of $123,511.</FONT></P>
+<P> <B><U><FONT size=2 face="Times New Roman, Times, Serif">Fiscal Year 2004 Operating
+  Results</FONT></U></B><B><FONT size=2 face="Times New Roman, Times, Serif">
+  </FONT></B></P>
+<P> <I><U><FONT size=2 face="Times New Roman, Times, Serif">Revenues</FONT></U></I><FONT size=2 face="Times New Roman, Times, Serif">
+  &#150; For the year ended June 30, 2004, revenues were $1,464,964 compared to
+  $2,399,217 for the same period last year, a decrease of 38.9% .</FONT></P>
+<P> <I><U><FONT size=2 face="Times New Roman, Times, Serif">Net Loss</FONT></U></I><FONT size=2 face="Times New Roman, Times, Serif">
+  &#150; For the year ended June 30, 2004, net loss was $3,684,076, or $2.10 per
+  share, an increase of $756,314 compared to the net loss of $2,927,762, or $1.67
+  per share, for the year ended June 30, 2003. The weighted average common shares
+  outstanding were 1,752,053 during both periods.</FONT></P>
+<P> <I><U><FONT size=2 face="Times New Roman, Times, Serif">Special Charges</FONT></U></I><FONT size=2 face="Times New Roman, Times, Serif">
+  &#150; Net loss for the year ended June 30, 2004 and 2003 included provisions
+  for asset impairment and restructuring of $52,208 and $176,642, respectively.
+  Net loss for the year ended June 30, 2004 included provisions for obsolete and
+  slow-moving inventories of $500,000.</FONT></P>
+<P> <B><U><FONT size=2 face="Times New Roman, Times, Serif">Cash Flow and Expenditures</FONT></U></B><B><FONT size=2 face="Times New Roman, Times, Serif">
+  </FONT></B></P>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">For the quarter ended June
+  30, 2004, cash and cash equivalents decreased by approximately $602,000 compared
+  to a decrease of approximately $781,000 for the previous quarter ended March
+  31, 2004. Cash disbursements during the quarter ended March 31, 2004 included
+  approximately $52,000 paid for employee severance costs.</FONT></P>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">Capital equipment expenditures
+  during the year ended June 30, 2004 were approximately $33,600, up 21% from
+  the same period in 2003. Future capital expenditures will depend on future sales
+  and the success of ongoing research and development efforts. </FONT></P>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">For the quarter ended June
+  30, 2004, research and development expenses were approximately $339,000, up
+  2% from $333,000 for the quarter ended June 30, 2003. Quarterly research and
+  development expenses depend on the Company&#146;s assessment of new product
+  opportunities.</FONT></P>
+<HR style="page-break-after: always" noshade align="center" width="100%" size=1>
+<A name="page_6"></A>
+<TABLE width="100%">
+  <TR>
+    <TD width="50%" nowrap><I><FONT size=2 face="Times New Roman, Times, Serif">Precision
+      Optics Corporation&#151;Fourth Quarter and Year End Results</FONT></I></TD>
+    <TD width="50%" align="right" nowrap> <I><FONT size=2 face="Times New Roman, Times, Serif">Page
+      2 of 4</FONT></I></TD>
+  </TR>
+</TABLE>
+<p></P>
+<P> <B><U><FONT size=2 face="Times New Roman, Times, Serif">Successful Completion
+  of Rights Offering</FONT></U></B><B><FONT size=2 face="Times New Roman, Times, Serif">
+  </FONT></B></P>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">As previously announced,
+  in July 2004, the Company completed a rights offering to stockholders. Stockholders
+  exercised subscription rights to purchase the entire 5,256,159 shares of common
+  stock offered at a subscription price of $1.00 per share, raising gross proceeds
+  of $5,256,159. </FONT></P>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">There were 1,324,666 shares
+  purchased through the exercise of basic subscription rights and an additional
+  3,931,493 shares purchased through the over subscription privilege. The Company
+  received subscriptions for a total of 7,554,093 shares, exceeding the total
+  number of shares offered by 2,297,934 shares, or 43.7% . </FONT></P>
+<P> <B><U><FONT size=2 face="Times New Roman, Times, Serif">Customer Relationships</FONT></U></B><B><FONT size=2 face="Times New Roman, Times, Serif">
+  </FONT></B></P>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">The Company is in discussions
+  with several customers regarding manufacturing of prototypes of advanced endoscopes
+  incorporating ultra-small lenses, ranging in size from .5 mm to 1 mm, which
+  include utilization of the Company&#146;s patent-pending micro-precision</FONT><SUP><FONT size=2 face="Times New Roman, Times, Serif">TM</FONT></SUP><FONT size=2 face="Times New Roman, Times, Serif">
+  lens technology. These initiatives encompass a variety of innovative techniques
+  involving minimally invasive surgery. </FONT></P>
+<P> <B><U><FONT size=2 face="Times New Roman, Times, Serif">Expense Reduction</FONT></U></B><B><FONT size=2 face="Times New Roman, Times, Serif">
+  </FONT></B></P>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">As previously announced,
+  the Company has taken additional measures to realign its cost structure with
+  current revenue expectations. In January 2004, the Company reduced its workforce
+  by five full-time employees, a 15% reduction. As a result of this action, the
+  Company recorded a non-recurring pretax charge to earnings of $52,208 for employee
+  severance benefits in the quarter ended March 31, 2004. In addition, the Company
+  is in the process of reviewing other expense areas to determine where additional
+  reductions in discretionary spending can be achieved. </FONT></P>
+<P> <B><U><FONT size=2 face="Times New Roman, Times, Serif">Outlook</FONT></U></B><FONT size=2 face="Times New Roman, Times, Serif">
+  </FONT></P>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">The Company expects its
+  recent pattern of quarter-to-quarter revenue fluctuations to continue, due to
+  the uncertain timing of orders from customers and their size in relation to
+  total revenues. The Company continues to move forward with new products and
+  technical innovations, in particular, the development of a new generation (patent
+  pending) of its world-class product line of 3-D endoscopes, the development
+  of a new prototype 2.7 mm endoscope, and new instruments utilizing the Company&#146;s
+  new micro-precision</FONT><SUP><FONT size=2 face="Times New Roman, Times, Serif">TM</FONT></SUP><FONT size=2 face="Times New Roman, Times, Serif">
+  lens technology (patent pending) for endoscopes under 1 mm. The Company continues
+  to explore potential applications of single-molecule technology and nanotechnology.
+  </FONT></P>
+<TABLE>
+  <TR>
+    <TD nowrap> <B><U><FONT size=2 face="Times New Roman, Times, Serif">About
+      Precision Optics</FONT></U></B><BR> </TD>
+  </TR>
+</TABLE>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">Precision Optics Corporation,
+  a leading developer and manufacturer of advanced optical instruments since 1982,
+  designs and produces high-quality optical thin film coatings, medical instruments,
+  and other advanced optical systems. The Company&#146;s medical instrumentation
+  line includes laparoscopes, arthroscopes and endocouplers and a world-class
+  product line of 3-D endoscopes for use in minimally invasive surgical procedures.</FONT></P>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">The Company is currently
+  developing specialty instruments incorporating its patent-pending LENSLOCK<SUP>TM</SUP>
+  technology which ensures lower cost, easier repairability and enhanced durability
+  as well as ultra-small instruments (some with lenses less than one millimeter
+  in diameter) utilizing patent-pending micro-precision<SUP>TM</SUP> lens technology.
+  The Company is also exploring new initiatives in single-molecule technology
+  and nanotechnology for biomedical and other applications.</FONT></P>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">Precision Optics Corporation
+  is certified to the ISO 9001 Quality Standard, and complies with the FDA Good
+  Manufacturing Practices and the European Union Medical Device Directive for
+  CE Marking of its medical products. The Company&#146;s Internet Website is www.poci.com.</FONT></P>
+<HR style="page-break-after: always" noshade align="center" width="100%" size=1>
+<A name="page_7"></A>
+<TABLE width="100%">
+  <TR>
+    <TD width="50%" nowrap><I><FONT size=2 face="Times New Roman, Times, Serif">Precision
+      Optics Corporation&#151;Fourth Quarter and Year End Results</FONT></I></TD>
+    <TD width="50%" align="right" nowrap> <I><FONT size=2 face="Times New Roman, Times, Serif">Page
+      3 of 4</FONT></I></TD>
+  </TR>
+</TABLE>
+<P align="center"> <B><FONT face="Times New Roman, Times, Serif">PRECISION OPTICS
+  CORPORATION, INC. AND SUBSIDIARIES <br>
+  CONSOLIDATED STATEMENTS OF OPERATIONS <br>
+  </FONT></B><B><FONT face="Times New Roman, Times, Serif">FOR THE THREE AND TWELVE
+  MONTHS ENDED <br>
+  June 30, 2004 AND 2003 <br>
+  </FONT></B><B><FONT face="Times New Roman, Times, Serif">(UNAUDITED) </FONT></B></P>
+<P align="center">
+<TABLE width="100%" border=0 cellpadding=0 cellspacing=0>
+  <TR valign="bottom">
+    <TD width=100% align=left nowrap>&nbsp; </TD>
+    <TD colspan="7" align=center nowrap> <B><FONT face="Times New Roman, Times, Serif">--
+      THREE MONTHS --</FONT></B> </TD>
+    <TD align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+    <TD colspan="7" align=center nowrap> <B><FONT face="Times New Roman, Times, Serif">--TWELVE
+      MONTHS--</FONT></B> </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD colspan="3" align=center nowrap> <B><FONT size=2 face="Times New Roman, Times, Serif">2004</FONT></B></TD>
+    <TD align=center nowrap>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+    <TD colspan="3" align=center nowrap><B><FONT size=2 face="Times New Roman, Times, Serif">2003</FONT></B></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD colspan="3" align=center nowrap> <B><FONT size=2 face="Times New Roman, Times, Serif">2004</FONT></B></TD>
+    <TD align=center nowrap>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+    <TD colspan="3" align=center nowrap> <B><FONT size=2 face="Times New Roman, Times, Serif">2003</FONT></B>
+    </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left>&nbsp;</TD>
+    <TD colspan="3" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="3" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD colspan="3" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">REVENUES</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">$</FONT>
+    </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">285,576</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp;</TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">$</FONT>
+    </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">363,947</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">$</FONT>
+    </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">1,464,964</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">$</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">2,399,217</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">COST
+      OF GOODS SOLD</FONT>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">547,936</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">465,052</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">2,062,902</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">2,072,238</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gross
+      Profit (Loss)</FONT>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(</FONT><FONT size=2 face="Times New Roman, Times, Serif">262,360</FONT>
+    </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap>&nbsp;</TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(101,105</FONT>
+    </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(
+      597,938</FONT> </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">326,979</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">RESEARCH
+      and DEVELOPMENT</FONT>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">338,651</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">332,610</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">1,319,345</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">1,235,252</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">SELLING,
+      GENERAL and</FONT>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp;</TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">ADMINISTRATIVE
+      EXPENSES</FONT>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">411,389</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">460,929</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">1,731,713</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">1,881,313</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">PROVISION
+      FOR IMPAIRMENT AND</FONT>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">&#151;</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp;</TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">123,511</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">52,208</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">176,642</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">RESTRUCTURING</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">LOSS
+      ON SALE OF ASSETS HELD</FONT>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp;</TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">FOR
+      SALE</FONT>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">&#151;</FONT></TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp;</TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">&#151;</FONT></TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">&#151;</FONT></TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">19,171</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=left nowrap>&nbsp;</TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total
+      Operating Expenses</FONT>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">750,040</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">917,050</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">3,103,266</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">3,312,378</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=2 face="Times New Roman, Times, Serif">Operating
+      Loss</FONT>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(1,012,400</FONT>
+    </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap>&nbsp;</TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(1,018,155</FONT>
+    </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(3,701,204</FONT>
+    </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(2,985,399</FONT>
+    </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+  </TR>
+  <TR>
+    <TD colspan = 17 align="left">&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">INTEREST
+      INCOME</FONT>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">1,787</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">11,020</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">18,089</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">65,443</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">INTEREST
+      EXPENSE</FONT>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">&#151;</FONT></TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp;</TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(125</FONT>
+    </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(49</FONT>
+    </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(6,894</FONT>
+    </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=left nowrap>&nbsp;</TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">LOSS
+      BEFORE PROVISION FOR</FONT>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">INCOME
+      TAXES</FONT>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">$</FONT>
+    </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">(1,010,613</FONT>
+    </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right><FONT size=2 face="Times New Roman, Times, Serif">$</FONT></TD>
+    <TD nowrap align=right><font size=2 face="Times New Roman, Times, Serif">(1,007,260</font>
+    </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">$</FONT>
+    </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">(3,683,164</FONT>
+    </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right><FONT size=2 face="Times New Roman, Times, Serif">$</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right><FONT size=2 face="Times New Roman, Times, Serif">(2,926,850</FONT>
+    </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">PROVISION
+      FOR INCOME TAXES</FONT>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">912</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp;</TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">912</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">912</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">912</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=left nowrap>&nbsp;</TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=1></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">NET
+      LOSS</FONT>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">$</FONT>
+    </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">(</FONT><FONT size=2 face="Times New Roman, Times, Serif">1,011,525</FONT>
+    </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right><FONT size=2 face="Times New Roman, Times, Serif">$</FONT>
+    </TD>
+    <TD nowrap align=right><FONT size=2 face="Times New Roman, Times, Serif">(1,008,172</FONT>
+    </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">$</FONT>
+    </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">(3,684,076</FONT>
+    </TD>
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">$&nbsp;</FONT>
+    </TD>
+    <TD nowrap align=right><FONT size=2 face="Times New Roman, Times, Serif">(2,927,762</FONT></TD>
+    <TD nowrap align=left><FONT size=2 face="Times New Roman, Times, Serif">)</FONT></TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=left nowrap>&nbsp;</TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=2></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=2></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=2></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=2></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">Basic
+      and Diluted Loss Per Share</FONT>&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">$</FONT>
+    </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(0.58</FONT>
+    </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap>&nbsp;</TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">$</FONT></TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(0.58</FONT>
+    </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">$</FONT>
+    </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(
+      2.10</FONT> </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">$</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">(1.67</FONT>
+    </TD>
+    <TD align=left nowrap> <FONT size=2 face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=left nowrap>&nbsp;</TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=2></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=2></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=2></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=2></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT size=2 face="Times New Roman, Times, Serif">Weighted
+      Average Common Shares</FONT>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> &nbsp; &nbsp;<FONT size=2 face="Times New Roman, Times, Serif">Outstanding</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">1,752,053</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">1,752,053</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">1,752,053</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">1,752,053</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align=left nowrap>&nbsp;</TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=2></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=2></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=2></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+    <TD align=center nowrap></TD>
+    <TD colspan="2" align=center nowrap><HR noshade size=2></TD>
+    <TD align=center nowrap>&nbsp;</TD>
+  </TR>
+</TABLE>
+<BR>
+<p></P>
+<HR style="page-break-after: always" noshade align="center" width="100%" size=1>
+<A name="page_8"></A>
+<TABLE width="100%">
+  <TR>
+    <TD width="50%" nowrap><I><FONT size=2 face="Times New Roman, Times, Serif">Precision
+      Optics Corporation&#151;Fourth Quarter and Year End Results</FONT></I></TD>
+    <TD width="50%" align="right" nowrap> <I><FONT size=2 face="Times New Roman, Times, Serif">Page
+      4 of 4</FONT></I></TD>
+  </TR>
+</TABLE>
+<p align="center"><B><FONT face="Times New Roman, Times, Serif">PRECISION OPTICS
+  CORPORATION, INC. AND SUBSIDIARIES <br>
+  CONSOLIDATED BALANCE SHEETS <br>
+  (UNAUDITED)</FONT></B>&nbsp; <br>
+  <br>
+</p>
+<TABLE width="100%" border=0 cellpadding=0 cellspacing=0>
+  <TR align="center" valign="bottom">
+    <TD colspan="8" nowrap><B><U><FONT face="Times New Roman, Times, Serif">ASSETS</FONT></U></B>&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left>&nbsp;</TD>
+    <TD nowrap colspan=2 align=left>&nbsp;</TD>
+    <TD nowrap align=left>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan=2 align=right>&nbsp;</TD>
+    <TD nowrap align=left>&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD width="100%" align=left nowrap>&nbsp; </TD>
+    <TD nowrap colspan=3 align=center> <FONT face="Times New Roman, Times, Serif">June
+      30, 2004</FONT> </TD>
+    <TD align="center">&nbsp; </TD>
+    <TD nowrap colspan=3 align=center> <FONT face="Times New Roman, Times, Serif">June
+      30, 2003</FONT> </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align="left"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"> <HR noshade size=1> </TD>
+    <TD align="left"><HR noshade size=1> </TD>
+    <TD align="right"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="left"><HR noshade size=1> </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT face="Times New Roman, Times, Serif">CURRENT
+      ASSETS</FONT>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">Cash and Cash Equivalents</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">$</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">343,260</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">$</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">3,504,414</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">Accounts Receivable,
+      Net</FONT>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">80,195</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">191,669</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">Inventories</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">917,998</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">1,257,288</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">Prepaid Expenses</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">80,646</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">91,213</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">Deferred Financing
+      Costs</FONT>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">171,885</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT size=2 face="Times New Roman, Times, Serif">&#151;</FONT></TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">Assets Held for
+      Sale</FONT>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">&nbsp;
+      </FONT><FONT size=2 face="Times New Roman, Times, Serif">&#151;</FONT> </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">152,550</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR>
+    <TD align="left"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"> <HR noshade size=1> </TD>
+    <TD align="left">&nbsp; </TD>
+    <TD align="right"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="left"> </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp;<FONT face="Times New Roman, Times, Serif">Total Current Assets</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">1,593,984</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">5,197,134</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT face="Times New Roman, Times, Serif">PROPERTY
+      AND EQUIPMENT</FONT>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">4,199,835</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">4,013,680</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">Less: Accumulated
+      Depreciation</FONT>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">(3,920,593</FONT>
+    </TD>
+    <TD nowrap align=left> <FONT face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">(3,723,350</FONT>
+    </TD>
+    <TD nowrap align=left> <FONT face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align="left"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"> <HR noshade size=1> </TD>
+    <TD align="left">&nbsp; </TD>
+    <TD align="right"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="left"> </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT face="Times New Roman, Times, Serif">&nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif"></FONT>&nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif"></FONT>Net
+      Property and Equipment</FONT>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">279,242</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">290,330</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR>
+    <TD align="left"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"> <HR noshade size=1> </TD>
+    <TD align="left">&nbsp; </TD>
+    <TD align="right"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="left"> </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT face="Times New Roman, Times, Serif">OTHER ASSETS</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">224,088</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">236,156</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR>
+    <TD align="left"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"> <HR noshade size=1> </TD>
+    <TD align="left">&nbsp; </TD>
+    <TD align="right"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="left"> </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT face="Times New Roman, Times, Serif">TOTAL ASSETS</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">$</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">2,097,314</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">$</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">5,723,620</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR align="center" valign="bottom">
+    <TD align="left"> </TD>
+    <TD align="right"><HR noshade size=2> </TD>
+    <TD align="right"> <HR noshade size=2> </TD>
+    <TD align="left">&nbsp; </TD>
+    <TD align="right"> </TD>
+    <TD align="right"><HR noshade size=2> </TD>
+    <TD align="right"><HR noshade size=2> </TD>
+    <TD align="left"> </TD>
+  </TR>
+  <TR align="center" valign="bottom">
+    <TD colspan=8 nowrap>&nbsp;</TD>
+  </TR>
+  <TR align="center" valign="bottom">
+    <TD colspan=8 nowrap><B><FONT face="Times New Roman, Times, Serif"><U>LIABILITIES
+      AND STOCKHOLDERS' EQUITY</U></FONT></B>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=left>&nbsp;</TD>
+    <TD align="right">&nbsp;</TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=left>&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT face="Times New Roman, Times, Serif">TOTAL CURRENT
+      LIABILITIES</FONT>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">$</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">593,342</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">$</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">534,017</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR>
+    <TD align="left"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"> <HR noshade size=1> </TD>
+    <TD align="left">&nbsp; </TD>
+    <TD align="right"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="left"> </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> <FONT face="Times New Roman, Times, Serif">OTHER</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">$</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap> <FONT size=2 face="Times New Roman, Times, Serif">&#151;</FONT></TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">$</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">1,555</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align="left"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"> <HR noshade size=1> </TD>
+    <TD align="left">&nbsp; </TD>
+    <TD align="right"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="left"> </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT face="Times New Roman, Times, Serif">STOCKHOLDERS'
+      EQUITY</FONT>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">Common Stock, $.01
+      par value-</FONT>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> <FONT face="Times New Roman, Times, Serif">&nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp;Authorized -- 20,000,000 shares</FONT>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap colspan=2 align=left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">Issued
+      and Outstanding &#150; 1,752,053 shares</FONT>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">at
+      June 30, 2004 and 2003</FONT>&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">17,521</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">17,521</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">Additional Paid-in
+      Capital</FONT>&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">27,770,175</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">27,770,175</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">Accumulated Deficit</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">(26,283,724</FONT>
+    </TD>
+    <TD nowrap align=left><FONT face="Times New Roman, Times, Serif">)</FONT></TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right>&nbsp;</TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">(22,599,648</FONT>
+    </TD>
+    <TD nowrap align=left> <FONT face="Times New Roman, Times, Serif">)</FONT>&nbsp;
+    </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align="left"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"> <HR noshade size=1> </TD>
+    <TD align="left">&nbsp; </TD>
+    <TD align="right"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="left"> </TD>
+  </TR>
+  <TR valign="bottom" bgcolor="#CCFFCC">
+    <TD align=left nowrap> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp;<FONT face="Times New Roman, Times, Serif">Total Stockholders' Equity</FONT>&nbsp;
+    </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">1,503,972</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD align=right nowrap>&nbsp; </TD>
+    <TD align=right nowrap> <FONT face="Times New Roman, Times, Serif">5,188,048</FONT>
+    </TD>
+    <TD align=left nowrap>&nbsp; </TD>
+  </TR>
+  <TR>
+    <TD align="left"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"> <HR noshade size=1> </TD>
+    <TD align="left">&nbsp; </TD>
+    <TD align="right"> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="right"><HR noshade size=1> </TD>
+    <TD align="left"> </TD>
+  </TR>
+  <TR>
+    <TD colspan = 9 align="left">&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap colspan=2 align=left> <FONT face="Times New Roman, Times, Serif">TOTAL
+      LIABILITIES AND STOCKHOLDERS'</FONT>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right>&nbsp; </TD>
+    <TD nowrap align=right> </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD nowrap align=left> &nbsp; &nbsp;<FONT face="Times New Roman, Times, Serif">EQUITY</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right><FONT face="Times New Roman, Times, Serif">$</FONT>
+    </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">2,097,314</FONT></TD>
+    <TD nowrap align=left>&nbsp; </TD>
+    <TD align="right">&nbsp; </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">$</FONT>&nbsp;
+    </TD>
+    <TD nowrap align=right> <FONT face="Times New Roman, Times, Serif">5,723,620</FONT>
+    </TD>
+    <TD nowrap align=left>&nbsp; </TD>
+  </TR>
+  <TR valign="bottom">
+    <TD align="left"> </TD>
+    <TD align="right"><HR noshade size=2> </TD>
+    <TD align="right"> <HR noshade size=2> </TD>
+    <TD align="left">&nbsp; </TD>
+    <TD align="right"> </TD>
+    <TD align="right"><HR noshade size=2> </TD>
+    <TD align="right"><HR noshade size=2> </TD>
+    <TD align="left"> </TD>
+  </TR>
+</TABLE>
+<BR>
+<P> <FONT size=2 face="Times New Roman, Times, Serif">Forward-looking statements
+  contained in this news release, including those related to the Company&#146;s
+  products under development and revenue estimates, are made under "safe harbor"
+  provisions of the Private Securities Litigation Reform Act of 1995 and involve
+  a number of risks and uncertainties that could materially affect future results.
+  These risks and uncertainties, many of which are not within the Company&#146;s
+  control, include, but are not limited to, the uncertainty and timing of the
+  successful development of the Company&#146;s new products; the risks associated
+  with reliance on a few key customers; the Company&#146;s ability to maintain
+  compliance with requirements for continued listing on the NASDAQ SmallCap Market;
+  the Company&#146;s ability to attract and retain personnel with the necessary
+  scientific and technical skills, the timing and completion of significant orders;
+  the timing and amount of the Company&#146;s research and development expenditures;
+  the timing and level of market acceptance of customers&#146; products for which
+  the Company supplies components; performance of the Company&#146;s vendors;
+  the ability of the Company to control costs associated with performance under
+  fixed price contracts; and the continued availability to the Company of essential
+  supplies, materials and services; and the other risk factors and cautionary
+  statements listed from time to time in the Company's periodic reports filed
+  with the Securities and Exchange Commission, including but not limited to, the
+  Company's Annual Report on Form 10-KSB for the year ended June 30, 2003.</FONT></P>
+<P align="center">
+<TABLE>
+  <TR>
+    <TD nowrap> <FONT face="Times New Roman, Times, Serif">###</FONT><BR> </TD>
+  </TR>
+</TABLE>
+<p></P>
+<HR  noshade align="center" width="100%" size=1>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>v06552x5x1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 v06552x5x1.jpg
+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
+- -10`4444`%%%%`'__V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

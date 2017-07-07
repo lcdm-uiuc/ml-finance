@@ -1,0 +1,1621 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SXOYB5T1fhBff370yxVVUfJKRYqKwgBtETI32QBl/gAZ0aEErBZGURL+tWyczdsB
+ TRaG0AIavG09JWmppSOzRQ==
+
+<SEC-DOCUMENT>0000908662-04-000217.txt : 20040921
+<SEC-HEADER>0000908662-04-000217.hdr.sgml : 20040921
+<ACCEPTANCE-DATETIME>20040921163931
+ACCESSION NUMBER:		0000908662-04-000217
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20040921
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20040921
+DATE AS OF CHANGE:		20040921
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GTECH HOLDINGS CORP
+		CENTRAL INDEX KEY:			0000857323
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				050450121
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0223
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11250
+		FILM NUMBER:		041039625
+
+	BUSINESS ADDRESS:	
+		STREET 1:		55 TECNOLOGY WAY
+		CITY:			WEST GREENWICH
+		STATE:			RI
+		ZIP:			02817
+		BUSINESS PHONE:		4013921000
+
+	MAIL ADDRESS:	
+		STREET 1:		55 TECHNOLOGY WAY
+		STREET 2:		LEGAL DEPARTMENT
+		CITY:			WEST GREENWICH
+		STATE:			RI
+		ZIP:			02817
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form_8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+ -------------------------------------------------------------------------------
+                                    FORM 8-K
+
+
+                                 CURRENT REPORT
+
+                     Pursuant to Section 13 or 15(d) of the
+                         Securities Exchange Act of 1934
+
+
+      Date of Report (date of earliest event reported): September 21, 2004
+ -------------------------------------------------------------------------------
+
+                           GTECH Holdings Corporation
+                      ------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+                                    DELAWARE
+                                -----------------
+                 (State or other jurisdiction of incorporation)
+
+               1-11250                           05-0450121
+      --------------------------------------------------------------------------
+      (Commission file number)         IRS Employer Identification Number)
+
+              55 Technology Way, West Greenwich, Rhode Island 02817
+    -------------------------------------------------------------------------
+               (Address of principal executive offices) (Zip Code)
+
+        Registrant's telephone number, including area code: 401-392-1000
+       -------------------------------------------------------------------
+
+Check  the  appropriate  box  below  if the  Form  8-K  filing  is  intended  to
+simultaneously  satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+     []  Written communication pursuant to Rule 425 under the Securities Act
+         (17 CFR 230.425)
+
+     []  Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+         (17 CFR 204.14a-12)
+
+
+<PAGE>
+
+
+Item 2.02.    Results of Operations and Financial Condition.
+              -----------------------------------------------
+
+                  This Report  incorporates  by reference the: (a) press release
+issued by GTECH on  September  21, 2004  respecting  GTECH's  fiscal 2005 second
+quarter  results,  which is attached as Exhibit  99(a)  hereto,  (b) scripts for
+GTECH's fiscal 2005 second quarter  earnings  conference  call held on September
+21, 2004, which are attached as Exhibit 99(b) hereto, and (c) slides for GTECH's
+fiscal 2005 second  quarter  earnings  conference  call,  which are  attached as
+Exhibit 99(c) hereto.
+
+
+
+<PAGE>
+
+
+                                   SIGNATURES
+
+
+Pursuant to the  requirements  of the  Securities  and Exchange Act of 1934,  as
+amended,  GTECH Holdings Corporation has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized.
+
+                                  GTECH HOLDINGS CORPORATION
+
+
+                                  By:  /s/ Michael K. Prescott
+                                       -----------------------------------------
+                                       Michael K. Prescott
+                                       Vice President and Deputy General Counsel
+
+Dated:  September 21, 2004
+
+
+<PAGE>
+
+
+                                  Exhibit Index
+
+Exhibit Number                Description
+- ----------------------        --------------
+
+Exhibit 99(a)                 Press Release dated September 21, 2004
+
+Exhibit 99(b)                 September 21, 2004 Earnings Conference Call
+                                Scripts
+
+Exhibit 99(c)                 Slides for September 21, 2004 Earnings Conference
+                                 Call
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exh_99a.txt
+<DESCRIPTION>EXHIBIT 99(A) - PRESS RELEASE DATED 9/21/04
+<TEXT>
+                                  EXHIBIT 99(a)
+                                  -------------
+
+
+
+55 Technology Way
+West Greenwich, Rhode Island  02817 USA
+Telephone: 401 392-1000
+Fax: 401 392-1234
+Website:  WWW.GTECH.COM
+
+For Immediate Release                             Contact:  Robert K. Vincent
+September 21, 2004                                          Public Affairs
+                                                            GTECH Corporation
+                                                            401-392-7452
+
+                  GTECH ANNOUNCES STRONG SECOND QUARTER RESULTS
+                  ---------------------------------------------
+
+WEST GREENWICH,  RI - (September 21, 2004) - GTECH Holdings  Corporation  (NYSE:
+GTK) today announced  second quarter  earnings for fiscal year 2005 ended August
+28, 2004.
+
+"It was yet another quarter of steady growth and  profitability for GTECH," said
+GTECH  President and Chief  Executive  Officer W. Bruce Turner.  "Total revenues
+grew  approximately  17  percent,  quarter-over-quarter,   driven  by  continued
+improvements in same-store sales, the benefit of recent acquisitions, and strong
+product sales. In addition to a solid financial performance, we had a successful
+quarter across all three GTECH vertical markets - lottery, gaming solutions, and
+commercial services."
+
+"We are  pleased  with  the  continued  strength  of our core  business  and the
+progress we have made in integrating our recent acquisitions," said GTECH Senior
+Vice  President and Chief  Financial  Officer  Jaymin B. Patel.  "We are excited
+about the  opportunities  we see in each of the markets we serve, and based upon
+our current outlook, we are confident we can achieve our goals and objectives in
+the current fiscal year and beyond."
+
+
+Operating Results
+- -----------------
+
+Earnings  and  dividends  per share for the three and six month  periods  of the
+prior year have been restated to reflect the 2-for-1 common stock split effected
+in the form of a stock  dividend,  which was  distributed  on July 30, 2004,  to
+shareholders of record as of July 1, 2004.
+
+Revenues  for the second  quarter of fiscal 2005 were $323.5  million,  up 16.7%
+over revenues of $277.2 million in the second quarter of fiscal 2004. Net income
+was $53.1 million,  or $0.40 per diluted share, up 9.5% over net income of $48.5
+million, or $0.37 per diluted share, for the same period last year.
+
+Revenues for the first six months of fiscal 2005 were $603.7  million,  up 16.8%
+over  revenues  of $516.8  million in the first six months of fiscal  2004.  Net
+income was $106.7 million,  or $0.80 per diluted share, up 19.2% over net income
+of $89.5 million, or $0.72 per diluted share, for the same period last year. Net
+income  in the  first  six  months of  fiscal  2005  includes  a net,  one-time,
+after-tax  gain of $6.4  million,  or  approximately  $0.05 per  diluted  share,
+associated  with the sale of the Company's 50% interest in Gaming  Entertainment
+(Delaware)  L.L.C.,  net of charges  associated with the early retirement of the
+remainder of the Company's 2007 private placement notes.
+
+
+Cash Flow and Investments
+- -------------------------
+
+During the first six months of fiscal 2005, the Company generated $171.8 million
+of cash from  operations  which,  along with other  sources  of  liquidity,  was
+principally  used to fund the  Spielo  Manufacturing  Incorporated  and  Leeward
+Islands Lottery Holding  Company,  Inc.  acquisitions of $192.4 million,  and to
+purchase  systems,  equipment  and other assets  relating to contracts of $113.0
+million.  In addition,  the Company  repaid the  remaining  $90.0 million of its
+7.87% Senior Notes;  repurchased  $82.8  million,  or 3,649,500  shares,  of the
+Company's common stock; and paid cash dividends of $20.1 million.
+
+At the end of the  fiscal  2005  second  quarter,  GTECH  had $15.0  million  of
+borrowings under its $300 million credit facility.
+
+
+Financial Outlook
+- -----------------
+
+The  Company  provided  guidance  for the full year and third  quarter of fiscal
+2005.
+
+For the fiscal year ending  February 26, 2005,  GTECH  expects  service  revenue
+growth in the range of 5% to 7%, and product  sales in the range of $210 million
+to $220 million.
+
+The Company continues to expect service profit margins to be in the range of 40%
+to 42%, and product sale profit margins to be in the range of 36% to 38%.
+
+The  Company  expects  the  effective  tax rate for the fiscal year to be in the
+range of 35% to 36%,  compared  to 37%  reported in the first half of the fiscal
+year. It expects the most  significant  portion of the rate  reduction will take
+affect in the third quarter.
+
+Based upon the  results of the first  half of the  fiscal  year and the  current
+outlook,  it continues to expect earnings per share for fiscal 2005 to be in the
+range of $1.43 to $1.48 on a  fully-diluted  basis,  reflecting the  two-for-one
+stock split that occurred on July 30, 2004.
+
+For the third  quarter of fiscal 2005,  ending  November  27, 2004,  the Company
+expects  service  revenue  growth in the range of 6% to 8%, and product sales in
+the range of $55 million to $65 million.  The Company expects service margins in
+the range of 38% to 40%,  and  product  margins  in the range of 37% to 39%.  It
+expects  the  effective  tax  rate  for the  quarter  to be  approximately  33%.
+Accordingly,  the Company expects earnings per share to be in the range of $0.33
+to $0.36 per share for the quarter.  This  compares  with $0.35  reported in the
+same period last year,  which included a one-time,  after-tax,  non-cash gain of
+$3.3 million,  or $0.03 per diluted share,  associated with the consolidation of
+the partnership that owns the Company's headquarters facility in Rhode Island.
+
+
+Second Quarter Highlights
+- -------------------------
+
+In the second quarter,  GTECH  continued to strengthen its market  leadership in
+the core lottery  business.  Internationally,  the Company was chosen to provide
+5,000 additional  handheld lottery terminals to Organizacion  Nacional de Ciegos
+Espanoles  (ONCE)  in  Spain,  following  a  previous  order of  7,000  handheld
+terminals  also  awarded to GTECH by ONCE in the second  quarter.  In  addition,
+Cogetech,  a joint  venture  in  which  GTECH  is the  technology  and  services
+provider,  was named a successful applicant for a five-year license to operate a
+gaming machine  network and central  system in Italy.  The Company also signed a
+long-term  integrated  services  contract  to provide a complete  video  lottery
+solution in Jamaica. In Mexico, GTECH's original contract award with Pronosticos
+para la  Asistencia  Publica  was  reinstated  in August,  and the new  six-year
+integrated  services  contract  was  ultimately  signed by both parties in early
+September 2004.
+
+Domestically,  GTECH  signed a three-year  contract  extension in Oregon and was
+awarded a new Instant Ticket Vending Machine (ITVM) contract in Maine.
+
+On the  commercial  services  side,  GTECH began  selling  prepaid  mobile phone
+top-ups through its 200 lottery  terminals in Barbados in June 2004. The Company
+also launched bill payment  services at approximately  700 terminals  throughout
+Poland utilizing the PolCard network.
+
+Also in the quarter, GTECH unveiled GamePoint(TM),  the Company's new all-in-one
+instant and online lottery terminal solution.  The innovative GamePoint terminal
+dispenses  both  instant and online  tickets,  combining  GTECH's  world-leading
+online expertise and Interlott's instant ticket self-service leadership.
+
+"In total, we secured between $220 million and $240 million in total incremental
+future revenues this last quarter," continued Mr. Turner.
+
+After the close of the quarter,  GTECH signed a  three-year  contract  extension
+with the Minnesota  State Lottery to commence on February 10, 2008. In addition,
+to advance its commercial  services strategy,  the Company recently announced it
+had acquired  BillBird  S.A.,  the leading  provider of electronic  bill payment
+services in Poland.
+
+
+Other Business Developments
+- ---------------------------
+
+Sri Lanka
+- ---------
+
+GTECH's customer in Sri Lanka, the Mahapola Higher Education  Scholarship  Trust
+Fund  (MTF),  was  recently  notified  by the  Supreme  Court of the  Democratic
+Socialist  Republic of Sri Lanka that it may resume with the  implementation  of
+its  lottery  games  in the  country.  In March  2004,  lawsuits  were  filed by
+competitors   challenging   GTECH's   contract   award  and  thus   delayed  the
+implementation  of the instant  ticket and online  games in Sri Lanka.  All such
+lawsuits  have  been  settled,  without  any  payment  by  GTECH,  and have been
+dismissed.
+
+Certain  statements   contained  in  this  press  release  are  forward  looking
+statements  within the meaning of Section 27A of the  Securities Act of 1933 and
+Section 21E of the  Securities  Exchange  Act of 1934.  The  Company  identifies
+forward looking  statements by words such as "may," "will,"  "should,"  "could,"
+"expect," "plan," "anticipate,"  "intend," "believe," "estimate," "continue," or
+similar  words  that  refer to the  future.  Such  statements  include,  without
+limitation,  statements  relating to the prospects and financial outlook for the
+Company,  which  reflect  management  assumptions  regarding:   (i)  the  future
+prospects  for and  stability of the lottery  industry and other  businesses  in
+which the Company is engaged or expects to be engaged, (ii) the future operating
+and  financial  performance  of  the  Company  (including,  without  limitation,
+expected future growth in revenues,  profit margins and earnings per share), and
+(iii) the ability of the Company to retain  existing  business and to obtain and
+retain new  business.  Such  forward  looking  statements  reflect  management's
+assessment based on information currently available,  but are not guarantees and
+are subject to risks and uncertainties that could cause actual results to differ
+materially from those contemplated in the forward looking statements.
+
+These risks and uncertainties  include,  but are not limited to, those set forth
+above, in the Company's  subsequent press releases and on reports by the Company
+on Forms 10-K,  10-Q and 8-K, and other reports and filings with the  Securities
+and Exchange Commission, as well as risks and uncertainties respecting:  (i) the
+potential  impact of extensive  and  evolving  government  regulations  upon the
+Company's  business;  (ii) the  ability of the Company to continue to retain and
+extend its existing  contracts and win new contracts;  (iii) the  possibility of
+slower than expected growth or declines in sales of lottery and gaming goods and
+services by the Company or the  Company's  customers;  (iv)  exposure to foreign
+currency fluctuations; (v) risks and uncertainties inherent in doing business in
+foreign  jurisdictions;  (vi) the relatively  large  percentage of the Company's
+revenues  attributable to a relatively small number of the Company's  customers;
+(vii) the possibility of significant fluctuation of quarterly operating results;
+(viii) the intensity of competition in the lottery and gaming  industries;  (ix)
+the  possibility  of  substantial  penalties  under  and/or  termination  of the
+Company's contracts;  (x) the ability of the Company to respond to technological
+change and to satisfy the future  technological  demands of its customers;  (xi)
+opposition to expansion of lottery and gaming;  (xii) the  Company's  ability to
+attract  and  retain  key  employees;  and  (xiii)  the  possibility  of adverse
+determinations in pending legal proceedings.
+
+GTECH, a leading global  information  technology company with over $1 billion in
+revenues  and  more  than  5,500  people  in 45  countries,  provides  software,
+networks,  and professional  services that power  high-performance,  transaction
+processing solutions.  The Company's core market is the lottery industry, with a
+growing  presence  in  commercial  gaming  technology  and  financial   services
+transaction  processing.  For more information  about the Company,  please visit
+GTECH's website at http://www.gtech.com.
+
+Consolidated financial statements to follow:
+
+<PAGE>
+
+
+                   GTECH HOLDINGS CORPORATION AND SUBSIDIARIES
+
+                      CONSOLIDATED INCOME STATEMENTS
+
+                                                            (Unaudited)
+                                                           Three Months Ended
+                                                        ------------------------
+                                                         August 28,   August 23,
+                                                           2004         2003
+                                                           -----        ----
+                                                      (Dollars in thousands,
+                                                     except per share amounts)
+Revenues:
+  Services                                               $ 248,114    $ 238,019
+  Sales of products                                         75,401       39,228
+                                                         ---------    ---------
+                                                           323,515      277,247
+Costs and expenses:
+  Costs of services                                        148,481      132,805
+  Costs of sales                                            43,874       28,810
+                                                         ---------    ---------
+                                                           192,355      161,615
+                                                         ---------    ---------
+
+Gross profit                                               131,160      115,632
+
+Selling, general and administrative                         29,889       27,051
+Research and development                                    12,647       14,106
+                                                         ---------    ---------
+  Operating expenses                                        42,536       41,157
+                                                         ---------    ---------
+
+Operating income                                            88,624       74,475
+
+Other income (expense):
+  Interest income                                              981        1,021
+  Equity in earnings of unconsolidated affiliates              293        2,691
+  Other income (expense)                                    (1,924)         465
+  Interest expense                                          (3,719)      (1,705)
+                                                         ---------    ---------
+                                                            (4,369)       2,472
+                                                         ---------    ---------
+
+Income before income taxes                                  84,255       76,947
+
+Income taxes                                                31,174       28,471
+                                                         ---------    ---------
+
+Net income                                               $  53,081    $  48,476
+                                                         =========    =========
+
+Basic earnings per share                                 $    0.45    $    0.42
+                                                         =========    =========
+
+Diluted earnings per share                               $    0.40    $    0.37
+                                                         =========    =========
+
+Weighted average shares outstanding - basic                117,070      115,836
+                                                         =========    =========
+
+Weighted average shares outstanding - diluted              132,743      131,815
+                                                         =========    =========
+
+Dividends per share - common stock                       $   0.085    $   0.085
+                                                         =========    =========
+
+<PAGE>
+
+                   GTECH HOLDINGS CORPORATION AND SUBSIDIARIES
+
+                         CONSOLIDATED INCOME STATEMENTS
+
+                                                              (Unaudited)
+                                                           Six Months Ended
+                                                       -------------------------
+                                                         August 28,   August 23,
+                                                           2004         2003
+                                                        ----------   -----------
+                                                        (Dollars in thousands,
+                                                       except per share amounts)
+Revenues:
+  Services                                               $ 501,440    $ 461,557
+  Sales of products                                        102,280       55,275
+                                                         ---------    ---------
+                                                           603,720      516,832
+Costs and expenses:
+  Costs of services                                        295,774      259,602
+  Costs of sales                                            59,791       37,439
+                                                         ---------    ---------
+                                                           355,565      297,041
+                                                         ---------    ---------
+
+Gross profit                                               248,155      219,791
+
+Selling, general and administrative                         57,524       51,331
+Research and development                                    25,734       28,496
+                                                         ---------    ---------
+  Operating expenses                                        83,258       79,827
+                                                         ---------    ---------
+
+Operating income                                           164,897      139,964
+
+Other income (expense):
+  Interest income                                            2,316        2,209
+  Equity in earnings of unconsolidated affiliates            1,599        4,620
+  Other income (expense)                                     8,601         (715)
+  Interest expense                                          (8,055)      (4,011)
+                                                         ---------    ---------
+                                                             4,461        2,103
+                                                         ---------    ---------
+
+Income before income taxes                                 169,358      142,067
+
+Income taxes                                                62,662       52,565
+                                                         ---------    ---------
+
+Net income                                               $ 106,696    $  89,502
+                                                         =========    =========
+
+Basic earnings per share                                 $    0.91    $    0.78
+                                                         =========    =========
+
+Diluted earnings per share                               $    0.80    $    0.72
+                                                         =========    =========
+
+Weighted average shares outstanding - basic                117,848      114,826
+                                                         =========    =========
+
+Weighted average shares outstanding - diluted              133,860      125,988
+                                                         =========    =========
+
+Dividends per share - common stock                       $    0.17    $   0.085
+                                                         =========    =========
+
+<PAGE>
+
+                   GTECH HOLDINGS CORPORATION AND SUBSIDIARIES
+
+                           CONSOLIDATED BALANCE SHEETS
+
+
+<TABLE>
+<CAPTION>
+                                                                                      (Unaudited)
+                                                                                       August 28,  February 28,
+                                                                                         2004         2004
+                                                                                      -----------  ------------
+                                                                                       (Dollars in thousands)
+<S>                                                                                 <C>            <C>
+ASSETS
+CURRENT ASSETS:
+  Cash and cash equivalents                                                         $    30,267    $   129,339
+  Investment securities available-for-sale                                                    -        221,850
+  Trade accounts receivable, net                                                        134,449        118,902
+  Sales-type lease receivables                                                            7,848          7,705
+  Inventories                                                                            94,025         76,784
+  Deferred income taxes                                                                  32,559         34,396
+  Other current assets                                                                   31,868         24,426
+                                                                                    -----------    -----------
+                TOTAL CURRENT ASSETS                                                    331,016        613,402
+
+SYSTEMS, EQUIPMENT AND OTHER ASSETS RELATING TO CONTRACTS, net                          649,800        591,362
+
+GOODWILL, net                                                                           324,916        188,612
+
+PROPERTY, PLANT AND EQUIPMENT, net                                                       66,484         57,576
+
+INTANGIBLE ASSETS, net                                                                   72,614         28,231
+
+REFUNDABLE PERFORMANCE DEPOSIT                                                           20,000         20,000
+
+SALES-TYPE LEASE RECEIVABLES                                                             13,664         17,653
+
+OTHER ASSETS                                                                             43,858         42,295
+                                                                                    -----------    -----------
+                TOTAL ASSETS                                                        $ 1,522,352    $ 1,559,131
+                                                                                    ===========    ===========
+
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+  Accounts payable                                                                  $    73,344    $    80,004
+  Accrued expenses                                                                       50,881         47,428
+  Employee compensation                                                                  19,798         33,981
+  Advance payments from customers                                                        70,955        104,128
+  Deferred revenue and advance billings                                                  32,159         14,459
+  Income taxes payable                                                                   27,173         12,394
+  Taxes other than income taxes                                                          19,443         19,459
+  Current portion of long-term debt                                                       4,848        106,319
+                                                                                    -----------    -----------
+        TOTAL CURRENT LIABILITIES                                                       298,601        418,172
+
+LONG-TERM DEBT, less current portion                                                    474,099        463,215
+
+OTHER LIABILITIES                                                                        79,265         53,736
+
+DEFERRED INCOME TAXES                                                                    88,233         61,719
+
+COMMITMENTS AND CONTINGENCIES                                                                 -              -
+
+SHAREHOLDERS' EQUITY:
+ Preferred Stock, par value $.01 per share - 20,000,000 shares authorized,
+    none issued                                                                               -              -
+ Common Stock, par value $.01 per share - 200,000,000 shares authorized,
+    116,551,144 and 184,590,808 shares issued; 115,621,098 and 118,395,168 shares
+    outstanding at August 28, 2004 and February 28, 2004, respectively (shares
+    adjusted to reflect July 2004 two-for-one stock split and treasury stock
+    retirement)                                                                           1,166            923
+  Additional paid-in capital                                                            272,935        266,320
+  Accumulated other comprehensive loss                                                  (69,369)       (70,508)
+  Retained earnings                                                                     396,629        839,270
+                                                                                    -----------    -----------
+                                                                                        601,361      1,036,005
+Less cost of 930,046 and 66,195,640 shares in treasury at
+  August 28, 2004 and February 28, 2004, respectively (shares adjusted to
+  reflect July 2004 two-for-one stock split and treasury stock retirement)              (19,207)      (473,716)
+                                                                                    -----------    -----------
+                                                                                        582,154        562,289
+                                                                                    -----------    -----------
+                TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                          $ 1,522,352    $ 1,559,131
+                                                                                    ===========    ===========
+</TABLE>
+
+<PAGE>
+
+
+                   GTECH HOLDINGS CORPORATION AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+<TABLE>
+<CAPTION>
+                                                                                         (Unaudited)
+                                                                                       Six Months Ended
+                                                                                  ---------------------------
+                                                                                    August 28,    August 23,
+                                                                                      2004           2003
+                                                                                   ----------     ----------
+                                                                                   (Dollars in thousands)
+<S>                                                                                <C>          <C>
+OPERATING ACTIVITIES
+Net income                                                                         $ 106,696    $  89,502
+Adjustments to reconcile net income to net cash provided by
+  operating activities:
+    Depreciation                                                                      68,504       51,924
+    Intangibles amortization                                                           4,510        1,609
+    Deferred income taxes benefit                                                     13,904            -
+    Tax benefit related to stock award plans                                           6,615       10,696
+    Net charge associated with the early retirement of debt                              751            -
+    Gain on sale of investment                                                       (10,924)           -
+    Other                                                                              7,977        3,612
+    Changes in operating assets and liabilities:
+      Trade accounts receivable                                                      (11,894)       9,769
+      Inventories                                                                     (5,255)      14,839
+      Accounts payable                                                                (9,111)      (3,723)
+      Employee compensation                                                          (15,996)      (8,437)
+      Advance payments from customers                                                 (5,904)      10,066
+      Deferred revenue and advance billings                                           17,700       (4,610)
+      Income taxes payable                                                            15,664       (3,858)
+      Other assets and liabilities                                                   (11,480)        (935)
+                                                                                   ---------    ---------
+NET CASH PROVIDED BY OPERATING ACTIVITIES                                            171,757      170,454
+
+INVESTING ACTIVITIES
+Acquisitions (net of cash acquired)                                                 (192,402)     (41,023)
+Purchases of systems, equipment and other assets relating to contracts              (113,011)    (143,774)
+Purchases of available-for-sale investment securities                                (50,150)           -
+Maturities and sales of available-for-sale investment securities                     272,000            -
+Proceeds from sale of investment                                                      11,773            -
+Purchases of property, plant and equipment                                            (6,359)      (6,285)
+Increase in restricted cash                                                           (5,112)           -
+Investments in and advances to unconsolidated subsidiaries                            (1,435)      (1,185)
+License fee                                                                                -      (12,500)
+                                                                                   ---------    ---------
+NET CASH USED FOR INVESTING ACTIVITIES                                               (84,696)    (204,767)
+
+FINANCING ACTIVITIES
+Net proceeds from issuance of long-term debt                                          15,000        1,409
+Principal payments on long-term debt                                                 (92,249)      (2,146)
+Purchases of treasury stock                                                          (82,808)           -
+Redemption premium paid in connection with the early retirement
+  of debt                                                                            (10,610)           -
+Dividends paid                                                                       (20,135)      (9,883)
+Proceeds from stock options                                                            4,966       21,101
+Other                                                                                    739         (484)
+                                                                                   ---------    ---------
+NET CASH PROVIDED BY (USED FOR) FINANCING ACTIVITIES                                (185,097)       9,997
+
+Effect of exchange rate changes on cash                                               (1,036)       2,464
+                                                                                   ---------    ---------
+DECREASE IN CASH AND CASH EQUIVALENTS                                                (99,072)     (21,852)
+
+Cash and cash equivalents at beginning of period                                     129,339      116,174
+                                                                                   ---------    ---------
+
+CASH AND CASH EQUIVALENTS AT END OF PERIOD                                         $  30,267    $  94,322
+                                                                                   =========    =========
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>exh_99b.txt
+<DESCRIPTION>EXHIBIT 99(B) - CONFERENCE CALL SCRIPT 9/20/04
+<TEXT>
+                                  EXHIBIT 99(b)
+                                  -------------
+
+
+                                      GTECH
+                   Bruce Turner Q2 FY05 Conference Call Script
+                            Final - 20 September 2004
+
+
+Hello,  everyone  ... and welcome to our  discussion  of GTECH's  second-quarter
+results.
+
+
+Slide #4
+- --------
+
+As you have seen in this  morning's  release,  it was another  quarter of steady
+growth  and  profitability  for GTECH  despite  the  challenges  in  Brazil  and
+difficult quarter-over-quarter comparisons.
+
+Total revenues grew  approximately 17 percent,  quarter over quarter,  driven by
+continued improvements in same store sales and strong product sales.
+
+Gross profit margins were within the expected range at 41 percent ... despite an
+increase in depreciation...
+
+Our operating  expense  ratio was 13 percent,  down a point and a half from last
+quarter ...
+
+Earnings per share came in at 40 cents per share ...  which was slightly  higher
+than expected ...
+
+We recorded $75 million in cash from operations.
+
+And we have been able to maintain one of the highest returns on invested capital
+in the gaming  industry,  despite a significant  increase in the average capital
+employed in the business.
+
+In addition to a solid financial performance, we had a successful quarter across
+all three GTECH vertical  markets:  lottery,  gaming  solutions,  and commercial
+services.
+
+Among the lottery  highlights  were two new orders for handheld  terminals  from
+ONCE, the Spanish National Organization for the Blind. With these orders - for a
+total of 12 thousand  additional  terminals - the ONCE network will total 19,000
+units,  making  it the  largest  lottery  network  in  Spain.  Clearly,  Spain's
+visually-impaired retailers are very pleased with the terminals' ease of use and
+performance.
+
+The second  quarter also saw the situation in Mexico  resolved in GTECH's favor.
+As you may recall, GTECH's winning bid to supply a new online lottery system and
+network to our customer  ---Pronosticos --- was declared non-compliant in April.
+However,  after an  appeal,  the  Mexican  Comptroller  Ministry  reversed  that
+decision  last month ... and we have  recently  signed a new  six-year  contract
+valued at approximately $90 million dollars.
+
+In August, we signed a three-year  contract  extension worth up to approximately
+$25 million dollars with the Oregon Lottery. The deal calls for GTECH to replace
+Oregon's  existing video lottery central system with our Enterprise Series Video
+system. We will also be providing 2,000  internet-protocol - or IP--ready Altura
+site  controllers,  which will link more than 10,000 VLTs to the central system.
+This new  contract  will take effect in 2005,  marking  Oregon's  20th year as a
+valued GTECH customer.
+
+On the opposite  side of the country,  we recently  secured a contract  with the
+state of Maine. Under the terms of the contract,  we will be supplying the Maine
+Lottery with 150 Instant Ticket Vending Machines. This is our fourth consecutive
+ITVM  contract win and serves as further  validation of how the  acquisition  of
+Interlott has enhanced GTECH's ability to pursue and win new business.  In fact,
+we have  been so  successful  in the  ITVM  space  since  the  acquisition  that
+Interlott's production hit an all-time high in the month of July.
+
+There was good news in our Gaming Solutions  business,  as well ... with a video
+central system win in Italy through our joint venture,  Cogetech ... and a total
+VLT system win in Jamaica.
+
+The contract  with Italy is  significant  because,  although the Italian  gaming
+market  ranks eighth in the world in terms of total  gaming  sales,  much of its
+legalized gaming machine market remains  untapped.  Up to 65,000 gaming machines
+will be deployed throughout Italy and connected to our Enterprise Series central
+system.  The  Jamaican  VLT  contract  is the  second  one for which  GTECH is a
+single-source vendor, providing all components. Initially, we will install about
+125 video lottery  terminals,  with an option to expand from there. We expect to
+generate  up to $60  million  dollars  in  revenues  from  the  contract  by its
+conclusion in 2011.
+
+All told,  we secured  between $220  million and $240  million  dollars in total
+incremental future revenues this last quarter.
+
+In the  Commercial  Services  vertical,  we  continued  to expand  our  services
+successfully  in Latin America and Poland.  In June,  we began selling  pre-paid
+mobile phone top-ups through our lottery terminals in Barbados. We also launched
+bill payment services at approximately 700 terminals throughout Poland utilizing
+the  PolCard  network.  And two weeks ago,  we  acquired  BillBird,  the leading
+provider  of  electronic  bill  payments  in Poland,  with over 2,000  points of
+access.  GTECH is now the leader in this emerging  industry in Poland ... and we
+are well positioned to become a commercial  services market leader in one of the
+most significant markets in Central and Eastern Europe.
+
+
+Slide #5
+- --------
+
+When we look at the factors  that fueled our lottery  performance  in the second
+quarter,  new games  continued  to be a key  driver.  In late May,  we  launched
+HotTrax,  a new  monitor-based  lottery game, at select  locations here in Rhode
+Island.  Since the launch,  we have seen total  sales of monitor  games at these
+locations increase by an average of 24%.
+
+Encouraged by this performance,  we are currently  developing a suite of monitor
+games tied to popular  spectator sports that will add further  excitement to the
+social space play experience.
+
+At the same time, we are moving  forward  aggressively  to enhance our e-scratch
+offerings. Starting this quarter and continuing for the next year or so, we will
+introduce  four new  e-scratch  games every  quarter.  The games  scheduled  for
+release in  October  include a  sports-themed  game ... a  Halloween  game ... a
+casino  style  3-reel game that will allow for  multiple  line matches and bonus
+rounds  ... and a  crossword-style  game.  We believe  that these will add a new
+element of revenue-stimulating excitement and anticipation for players.
+
+We also continue to develop ways to generate new revenue  through branded games,
+instant-online games such as Extra and Bingo, and promotional on-line games tied
+to major  events.  Earlier  this year,  we announced an agreement to develop and
+distribute  lottery games based on Hasbro's  Monopoly and Battleship  games.  We
+plan to release our first Monopoly-themed games into the traditional on-line and
+on-line instant markets in the fourth quarter of this fiscal year. Very soon, we
+hope to be  announcing  another  branded  monitor  game to  complement  Keno and
+HotTrax ... and we will bring you all the details as soon as they are available.
+
+We have also  invested  in game  development  at Spielo  since  closing  on that
+acquisition  in late April and we plan to release  three new video lottery games
+in the New York market by the end of this  calendar  year.  The first release is
+scheduled for installation this week.
+
+In  addition  to  developing  new  games  for New York,  we are  developing  new
+multi-line video games for the wide-area, racino and casino marketplaces. We are
+also pursuing licensing  agreements with third-party  content developers ... and
+we are  exploring  ways to  license  Spielo  content  in Class II and  Class III
+markets.  As I have said  before,  it is our goal to become  the  number-one  or
+number-two player in the markets in which we operate,  and we believe increasing
+our investment in content development will help us attain that goal.
+
+Convenience and self-service  are also important  factors in driving new lottery
+sales. To that end, we recently introduced GamePoint,  an all-in-one instant and
+online lottery  self-service  terminal  solution.  GamePoint extends the product
+value inherent in Interlott's  instant  ticket vending by  incorporating  online
+functionality and end-to-end connectivity. This product will allow us to upgrade
+the existing 30,000 instant ticket vending machines in the marketplace today ...
+as well as  helping  us  expand  into new  markets.  We plan to ship  the  first
+GamePoint  machines to  Washington  in the  beginning  of 2005.  If the positive
+industry  response we have received thus far is any  indication,  GamePoint will
+help accelerate the already-fast growth in the ITVM/self-service space.
+
+In addition to these developments, we are pursuing a number of new opportunities
+in Lottery  and Gaming  Solutions.  We are  currently  waiting for a decision in
+Thailand,  where we have bid on a new on-line  lottery system as part of a joint
+venture with Loxley, a Thai  conglomerate.  We were one of only two companies to
+make the short list after  technical  evaluations ... and a final decision could
+be made within a matter of weeks.
+
+We have also recently rebid for our lottery contract in Missouri,  and we expect
+a decision from them some time in the third quarter.
+
+In  Pennsylvania,  where  the state  government  recently  approved  legislation
+allowing  video lottery  terminals at race tracks,  we have submitted a bid on a
+VLT central system contract and we plan to pursue machine opportunities there as
+well. We also have proposals  pending for video central  systems in Manitoba and
+the Atlantic  Lottery  Corporation  in Canada ... and we are looking at upcoming
+VLT opportunities in Louisiana and Maine.
+
+Meanwhile,  we are  actively  pursuing  new  lottery  opportunities  in Finland,
+Germany and New Zealand... a new multi-channel interactive gaming opportunity in
+Ireland ... and several government  licensing  opportunities,  including on-line
+systems for hunting and fishing permits in Illinois and Kansas.
+
+Closer to home,  the Rhode  Island  Supreme  Court  recently  ruled the proposed
+legislation allowing for a casino in West Warwick to be unconstitutional. On the
+heels of this news,  we expect the owners of Lincoln Park and Newport  Grand Jai
+Alai to pursue their plans to expand their lottery-run VLT operations. Under the
+terms of our Master Agreement with the state of Rhode Island, GTECH will provide
+the next 700 machines installed, plus 50% of any additional machines.
+
+On the  operational  side of things,  the  integration  of our  acquisitions  is
+proceeding  according  to  plan  and we are  beginning  to see  the  inter-group
+benefits  of  Spielo  and  LILHCo,   particularly  between  lottery  and  gaming
+solutions.
+
+Now,  before I turn  things  over to  Jaymin,  I would  like to give you a brief
+update on the  situation in Brazil ... and the latest on our capital  allocation
+program.
+
+When last we  spoke,  a court in  Brazil  had  decided  to  withhold  30% of our
+revenues  pending the outcome of a civil suit  against  GTECH.  We appealed  the
+court's decision ... and that appeal is still pending.  In the meantime,  we are
+continuing  to work with our  customer  in Brazil to find a  solution  that will
+allow us to remain in the country.
+
+In fact,  I recently  met with  members of Caixa to discuss  their plans for the
+future and to reiterate our desire to find a solution that allows us to continue
+our partnership.  However,  I want to assure you that the outcome of the current
+situation  -  whichever  way it goes - will not have an  impact  on  either  our
+long-term  strategy  ...  or our  long-term  outlook.  Since we first  announced
+developments  in Brazil,  we have announced 14 new contracts and extensions with
+customers around the globe and we have seen no disruption to our business.
+
+As our recent announcement  regarding the acquisition of BillBird indicates,  we
+continue to identify and evaluate  acquisition  candidates  that we believe will
+drive long term growth and  shareholder  value.  We continue to believe it is an
+opportunity-rich environment.
+
+
+Slide #6
+- --------
+
+Finally,  in  keeping  with our  long-standing  commitment  to  return  value to
+shareholders,  we returned approximately $65 million dollars to our shareholders
+in  the  second  quarter.  This  included  our  regular  quarterly  dividend  of
+approximately  $10  million  dollars in July.  We also  repurchased  2.6 million
+shares of GTECH  stock in the  quarter at a cost of  approximately  $55  million
+dollars. As of today, we have 115.7 million shares outstanding and approximately
+$10 million dollars remaining under the current repurchase  program. We continue
+to believe that GTECH stock  represents  a good  investment  opportunity  at the
+current trading levels.
+
+All told, on a  year-to-date  basis,  we have returned in excess of $100 million
+dollars to our shareholders through the dividend and share repurchase programs.
+
+And with that,  I would  like to turn the  proceedings  over to our CFO,  Jaymin
+Patel.
+
+Jaymin: Thank you Bruce.  Good morning, everyone.
+
+
+Slide #7
+- --------
+
+I would like to start by reviewing GTECH's  second-quarter  performance.  We are
+certainly  pleased  with  the  performance  of  the  business  in the  light  of
+challenges we faced in Brazil and  difficult  quarter-over  quarter  comparisons
+created by  significant  jackpot  activity in the second  quarter of last fiscal
+year combined with the impact of increased capital deployed in the business over
+the last twelve months.
+
+I would  like to remind  everyone  that all  references  to  earnings  per share
+reflect the two-for-one (2-for-1) stock split, that occurred on July 30th.
+
+Second quarter service  revenues  increased more than ten million dollars ($10M)
+or approximately four percent (4%), driven by a number of factors.
+
+A  closer  review  of the  underlying  dynamics  of the  business  will  help to
+illustrate  what those key  drivers  were.  Let's start with a review of lottery
+service  revenues.  In the U.S.,  same store sales increased  approximately  six
+percent  (6%),  with the  majority  of our  domestic  jurisdictions  once  again
+enjoying improved sales.
+
+This increase in same store sales continues to be driven by the  introduction of
+new games,  modifications to existing games,  such as jackpot  changes,  and the
+marketing efforts of our customers. We also benefited from the launch of our new
+service contract in Tennessee and the impact of the Interlott acquisition.
+
+The increase in lottery  service  revenues was partially  offset by  contractual
+rate  changes,  resulting  in  domestic  service  revenues  of one  hundred  and
+twenty-nine  million dollars ($129M), up approximately two percent (2%) over the
+second quarter of last fiscal year.
+
+International same store lottery sales grew by approximately two percent (2%) on
+a constant currency basis,  reflecting new games such as Big Lotto in Taiwan, as
+well as expanded distribution channels, including Keno in Beijing.
+Factoring  in higher  jackpot  activity  and the  favorable  impact  of  foreign
+exchange rates,  offset by contractual rate changes and the thirty percent (30%)
+withholding  of our  revenues  in  Brazil,  our  international  lottery  service
+revenues  increased by  approximately  four percent (4%), to ninety-one  million
+dollars ($91M).
+
+Total service  revenues  included  approximately  eight million dollars ($8M) of
+service revenue from gaming  solutions,  up  approximately  four million dollars
+($4M) over the same  period  last year.  This was driven by the  addition of new
+video lottery terminals in Rhode Island and the acquisition of Spielo.
+
+We also  recorded  approximately  nineteen  million  dollars  ($19M) of  service
+revenue from  commercial  transaction  processing,  which was  comparable to the
+second quarter of last fiscal year. Whilst we experienced an approximate  eleven
+percent (11%) increase in same store sales quarter over quarter,  this was again
+offset by the thirty percent (30%) withholding of revenues in Brazil.
+
+
+Slide #8
+- --------
+
+Product sales in the second quarter were  seventy-five  million  dollars ($75M),
+driven by terminal sales to our customer in Belgium combined with the first of 3
+terminal shipments to ONCE in Spain.
+
+Gross profit  increased  by  approximately  sixteen  million  dollars  ($16M) or
+thirteen  percent  (13%)  quarter-over-quarter.  Service  gross profit  declined
+approximately six million dollars ($6M) quarter-over-quarter. This was primarily
+the result of higher depreciation and amortization and the impact of the revenue
+withholding in Brazil.
+
+Product margins were stronger than anticipated, at forty-one point eight percent
+(41.8%), due to changes in the product mix.
+
+Our operating expenses for the quarter were forty-two point five million dollars
+($42.5M), or approximately thirteen percent (13%) of total revenue.
+
+The two point eight million dollar ($2.8M) increase in SG&A was driven primarily
+by the  consolidation of acquisitions  and increased  activities in new business
+development.
+
+This was partially offset by lower research and development expenses,  primarily
+due to the timing of development initiatives.
+
+The strength in revenues drove operating income growth of approximately fourteen
+million dollars ($14M) or nineteen percent (19%).
+
+Below the operating income line,  other expense  increased  approximately  seven
+million  dollars  ($7M),  driven  by lower  equity  income  from  unconsolidated
+affiliates as a result of the sale of our equity interest in Harrington  Raceway
+in  Delaware,  combined  with higher  interest  expense  resulting  from the two
+hundred and fifty million dollars ($250M) of debt issued in the third quarter of
+last fiscal year.
+
+Net income for the quarter increased approximately five million dollars ($5M) or
+approximately  ten percent (10%) and we reported  diluted  earnings per share of
+forty cents ($0.40), up approximately eight percent (8%) over the second quarter
+of last fiscal year.
+
+
+Slide #9
+- --------
+
+During the quarter,  we generated  seventy-five  million  dollars ($75M) in cash
+flows from operations.
+
+This financed  approximately  sixty-three  million  dollars  ($63M) in investing
+activities.
+
+Also in the quarter,  we repurchased  approximately two point six million shares
+(2.6M) of GTECH stock at a cost of fifty-five million dollars ($55M) and we made
+our  quarterly  dividend  payment in the  amount of  approximately  ten  million
+dollars ($10M).
+
+
+Slide #10
+- ---------
+
+Now, let's turn to GTECH's performance on a year to date basis.
+
+Service  revenues  for the six months  ended  August 28th were up  approximately
+forty million dollars ($40M) or nine percent (9%) over the same period of fiscal
+year 2004,  driven by the  continued  strength  in same store  sales  around the
+world, new contracts and the impact of acquisitions.
+
+Product sales were higher in the first six months of this year, primarily due to
+higher terminal sales and the impact of acquisitions.
+
+
+Slide #11
+- ---------
+
+Year-to-date,  we recorded two hundred  sixty-nine  million  dollars  ($269M) in
+revenue  from our US  lottery  group --- two  hundred  and  sixty-three  million
+dollars  ($263M)  from  the   international   lottery  group  ---  approximately
+thirty-one  million  dollars  ($31M) in gaming  solutions and forty-one  million
+dollars in commercial and other services ($41M).
+
+
+Slide #12
+- ---------
+
+In the first six months of the  fiscal  year,  we  generated  approximately  one
+hundred  and  seventy-two  million  dollars  ($172M)  in cash  from  operations.
+Combined  with  cash and short  term  investments  on the  balance  sheet,  this
+financed over three hundred  million  dollars  ($300M) in investing  activities,
+representing new contract assets and acquisitions.
+
+In addition,  we paid cash  dividends of twenty  million  dollars  ($20M) and we
+accelerated our return of cash to shareholders via the share repurchase program.
+On a  year-to-date  basis,  we  repurchased  a total of three  point six million
+shares  (3.6M)  of our  stock at a cost of  approximately  eighty-three  million
+dollars ($83M).
+
+As of August 28th, we had cash of  approximately  thirty million  dollars ($30M)
+and we had approximately two hundred fifty-six million dollars ($256M) available
+under our revolving line of credit.
+
+
+Slide #13
+- ---------
+
+Average capital employed grew by over four hundred million dollars  ($400M),  or
+fifty-two  percent  (52%),  year-over-year  and we generated  returns on capital
+employed of nineteen point two percent  (19.2%).  In view of the pace of capital
+investment,  we are pleased to have been able to maintain returns on the overall
+portfolio at more than two times (2x) our weighted average cost of capital.
+
+Again,  our  Return  on  Capital   Employed   calculation  is  provided  in  the
+Supplemental Financial Data File posted on our website.
+
+Those are the key financial  highlights of our second quarter and  year-to-date.
+Now I would like to turn our  attention  to the  outlook  for the  remainder  of
+fiscal year 2005.
+
+
+Slide #14
+- ---------
+
+Based upon the strength of our performance year-to-date, we are confident in our
+ability to deliver  results in line with the full year  guidance  we provided at
+the end of June.
+
+Based upon our current  outlook,  we continue to expect total revenue  growth in
+the range of eighteen to nineteen  percent  (18% - 19%),  with  service  revenue
+growth in the range of five to seven percent (5% - 7%), based upon the following
+assumptions and factors:
+
+1) Same store  sales  growth of four to six percent (4% - 6%), 2) The net effect
+of contract  wins and  contractual  rate  changes,  3)  Fluctuations  of foreign
+currency  against  the US  Dollar,  4) The  impact of the  acquisitions  we have
+completed to date, and 5) The impact of the 30% withholding of Brazil revenues.
+
+We continue to expect  product  sales in the range of two hundred and ten to two
+hundred and twenty million dollars ($210M - $220M).
+
+We expect service margins in the range of forty to forty-two percent (40% - 42%)
+and product margins in the range of thirty-six to  thirty-eight  percent (36% to
+38%).
+
+With respect to our tax rate, we continue to believe that the effective tax rate
+for this fiscal year will be thirty-five  to thirty-six  percent (35% - 36%), or
+one to two  percent  (1% - 2%)  lower  than the  thirty-seven  percent  (37%) we
+reported  in the first half of the fiscal  year.  This is  primarily  due to the
+change in the  composition of our revenues and profits as a result of our recent
+acquisitions of non-US-based  companies. We expect the lion's share of the catch
+up to occur in the third quarter.
+
+Based upon this outlook,  we believe that diluted  earnings per share will be in
+the range of one dollar  and  forty-three  cents to one  dollar and  forty-eight
+cents ($1.43 to $1.48) per share for fiscal year 2005,  assuming a fully diluted
+share count of one hundred and thirty-three point seven million (133.7M) shares.
+
+This estimate includes the impact of the net one-time gain recorded in the first
+quarter.
+
+In fiscal year 2005, we plan to invest  between five hundred and twenty and five
+hundred  and forty  million  dollars  ($520M - $540M),  including  the  recently
+completed  acquisitions.  This  investing  activity  will be funded by cash from
+operations and borrowings under our revolving line of credit.
+
+
+Slide #15
+- ---------
+
+Now let's look at the outlook for our third quarter, which ends November 27th.
+
+We expect  service  revenues to increase six to eight  percent (6% - 8%) quarter
+over  quarter  and we  expect  product  sales  in the  range  of  fifty-five  to
+sixty-five million dollars ($55M - $65M).
+
+We expect service  margins to be in the range of  thirty-eight  to forty percent
+(38% to 40%) and product  margins in the range of  thirty-seven  to  thirty-nine
+percent (37% to 39%).
+
+We believe  the tax rate for the quarter we will be  approximately  thirty-three
+percent (33%), due to the reasons I mentioned earlier.
+
+Finally,  we expect  earnings  per share to be in the range of  thirty-three  to
+thirty six cents  ($0.33 to $0.36) per share.  This  compares to the thirty five
+cents  ($0.35) per share we reported in the third  quarter of last fiscal  year,
+which  included  a  one-time,   after-tax  non-cash  gain  associated  with  the
+consolidation  of the partnership that owns our corporate  headquarters  here in
+Rhode Island.  Excluding  that gain,  recurring  earnings per share in the third
+quarter of last year were  thirty-two  cents  ($0.32) per share,  as reported by
+First Call.
+
+
+Slide #16
+- ---------
+
+To summarize ... We are pleased with the continued strength of our core business
+and the progress we have made in  integrating  our recent  acquisitions,  we are
+excited about the opportunities we see in each of the markets we serve - - - and
+based on our  current  outlook,  we are  confident  we can achieve our goals and
+objectives in the current fiscal year and beyond.
+
+Thank you for your  attention.  Now  Bruce  and I would be happy to  answer  any
+questions that you may have.
+
+
+
+[Q&A]
+
+
+
+CLOSING REMARKS
+If there are no further  questions,  allow me to briefly summarize our prospects
+for the remainder of fiscal 2005 and beyond.
+
+GTECH  remains  on  track  to meet  its  full-year  goals  and  objectives.  Our
+longer-term  strategy  and outlook  likewise  are  unchanged.  And we are making
+continued  progress  in our  efforts  to  drive  new,  profitable  growth  while
+returning value to our shareholders.
+
+We will be back in December with our third-quarter  earnings call ... but in the
+meantime,  we look forward to seeing many of you in Las Vegas next month at G2E.
+Spielo  will have a booth on the trade  show  floor  for the first  time,  as we
+introduce our machines and games to the commercial gaming marketplace. So please
+stop by and visit us. Until then, thanks again for joining us.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>4
+<FILENAME>exh_99c.txt
+<DESCRIPTION>EXHIBIT 99(C)
+<TEXT>
+                                 W. Bruce Turner
+                       President & Chief Executive Officer
+
+                                 Jaymin B. Patel
+                 Senior Vice President & Chief Financial Officer
+           Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+September 21, 2004                                                       8:30 AM
+
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+Safe Harbor Act. . .
+- --------------------------------------------------------------------------------
+
+o        Comments  made during  this  presentation  may contain  forward-looking
+         statements,  including, without limitation,  statements relating to the
+         future  operations  and  financial  performance  of the Company and the
+         Company's future strategies.  Such  forward-looking  statements reflect
+         management's  assessment based on information currently available,  but
+         are not  guarantees and are subject to risks and  uncertainties,  which
+         would cause the results to differ materially from those contemplated in
+         the forward-looking statements.  These risks and uncertainties include,
+         but are not  limited  to,  those  set forth  here and in the  Company's
+         filings with the SEC.
+
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+Agenda. . .
+- -----------
+
+o        W. Bruce Turner, Chief Executive Officer
+
+          o    Welcome
+
+o        Q2 and FY'05 YTD Performance Review
+
+          o    Strategy Update
+
+
+o        Jaymin B. Patel, Chief Financial Officer
+
+          o    Review of Q2 and FY'05 YTD Financial Results
+
+          o    Updated Guidance for FY'05 and Guidance for Q3
+
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+Q2 Review. . .
+- --------------
+
+o        Financial Performance
+
+          o    Another quarter of steady growth and profitability
+
+
+o        Lottery Business
+
+          o    ONCE
+
+          o    Mexico
+
+          o    Oregon
+
+          o    Maine
+
+
+o        Gaming Solutions
+
+          o    Italy
+
+          o    Jamaica
+
+
+o        Commercial Services
+
+          o    Barbados
+
+          o    Poland
+
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+Going Forward. . .
+- --------------------------------------------------------------------------------
+
+o        New Games
+
+          o    Monitor Games
+
+          o    e-scratch
+
+
+o        Self-Service
+
+          o    GamePoint
+
+
+o        New Opportunities
+
+          o    Thailand
+
+          o    Pennsylvania
+
+          o    Canada
+
+
+o        Additional upcoming opportunities
+
+
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+Returning Value to Shareholders. . .
+- --------------------------------------------------------------------------------
+
+o        Share Repurchase Program
+
+          o    Q1 FY'05 (1.0M  shares for $28M) + Q2 FY'05 (2.6 shares for $55M)
+               = YTD FY'05 (3.6M shares for $83M)
+
+o        Dividend Payment
+
+          o    Quarterly dividend of $10M paid in April and July 2004
+
+o        Over $100M returned to shareholders on a YTD basis
+
+
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+Service Revenue Analysis. . .
+Q2 FY'05 vs. FY'04
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                     U.S.            International          Gaming           Commercial         GTECH
+                    Lottery             Lottery           Solutions         Svcs. / Other       Total
+                 $M      % (1)       $M        %(1)      $M      % (1)     $M       % (1)    $M       % (1)
+                 -------------       --------------      -------------     --------------    --------------
+
+<S>             <C>                  <C>                  <C>               <C>             <C>
+FY'04           126.4                87.4                 4.0               20.2            238.0
+
+Same Store
+Sales             7.6     +6%         1.8       +2%       0.6      +15%      2.2     +11%    12.2      +5%
+
+Net, All
+Other            -4.8     -4%         2.0       +2%       3.0      +74%     -2.3     -11%    -2.1      -1%
+
+FY'05           129.2     +2%        91.2       +4%       7.6      +89%     20.1        -   248.1      +4%
+
+</TABLE>
+
+(1) All percentage points are rounded to the nearest percent.
+
+(2) Reflects contract wins/losses,  jackpot activity,  contractual rate changes,
+foreign exchange  changes,  the impact of acquisitions,  and revenue withheld in
+Brazil.
+
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+Key Financial Highlights. . .
+Q2 FY'05 vs. FY'04
+- --------------------------------------------------------------------------------
+
+o        Total Revenue                   +17%
+
+          o    Service Revenues           +4%
+
+o        Gross Profits                   +13%
+
+          o    Service gross profits      -5% Impact of higher D&A and Brazil
+
+o        Operating Income                +19%
+
+o        Net Income                      +10%
+
+o        Diluted Earnings Per Share       +8%
+
+
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+Cash Flow. . .
+Q2 FY'05
+- --------------------------------------------------------------------------------
+
+
+Cash From Operations               $75M
+
+Maintenance Capital (1)            $36M
+
+Recurring Free Cash Flow (1)       $39M
+
+Investing for Growth               $27M (Florida, PolCard, Tennessee, LILHCo)
+
+
+Cash returned to shareholders:
+
+o  $10M in dividends
+o  $55M in share repurchases
+
+
+(1) For a calculation,  explanation,  and  reconciliation  to GAAP measure,  see
+Supplemental Financial Data on Website.
+
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+Service Revenue Analysis. . .
+FY'05 YTD vs. FY'04
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                      U.S.            International        Gaming            Commercial          GTECH
+                    Lottery              Lottery          Solutions        Svcs. / Other         Total
+                 $M      % (1)       $M        %(1)      $M      % (1)     $M       % (1)    $M       % (1)
+                 -------------       --------------      -------------     --------------    --------------
+
+<S>             <C>                 <C>                   <C>               <C>             <C>
+FY'04           247.3               173.3                 8.2               32.8            461.6
+
+Same Store
+Sales            14.7     +6%         5.3       +3%       1.1      +13%      4.5     +14%    25.6      +6%
+
+Net, All
+Other            -4.7     -2%        11.1       +6%       3.8      +47%      4.0     +12%    14.2      +3%
+
+FY'05           257.3     +4%       189.7       +9%      13.1      +60%     41.3     +26%   501.4      +9%
+
+</TABLE>
+
+(1) All percentage points are rounded to the nearest percent.
+
+(2) Reflects contract wins/losses,  jackpot activity,  contractual rate changes,
+foreign exchange  changes,  the impact of acquisitions,  and revenue withheld in
+Brazil. International lottery also deferred revenue in Taiwan.
+
+
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+Cash Flow. . .
+FY'05 YTD
+- --------------------------------------------------------------------------------
+
+
+Cash From Operations                           $172M
+
+Maintenance Capital (1)                        $66M
+
+Recurring Free Cash Flow (1)                   $106M
+
+Investing for Growth                           $192M (Spielo & LILHCo)
+                                               $ 43M (Other Growth Capital)
+                                               -----------------------------
+                                               $235M (Total Growth Capital
+
+
+Cash returned to shareholders:
+
+o $20M in dividends
+o $83M in share repurchases
+
+
+(1) For a calculation,  explanation,  and  reconciliation  to GAAP measure,  see
+Supplemental Financial Data on Website.
+
+
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+FY'05 Guidance. . .
+As of September 21, 2004
+- --------------------------------------------------------------------------------
+
+
+                                                                        FY'05(1)
+- --------------------------------------------------------------------------------
+
+
+Total Revenue Growth                                                   18% - 19%
+
+Service Revenue Growth                                                   5% - 7%
+
+Product Sales                                                      $210M - $220M
+
+Service Margins                                                        40% - 42%
+
+Product Margins                                                        36% - 38%
+
+Full-Year Effective Tax Rate                                           35% - 36%
+
+Earnings per Share(2)(3)(4)                                        $1.43 - $1.48
+
+Net Cash Invested                                                  $520M - $540M
+
+
+
+(1) Includes full year of PolCard and Interlott; 10 months of Spielo and LILHCo.
+
+(2) Based on a diluted share estimate of 133.7M shares vs. 130.2M in FY'04.
+
+(3)  Includes  the net  effect  of the sale of our 50%  interest  in  Harrington
+Raceway and the early retirement of private placement notes.
+
+(4) Adjusted to reflect a 2 for 1 stock split that occurred on July 30, 2004.
+
+
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+Q3 FY'05 Guidance. . .
+As of September 21, 2004
+- --------------------------------------------------------------------------------
+
+
+
+                                                                        Q3 FY'05
+- --------------------------------------------------------------------------------
+
+Service Revenue Growth                                                   6% - 8%
+
+Product Sales                                                        $55M - $65M
+
+Service Margins                                                        38% - 40%
+
+Product Margins                                                        37% - 39%
+
+Effective Tax Rate                                                           33%
+
+Earnings per Share (1)(2)                                          $0.33 - $0.36
+
+
+
+(1) Based on Diluted Share Estimate of 133M Shares
+
+(2) Adjusted to reflect a 2 for 1 stock split that occurred on July 30, 2004.
+
+<PAGE>
+
+
+Fiscal Year 2005 - Second Quarter Earnings Conference Call
+
+
+Closing. . .
+- --------------------------------------------------------------------------------
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

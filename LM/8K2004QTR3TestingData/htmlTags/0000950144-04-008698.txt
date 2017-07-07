@@ -1,0 +1,670 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ O6Gm1fmmFKmvHYZxhoiu3ORPRndeDSUHNyggyYUbG/taPq3FETiJOSpReH6acwDC
+ fScZZK96rE1S/FpqFKEOHg==
+
+<SEC-DOCUMENT>0000950144-04-008698.txt : 20040827
+<SEC-HEADER>0000950144-04-008698.hdr.sgml : 20040827
+<ACCEPTANCE-DATETIME>20040827163002
+ACCESSION NUMBER:		0000950144-04-008698
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040826
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040827
+DATE AS OF CHANGE:		20040827
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KIRKLANDS INC
+		CENTRAL INDEX KEY:			0001056285
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
+		IRS NUMBER:				621287151
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-49885
+		FILM NUMBER:		041002789
+
+	BUSINESS ADDRESS:	
+		STREET 1:		805 NORTH PKWY
+		CITY:			JACKSON
+		STATE:			TN
+		ZIP:			38305
+		BUSINESS PHONE:		9016882444
+
+	MAIL ADDRESS:	
+		STREET 1:		805 NORTH PKWY
+		CITY:			JACKSON
+		STATE:			TN
+		ZIP:			38305
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>g90751e8vk.htm
+<DESCRIPTION>KIRKLAND'S INC.   FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>KIRKLAND'S INC.   FORM 8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="center" style="font-size: 14pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT</B>
+
+
+
+<P align="center" style="font-size: 10pt">PURSUANT TO SECTION 13 OR 15(d)<BR>
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+<P align="center" style="font-size: 10pt">Date of Report (Date of Earliest Event Reported):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;August&nbsp;26, 2004
+
+
+<P align="center" style="font-size: 24pt"><B>KIRKLAND&#146;S, INC.</B>
+
+
+<DIV align="center" style="font-size: 10pt">(Exact Name of Issuer as Specified in Charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="75%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Tennessee</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>000-49885</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>62-1287151</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or Other Jurisdiction
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">of Incorporation or
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Identification</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">Organization)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Number)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>805 North Parkway<BR>
+Jackson, Tennessee 38305</B><BR>
+(Address of Principal Executive Offices)
+
+
+
+<P align="center" style="font-size: 10pt"><B>(731)&nbsp;668-2444</B><BR>
+(Registrant&#146;s Telephone Number, Including Area Code)
+
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions:
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT> Written communications pursuant to Rule&nbsp;425 under the Securities Act
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT> Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">Item&nbsp;2.02. Results of Operations and Financial Condition</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;9.01. Financial Statements and Exhibits</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="g90751exv99w1.txt">PRESS RELEASE</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+
+
+<!-- link2 "Item&nbsp;2.02. Results of Operations and Financial Condition" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;2.02. Results of Operations and Financial Condition</B>
+
+
+<P align="left" style="font-size: 10pt">On August&nbsp;26, 2004, Kirkland&#146;s, Inc. issued a press release announcing sales
+and earnings results for its second fiscal quarter ended July&nbsp;31, 2004. A copy
+of the press release is attached hereto as Exhibit&nbsp;99.1 and is incorporated
+herein by reference.
+
+
+<!-- link2 "Item&nbsp;9.01. Financial Statements and Exhibits" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01. Financial Statements and Exhibits</B>
+
+
+<P align="left" style="font-size: 10pt">The following exhibit is furnished with this Form 8-K:
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="65%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press release issued August&nbsp;26, 2004, of Kirkland&#146;s, Inc.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">Kirkland&#146;s, Inc.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000">/s/ Robert E. Alderson
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>Date:  August 27, 2004&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Robert E. Alderson&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">President and Chief Executive Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>g90751exv99w1.txt
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 99.1
+
+                               (KIRKLAND'S LOGO)
+- --------------------------------------------------------------------------------
+                                                                    News Release
+Contact:   Rennie Faulkner
+           Executive Vice President & CFO
+           (731) 668-2444
+
+
+                    KIRKLAND'S REPORTS SECOND QUARTER RESULTS
+
+
+JACKSON, Tenn. (August 26, 2004)-- Kirkland's, Inc. (NASDAQ/NM: KIRK) today
+reported financial results for the 13-week and 26-week periods ended July 31,
+2004.
+
+         Net sales for the 13 weeks ended July 31, 2004, increased 7.3% to $84.7
+million from $79.0 million for the 13 weeks ended August 2, 2003. Comparable
+store sales for the second quarter of fiscal 2004 decreased 3.4% compared with a
+0.9% decrease for the second quarter of fiscal 2003. The Company reported a net
+loss of $2.7 million, or $0.14 per diluted share, for the second quarter of
+fiscal 2004 compared with net income of $764,000, or $0.04 per diluted share for
+the second quarter of fiscal 2003.
+
+         Net sales for the 26 weeks ended July 31, 2004, increased 9.8% to
+$167.3 million from $152.4 million for the 26 weeks ended August 2, 2003.
+Comparable store sales for the first half of 2004 decreased 1.0% compared with a
+1.9% increase in the prior-year period. The Company reported a net loss of $1.8
+million, or $0.09 per diluted share, for the first half of 2004 compared with
+net income of $1.9 million, or $0.10 per diluted share, for the prior-year
+period.
+
+         Robert E. Alderson, Kirkland's President and Chief Executive Officer,
+said, "Our final results for the quarter were in line with the revised
+expectations we issued in July. Consistent with trends that began in late April,
+the second quarter was characterized by weak customer traffic and lower
+transaction volumes compared with a year ago. Such results point to the need for
+new ideas and initiatives in merchandising and marketing. Recent additions to
+our merchandising and marketing teams, along with our search for a senior
+merchandising executive, are significant and positive steps in that direction.
+Efforts are already underway to improve buying and planning practices and to
+provide a more focused merchandise offering. We also will communicate more
+frequently with our customers, as we seek to renew the excitement and enthusiasm
+that has long made Kirkland's a favored destination for stylish home decor at
+great prices."
+
+Third Quarter and Fiscal 2004 Outlook
+
+         The Company issued guidance for the third quarter ending October 30,
+2004, of a net loss of $0.10 to a net loss of $0.15 per diluted share, compared
+with earnings of $0.10 per diluted share in the prior-year period. Net sales are
+expected to be $82 million to $86 million, with a comparable store sales
+decrease of 10% to 15% compared with an increase of 2.7% in the prior-year
+period.
+
+
+                                     -MORE-
+
+           805 N. Parkway - Jackson, Tennessee 38305 - (731) 668-2444
+
+<PAGE>
+KIRK Reports Second Quarter Results
+Page 2
+August 26, 2004
+
+
+         Based on its third quarter guidance and current business outlook, the
+Company now expects to report earnings for fiscal 2004 in a range of $0.45 to
+$0.55 per diluted share and net sales of approximately $395 million to $405
+million. Comparable store sales are estimated to be down 2% to 5% when compared
+with the prior year. The Company's fiscal 2004 estimate includes 50 to 55 new
+store openings and 10 to 15 store closings as well as the collective impact of
+transition costs relating to the Company's new distribution center and the
+implementation of a wide-area network linking the Company's stores and corporate
+headquarters.
+
+         Mr. Alderson commented, "Sales thus far in August have slowed
+considerably in comparison to the trends we experienced in the second quarter.
+Customer traffic remains a concern, particularly in our mall stores, and our
+current inventory mix does not position us well against strong merchandise
+events that we ran during last year's third quarter. Accordingly, we are not
+optimistic that we can produce positive comparable store sales in the near term.
+On a more positive note, our aggressive markdown stance during June and July has
+left our inventories in good shape, and the real estate team has kept our
+development plan on track for a net increase of 40 stores during fiscal 2004.
+
+         "Our merchandising, marketing, store operations and logistics teams are
+committed to reversing these business trends as rapidly as possible and
+improving the productivity of our new distribution center to optimally support
+our stores for the fourth quarter. While we hope to accomplish much over the
+next several months, it is difficult to definitively predict at this point when
+we will see tangible results. We have therefore adopted a cautious outlook for
+the balance of the year.
+
+         "Looking ahead to fiscal 2005, Kirkland's continues to be a sound
+concept with tremendous growth potential. We are confident in our real estate
+strategy, and we expect significant benefits from the modernization of our
+supply chain and other initiatives to address the inconsistent sales and margin
+results that have characterized our business for the past 18 months."
+
+Investor Conference Call and Web Simulcast
+
+         Kirkland's will conduct a conference call on August 26, 2004, at 10:00
+a.m. EDT to discuss the second quarter earnings release and other Company
+developments, including the outlook for fiscal 2004. The number to call for this
+interactive teleconference is (913) 981-5508. A replay of the conference call
+will be available until September 2, 2004, by dialing (719) 457-0820 and
+entering the passcode, 530360.
+
+         Kirkland's will also host a live broadcast of its conference call on
+August 26, 2004, 10:00 a.m. EDT online at the Company's website,
+www.kirklands.com, as well as
+http://phx.corporate-ir.net/playerlink.zhtml?c=131653&s=wm&e=922452. The webcast
+replay will follow shortly after the call and will continue until September 9,
+2004.
+
+         Kirkland's, Inc. was founded in 1966 and is a leading specialty
+retailer of home decor in the United States. Although originally focused in the
+Southeast, the Company has grown beyond that region and currently operates 290
+stores in 36 states. The Company's stores present a broad selection of
+distinctive merchandise, including framed art, mirrors, candles, lamps, picture
+
+
+                                     -MORE-
+
+<PAGE>
+KIRK Reports Second Quarter Results
+Page 3
+August 26, 2004
+
+
+frames, accent rugs, garden accessories and artificial floral products. The
+Company's stores also offer an extensive assortment of holiday merchandise, as
+well as items carried throughout the year suitable for giving as gifts. More
+information can be found at www.kirklands.com.
+
+         Except for historical information contained herein, the statements in
+this release are forward-looking and made pursuant to the safe harbor provisions
+of the Private Securities Litigation Reform Act of 1995. Forward-looking
+statements involve known and unknown risks and uncertainties, which may cause
+Kirkland's actual results to differ materially from forecasted results. Those
+risks and uncertainties include, among other things, the competitive environment
+in the home decor industry in general and in Kirkland's specific market areas,
+inflation, product availability and growth opportunities, seasonal fluctuations,
+and economic conditions in general. Those and other risks are more fully
+described in Kirkland's filings with the Securities and Exchange Commission,
+including the Company's Annual Report on Form 10-K filed on April 15, 2004.
+Kirkland's disclaims any obligation to update any such factors or to publicly
+announce results of any revisions to any of the forward-looking statements
+contained herein to reflect future events or developments.
+
+
+                                     -MORE-
+<PAGE>
+KIRK Reports Second Quarter Results
+Page 4
+August 26, 2004
+
+
+                                KIRKLAND'S, INC.
+            UNAUDITED CONSOLIDATED CONDENSED STATEMENTS OF OPERATIONS
+                (dollars in thousands, except per share amounts)
+
+
+<TABLE>
+<CAPTION>
+                                                             13 WEEKS ENDED
+                                                         JULY 31,       AUGUST 2,
+                                                           2004           2003
+                                                         --------       --------
+
+<S>                                                      <C>            <C>
+Net sales                                                $ 84,701       $ 78,951
+Cost of sales                                              63,196         55,484
+                                                         --------       --------
+
+   Gross profit                                            21,505         23,467
+
+Operating expenses:
+  Other operating expenses                                 23,473         20,232
+  Depreciation and amortization                             2,253          1,767
+  Non-cash stock compensation charge                           67             67
+                                                         --------       --------
+
+  Operating income (loss)                                  (4,288)         1,401
+
+Interest expense:
+  Revolving line of credit                                    127            132
+  Amortization of debt issue costs                             53             52
+Interest income                                               (12)            (7)
+Other income                                                  (57)           (39)
+                                                         --------       --------
+
+   Income (loss) before income taxes                       (4,399)         1,263
+
+Income tax provision (benefit)                             (1,738)           499
+                                                         --------       --------
+
+       Net income (loss)                                 $ (2,661)      $    764
+                                                         ========       ========
+
+Earnings (loss) per share:
+ Basic                                                   $  (0.14)      $   0.04
+                                                         ========       ========
+ Diluted                                                 $  (0.14)      $   0.04
+                                                         ========       ========
+
+Shares used to calculate earnings (loss) per share:
+  Basic                                                    19,208         19,017
+                                                         ========       ========
+  Diluted                                                  19,208         19,539
+                                                         ========       ========
+</TABLE>
+
+
+                                     -MORE-
+
+<PAGE>
+
+KIRK Reports Second Quarter Results
+Page 5
+August 26, 2004
+
+
+
+                                KIRKLAND'S, INC.
+            UNAUDITED CONSOLIDATED CONDENSED STATEMENTS OF OPERATIONS
+                (dollars in thousands, except per share amounts)
+
+
+<TABLE>
+<CAPTION>
+                                                              26 WEEKS ENDED
+                                                         JULY 31,        AUGUST 2,
+                                                           2004            2003
+                                                         ---------       ---------
+<S>                                                      <C>             <C>
+Net sales                                                $ 167,312       $ 152,388
+Cost of sales                                              119,856         105,370
+                                                         ---------       ---------
+
+   Gross profit                                             47,456          47,018
+
+Operating expenses:
+  Other operating expenses                                  45,820          39,997
+  Depreciation and amortization                              4,331           3,500
+  Non-cash stock compensation charge                           134             134
+                                                         ---------       ---------
+
+  Operating income (loss)                                   (2,829)          3,387
+
+Interest expense:
+  Revolving line of credit                                     190             224
+  Amortization of debt issue costs                             105             105
+Interest income                                                (38)            (11)
+Other income                                                   (92)            (75)
+                                                         ---------       ---------
+
+   Income (loss) before income taxes                        (2,994)          3,144
+
+Income tax provision (benefit)                              (1,183)          1,242
+                                                         ---------       ---------
+
+       Net income (loss)                                 $  (1,811)      $   1,902
+                                                         =========       =========
+
+Earnings (loss) per share:
+ Basic                                                   $   (0.09)      $    0.10
+                                                         =========       =========
+ Diluted                                                 $   (0.09)      $    0.10
+                                                         =========       =========
+
+Shares used to calculate earnings (loss) per share:
+  Basic                                                     19,191          18,972
+                                                         =========       =========
+  Diluted                                                   19,191          19,525
+                                                         =========       =========
+
+</TABLE>
+
+                                     -MORE-
+
+<PAGE>
+
+KIRK Reports Second Quarter Results
+Page 6
+August 26, 2004
+
+
+                                KIRKLAND'S, INC.
+                 UNAUDITED CONSOLIDATED CONDENSED BALANCE SHEETS
+                             (dollars in thousands)
+
+
+<TABLE>
+<CAPTION>
+                                                JULY 31, 2004    JANUARY 31, 2004
+                                                -------------    ----------------
+<S>                                             <C>              <C>
+ASSETS
+
+Current assets:
+  Cash and cash equivalents                         $  5,266          $ 17,423
+  Inventories, net                                    41,959            41,574
+  Other current assets                                13,481             9,383
+                                                    --------          --------
+       Total current assets                           60,706            68,380
+
+Property and equipment, net                           40,548            33,087
+Other long-term assets                                 1,587             1,662
+                                                    --------          --------
+
+Total Assets                                        $102,841          $103,129
+                                                    ========          ========
+
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Revolving line of credit                            $ 11,127          $   --
+Accounts payable                                      17,794            19,995
+Other current liabilities                             12,491            20,572
+                                                    --------          --------
+     Total current liabilities                        41,412            40,567
+
+Other long-term liabilities                            3,637             3,332
+                                                    --------          --------
+     Total liabilities                                45,049            43,899
+                                                    --------          --------
+
+Net shareholders' equity                              57,792            59,230
+                                                    --------          --------
+
+Total Liabilities and Shareholders' Equity          $102,841          $103,129
+                                                    ========          ========
+</TABLE>
+
+
+
+                                     -END-
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

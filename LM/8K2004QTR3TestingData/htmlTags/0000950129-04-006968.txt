@@ -1,0 +1,990 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Qp19aariK33u8gSa72lJFeRHbPXkEm7UNRmO+r6C4X6mZ3bJAP2Q/Rx5uH5ndaZy
+ mNXKNT7kqsmANg3J38WS4g==
+
+<SEC-DOCUMENT>0000950129-04-006968.txt : 20040910
+<SEC-HEADER>0000950129-04-006968.hdr.sgml : 20040910
+<ACCEPTANCE-DATETIME>20040910153952
+ACCESSION NUMBER:		0000950129-04-006968
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040910
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040910
+DATE AS OF CHANGE:		20040910
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COUNTRYWIDE FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000025191
+		STANDARD INDUSTRIAL CLASSIFICATION:	MORTGAGE BANKERS & LOAN CORRESPONDENTS [6162]
+		IRS NUMBER:				132641992
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12331-01
+		FILM NUMBER:		041025519
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4500 PARK GRANADA BLVD
+		CITY:			CALABASAS
+		STATE:			CA
+		ZIP:			91302
+		BUSINESS PHONE:		8182253000
+
+	MAIL ADDRESS:	
+		STREET 1:		4500 PARK GRANADA BLVD
+		CITY:			CALABASAS
+		STATE:			CA
+		ZIP:			91302
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COUNTRYWIDE CREDIT INDUSTRIES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>v01781e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Countrywide Financial Corporation - 9/10/2004</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, DC 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Pursuant to Section&nbsp;13 or 15(d) of the<BR>
+Securities Exchange Act of 1934</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Date of Report (date of earliest event reported): September&nbsp;10, 2004</B>
+
+
+<P align="center" style="font-size: 24pt"><B>COUNTRYWIDE FINANCIAL CORPORATION</B>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>1-8422</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>13-2641992</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">of incorporation
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Identification No.)</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="center"><B>4500 Park Granada, Calabasas, CA<BR></B></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>91302</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="center">(Address of principal executive offices)<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: <B>(818)&nbsp;225-3000</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (<I>see </I>General Instruction A.2. below):
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT> Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT> Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">Item&nbsp;2.02. Results of Operations and Financial Condition</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;9.01. Financial Statements and Exhibits</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURE</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003">EXHIBIT INDEX</A></TD></TR>
+<TR><TD colspan="9"><A HREF="v01781exv99w19.txt">Exhibit 99.19</A></TD></TR>
+<TR><TD colspan="9"><A HREF="v01781exv99w20.txt">Exhibit 99.20</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link2 "Item&nbsp;2.02. Results of Operations and Financial Condition" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;2.02. Results of Operations and Financial Condition</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On September&nbsp;10, 2004, Countrywide Financial Corporation (the &#147;Company&#148;)
+issued a press release announcing information regarding its operational
+statistics for the month ended August&nbsp;31, 2004, a copy of which is attached as
+Exhibit&nbsp;99.19. On September&nbsp;10, 2004, the Company also made available an
+updated version of its thirteen-month statistical data report on its
+website, www.countrywide.com,
+a copy of which is attached as Exhibit&nbsp;99.20.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information furnished pursuant to this Current Report on Form 8-K
+(including the exhibits hereto) shall not be considered &#147;filed&#148; under the
+Securities Exchange Act of 1934, as amended, nor shall it be incorporated by
+reference into any of the Company&#146;s filings under the Securities Act of 1933,
+as amended, or under the Securities Exchange Act of 1934, as amended, unless
+the Company expressly states in such filing that such information is to be
+considered &#147;filed&#148; or incorporated by reference therein.
+
+<!-- link2 "Item&nbsp;9.01. Financial Statements and Exhibits" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01. Financial Statements and Exhibits</B>
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">(c)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Exhibits</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="9%" nowrap align="right">99.19</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Press Release issued by Countrywide Financial Corporation (the
+&#147;Company&#148;) pertaining to its operational statistics for the
+month ended August&nbsp;31, 2004.</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="9%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="9%" nowrap align="right">99.20</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Thirteen-month
+statistical data report made available by the Company on its website.</TD>
+</TR>
+
+
+</TABLE>
+
+<!-- link1 "SIGNATURE" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURE</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">COUNTRYWIDE FINANCIAL CORPORATION<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>Dated: September 10, 2004&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000">/s/ Stanford L. Kurland
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">Stanford L. Kurland&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="3">President and Chief Operating Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "EXHIBIT INDEX" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>EXHIBIT INDEX</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="6%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="91%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.19
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release issued by Countrywide Financial Corporation (the
+&#147;Company&#148;) pertaining to its operational statistics for the month ended
+August&nbsp;31, 2004.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.20
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Thirteen-month statistical data report made available by the Company on its website.</TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.19
+<SEQUENCE>2
+<FILENAME>v01781exv99w19.txt
+<DESCRIPTION>EXHIBIT 99.19
+<TEXT>
+<PAGE>
+                                                                   Exhibit 99.19
+
+NEWS                                                (COUNTRYWIDE FINANCIAL LOGO)
+
+                                                INVESTOR CONTACT: (818) 225-3550
+                                                   DAVID BIGELOW OR LISA RIORDAN
+                                                   MEDIA CONTACT: (800) 796-8448
+FOR IMMEDIATE RELEASE
+
+                COUNTRYWIDE REPORTS AUGUST 2004 OPERATIONAL DATA
+                  - SERVICING PORTFOLIO REACHES $765 BILLION -
+        - PIPELINE OF APPLICATIONS-IN-PROCESS INCREASES TO $50 BILLION -
+                     - AUGUST FUNDINGS RISE TO $31 BILLION -
+
+CALABASAS, CA (September 10, 2004) - Countrywide Financial Corporation (NYSE:
+CFC), a diversified financial services provider, released operational data for
+the month ended August 31, 2004. Highlights included the following:
+
+      -     Loan fundings were $31 billion for the month, an increase of 5
+            percent from the prior month. This represents a 24 percent decline
+            from August 2003 as a result of a substantially lower level of
+            industry-wide refinance activity. Year-to-date funding volume now
+            totals $237 billion.
+
+      -     Monthly purchase activity rose for the sixth consecutive month to
+            $18 billion, an increase of 1 percent over last month and 42 percent
+            more than August 2003. Year-to-date purchase volume now stands at
+            $113 billion, approaching 2003's full year level of $130 billion.
+
+      -     Demand for adjustable-rate, home equity and subprime loans remained
+            robust.
+
+            -     Adjustable-rate fundings reached a record $18 billion, 83
+                  percent greater than August 2003, and accounted for 59 percent
+                  of total monthly loan volume. Adjustable-rate volume grew by 7
+                  percent over July 2004, driving year-to-date volume to $118
+                  billion.
+
+            -     Home equity fundings reached a new monthly record of $3.1
+                  billion, 8 percent more than the previous month and 80 percent
+                  higher than August 2003. Year-to-date home equity production
+                  surpassed $18 billion, and exceeded the volume achieved in
+                  calendar 2003.
+
+            -     Subprime volume grew for the month to $4.3 billion, advancing
+                  13 percent from last month and increasing 158 percent over
+                  August 2003. Year-to-date subprime volume totaled $25 billion,
+                  exceeding total subprime volume produced in calendar 2003.
+
+
+                                     (more)
+<PAGE>
+2-2-2
+
+      -     The 10-year U.S. Treasury yield declined during the month of August
+            2004, as compared to a rising trend in August 2003. As a result,
+            average daily application activity during August 2004 rose by 2
+            percent over July 2004 and was 13 percent more than August 2003. And
+            while the pipeline of applications-in-process at August 31, 2004 was
+            down 7 percent from August 31, 2003, it was 4 percent greater than
+            July 2004.
+
+      -     The servicing portfolio reached $765 billion for the month,
+            surpassing the August 2003 level by $173 billion, or 29 percent, and
+            has increased by $120 billion since the beginning of 2004.
+
+      -     August securities trading volume of $241 billion decreased by 6
+            percent from the level achieved in August 2003 primarily due to
+            lower mortgage origination activity industry-wide. Year-to-date
+            trading volume totaled $2.1 trillion, 2 percent greater than the
+            $2.0 trillion achieved for the same 8-month period of 2003.
+
+      -     Total assets at Countrywide Bank rose to $31 billion, 8 percent
+            higher than July 2004 and double the level of August 2003.
+
+      -     Net earned premiums at Balboa were $64 million, down 3 percent from
+            August 2003 as a result of lower activity in Balboa Life & Casualty,
+            and year-to-date reached $514 million.
+
+      -     Sub-servicing volume at Global Home Loans totaled $109 billion, a 17
+            percent increase from August 2003.
+
+"Countrywide's well-balanced business model continues to produce strong
+operational results amidst a transitional environment," said Stanford L.
+Kurland, President and Chief Operating Officer. "Compared to a year ago, the
+total mortgage origination market is smaller as a result of lower refinance
+volume. This impact has been mitigated by Countrywide's dramatic growth in
+purchase fundings and record volumes of adjustable-rate, home equity and
+subprime loans. On the servicing side, our portfolio grew $18 billion from July
+2004 to reach a new high of $765 billion, as we set our sights on becoming the
+industry's #1 servicer. The Company's servicing portfolio has grown 19 percent
+since the beginning of the year and 29 percent over the last twelve months.
+Countrywide's diversification efforts were led by Countrywide Bank. The Bank's
+assets have doubled over the last year to $31 billion, on track with our growth
+plan."
+
+                                     (more)
+<PAGE>
+3-3-3
+
+Founded in 1969, Countrywide Financial Corporation is a member of the S&P 500,
+Forbes 2000 and Fortune 500. Through its family of companies, Countrywide
+provides mortgage banking and diversified financial services in domestic and
+international markets. Mortgage banking businesses include loan production and
+servicing principally through Countrywide Home Loans, Inc., which originates,
+purchases, securitizes, sells, and services primarily prime credit-quality
+loans. Also included in Countrywide's mortgage banking segment is the LandSafe
+group of companies that provide loan closing services. Diversified financial
+services encompass capital markets, banking, insurance, and global operations,
+largely through the activities of Countrywide Capital Markets, a
+mortgage-related investment banker; Countrywide Bank, a division of Treasury
+Bank, NA, a banking entity offering customers CDs, money market accounts, and
+home loan products; Balboa Life and Casualty Group, whose companies are national
+providers of property, liability, and life insurance; Balboa Reinsurance, a
+captive mortgage reinsurance company; and Global Home Loans, a U.K. mortgage
+banking joint venture in which Countrywide holds a majority interest.
+
+For more information about the Company, visit Countrywide's website at
+www.countrywide.com.
+
+This Press Release contains forward-looking statements within the meaning of
+Section 21E of the Securities Exchange Act of 1934, as amended, regarding
+management's beliefs, estimates, projections, and assumptions with respect to
+future operations, as well as business plans and strategies that are subject to
+change. Actual results and operations for any future period may vary materially
+from those projected herein and from past results discussed herein. Factors
+which could cause actual results to differ materially from historical results or
+those anticipated include, but are not limited to: competitive and general
+economic conditions in each of our business segments; general economic
+conditions in the United States and abroad; loss of investment grade rating that
+may result in an increase in the cost of debt or loss of access to corporate
+debt markets; reduction in government support of homeownership; the level and
+volatility of interest rates; the legal, regulatory and legislative environments
+in the markets in which the Company operates; and other risks detailed in
+documents filed by the Company with the Securities and Exchange Commission from
+time to time. Words like "believe," "expect," "anticipate," "promise," "plan,"
+and other expressions or words of similar meanings, as well as future or
+conditional verbs such as "will," "would," "should," "could," or "may" are
+generally intended to identify forward-looking statements. The Company
+undertakes no obligation to publicly update or revise any forward-looking
+statements.
+
+                                 (tables follow)
+<PAGE>
+               COUNTRYWIDE FINANCIAL CORPORATION AND SUBSIDIARIES
+                             OPERATING STATISTICS(1)
+                              (Dollars in Millions)
+
+<TABLE>
+<CAPTION>
+                                                         Month Ended           Year-to-Date
+                                                    ------------------------   ------------
+                                                    August 31,    August 31,    August 31,
+                                                      2004          2003          2004
+                                                    ------------------------   ------------
+<S>                                                 <C>           <C>          <C>
+LOAN PRODUCTION
+       Number of Working Days in the Period                 22            21           169
+       Average Daily Loan Applications              $    2,051    $    1,808    $    2,026
+       Mortgage Loan Pipeline (loans in process)    $   50,024    $   53,576
+
+       Loan Fundings:
+          Consumer Markets Division                 $    9,288    $   12,283    $   71,922
+          Wholesale Lending Division                     6,102         7,222        46,964
+          Correspondent Lending Division                11,152        17,870        88,252
+                                                    ----------    ----------    ----------
+                 Total Mortgage Banking                 26,542        37,375       207,138
+          Capital Markets                                1,592         2,059        11,911
+          Treasury Bank (2)                              2,988         1,541        17,644
+                                                    ----------    ----------    ----------
+                     TOTAL LOAN FUNDINGS            $   31,122    $   40,975    $  236,693
+                                                    ----------    ----------    ----------
+
+       Loan Fundings in Units:
+          Consumer Markets Division                     67,019        92,465       518,163
+          Wholesale Lending Division                    34,422        42,036       265,148
+          Correspondent Lending Division                64,659       104,396       502,073
+                                                    ----------    ----------    ----------
+                 Total Mortgage Banking                166,100       238,897     1,285,384
+          Capital Markets                                6,948         6,303        46,871
+          Treasury Bank (2)                             28,829        18,060       180,172
+                                                    ----------    ----------    ----------
+                     TOTAL LOAN FUNDINGS IN UNITS      201,877       263,260     1,512,427
+                                                    ----------    ----------    ----------
+
+       Loan Fundings:
+          Purchase (3)                              $   17,797    $   12,571    $  112,914
+          Non-purchase (3)                              13,325        28,404       123,779
+                                                    ----------    ----------    ----------
+                     TOTAL LOAN FUNDINGS            $   31,122    $   40,975    $  236,693
+                                                    ----------    ----------    ----------
+
+       Government Fundings                          $      961    $    2,505    $    9,653
+       ARM Fundings                                 $   18,278    $   10,011    $  117,685
+       Home Equity Fundings                         $    3,056    $    1,697    $   18,484
+       Subprime Fundings                            $    4,275    $    1,654    $   24,506
+
+LOAN SERVICING (4)
+       Volume                                       $  765,342    $  591,905
+       Units                                         5,773,837     4,760,141
+       Subservicing Volume (5)                      $   16,312    $   11,483
+       Subservicing Units                              169,665       142,527
+       Prepayments in Full                          $   13,232    $   25,236    $  122,551
+       Bulk Servicing Acquisitions                  $    4,626    $      341    $   22,310
+       Portfolio Delinquency (%) - CHL (6)                3.57%         3.77%
+       Foreclosures Pending (%) - CHL (6)                 0.35%         0.46%
+</TABLE>
+
+
+                                     (more)
+<PAGE>
+               COUNTRYWIDE FINANCIAL CORPORATION AND SUBSIDIARIES
+                             OPERATING STATISTICS(1)
+                              (Dollars in Millions)
+
+<TABLE>
+<CAPTION>
+                                                            Month Ended           Year-to-Date
+                                                    --------------------------    ------------
+                                                     August 31,     August 31,     August 31,
+                                                        2004           2003           2004
+                                                    --------------------------    ------------
+<S>                                                 <C>            <C>            <C>
+LOAN CLOSING SERVICES (UNITS)
+       Credit Reports                                   677,931        492,787      4,959,455
+       Flood Determinations                             265,888        234,552      1,871,745
+       Appraisals                                        74,314         60,025        486,417
+       Automated Property Valuation Services            480,329        349,978      3,486,882
+       Other                                             13,324         12,566        116,896
+                                                    -----------    -----------    -----------
+                     TOTAL UNITS                      1,511,786      1,149,908     10,921,395
+                                                    -----------    -----------    -----------
+
+CAPITAL MARKETS
+       Securities Trading Volume (7)                $   240,678    $   255,513    $ 2,079,338
+
+BANKING
+       Assets Held by Treasury Bank (in billions)   $      30.9    $      15.1
+
+INSURANCE
+       Net Premiums Earned:
+          Carrier                                   $        51    $        55    $       412
+          Reinsurance                                        13             11            102
+                                                    -----------    -----------    -----------
+                     TOTAL NET PREMIUMS EARNED      $        64    $        66    $       514
+                                                    -----------    -----------    -----------
+
+GLOBAL OPERATIONS
+       Global Home Loans Subservicing
+          Volume (in billions)                      $       109    $        93
+
+PERIOD-END RATES
+       10-Year U.S. Treasury Yield                        4.130%         4.458%
+       FNMA 30-Year Fixed Rate MBS Coupon                 5.162%         5.670%
+</TABLE>
+
+
+- ------------
+(1)   The above data reflect current operating statistics and do not constitute
+      all factors impacting the quarterly and annual financial results of the
+      Company. All figures are unaudited and monthly figures may be adjusted in
+      the reported financial statements of the Company. Such financial
+      statements are provided by the Company quarterly. The Company makes no
+      commitment to update this information for changes in circumstances or
+      events which occur subsequent to the date of this release.
+
+(2)   Treasury Bank funds loans for investment purposes; these loans are
+      processed for Treasury Bank by the production divisions.
+
+(3)   Purchase fundings include first trust deed and home equity loans used as
+      purchase money debt in the acquisition of a home. Non-purchase fundings
+      include first trust deed refinance loans, home equity refinance loans, and
+      stand-alone home equity loans.
+
+(4)   Includes warehouse loans and loans under subservicing agreements for other
+      clients.
+
+(5)   Subservicing volume for other clients.
+
+(6)   Expressed as a percentage of the total number of loans serviced, excluding
+      subserviced loans and portfolios purchased at a discount due to their
+      non-performing status.
+
+(7)   Includes trades with Mortgage Banking Division.
+
+
+                                      ###
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.20
+<SEQUENCE>3
+<FILENAME>v01781exv99w20.txt
+<DESCRIPTION>EXHIBIT 99.20
+<TEXT>
+<PAGE>
+                                                                   Exhibit 99.20
+
+               COUNTRYWIDE FINANCIAL CORPORATION AND SUBSIDIARIES
+                     ROLLING THIRTEEN MONTH STATISTICAL DATA
+                              (DOLLARS IN MILLIONS)
+
+
+<TABLE>
+<CAPTION>
+                                              AUG-03       SEP-03       OCT-03       NOV-03       DEC-03       JAN-04      FEB-04
+                                            ----------   ----------   ---------    ----------   ----------   ----------  ----------
+<S>                                         <C>          <C>          <C>          <C>          <C>          <C>         <C>
+LOAN PRODUCTION
+  Number of Working Days in the Period              21           21           23           19           22           20          19
+  Average Daily Loan Applications           $    1,808   $    1,858   $    1,564   $    1,479   $    1,339   $    1,776  $    1,968
+  Mortgage Loan Pipeline (loans-in-process) $   53,576   $   47,182   $   42,650   $   38,841   $   32,969   $   38,354  $   43,760
+
+  Loan Fundings:
+     Consumer Markets Division              $   12,283   $    9,392   $    8,198   $    6,954   $    7,670   $    6,211  $    7,326
+     Wholesale Lending Division                  7,222        5,632        6,235        4,725        4,902        3,844       4,801
+     Correspondent Lending Division             17,870       13,225       10,908        8,598        9,390        8,240       8,518
+                                            ----------------------------------------------------------------------------------------
+            Total Mortgage Banking              37,375       28,249       25,341       20,277       21,962       18,295      20,645
+     Capital Markets                             2,059        3,066        2,314          829        1,489        1,013       1,046
+     Treasury Bank (1)                           1,541        1,802        1,310        1,100        1,698        1,312       1,582
+                                            ----------------------------------------------------------------------------------------
+             TOTAL LOAN FUNDINGS            $   40,975   $   33,117   $   28,965   $   22,206   $   25,149   $   20,620  $   23,273
+                                            ========================================================================================
+
+  Loan Fundings in Units:
+     Consumer Markets Division                  92,465       74,566       67,213       57,058       61,031       49,154      54,962
+     Wholesale Lending Division                 42,036       34,660       38,255       28,887       29,638       22,685      27,880
+     Correspondent Lending Division            104,396       81,376       67,709       52,969       57,079       49,694      50,250
+                                            ----------------------------------------------------------------------------------------
+            Total Mortgage Banking             238,897      190,602      173,177      138,914      147,748      121,533     133,092
+     Capital Markets                             6,303        9,718        9,266        4,629        6,357        4,680       3,491
+     Treasury Bank (1)                          18,060       18,352       14,938       13,257       16,861       14,681      16,760
+                                            ----------------------------------------------------------------------------------------
+             TOTAL LOAN FUNDINGS IN UNITS      263,260      218,672      197,381      156,800      170,966      140,894     153,343
+                                            ========================================================================================
+
+  Loan Fundings:
+     Purchase (2)                           $   12,571   $   12,719   $   12,366   $    9,852   $   12,115   $    9,274  $    9,226
+     Non-purchase (2)                           28,404       20,398       16,599       12,354       13,034       11,346      14,047
+                                            ----------------------------------------------------------------------------------------
+             TOTAL LOAN FUNDINGS            $   40,975   $   33,117   $   28,965   $   22,206   $   25,149   $   20,620  $   23,273
+                                            ========================================================================================
+
+  Government Fundings                       $    2,505   $    2,093   $    1,774   $    1,370   $    1,343   $    1,161  $    1,117
+  ARM Fundings                              $   10,011   $   10,072   $   10,676   $    8,487   $    9,679   $    9,478  $   10,293
+  Home Equity Fundings                      $    1,697   $    1,680   $    1,752   $    1,620   $    1,805   $    1,564  $    1,637
+  Subprime Fundings                         $    1,654   $    2,158   $    2,424   $    2,029   $    2,257   $    2,009  $    2,124
+
+
+LOAN SERVICING (3)
+  Volume                                    $  591,905   $  606,095   $  621,000   $  631,470   $  644,855   $  657,541  $  669,076
+  Units                                      4,760,141    4,834,943    4,923,935    5,001,743    5,080,621    5,162,726   5,234,634
+
+  Subservicing Volume (4)                   $   11,483   $   11,446   $   11,921   $   13,671   $   14,404   $   15,871  $   15,548
+  Subservicing Units                           142,527      128,326      139,983      157,785      159,357      166,923     163,190
+
+  Prepayments in Full                       $   25,236   $   17,463   $   14,315   $   11,403   $   11,845   $    9,387  $   13,090
+  Bulk Servicing Acquisitions               $      341   $      581   $    1,845   $      144   $    1,054   $    3,706  $    3,123
+
+  Portfolio Delinquency - CHL (5)                 3.77%        3.81%        3.54%        3.90%        3.91%        3.71%       3.71%
+  Foreclosures Pending - CHL (5)                  0.46%        0.45%        0.50%        0.43%        0.43%        0.43%       0.44%
+
+
+<CAPTION>
+                                              MAR-04       APR-04       MAY-04       JUN-04       JUL-04       AUG-04        YTD
+                                            ----------   ----------   ----------   ----------   ----------   ----------   ----------
+<S>                                         <C>          <C>          <C>          <C>          <C>          <C>          <C>
+LOAN PRODUCTION
+  Number of Working Days in the Period              23           22           20           22           21           22          169
+  Average Daily Loan Applications           $    2,455   $    2,041   $    1,945   $    1,905   $    2,006   $    2,051   $    2,026
+  Mortgage Loan Pipeline (loans-in-process) $   57,422   $   54,836   $   49,675   $   47,317   $   48,142   $   50,024
+
+  Loan Fundings:
+     Consumer Markets Division              $    9,522   $   11,115   $    9,815   $    9,804   $    8,841   $    9,288   $   71,922
+     Wholesale Lending Division                  6,993        7,727        6,208        5,913        5,376        6,102       46,964
+     Correspondent Lending Division             12,029       14,362       11,986       11,560       10,405       11,152       88,252
+                                            ---------------------------------------------------------------------------   ----------
+            Total Mortgage Banking              28,544       33,204       28,009       27,277       24,622       26,542      207,138
+     Capital Markets                             1,265          494        1,875        2,230        2,396        1,592       11,911
+     Treasury Bank (1)                           2,502        2,147        1,931        2,496        2,686        2,988       17,644
+                                            ---------------------------------------------------------------------------   ----------
+             TOTAL LOAN FUNDINGS            $   32,311   $   35,845   $   31,815   $   32,003   $   29,704   $   31,122   $  236,693
+                                            ===========================================================================   ==========
+
+  Loan Fundings in Units:
+     Consumer Markets Division                  68,664       75,880       68,759       69,912       63,813       67,019      518,163
+     Wholesale Lending Division                 39,820       42,114       34,247       33,270       30,710       34,422      265,148
+     Correspondent Lending Division             67,815       77,570       65,425       65,668       60,992       64,659      502,073
+                                            ---------------------------------------------------------------------------   ----------
+            Total Mortgage Banking             176,299      195,564      168,431      168,850      155,515      166,100    1,285,384
+     Capital Markets                             5,114        1,463        6,740        8,486        9,949        6,948       46,871
+     Treasury Bank (1)                          23,351       21,909       21,779       26,627       26,236       28,829      180,172
+                                            ---------------------------------------------------------------------------   ----------
+             TOTAL LOAN FUNDINGS IN UNITS      204,764      218,936      196,950      203,963      191,700      201,877    1,512,427
+                                            ===========================================================================   ==========
+
+  Loan Fundings:
+     Purchase (2)                           $   13,127   $   13,883   $   14,575   $   17,491   $   17,541   $   17,797   $  112,914
+     Non-purchase (2)                           19,184       21,962       17,240       14,512       12,163       13,325      123,779
+                                            ---------------------------------------------------------------------------   ----------
+             TOTAL LOAN FUNDINGS            $   32,311   $   35,845   $   31,815   $   32,003   $   29,704   $   31,122   $  236,693
+                                            ===========================================================================   ==========
+
+  Government Fundings                       $    1,530   $    1,491   $    1,235   $    1,119   $    1,039   $      961   $    9,653
+  ARM Fundings                              $   13,872   $   15,739   $   15,745   $   17,259   $   17,021   $   18,278   $  117,685
+  Home Equity Fundings                      $    2,088   $    2,242   $    2,272   $    2,787   $    2,838   $    3,056   $   18,484
+  Subprime Fundings                         $    2,759   $    2,765   $    3,044   $    3,745   $    3,785   $    4,275   $   24,506
+
+
+LOAN SERVICING (3)
+  Volume                                    $  682,848   $  693,768   $  706,943   $  726,227   $  746,905   $  765,342
+  Units                                      5,313,058    5,372,526    5,443,555    5,547,050    5,668,620    5,773,837
+
+  Subservicing Volume (4)                   $   15,307   $   15,028   $   15,289   $   16,027   $   16,843   $   16,312
+  Subservicing Units                           166,514      163,842      163,931      163,396      172,602      169,665
+
+  Prepayments in Full                       $   18,317   $   23,557   $   17,593   $   14,945   $   12,430   $   13,232   $  122,551
+  Bulk Servicing Acquisitions               $    2,349   $    1,122   $    1,563   $    1,634   $    4,187   $    4,626   $   22,310
+
+  Portfolio Delinquency - CHL (5)                 3.20%        3.19%        3.49%        3.48%        3.51%        3.57%
+  Foreclosures Pending - CHL (5)                  0.42%        0.38%        0.36%        0.37%        0.37%        0.35%
+</TABLE>
+
+
+                                     (more)
+<PAGE>
+               COUNTRYWIDE FINANCIAL CORPORATION AND SUBSIDIARIES
+                     ROLLING THIRTEEN MONTH STATISTICAL DATA
+                              (DOLLARS IN MILLIONS)
+
+
+<TABLE>
+<CAPTION>
+                                             AUG-03       SEP-03       OCT-03        NOV-03      DEC-03       JAN-04       FEB-04
+                                          -----------  -----------  -----------  -----------  ----------   -----------  -----------
+<S>                                       <C>          <C>          <C>          <C>          <C>          <C>          <C>
+LOAN CLOSING SERVICES (UNITS)
+  Credit Reports                              492,787      499,431      518,308      420,843      405,336      533,055      547,704
+  Flood Determinations                        234,552      222,890      217,134      173,044      172,325      188,682      195,380
+  Appraisals                                   60,025       51,507       53,783       44,475       47,004       44,146       51,425
+  Automated Property Valuation Services       349,978      358,983      399,559      314,886      319,220      333,803      356,077
+  Other                                        12,566       11,769       11,457        9,741       12,096       14,750       14,218
+                                          ------------------------------------------------------------------------------------------
+           TOTAL UNITS                      1,149,908    1,144,580    1,200,241      962,989      955,981    1,114,436    1,164,804
+                                          ==========================================================================================
+
+CAPITAL MARKETS
+  Securities Trading Volume (6)           $   255,513  $   240,154  $   208,429  $   196,586  $   179,390  $   192,618  $   221,082
+
+BANKING
+  Assets Held by Treasury Bank
+      (in billions)                       $      15.1  $      16.4  $      17.1  $      17.7  $      19.4  $      20.3  $      21.8
+
+INSURANCE
+  Net Premiums Earned:
+     Carrier                              $        55  $        51  $        59  $        54  $        51  $        56  $        52
+     Reinsurance                                   11           10           11           13           13           12           13
+                                          ------------------------------------------------------------------------------------------
+           TOTAL NET PREMIUMS EARNED      $        66  $        61  $        70  $        67  $        64  $        68  $        65
+                                          ==========================================================================================
+
+GLOBAL OPERATIONS
+  Global Home Loans Subservicing
+     Volume (in billions)                 $        93  $        98  $       100  $       103  $       106  $       109  $       112
+
+WORKFORCE HEAD COUNT: (7)
+  Loan Originations                            20,447       19,251       18,968       18,812       18,897       18,989       19,364
+  Loan Servicing                                6,002        6,111        6,087        6,098        6,069        6,017        5,870
+  Loan Closing Services                         1,065          956          955          952          931          941          952
+  Insurance                                     1,851        1,904        1,882        1,856        1,823        1,781        1,768
+  Capital Markets                                 440          452          470          476          477          484          491
+  Global Operations                             1,897        1,962        1,965        1,997        1,981        1,899        1,948
+  Banking                                         808          804          787          810          813          803          823
+  Corporate Overhead & Other                    3,238        3,309        3,282        3,282        3,307        3,347        3,366
+                                          ------------------------------------------------------------------------------------------
+           TOTAL WORKFORCE HEAD COUNT          35,748       34,749       34,396       34,283       34,298       34,261       34,582
+                                          ==========================================================================================
+
+PERIOD-END RATES
+ 10-Year U.S. Treasury Yield                    4.458%       3.939%       4.301%       4.322%       4.261%       4.138%       3.984%
+ FNMA 30-Year Fixed Rate MBS Coupon             5.670%       5.012%       5.335%       5.410%       5.276%       5.192%       5.001%
+
+
+<CAPTION>
+                                            MAR-04        APR-04       MAY-04      JUN-04       JUL-04       AUG-04         YTD
+                                          -----------  -----------  -----------  -----------  -----------  -----------  -----------
+<S>                                       <C>          <C>          <C>          <C>          <C>          <C>          <C>
+LOAN CLOSING SERVICES (UNITS)
+  Credit Reports                              738,113      626,142      574,524      631,763      630,223      677,931    4,959,455
+  Flood Determinations                        277,958      246,580      214,494      239,522      243,241      265,888    1,871,745
+  Appraisals                                   69,074       65,975       58,912       59,839       62,732       74,314      486,417
+  Automated Property Valuation Services       439,015      473,601      456,663      480,364      467,030      480,329    3,486,882
+  Other                                        16,379       16,058       13,583       15,332       13,252       13,324      116,896
+                                          ----------------------------------------------------------------------------  ------------
+           TOTAL UNITS                      1,540,539    1,428,356    1,318,176    1,426,820    1,416,478    1,511,786   10,921,395
+                                          ============================================================================  ============
+
+CAPITAL MARKETS
+  Securities Trading Volume (6)           $   276,738  $   274,862  $   292,116  $   314,599  $   266,645  $   240,678  $ 2,079,338
+
+BANKING
+  Assets Held by Treasury Bank
+      (in billions)                       $      23.7  $      24.9  $      25.6  $      27.2  $      28.6  $      30.9
+
+INSURANCE
+  Net Premiums Earned:
+     Carrier                              $        50  $        50  $        48  $        51  $        54  $        51  $       412
+     Reinsurance                                   12           13           13           13           13           13          102
+                                          ----------------------------------------------------------------------------  ------------
+           TOTAL NET PREMIUMS EARNED      $        62  $        63  $        61  $        64  $        67  $        64  $       514
+                                          ============================================================================  ============
+
+GLOBAL OPERATIONS
+  Global Home Loans Subservicing
+     Volume (in billions)                 $       111  $       108  $       111  $       110  $       110  $       109
+
+WORKFORCE HEAD COUNT: (7)
+  Loan Originations                            20,529       21,696       22,400       23,035       23,114       23,680
+  Loan Servicing                                5,802        5,828        5,864        5,908        5,910        5,920
+  Loan Closing Services                           926          938          993        1,019        1,049        1,072
+  Insurance                                     1,762        1,809        1,822        1,826        1,854        1,845
+  Capital Markets                                 494          513          517          529          540          554
+  Global Operations                             1,993        1,961        1,965        1,955        1,929        1,942
+  Banking                                         849          888          956        1,003        1,015        1,083
+  Corporate Overhead & Other                    3,389        3,441        3,529        3,660        3,814        3,889
+                                          ----------------------------------------------------------------------------
+           TOTAL WORKFORCE HEAD COUNT          35,744       37,074       38,046       38,935       39,225       39,985
+                                          ============================================================================
+
+PERIOD-END RATES
+ 10-Year U.S. Treasury Yield                    3.840%       4.499%       4.655%       4.610%       4.477%       4.130%
+ FNMA 30-Year Fixed Rate MBS Coupon             4.937%       5.592%       5.752%       5.589%       5.484%       5.162%
+</TABLE>
+
+
+(1)   Treasury Bank funds loans for investment purposes; these loans are
+      processed for Treasury Bank by the production divisions.
+
+(2)   Purchase fundings include first trust deed and home equity loans used as
+      purchase money debt in the acquisition of a home.
+
+      Non-purchase fundings include first trust deed refinance loans, home
+      equity refinance loans, and stand-alone home equity loans.
+
+(4)   Subservicing volume for other clients.
+
+(5)   Expressed as a percentage of the total number of loans serviced, excluding
+      subserviced loans and portfolios purchased at a discount due to their
+      non-performing status.
+
+(6)   Includes trades with Mortgage Banking Division.
+
+
+(7)   Workforce Head Count includes full-time employees, contract, and temporary
+      help.
+
+
+                                      ###
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

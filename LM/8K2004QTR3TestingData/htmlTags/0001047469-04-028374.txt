@@ -1,0 +1,1276 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ U8NT/a1dvo794/Wc2GWnN1FDFPj1M1CorAHxkQ2Rs2YwuXgB8U0zw9vtrv9nuukx
+ MNQTprhPbFEGEh5W8CH00w==
+
+<SEC-DOCUMENT>0001047469-04-028374.txt : 20040909
+<SEC-HEADER>0001047469-04-028374.hdr.sgml : 20040909
+<ACCEPTANCE-DATETIME>20040909171037
+ACCESSION NUMBER:		0001047469-04-028374
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040909
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20040909
+DATE AS OF CHANGE:		20040909
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SAMSONITE CORP/FL
+		CENTRAL INDEX KEY:			0000914478
+		STANDARD INDUSTRIAL CLASSIFICATION:	LEATHER & LEATHER PRODUCTS [3100]
+		IRS NUMBER:				363511556
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-23214
+		FILM NUMBER:		041023582
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11200 EAST 45TH AVENUE
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80239
+		BUSINESS PHONE:		3033732000
+
+	MAIL ADDRESS:	
+		STREET 1:		11200 EAST 45TH AVENUE
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80239
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASTRUM INTERNATIONAL CORP
+		DATE OF NAME CHANGE:	19931105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a2143226z8-k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML>
+<HEAD>
+
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" LINK=BLUE  VLINK=PURPLE>
+<BR>
+<FONT SIZE=3 ><A HREF="#04DEN2411_1">QuickLinks</A></FONT>
+<font size=3> -- Click here to rapidly navigate through this document</font>
+<P ALIGN="CENTER"><FONT SIZE=5><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>  </B></FONT><FONT SIZE=2><B>WASHINGTON, D.C. 20549  </B></FONT></P>
+
+<HR NOSHADE ALIGN="CENTER" WIDTH="120">
+<P ALIGN="CENTER"><FONT SIZE=5><B>FORM 8K  </B></FONT></P>
+
+<HR NOSHADE ALIGN="CENTER" WIDTH="120">
+<P ALIGN="CENTER"><FONT SIZE=3><B>CURRENT REPORT<BR>  </B></FONT><FONT SIZE=2><B>Pursuant to Section&nbsp;13 or 15(d)&nbsp;of<BR>
+the Securities Exchange Act of 1934  </B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>Date of Report (Date of earliest event reported): </FONT><FONT SIZE=2><B>September&nbsp;9, 2004 (September&nbsp;9, 2004)</B></FONT></P>
+
+<HR NOSHADE ALIGN="CENTER" WIDTH="120">
+<P ALIGN="CENTER"><FONT SIZE=5><B>SAMSONITE CORPORATION<BR>  </B></FONT><FONT SIZE=2>(Exact name of registrant as specified in its charter) </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<DIV ALIGN="CENTER"><TABLE WIDTH="72%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="31%" ALIGN="CENTER"><FONT SIZE=2><B>Delaware</B></FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="31%" ALIGN="CENTER"><FONT SIZE=2><B>0-23214</B></FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="31%" ALIGN="CENTER"><FONT SIZE=2><B>36-3511556</B></FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="31%" ALIGN="CENTER"><FONT SIZE=2>(State or other jurisdiction of<BR>
+incorporation or organization)</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="31%" ALIGN="CENTER"><FONT SIZE=2>(Commission<BR>
+file number)</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="31%" ALIGN="CENTER"><FONT SIZE=2>(I.R.S. Employer<BR>
+Identification Number)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="31%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="31%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="31%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD WIDTH="31%" ALIGN="CENTER" VALIGN="TOP"><FONT SIZE=2><B>11200 East 45th Avenue<BR>
+Denver, Colorado</B></FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="31%" ALIGN="CENTER" VALIGN="TOP"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="31%" ALIGN="CENTER"><FONT SIZE=2><B>80239-3018</B></FONT></TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD WIDTH="31%" ALIGN="CENTER" VALIGN="TOP"><FONT SIZE=2>(Address of principal executive offices)</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="31%" ALIGN="CENTER" VALIGN="TOP"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="TOP"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="31%" ALIGN="CENTER" VALIGN="TOP"><FONT SIZE=2>(Zip Code)</FONT></TD>
+</TR>
+</TABLE></DIV>
+<!-- end of user-specified TAGGED TABLE -->
+
+<P ALIGN="CENTER"><FONT SIZE=2><B>(303) 373-2000<BR>  </B></FONT><FONT SIZE=2>Registrant's telephone number, including area code: </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2><B>N/A<BR>  </B></FONT><FONT SIZE=2>(Former name or former address, if changed since last report) </FONT></P>
+
+<P><FONT SIZE=2>
+<!-- ZEQ.=1,SEQ=1,EFW="2143226",CP="SAMSONITE CORP",DN="1",CHK=318407,FOLIO='blank',FILE='DISK029:[04DEN1.04DEN2411]BA2411A.;4',USER='MBRADT',CD=';9-SEP-2004;12:45' -->
+</FONT></P>
+
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+
+<P><FONT SIZE=2><A
+NAME="page_dc2411_1_2"> </A> </FONT></P>
+
+<!-- TOC_END -->
+
+<P><FONT SIZE=2><A
+NAME="dc2411_item_2.02._results_of_o__dc202033"> </A>
+<A NAME="toc_dc2411_1"> </A>
+<BR></FONT><FONT SIZE=2><B>ITEM 2.02. Results of Operations and Financial Condition    <BR>    </B></FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company announced its second quarter operating results for the period ended July&nbsp;31, 2004. The press release announcing the results is attached hereto
+as Exhibit&nbsp;99.1. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+information in Exhibit&nbsp;99.1 attached hereto shall not be deemed "filed" for purposes of Section&nbsp;18 of the Securities Exchange Act of 1934, as amended, nor shall it be
+deemed incorporated by reference in any filing under the Securities Act of 1933, as amended. </FONT></P>
+
+
+<P><FONT SIZE=2><A
+NAME="dc2411_item_9.01._financial_statements_and_exhibits"> </A>
+<A NAME="toc_dc2411_2"> </A>
+<BR></FONT><FONT SIZE=2><B>ITEM 9.01. Financial Statements and Exhibits    <BR>    </B></FONT></P>
+
+<UL>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>(c)</FONT></DT><DD><FONT SIZE=2>Exhibits
+</FONT></DD></DL>
+</UL>
+<BR>
+
+<!-- User-specified TAGGED TABLE -->
+<DIV ALIGN="CENTER"><TABLE WIDTH="63%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TH WIDTH="15%" ALIGN="CENTER"><FONT SIZE=1><B>Exhibit Number</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="82%" ALIGN="LEFT"><FONT SIZE=1><B>Description<BR> </B></FONT><HR NOSHADE></TH>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="15%" ALIGN="RIGHT"><FONT SIZE=2>99.1</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="82%"><FONT SIZE=2>Press Release issued by Samsonite Corporation on September&nbsp;9, 2004 reporting the second quarter operating results.</FONT></TD>
+</TR>
+</TABLE></DIV>
+<!-- end of user-specified TAGGED TABLE -->
+
+
+<P><FONT SIZE=2>
+<!-- ZEQ.=1,SEQ=2,EFW="2143226",CP="SAMSONITE CORP",DN="1",CHK=733883,FOLIO='2',FILE='DISK029:[04DEN1.04DEN2411]DC2411A.;6',USER='DTAYLOR',CD=';9-SEP-2004;13:15' -->
+</FONT></P>
+
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="page_jc2411_1_3"> </A> </FONT></P>
+
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="jc2411_signatures"> </A>
+<A NAME="toc_jc2411_1"> </A>
+<BR></FONT><FONT SIZE=2><B>Signatures    <BR>    </B></FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized. </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="46%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=2><BR>
+Samsonite Corporation</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="46%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=2><BR>
+By:</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="42%"><FONT SIZE=2><BR>
+/s/&nbsp;&nbsp;</FONT><FONT SIZE=2>RICHARD H. WILEY</FONT><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="46%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=2>Name:</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="42%"><FONT SIZE=2>Richard H. Wiley</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="46%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=2>Title:</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="42%"><FONT SIZE=2>Chief Financial Officer, Treasurer and Secretary</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+
+<P><FONT SIZE=2>Date:
+September&nbsp;9, 2004 </FONT></P>
+
+<P><FONT SIZE=2>
+<!-- ZEQ.=1,SEQ=3,EFW="2143226",CP="SAMSONITE CORP",DN="1",CHK=231642,FOLIO='3',FILE='DISK029:[04DEN1.04DEN2411]JC2411A.;4',USER='MBRADT',CD=';9-SEP-2004;12:45' -->
+</FONT></P>
+
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<BR>
+<P><br><A NAME="04DEN2411_1">QuickLinks</A><br></P><!-- TOC_BEGIN -->
+<UL>
+<FONT SIZE=2><A HREF="#toc_dc2411_1">ITEM 2.02. Results of Operations and Financial Condition</A></FONT><BR>
+<FONT SIZE=2><A HREF="#toc_dc2411_2">ITEM 9.01. Financial Statements and Exhibits</A></FONT><BR>
+</UL>
+<!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_jc2411_1">Signatures</A></FONT><BR>
+<!-- SEQ=,FILE='QUICKLINK',USER=MBRADT,SEQ=,EFW="2143226",CP="SAMSONITE CORP",DN="1" -->
+<!-- TOCEXISTFLAG -->
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a2143226zex-99_1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML>
+<HEAD>
+
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" LINK=BLUE  VLINK=PURPLE>
+<BR>
+<FONT SIZE=3 ><A HREF="#04DEN2411_2">QuickLinks</A></FONT>
+<font size=3> -- Click here to rapidly navigate through this document</font>
+<!-- TOC_END -->
+<P ALIGN="RIGHT"><FONT SIZE=2><B>Exhibit 99.1  </B></FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="78%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="22%"><FONT SIZE=2><B>For Immediate Release</B></FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="40%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=2><B>Contact:</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="22%"><FONT SIZE=2><B>Richard Wiley<BR>
+Samsonite Corporation<BR>
+Phone: (303)&nbsp;373-6373</B></FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="ua2411_samsonite_reports_second_quarter_results"> </A>
+<A NAME="toc_ua2411_1"> </A>
+<BR></FONT><FONT SIZE=2><B>Samsonite Reports Second Quarter Results    <BR>    </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DENVER, Colorado, September&nbsp;9, 2004&#151;SAMSONITE CORPORATION (OTC Bulletin Board: SAMC.OB) today reported revenue of $222.4&nbsp;million,
+operating income of $14.0&nbsp;million and net loss to common stockholders of $21.7&nbsp;million, or $0.10 per share, for the quarter ended July&nbsp;31, 2004. These results compare to revenue
+of $192.2&nbsp;million, operating income of $18.7&nbsp;million and net loss to common stockholders of $15.2&nbsp;million, or $0.69 per share, for the second quarter of the prior year. The net
+loss for the three&nbsp;months ended July&nbsp;31, 2004 included bond tender offer premiums of $13.7&nbsp;million and the write-off of deferred financing costs of $4.1&nbsp;million
+related to the recently completed refinancing of the Company's senior subordinated notes. The accrual of preferred stock dividends in arrears of $3.4&nbsp;million for the current quarter and
+$12.9&nbsp;million for the prior year are reflected in the net loss to common stockholders. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adjusted
+EBITDA (earnings before interest expense, taxes, depreciation, amortization, and minority interest, adjusted for certain items management believes should be excluded in order to
+reflect recurring operating performance including restructuring charges, executive severance, non-cash stock compensation expense, and asset impairment charges), a measure of core business
+cash flow, was $25.0&nbsp;million for the three&nbsp;months ended July&nbsp;31, 2004 compared to $22.5&nbsp;million for the second quarter of the prior year. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revenues
+for the six&nbsp;months ended July&nbsp;31, 2004 were $420.6&nbsp;million compared to revenues of $354.1&nbsp;million during the same six-month period in the
+prior year. Operating earnings for the first six&nbsp;months of the year were $20.4&nbsp;million compared to $29.1&nbsp;million during the prior year. Net loss to common stockholders for the
+first six&nbsp;months of the year was $28.8&nbsp;million, or $0.13 per share, versus a net loss of $30.8&nbsp;million, or $1.47 per share, during the prior year. Net loss to common stockholders
+includes charges of $6.7&nbsp;million in the current year and $24.5&nbsp;million in the prior year for preferred stock dividends. Adjusted EBITDA for the first six&nbsp;months of the current
+year was $42.9&nbsp;million versus $37.3&nbsp;million for the same period in the prior year. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chief
+Executive Officer, Marcello Bottoli, stated: "Sales increased in every segment of the Company during the second quarter compared to prior year, showing a positive
+turn-around in travel. The successful completion of the senior subordinated notes refinancing in June&nbsp;was a very positive result for the Company. The resulting reduction in debt
+service cash flow will permit the Company to increase its advertising, marketing and product development programs which we believe will be the basis for sustained sales growth and enhanced consumer
+perception of our brands." </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Richard
+Wiley, Chief Financial Officer, commented: "The Company continued to experience strong core sales growth during the quarter as a result of the recovery in air travel, improved
+global economies and our expanded advertising and marketing activities during the quarter. The increase in net loss to common stockholders was primarily the result of the redemption premium paid and
+deferred issuance cost write-off totaling $17.8&nbsp;million related to the Company's subordinated notes refinancing." </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Samsonite
+Corporation will hold a conference call with securities analysts to discuss this press release at 10:00&nbsp;a.m. Eastern Daylight Time on Friday, September&nbsp;10, 2004.
+Investors and interested members of the public are invited to listen to the discussion. The dial-in phone numbers are (877)&nbsp;809-7599 in the U.S./Canada and
+(706)&nbsp;679-6135 for international calls, the conference name is Samsonite and the conference ID # is 9889417. The leader of the call is Marcello Bottoli. If you cannot attend this
+call, it will be played back through Thursday, September&nbsp;30, 2004. The playback
+<!-- ZEQ.=1,SEQ=1,EFW="2143226",CP="SAMSONITE CORP",DN="2",CHK=576234,FOLIO='blank',FILE='DISK029:[04DEN1.04DEN2411]UA2411A.;4',USER='MBRADT',CD=';9-SEP-2004;12:45' -->
+numbers are (800)&nbsp;642-1687 in the U.S./Canada and (706)&nbsp;645-9291 for international calls, and the conference ID # is 9889417. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Samsonite
+is one of the world's largest manufacturers and distributors of luggage and markets luggage, casual bags, business cases and travel-related products under brands such as
+SAMSONITE&reg;, AMERICAN TOURISTER&reg;, LARK&reg;, HEDGREN&reg;, LACOSTE&reg; and SAMSONITE&reg; black label. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+summary of the Company's calculation of Adjusted EBITDA, a reconciliation of Adjusted EBITDA to net cash provided by (used in) operating activities, and a summary of the Company's
+earnings (losses) under generally accepted accounting principles are attached as part of this release. The Company believes that disclosure of its operating earnings before interest, taxes,
+depreciation and amortization, as further adjusted to exclude goodwill and asset impairment charges, restructuring charges and expenses, executive severance and stock compensation expense and to
+include realized currency hedge gains and losses ("Adjusted EBITDA"), provides useful information regarding the Company's ability to incur and service debt, but that it should not be considered a
+substitute for operating income or cash flow from operations determined in accordance with generally accepted accounting principles. Other companies may calculate EBITDA, or derivations thereof, in a
+different manner than the Company. Adjusted EBITDA does not take into consideration substantial costs and cash flows of doing business, such as interest expense, income taxes, depreciation,
+amortization, restructuring charges and expenses, and stock compensation expense, and should not be considered in isolation to or as a substitute for other measures of performance. Adjusted EBITDA, as
+calculated by the Company, also excludes extraordinary items, discontinued operations, minority interest in earnings of subsidiaries, certain items of other income and expense and preferred stock
+dividends. Adjusted EBITDA does not represent funds available for discretionary use by the Company because those funds are required for debt service, capital expenditures, working capital, and other
+commitments and obligations. Neither EBITDA nor Adjusted EBITDA is an accounting term used in generally accepted accounting principles. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certain
+statements contained herein constitute "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. They can often be recognized by
+words such as "proposed," "may," "will," "anticipate," "believe," "estimate," "intend," "plan" and "expect" and similar expressions. Variations on those or similar words, or the negative of those
+words, may also indicate forward-looking statements. Forward-looking statements involve numerous assumptions, known and unknown risks, uncertainties and other factors that may cause actual and future
+performance or achievements of the Company to be materially different from any future estimated results, performance or achievements express or implied by such forward-looking statements. These
+factors include, among others, the impact of the September&nbsp;11 events on economic, political and public safety conditions that impact consumer confidence and spending and the possibility of
+additional terrorist attacks or related events; the spread of the SARS disease or other events which affect travel levels; armed conflicts in the Middle East and other regions; general economic and
+business conditions, including foreign currency exchange rate fluctuations; industry capacity; changes in consumer preferences; demographic changes; competition; changes in methods of distribution and
+technology; changes in political, social and economic conditions and local regulations; general levels of economic growth in emerging market countries; the loss of significant customers; completion of
+new product developments within anticipated time frames; changes in interest rates; and other factors that are beyond our control. More information on the risks, uncertainties and other factors
+affecting Samsonite Corporation may be obtained from the Company's filings with the United States Securities and Exchange Commission. Forward-looking statements are believed to be accurate as of the
+date of this release, and the Company undertakes no obligation to update or revise said statements as a result of future events. </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>*
+* * * * * * * * * </FONT></P>
+
+<P><FONT SIZE=2>
+<!-- ZEQ.=2,SEQ=2,EFW="2143226",CP="SAMSONITE CORP",DN="2",CHK=597691,FOLIO='blank',FILE='DISK029:[04DEN1.04DEN2411]UA2411A.;4',USER='MBRADT',CD=';9-SEP-2004;12:45' -->
+</FONT></P>
+
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="uc2411_samsonite_corporation_earnings__sam04012"> </A>
+<A NAME="toc_uc2411_1"> </A>
+<BR></FONT><FONT SIZE=2><B>Samsonite Corporation Earnings and Adjusted EBITDA Summary<BR>  July&nbsp;31, 2004 and 2003<BR>  (in thousands, except per share data)    <BR>    </B></FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="94%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TH COLSPAN=4 ALIGN="LEFT"><FONT SIZE=2>&nbsp;</FONT><BR></TH>
+<TH WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=5 ALIGN="CENTER"><FONT SIZE=1><B>Three&nbsp;months ended<BR>
+July&nbsp;31,</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=5 ALIGN="CENTER"><FONT SIZE=1><B>Six&nbsp;months ended<BR>
+July&nbsp;31,</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TH>
+</TR>
+<TR VALIGN="BOTTOM">
+<TH COLSPAN=4 ALIGN="LEFT"><FONT SIZE=1>&nbsp;</FONT><BR></TH>
+<TH WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER"><FONT SIZE=1><B>2004</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER"><FONT SIZE=1><B>2003</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER"><FONT SIZE=1><B>2004</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER"><FONT SIZE=1><B>2003</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TH>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2><B>Net revenue</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>222,357</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>192,191</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>420,551</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>354,093</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Cost of goods sold</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>120,516</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>107,920</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>229,778</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>197,572</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=4><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD COLSPAN=3><FONT SIZE=2><B>Gross profit</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>101,841</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>84,271</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>190,773</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>156,521</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Selling, general and administrative expenses</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>86,531</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>65,277</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>164,446</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>126,788</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Amortization of intangible assets</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>589</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>325</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>1,179</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>647</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Asset impairment charge</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>671</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Provision for restructuring operations</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>684</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>4,074</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=4><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD COLSPAN=3><FONT SIZE=2><B>Operating income</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>14,037</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>18,669</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>20,403</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>29,086</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Interest expense</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(9,387</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(11,514</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(19,168</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(23,303</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Interest income and other income (expense), net</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(19,766</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(5,054</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(18,057</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(5,278</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=4><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Loss before income taxes, and minority interest</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(15,116</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>2,101</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(16,822</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>505</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Income tax expense</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(2,188</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(3,132</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(3,291</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(5,309</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Minority interest in (earnings) loss of subsidiaries</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(1,040</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(1,284</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(1,955</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(1,497</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=4><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD COLSPAN=3><FONT SIZE=2><B>Net loss</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(18,344</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(2,315</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(22,068</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(6,301</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><B>)</B></FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Redeemable preferred stock dividends and accretion of preferred stock discount</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(3,358</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(12,907</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(6,688</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(24,539</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=4><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2><B>Net loss to common stockholders</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>$</B></FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(21,702</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(15,222</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>$</B></FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(28,756</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(30,840</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><B>)</B></FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=4><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2><B>Loss to common stockholders per share&#151;assuming dilution</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>$</B></FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(0.10</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(0.69</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>$</B></FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(0.13</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(1.47</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><B>)</B></FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=4><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2><B>Weighted average shares outstanding</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>224,705</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>22,092</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>224,705</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>20,979</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=4><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2><B>Summary of Adjusted EBITDA Calculation</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Operating income (loss)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>14,037</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>18,669</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>20,403</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>29,086</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Depreciation expense</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>4,692</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>4,677</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>9,487</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>9,167</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Amortization and impairment of intangible assets</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>589</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>325</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>1,179</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>647</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Asset impairment, restructuring charges and former chief executive officer severance expenses</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>1,668</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>16</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>7,222</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>16</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Stock compensation expense</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>3,688</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>4,133</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2>Realized gains on foreign currency forward contracts</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>339</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(1,234</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>491</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(1,620</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=4><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2><B>Adjusted EBITDA</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>$</B></FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>25,013</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>22,453</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>$</B></FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>42,915</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>37,296</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2><B>Adjustments to reconcile Adjusted EBITDA to net cash provided by operating activities</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD COLSPAN=2><FONT SIZE=2>Restructuring related expenses, not previously accrued</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(984</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(16</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(1,078</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(16</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD COLSPAN=2><FONT SIZE=2>Cash provided (used) by changes in operating assets and liabilities</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(25,725</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(8,291</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(16,388</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(13,096</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD COLSPAN=2><FONT SIZE=2><B>Non-cash operating additions (subtractions)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="40%"><FONT SIZE=2>Amortization and write-off of debt issue costs and premium</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>4,665</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>1,462</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>5,235</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>1,971</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="40%"><FONT SIZE=2>Provision for doubtful accounts</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>395</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>40</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>712</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>40</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="40%"><FONT SIZE=2>Pension and other post-retirement plan losses (gains)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>742</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>217</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>1,564</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>436</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="40%"><FONT SIZE=2>Other, net</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>3,347</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(4,690</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>3,116</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(4,558</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD COLSPAN=2><FONT SIZE=2><B>Income (expense) excluded from Adjusted EBITDA</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="40%"><FONT SIZE=2>Interest income</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>133</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>82</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>230</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>171</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="40%"><FONT SIZE=2>Interest expense</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(9,387</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(11,514</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(19,168</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(23,303</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="40%"><FONT SIZE=2>Income tax expense</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(2,188</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(3,132</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(3,291</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(5,309</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="40%"><FONT SIZE=2>Minority interest in earnings of subsidiaries</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(1,040</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(1,283</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(1,955</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(1,497</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="40%"><FONT SIZE=2>Stock compensation expense</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(3,688</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(4,133</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="40%"><FONT SIZE=2>Other income (expense) items, net</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(19,976</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(3,912</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(20,880</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>(5,876</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=4><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=4><FONT SIZE=2><B>Net cash provided by (used in) operating activities</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>$</B></FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(28,693</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(8,584</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>$</B></FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(13,121</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><B>)</B></FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><B>(13,741</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><B>)</B></FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=4><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+
+<P><FONT SIZE=2>
+<!-- ZEQ.=1,SEQ=3,EFW="2143226",CP="SAMSONITE CORP",DN="2",CHK=355961,FOLIO='blank',FILE='DISK029:[04DEN1.04DEN2411]UC2411A.;5',USER='MBRADT',CD=';9-SEP-2004;12:45' -->
+</FONT></P>
+
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<BR>
+<P><br><A NAME="04DEN2411_2">QuickLinks</A><br></P><!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_ua2411_1">Samsonite Reports Second Quarter Results</A></FONT><BR>
+<!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_uc2411_1">Samsonite Corporation Earnings and Adjusted EBITDA Summary July 31, 2004 and 2003 (in thousands, except per share data)</A></FONT><BR>
+<!-- SEQ=,FILE='QUICKLINK',USER=MBRADT,SEQ=,EFW="2143226",CP="SAMSONITE CORP",DN="2" -->
+<!-- TOCEXISTFLAG -->
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

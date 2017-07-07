@@ -1,0 +1,3316 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MtEcQnPJkcWXJE27vCeqz7wlB9fe64nwtdIdF4h58xtF923s3eMnclmwMU6GVwlT
+ EYunf29pNfMA2Wn/kKNC/w==
+
+<SEC-DOCUMENT>0001157523-04-008795.txt : 20040928
+<SEC-HEADER>0001157523-04-008795.hdr.sgml : 20040928
+<ACCEPTANCE-DATETIME>20040928120132
+ACCESSION NUMBER:		0001157523-04-008795
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040928
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040928
+DATE AS OF CHANGE:		20040928
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONTINUCARE CORP
+		CENTRAL INDEX KEY:			0000803352
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-SPECIALTY OUTPATIENT FACILITIES, NEC [8093]
+		IRS NUMBER:				592716063
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12115
+		FILM NUMBER:		041048938
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 S W 8TH STREET
+		STREET 2:		SUITE 2350
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33130
+		BUSINESS PHONE:		3053507515
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ZANART ENTERTAINMENT INC
+		DATE OF NAME CHANGE:	19950420
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	XUMA CORP
+		DATE OF NAME CHANGE:	19940606
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d60800_8k.htm
+<DESCRIPTION>CONTINUCARE CORP 8-K
+<TEXT>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+     <!-- Project:        X:\JOBS\04-60800\d04-60800.eep                                   -->
+     <!-- Control Number: 04-60800                                                         -->
+     <!-- Rev Number:     1.0                                                              -->
+     <!-- Client Name:    Continucare Corporation                                          -->
+     <!-- Project Name:   Form Type: 8-K                                                   -->
+     <!-- Firm Name:      Business Wire                                                    -->
+     <TITLE>Continucare Corporation</TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Div Style" FSL="Project" -->
+<DIV STYLE="WIDTH:600">
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UNITED STATES <BR>SECURITIES AND EXCHANGE
+COMMISSION <BR>Washington, DC 20549 </FONT></P>
+
+  <hr noshade size="1" width="15%">
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT <BR>PURSUANT TO SECTION 13
+OR 15(d) of the <BR>SECURITIES EXCHANGE ACT
+OF 1934 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date of Report (Date of
+earliest event reported) September 28, 2004  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Continucare Corporation <BR>(Exact name of
+registrant as specified in its Charter)  </FONT></P>
+<BR>
+
+  <TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=600>
+    <TR VALIGN=Bottom>
+      <TD WIDTH=1% ALIGN=CENTER><font face="Times New Roman, Times, serif" size="2">Florida</font></TD>
+      <TD WIDTH=1% ALIGN=CENTER><font face="Times New Roman, Times, serif" size="2">1-12115</font></TD>
+    </TR>
+    <TR VALIGN=Bottom>
+      <TD ALIGN=CENTER><font face="Times New Roman, Times, serif" size="2">(State
+        of other jurisdiction or</font></TD>
+      <TD ALIGN=CENTER><font face="Times New Roman, Times, serif" size="2">(Commission
+        File Number)</font></TD>
+    </TR>
+    <TR VALIGN=Bottom>
+      <TD ALIGN=CENTER><font face="Times New Roman, Times, serif" size="2">incorporation
+        or organization)</font></TD>
+    </TR>
+    <TR VALIGN=Bottom>
+      <TD ALIGN=CENTER>&nbsp; </TD>
+      <TD ALIGN=CENTER>&nbsp;</TD>
+    </TR>
+    <TR VALIGN=Bottom>
+      <TD ALIGN=CENTER><font face="Times New Roman, Times, serif" size="2"></font></TD>
+      <TD ALIGN=CENTER><font face="Times New Roman, Times, serif" size="2"></font></TD>
+    </TR>
+    <TR VALIGN=Bottom>
+      <TD ALIGN=CENTER><font face="Times New Roman, Times, serif" size="2">80
+        S.W. 8th Street, Suite 2350, Miami, Florida</font></TD>
+      <TD ALIGN=CENTER><font face="Times New Roman, Times, serif" size="2">33130</font></TD>
+    </TR>
+    <TR VALIGN=Bottom>
+      <TD ALIGN=CENTER><font face="Times New Roman, Times, serif" size="2">(Address
+        of principal executive offices)</font></TD>
+      <TD ALIGN=CENTER><font face="Times New Roman, Times, serif" size="2">(Zip
+        Code)</font></TD>
+    </TR>
+  </TABLE>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>59-2716023 <BR>(IRS Employer
+Identification No.) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(305) 350-7515 <BR>(Registrant&#146;s
+telephone number, including area code)  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Not Applicable <BR>(Former name or former
+address, if changed since last report)  </FONT></P>
+
+
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2> </font></p>
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+</div>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2>&nbsp; </font></p>
+
+<div style='width:600;'>
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 2.02 Results of
+Operations and Financial Condition </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+September 28, 2004, Continucare Corporation issued a press release announcing its
+financial results for the quarter and the fiscal year ended June 30, 2004. The press
+release is attached hereto as Exhibit 99.01 and is incorporated herein by reference. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 9.01 Financial
+Statements, Pro Forma Financial Information and Exhibits </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=600 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(c)  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibits </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=600 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.01 </FONT></TD>
+      <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press
+        Release of Continucare Corporation dated September 28, 2004 </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+information in this Current Report on Form 8-K, including Exhibit 99.01 hereto, is
+furnished pursuant to Item 2.01 and shall not be deemed to be &#147;filed&#148; for the
+purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the
+&#147;Exchange Act&#148;), or otherwise subject to the liabilities of that section, nor
+shall it be deemed to be incorporated by reference in any filing under the Securities Act
+of 1933 or the Exchange Act. </FONT></P>
+
+
+
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2> </font></p>
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+</div>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2>&nbsp; </font></p>
+
+<div style='width:600;'>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURES </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned thereunto duly authorized. </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Signature (Single)" FSL="Workstation" -->
+<TABLE WIDTH=600 CELLSPACING=0 CELLPADDING=0 BORDER=0>
+  <TR VALIGN=TOP>
+    <TD WIDTH=40% align="left" valign="middle"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"> </FONT></TD>
+<TD WIDTH=10%><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+    <TD WIDTH=50%><FONT FACE="Times New Roman, Times, Serif" SIZE="2">CONTINUCARE CORPORATION
+<BR>
+<BR>
+<BR>
+/s/ Fernando L. Fernandez<BR>
+&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;<BR>
+Fernando L. Fernandez<BR>
+Senior Vice President - Finance,<BR>
+Chief Financial Officer<BR>
+and Treasurer<BR>
+ </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dated: September 28, 2004 </FONT></P>
+
+
+
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2> </font></p>
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+</div>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2>&nbsp; </font></p>
+
+<div style='width:600;'>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>EXHIBIT INDEX </FONT></P>
+
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=600>
+  <TR VALIGN=Bottom>
+    <TD WIDTH=69% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Description</FONT></TD>
+    <TD WIDTH=1% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD WIDTH=10% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit
+      No.</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT>
+      <hr noshade size="1" width="15%" align="left">
+    </TD>
+    <TD ALIGN=LEFT>&nbsp;</TD>
+    <TD ALIGN=CENTER>
+      <hr noshade size="1">
+    </TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Press release,
+      dated September 28, 2004, announcing</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.01</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Continucare
+      Corporation's financial results for the quarter</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+    <TD ALIGN=CENTER></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>and fiscal
+      year ended June 30, 2004</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+    <TD ALIGN=CENTER></TD>
+  </TR>
+</TABLE>
+<BR>
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d60800_ex99-1.htm
+<DESCRIPTION>CONTINUCARE CORP EXHIBIT 99.1 PRESS RELEASE
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+     <!-- Project:        X:\JOBS\04-60800\d04-60800.eep                                   -->
+     <!-- Control Number: 04-60800                                                         -->
+     <!-- Rev Number:     1.0                                                              -->
+     <!-- Client Name:    Continucare Corporation                                          -->
+     <!-- Project Name:   Form Type: 8-K                                                   -->
+     <!-- Firm Name:      Business Wire                                                    -->
+     <TITLE>Continucare Corporation</TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Div Style" FSL="Project" -->
+<DIV STYLE="WIDTH:600">
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Right-TNR" FSL="Project" -->
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit 99.01 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Continucare Corporation
+Reports Financial Results for Fourth Quarter and Full Fiscal 2004 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MIAMI
+&#151; (BUSINESS WIRE) &#151; Sept. 28, 2004 &#151; Continucare Corporation (AMEX:CNU)
+today reported financial results for its fourth quarter and full fiscal 2004. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fourth
+Quarter Results  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For
+the three months ended June 30, 2004, total revenue was $27.1 million, compared to $25.5
+million for the three months ended June 30, 2003. Income from operations during the fourth
+fiscal quarter of 2004 increased 57% to $1.9 million compared to income of $1.2 million in
+the same period one year ago. Income from continuing operations in the fourth quarter of
+fiscal 2004 increased 73% to $1.6 million compared to income of $0.9 million in the
+year-ago period. There was no income or loss from discontinued operations during the
+fourth fiscal quarter compared to a loss of $0.1 million in the year-ago period. Net
+income for the fourth quarter of fiscal 2004 increased 98% to $1.6 million, or $0.03 per
+diluted share, compared to a net income of $0.8 million, or $0.02 per diluted share, one
+year ago. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full
+Year Results </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For
+the fiscal year ended June 30, 2004, total revenue was $102.5 million compared to $97.2
+million for the fiscal year ended June 30, 2003. Income from operations during fiscal 2004
+increased 128% to $5.7 million compared to $2.5 million in the prior fiscal year. Income
+from continuing operations during fiscal 2004 increased 347% to $6.9 million compared to
+$1.5 million in the prior fiscal year. Loss from discontinued operations during fiscal
+2004 was $1.6 million compared to a loss of $1.5 million in the prior fiscal year. Net
+income for fiscal 2004 increased to $5.3 million, or $0.11 per diluted share, compared to
+net income of $58,598, or $0.00 per diluted share, one year ago. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Income
+from continuing operations during fiscal 2004 includes other income of $2.2 million
+relating to the settlement of an alleged Medicare obligation. The alleged obligation
+related to rehabilitation clinics that were previously operated by a former Continucare
+subsidiary and were sold in 1999. At Continucare&#146;s request the Centers for Medicare
+&amp; Medicaid Services reconsidered the alleged liability and, in October 2003, notified
+Continucare that the liability had been reduced from the originally asserted amount of
+$2.4 million to approximately $200,000. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+discontinued operations reflected in Continucare&#146;s financial results relate to its
+former home health operations which were disposed of in a series of transactions completed
+in the third fiscal quarter of fiscal 2004 and a group of independent physician contracts
+terminated effective January 1, 2003. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Commenting
+on the financial results, Richard C. Pfenniger, Jr., Continucare&#146;s Chief Executive
+Officer, said, &#147;Fiscal 2004 was a year of accomplishments for Continucare. During the
+year we took decisive action to streamline our business by divesting our home health
+operations which had historically burdened us with operating losses. We significantly
+strengthened our management, filling the important positions of Executive Vice President
+&#151; Operations, Senior Vice President &#151; Marketing and Business Development, and
+Chief Financial Officer with talented executives who will provide us with both important
+skills and valuable leadership. In addition, we significantly improved our financial
+position through the conversion of outstanding long-term debt into equity, the addition of
+new capital through a private placement of common stock, the reduction of other debt
+through pay downs using cash generated from operations and the favorable resolution of
+previously alleged Medicare obligations.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Commenting
+further, Mr. Pfenniger said, &#147;In addition to the actions we took to strengthen our
+business during Fiscal 2004, we benefited from higher per member premiums associated with
+our Medicare Advantage patients resulting from the adoption of the Medicare Prescription
+Drug, Improvement and Modernization Act of 2003 and the increased phase-in of the Medicare
+risk adjustment program. All of these factors combined to produce a year of outstanding
+results that provides much promise for the future.&#148; </FONT></P>
+
+
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2> </font></p>
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+</div>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2>&nbsp; </font></p>
+
+<div style='width:600;'>
+
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Continucare
+Corporation (http://www.continucare.com), headquartered in Miami, Florida, is a holding
+company with subsidiaries engaged in the business of providing outpatient physician care
+services through managed care, Medicare direct and fee for service arrangements. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Except
+for historical matters contained herein, statements made in this press release are
+forward-looking and are made pursuant to the safe harbor provisions of the Private
+Securities Litigation Reform Act of 1995. Investors and others are cautioned that
+forward-looking statements include risks and uncertainties, which may affect our business
+and prospects and cause actual results to differ materially from those set forth in the
+forward-looking statements. These factors include, without limitation, our ability to
+service our indebtedness and respond to capital needs, the ability to achieve expected
+levels of patient volumes and control the costs of providing services, pricing pressures
+exerted on us by managed care organizations, the level of payment we receive from
+governmental programs and third party payors, the ability to attract and retain qualified
+medical professionals, future legislation changes in governmental regulations, including
+possible changes in Medicare programs that may impact reimbursements to health care
+providers and insurers, the impact of the Medicare Prescription Drug, Improvement and
+Modernization Act of 2003 and the Medicare Risk Adjustment on payments we receive for our
+managed care operation , technological and pharmaceutical improvements that increase the
+cost of providing, or reduce the demand for, health care, changes in revenue mix and
+claims loss ratio; the ability to enter into and renew managed care provider arrangements
+on acceptable terms, the loss of significant contracts, our current dependence on two HMOs
+for substantially all of our revenues, our current dependence on the information systems
+of our affiliated HMOs for certain information regarding our revenues and expenses, delays
+in receiving payments, increases in the cost of insurance coverage, including our
+stop-loss coverage, the possible loss of insurance coverage, the collectibility of
+uninsured accounts and deductible and co-pay amounts, Federal and state investigations,
+litigation for medical malpractice and the outcome of any such litigation; changes in
+estimates and judgments associated with our critical accounting policies, impairment
+charges that could be required in future periods, general economic conditions and
+uncertainties generally associated with the health care business. These and other
+applicable risks, cautionary statements and factors that could cause actual results to
+differ from our forward-looking statements are included in our annual report on Form 10-K
+for the fiscal year ended June 30, 2004 and other filings with the SEC. We undertake no
+obligation to update or revise these forward-looking statements to reflect events or
+circumstances after the date hereof. </FONT></P>
+
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2> </font></p>
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+</div>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2>&nbsp; </font></p>
+
+<div style='width:600;'>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CONTINUCARE CORPORATION </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CONDENSED CONSOLIDATED
+STATEMENTS OF OPERATIONS </FONT></P>
+
+
+<blockquote>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+  <TR VALIGN=Bottom align="center">
+    <td nowrap><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td nowrap><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td nowrap><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="5" nowrap><font size="2" face="Times New Roman, Times, serif">(Unaudited)
+      <br>
+      Three-Months Ended </font></td>
+    <td nowrap><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="5" nowrap><font size="2" face="Times New Roman, Times, serif">
+      Year Ended </font></td>
+    <td nowrap><font size="2" face="Times New Roman, Times, serif"></font></td>
+  </TR>
+  <TR VALIGN=Bottom align="center">
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="5">
+      <hr size=1 width=100% NOSHADE>
+    </td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="5">
+      <hr size=1 width=100% NOSHADE>
+    </td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+  </TR>
+  <TR VALIGN=Bottom align="center">
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="2"><font face="Times New Roman, Times, serif" size="2">6/30/04</font>
+    </td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="2"><font face="Times New Roman, Times, serif" size="2">6/30/03</font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="2"><font face="Times New Roman, Times, serif" size="2">6/30/04</font>
+    </td>
+    <td><font size="2" face="Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td colspan="2"><font face="Times New Roman, Times, serif" size="2">6/30/03</font>
+    </td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+  </TR>
+  <TR VALIGN=Bottom align="center">
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="5">
+      <hr size=1 width=100% NOSHADE>
+    </td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="5">
+      <hr size=1 width=100% NOSHADE>
+    </td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT>&nbsp;</TD>
+    <TD ALIGN=LEFT>&nbsp;</TD>
+    <TD ALIGN=LEFT>&nbsp;</TD>
+    <TD colspan="2" ALIGN=RIGHT>&nbsp;</TD>
+    <TD ALIGN=LEFT>&nbsp;</TD>
+    <TD colspan="2" ALIGN=RIGHT>&nbsp;</TD>
+    <TD ALIGN=LEFT>&nbsp;</TD>
+    <TD colspan="2" ALIGN=RIGHT>&nbsp;</TD>
+    <TD ALIGN=LEFT>&nbsp;</TD>
+    <TD colspan="2" ALIGN=RIGHT>&nbsp;</TD>
+    <TD ALIGN=LEFT>&nbsp;</TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Revenue:</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Medical
+      services</FONT></TD>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;revenue,
+      net</FONT></TD>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 26,962,935</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 25,513,723</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 101,758,761</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 97,164,834</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Management
+      fee</FONT></TD>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;revenue</FONT></TD>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>158,194</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>677,927</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Other
+      income</FONT></TD>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT nowrap><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6,048</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>22,829</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR>
+    <TD COLSPAN=3 nowrap></TD>
+    <TD COLSPAN=5>
+      <hr NOSHADE color=#808080 size=1>
+    </TD>
+    <TD></TD>
+    <TD COLSPAN=5 ALIGN=RIGHT>
+      <HR NOSHADE COLOR=#808080 SIZE=1>
+    </TD>
+    <TD></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total
+      revenue</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>27,127,177</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>25,513,723</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>102,459,517</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>97,164,834</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+
+
+<TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+
+<TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Operating
+      expenses:</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Medical
+      services:</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Medical
+      claims</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>20,400,851</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>19,296,643</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>76,333,580</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>74,046,265</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;Other
+      direct</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;costs</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2,904,081</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2,552,821</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>11,665,894</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>10,696,997</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total
+      medical</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;services</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>23,304,932</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>21,849,464</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>87,999,474</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>84,743,262</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+
+<TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Administrative</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;payroll
+      and</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;employee
+      benefits</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>904,909</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>772,164</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,822,949</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,681,446</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;General
+      and</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;administrative</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,525,589</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,683,843</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,821,871</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6,252,347</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Gain
+      on</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;extinguishment
+      of</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;debt</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(500,000</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(850,000</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;operating</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;expenses</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>25,235,430</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>24,305,471</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>96,794,294</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>94,677,055</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Income from</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;operations</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,891,747</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,208,252</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,665,223</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2,487,779</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+
+<TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Other income</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;(expense):</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Interest
+      income</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2,000</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,500</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>4,793</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6,568</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Interest
+      expense</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(263,155</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(265,850</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(1,006,082</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(956,327</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Medicare
+      settlement</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;related
+      to</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;terminated</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;operations</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2,218,278</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Income from</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;continuing</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;operations</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,630,592</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>943,902</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6,882,212</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1,538,020</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+
+<TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Income (loss)
+      from</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;discontinued</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;operations:</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Home
+      health</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;operations</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(425,269</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(1,666,934</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(1,830,118</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Terminated
+      IPA</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>305,712</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>73,091</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>350,696</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Loss from</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;discontinued</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;operations</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(119,557</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(1,593,843</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(1,479,422</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Net income</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 1,630,592</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 824,345</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 5,288,369</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> 58,598</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+  </tr>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Basic net
+      income</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;(loss)
+      per common</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;share:</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Income
+      from</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;continuing</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;operations</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .03</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .02</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .16</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .04</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Loss
+      from</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;discontinued</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;operations</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(.04</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(.04</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Net income
+      per</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;common
+      share</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .03</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .02</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .12</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> &#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+  </tr>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Diluted net
+      income</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;(loss)
+      per common</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;share:</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Income
+      from</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;continuing</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;operations</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .03</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .02</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .14</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .04</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;Loss
+      from</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;discontinued</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;operations</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(.03</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(.04</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>)</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Net income
+      per</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;common
+      share</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .03</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .02</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> .11</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2> &#151;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+  </tr>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Basic weighted</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;average
+      common</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;shares
+      outstanding</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>47,728,126</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>42,379,001</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>43,763,835</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>40,776,903</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+  </tr>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Diluted weighted</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;average
+      common</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;shares
+      outstanding</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>52,194,597</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>42,379,001</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>49,232,716</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>40,776,903</FONT></TD>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+  </TR>
+  <tr>
+    <td colspan=3 nowrap></td>
+    <td colspan=5>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+    <td colspan=5 align=RIGHT>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+  </tr>
+</TABLE>
+</blockquote>
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2> </font></p>
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+</div>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2>&nbsp; </font></p>
+
+<div style='width:600;'>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CONTINUCARE CORPORATION </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CONDENSED CONSOLIDATED
+BALANCE SHEETS </FONT></P>
+
+
+<blockquote>
+<table cellpadding=0 cellspacing=0 border=0>
+  <tr valign=Bottom align=center>
+    <td colspan=3><font face="Times New Roman, Times, Serif" size=2></font></td>
+    <td colspan=2><font face="Times New Roman, Times, Serif" size=2>June 30,<br>
+      2004 </font> </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td colspan=2><font face="Times New Roman, Times, Serif" size=2>June 30,<br>
+      2003 </font> </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT>&nbsp;</td>
+    <td align=LEFT>&nbsp;</td>
+    <td align=LEFT>&nbsp;</td>
+    <td colspan="2" align=RIGHT>
+      <hr size=1 width=100% NOSHADE>
+    </td>
+    <td align=LEFT>&nbsp;</td>
+    <td colspan="2" align=RIGHT>
+      <hr size=1 width=100% NOSHADE>
+    </td>
+    <td align=LEFT>&nbsp;</td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASSETS</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2></font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2></font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Current assets:</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Cash
+      and cash equivalents</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 720,360</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 160,743</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Certificates
+      of deposit, current</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>101,515</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>101,258</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Accounts
+      receivable, net of allowance for</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;doubtful
+      accounts of approximately $827,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;and
+      $4,823,000 at June 30, 2004 and 2003,</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;respectively</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>29,591</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>323,443</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Other
+      receivables</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>423,215</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>410,765</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Due
+      from Medicare, net</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>258,930</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Due
+      from HMOs, net of a liability for</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;incurred
+      but not reported medical claims</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;expense
+      of approximately $11,450,000 and</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;$13,014,000
+      at June 30, 2004 and 2003,</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;respectively</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>3,337,293</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>1,414,469</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Prepaid
+      expenses and other current assets</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>861,215</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>565,935</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total
+      current assets</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>5,473,189</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>3,235,543</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Certificates
+      of deposit</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>30,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>30,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Assets related
+      to discontinued operations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>540,398</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Equipment,
+      furniture and leasehold</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;improvements,
+      net</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>492,054</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>430,382</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Goodwill</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>14,342,510</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>14,342,510</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Managed care
+      contracts, net of accumulated</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;amortization
+      of approximately $2,069,000 and</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;$1,717,000
+      at June 30, 2004 and 2003,</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;respectively</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>1,442,858</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>1,793,431</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Deferred
+      financing costs, net of accumulated</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;amortization
+      of $222,500 and $142,160 at</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;June
+      30, 2004 and 2003, respectively</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>662,502</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>518,382</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Other assets,
+      net</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>100,483</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>109,330</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total
+      assets</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 22,543,596</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 20,999,976</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;LIABILITIES
+      AND SHAREHOLDERS' EQUITY</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Current liabilities:</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Accounts
+      payable</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 504,151</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 683,488</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Accrued
+      expenses</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>1,451,888</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>2,283,048</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Due
+      to Medicare, net</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>14,645</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Liabilities
+      related to discontinued</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;operations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>208,484</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>110,345</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Credit
+      facility</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>2,315,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Current
+      portion of convertible subordinated</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;notes
+      payable</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>233,716</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Current
+      portion of long-term debt</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>2,640,943</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Current
+      portion of related party note</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;payable</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>8,052</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>63,854</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Accrued
+      interest payable</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>710</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>51,754</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Current
+      portion of capital lease obligations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>81,163</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>70,913</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Deferred
+      revenue</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>3,000,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total
+      current liabilities</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>5,269,093</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>8,453,061</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Deferred
+      revenue</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>3,850,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Capital lease
+      obligations, less current</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;portion</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>101,177</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>125,606</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Convertible
+      subordinated notes payable, less</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;current
+      portion</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>4,122,751</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Long term
+      debt, less current portion</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>29,077</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>1,341,947</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Related party
+      note payable, less current</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;portion</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>117,717</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>997,333</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total
+      liabilities</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>5,517,064</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>18,890,698</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Commitments
+      and contingencies</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Shareholders'
+      equity:</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Common
+      stock; $0.0001 par value; 100,000,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;shares
+      authorized, 53,296,379 shares issued</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;and
+      50,300,186 shares outstanding at June</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;30,
+      2004 and 45,375,194 shares issued and</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;42,379,001
+      shares outstanding at June 30,</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;2003</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>5,031</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>4,239</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Additional
+      paid-in capital</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>69,907,973</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>60,279,880</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Accumulated
+      deficit</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(47,461,771</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(52,750,140</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Treasury
+      stock (2,996,193 shares at June 30,</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;2004
+      and 2003)</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(5,424,701</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(5,424,701</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Total
+      shareholders' equity</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>17,026,532</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>2,109,278</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Total
+      liabilities and shareholders'</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;equity</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 22,543,596</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 20,999,976</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+  </tr>
+</table>
+</blockquote>
+
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2> </font></p>
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+</div>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2>&nbsp; </font></p>
+
+<div style='width:600;'>
+
+<BR>
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CONTINUCARE CORPORATION
+         <BR>  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS </FONT></P>
+
+<BR>
+
+<blockquote>
+<table cellpadding=0 cellspacing=0 border=0>
+  <tr valign=Bottom align="center">
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="5"><font size="2" face="Times New Roman, Times, serif">Year Ended
+      June 30, </font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+  </tr>
+  <tr valign=Bottom align="center">
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="5">
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+  </tr>
+  <tr valign=Bottom align="center">
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="2"><font face="Times New Roman, Times, serif" size="2">2004 </font>
+    </td>
+    <td><font size="2" face="Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></td>
+    <td colspan="2"><font face="Times New Roman, Times, serif" size="2">2003 </font>
+    </td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+  </tr>
+  <tr valign=Bottom align="center">
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="2">
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+    <td colspan="2">
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td><font size="2" face="Times New Roman, Times, serif"></font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>CASH FLOWS
+      FROM OPERATING ACTIVITIES</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2></font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2></font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Net
+      income</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 5,288,369</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 58,598</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Loss
+      from discontinued operations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>1,593,843</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>1,479,422</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Income
+      from continuing operations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>6,882,212</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>1,538,020</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Adjustments
+      to reconcile net income to net</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;cash
+      provided by operating activities:</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Depreciation
+      and amortization, including</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;amortization
+      of deferred financing costs</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>1,201,675</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>1,162,034</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Provision
+      for bad debts</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>104,296</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>44,333</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Medicare
+      settlement related to terminated</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;operations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(2,218,278</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Loss
+      on disposal of property and equipment</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>500</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Director
+      compensation paid through the</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;issuance
+      of restricted common stock</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>123,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Gain
+      on extinguishment of debt</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(850,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Changes
+      in operating assets and liabilities,</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;excluding
+      the effect of disposals:</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Accounts
+      receivable</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>189,556</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(272,809</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Prepaid
+      expenses and other current assets</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(295,280</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(24,422</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Other
+      receivables</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(12,450</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>423,462</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Other
+      assets</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>3,763</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(29,629</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Accounts
+      payable and accrued expenses</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(1,010,497</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(114,317</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Due
+      from HMO's, net</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(1,922,824</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>384,182</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Due
+      to/from Medicare, net</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>273,575</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(137,695</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Accrued
+      interest payable</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(51,044</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>41,046</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Net
+      cash provided by continuing operations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>2,294,704</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>3,137,705</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Net
+      cash used in discontinued operations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(998,872</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(1,933,360</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Net cash
+      provided by operating activities</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>1,295,832</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>1,204,345</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>CASH FLOWS
+      FROM INVESTING ACTIVITIES</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Proceeds
+      from disposal of property and</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;equipment</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>500</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Purchase
+      of certificate of deposit</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(30,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(70,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Proceeds
+      from maturity of certificates of</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;deposit</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>29,743</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>99,555</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Purchase
+      of property and equipment</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(144,585</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(170,273</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Net
+      cash used in continuing operations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(144,842</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(140,218</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Net
+      cash (used in) provided by discontinued</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;operations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(938</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>15,751</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Net cash
+      used in investing activities</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(145,780</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(124,467</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>CASH FLOWS
+      FROM FINANCING ACTIVITIES</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Proceeds
+      from issuance of stock in private</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;placement
+      transaction</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>3,464,609</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Payments
+      on convertible subordinated notes</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(233,716</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(273,896</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Payments
+      on related party notes</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(35,953</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(63,853</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Principal
+      repayments under capital lease</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;obligation</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(76,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(112,256</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Payment
+      of deferred financing costs</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(15,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(15,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Proceeds
+      from exercise of stock options</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>351,370</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Net
+      decrease in credit facility</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(2,315,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Advances
+      from HMOs</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>75,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Payments
+      on advances from HMOs</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(75,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Third
+      party assumption of capital lease</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;obligation</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(1,789</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;Repayments
+      to Medicare per agreement</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(1,730,745</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(632,751</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Net
+      cash used in continuing operations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(590,435</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(1,099,545</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Net
+      cash used in discontinued operations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Net cash
+      used in financing activities</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(590,435</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(1,099,545</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Net increase
+      (decrease) in cash and cash</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;equivalents</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>559,617</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>(19,667</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>)</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Cash and
+      cash equivalents at beginning of</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;fiscal
+      year</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>160,743</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>180,410</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=1>
+    </td>
+    <td></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Cash and
+      cash equivalents at end of fiscal year</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 720,360</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 160,743</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td colspan=3></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+    <td colspan=2 align=RIGHT>
+      <hr NOSHADE color=#808080 size=2>
+    </td>
+    <td></td>
+  </tr>
+
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+
+  <tr valign=Bottom>
+    <td align=LEFT nowrap><font face="Times New Roman, Times, Serif" size=2>SUPPLEMENTAL
+      DISCLOSURE OF NONCASH INVESTING</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2> AND FINANCING
+      TRANSACTIONS:</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Stock issued
+      for deferred financing costs</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 870,000</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 645,541</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Stock issued
+      upon conversion of subordinated</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;notes
+      payable</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>4,043,441</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Stock issued
+      upon conversion of related party</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;note
+      payable</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>899,465</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Note payable
+      issued for refunds due to Medicare</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;for
+      overpayments</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>694,800</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Note payable
+      canceled due to settlement of cost</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;report
+      reopening</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&#151;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>222,574</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Purchase
+      of furniture and fixtures with</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;proceeds
+      of capital lease obligations</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>61,820</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>167,258</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>SUPPLEMENTAL
+      DISCLOSURE OF CASH FLOW</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;INFORMATION:</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+  <tr valign=Bottom>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>Cash paid
+      for interest</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 563,750</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2>$</font></td>
+    <td align=RIGHT><font face="Times New Roman, Times, Serif" size=2> 325,337</font></td>
+    <td align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;</font></td>
+  </tr>
+</table>
+</blockquote>
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2> </font></p>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CONTACT:&nbsp;Continucare Corporation, Miami<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+Fernando L. Fernandez, 305-350-7555 </FONT></P>
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

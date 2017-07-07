@@ -1,0 +1,805 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Wl/SuV3w/Kn+7XroGHnHq0oKwxyGYbYu5tTZ2i+fi0XyYF6WGmUu3SmH4Ggm528e
+ VFV4wLuDsWS/7GZafFvyow==
+
+<SEC-DOCUMENT>0000950116-04-002858.txt : 20040922
+<SEC-HEADER>0000950116-04-002858.hdr.sgml : 20040922
+<ACCEPTANCE-DATETIME>20040922121922
+ACCESSION NUMBER:		0000950116-04-002858
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20040922
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040922
+DATE AS OF CHANGE:		20040922
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTERMAGNETICS GENERAL CORP
+		CENTRAL INDEX KEY:			0000351012
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS FABRICATED METAL PRODUCTS [3490]
+		IRS NUMBER:				141537454
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11344
+		FILM NUMBER:		041040703
+
+	BUSINESS ADDRESS:	
+		STREET 1:		450 OLD NISKAYUNA RD
+		STREET 2:		PO BOX 461
+		CITY:			LATHAM
+		STATE:			NY
+		ZIP:			12110-0461
+		BUSINESS PHONE:		5187821122
+
+	MAIL ADDRESS:	
+		STREET 1:		450 OLD NISKAYUNA ROAD
+		STREET 2:		PO BOX 461
+		CITY:			LATHAM
+		STATE:			NY
+		ZIP:			12110-0461
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>eight-k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<html>
+<head><title>
+Prepared and filed by St Ives Burrups
+</title>
+</head>
+<body bgcolor="#FFFFFF">
+<page>
+  <p align="center"><font face="serif" size="2"><b><font face="serif" size="4">SECURITIES AND EXCHANGE COMMISSION<br>WASHINGTON, D.C.  20549</font></b></font></p> <p align="center"><font face="serif" size="2"><b></b></font></p> <p align="center"><font face="serif" size="2"><b>__________________</b></font></p> <p align="center"><font face="serif" size="2"><b></b></font></p> <p align="center"><font face="serif" size="2"><b><font face="serif" size="5">FORM 8-K
+</font></b></font></p>
+<p align="center"><font face="serif" size="2"><b><br>
+</b></font></p>
+<p align="center"><font face="serif" size="2"><b><br>
+</b></font></p>
+ <p align="center"><font face="serif" size="2"><b>CURRENT REPORT<br>Pursuant To Section 13 or 15(d) of the Securities Exchange Act of 1934</b></font></p>
+<p align="center"><font face="serif" size="2"><b><br>
+</b></font></p>
+<p align="center"><font face="serif" size="2"><b><br>
+</b></font></p>
+<p align="left"><font size="2" face="serif">Date of Report (Date of earliest event reported):  <b>September 22</b>, <b>2004</b></font></p>
+<br>
+<br>
+
+
+
+
+ <table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+<td align="center"><font size="4" face="serif">Intermagnetics General Corporation</font></td>
+</tr>
+<tr valign="top">
+<td><hr align="left" width="100%" size=1 noshade>
+  </td>
+</tr>
+<tr valign="top">
+<td align="center"><font size="2" face="serif">(Exact name of registrant as specified in its charter)</font></td>
+</tr>
+</table>
+<br><br>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr valign="top" bgcolor="#ffffff">
+<td align="center"><font size="2" face="serif">New York</font></td>
+<td align="left" width="5%">&nbsp;</td>
+<td width="26%" align="center"><font size="2" face="serif">1-11344</font></td>
+<td width="5%" align="left">&nbsp;</td>
+<td width="29%" align="center"><font size="2" face="serif">14-1537454</font></td>
+</tr>
+<tr valign="top">
+<td><hr noshade size="1"></td>
+<td></td>
+<td><hr noshade size="1"></td>
+<td></td>
+<td><hr noshade size="1"></td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="center"><font size="2" face="serif">(State or other jurisdiction<br>of incorporation)</font></td>
+<td align="left">&nbsp;</td>
+<td align="center"><font size="2" face="serif">(Commission<br>File Number)</font></td>
+<td align="left">&nbsp;</td>
+<td align="center"><font size="2" face="serif">(IRS Employer<br>Identification No.)</font></td>
+</tr>
+</table>
+<br><br>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+<tr valign="top" bgcolor="#ffffff">
+<td align="center"><font size="2" face="serif">450 Old Niskayuna Road, Latham, New York</font></td>
+<td align="left" width="5%">&nbsp;</td>
+<td width="25%" align="center"><font size="2" face="serif">12110</font></td>
+</tr>
+<tr valign="top">
+<td><hr noshade size="1"></td>
+<td></td>
+<td><hr noshade size="1"></td>
+</tr>
+<tr valign="top" bgcolor="#FFFFFF">
+<td align="center"><font size="2" face="serif">(Address of principal executive offices)</font></td>
+<td align="left">&nbsp;</td>
+<td align="center"><font size="2" face="serif">(Zip Code)</font></td>
+</tr>
+</table>
+<p align="left"><font size="2" face="serif">Registrant&#8217;s telephone number, including area code: <u>(518) 782-1122</u></font></p>
+<p align="left"><font size="2" face="serif">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></p>  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+<td align="left" width="5%"><img src="emptybox.gif"></td>
+<td align="left"><font size="2" face="serif">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+<td align="left"><img src="emptybox.gif"></td>
+<td align="left"><font size="2" face="serif">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+<td align="left"><img src="emptybox.gif"></td>
+<td align="left"><font size="2" face="serif">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+<td align="left"><img src="emptybox.gif"></td>
+<td align="left"><font size="2" face="serif">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></td>
+</tr>
+</table>
+<p align="center">&nbsp;</p>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<a name="p?"></a>
+<p>&nbsp;</p>
+<p><font face="serif" size="2"><b>Item 2.02  Results of Operations and Financial Condition.</b></font></p>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On September 22, 2004, Intermagnetics issued a press release announcing its financial performance for its first quarter period.  On that same date Intermagnetics conducted a conference call concerning its performance for the period ended August 29, 2004.  A copy of the press release is attached to this Form 8-K as Exhibit 99.1.</font></p>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information furnished in this Form 8-K and the Exhibits attached hereto shall not be deemed &#8220;filed&#8221; for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;), nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.&nbsp;</font></p>
+<p><font face="serif" size="2"><b>Item 9.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements and Exhibits.</b></font></p>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)   Exhibits</font></p>  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+  <td align="left" width="8%">&nbsp;</td>
+<td align="left" width="12%"><font size="2" face="serif">Exhibit 99.1</font></td>
+<td align="left"><font size="2" face="serif">Press release of Intermagnetics dated September 22, 2004 containing financial results for its first quarter period ended August 29, 2004 of fiscal year 2005.</font></td>
+</tr>
+</table>
+<p align="center">&nbsp;</p>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<a name="p?"></a>
+<p>&nbsp;</p>
+<p align="center"><font face="serif" size="2"><b>SIGNATURES</b></font></p>
+<p><font size="2" face="serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+
+<br>
+<br>
+<br>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+  <td align="left" width="52%">&nbsp;</td>
+<td colspan="2" align="left"><font size="2" face="serif">&nbsp;</font><font size="2" face="serif"><b>Intermagnetics General Corporation</b></font></td>
+</tr>
+<tr valign="top">
+  <td>&nbsp;</td>
+<td width="6%">&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+  <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+  <td align="left">&nbsp;</td>
+<td align="left"><font size="2" face="serif">&nbsp;</font><font size="2" face="serif">By: </font></td>
+<td align="left"><font size="2" face="serif">/s/ Michael K. Burke</font></td>
+</tr>
+<tr valign="top">
+  <td></td>
+<td></td>
+<td><hr noshade size="1"></td>
+</tr>
+<tr valign="top">
+  <td align="left">&nbsp;</td>
+<td align="left"><font size="2" face="serif">&nbsp;</font></td>
+<td align="left"><font size="2" face="serif">Michael K. Burke<br>Executive Vice President <br>and Chief Financial Officer</font></td>
+</tr>
+</table>
+<p align="left"><font size="2" face="serif">Dated: September 22, 2004</font></p>
+<p align="center">&nbsp;</p>
+<hr noshade align="center" width="100%" size="2">
+<div style="page-break-before:always"></div>
+<page>
+<a name="p?"></a>
+<p>&nbsp;</p>
+<p align="center"><font size="2" face="serif">EXHIBIT INDEX</font></p>  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+<td align="left" width="20%"><font size="2" face="serif"><u>Exhibit Number</u></font></td>
+<td align="left"><font size="2" face="serif"><u>Description</u></font></td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+<tr valign="top">
+<td align="left"><font size="2" face="serif">Exhibit 99.1</font></td>
+<td align="left"><font size="2" face="serif">Press release of Intermagnetics dated September 22, 2004 containing financial results for its first quarter period ended August 29, 2004 of fiscal year 2005.</font></td>
+</tr>
+<tr valign="top">
+<td>&nbsp;</td>
+<td>&nbsp;</td> </tr>
+</table>
+<p align="center">&nbsp;</p>
+<hr noshade align="center" width="100%" size="2">
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>emptybox.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 emptybox.gif
+M1TE&.#EA#``,`/?^``````$!`0("`@,#`P0$!`4%!08&!@<'!P@("`D)"0H*
+M"@L+"PP,#`T-#0X.#@\/#Q`0$!$1$1(2$A,3$Q04%!45%186%A<7%Q@8&!D9
+M&1H:&AL;&QP<'!T='1X>'A\?'R`@("$A(2(B(B,C(R0D)"4E)28F)B<G)R@H
+M*"DI*2HJ*BLK*RPL+"TM+2XN+B\O+S`P,#$Q,3(R,C,S,S0T-#4U-38V-C<W
+M-S@X.#DY.3HZ.CL[.SP\/#T]/3X^/C\_/T!`0$%!04)"0D-#0T1$1$5%149&
+M1D='1TA(2$E)24I*2DM+2TQ,3$U-34Y.3D]/3U!04%%145)24E-34U145%55
+M55965E=75UA86%E965I:6EM;6UQ<7%U=75Y>7E]?7V!@8&%A86)B8F-C8V1D
+M9&5E969F9F=G9VAH:&EI:6IJ:FMK:VQL;&UM;6YN;F]O;W!P<'%Q<7)R<G-S
+M<W1T='5U=79V=G=W=WAX>'EY>7IZ>GM[>WQ\?'U]?7Y^?G]_?X"`@(&!@8*"
+M@H.#@X2$A(6%A8:&AH>'AXB(B(F)B8J*BHN+BXR,C(V-C8Z.CH^/CY"0D)&1
+MD9*2DI.3DY24E)65E9:6EI>7EYB8F)F9F9J:FIN;FYR<G)V=G9Z>GI^?GZ"@
+MH*&AH:*BHJ.CHZ2DI*6EI::FIJ>GIZBHJ*FIJ:JJJJNKJZRLK*VMK:ZNKJ^O
+MK["PL+&QL;*RLK.SL[2TM+6UM;:VMK>WM[BXN+FYN;JZNKN[N[R\O+V]O;Z^
+MOK^_O\#`P,'!P<+"PL/#P\3$Q,7%Q<;&QL?'Q\C(R,G)R<K*RLO+R\S,S,W-
+MS<[.SL_/S]#0T-'1T=+2TM/3T]34U-75U=;6UM?7U]C8V-G9V=K:VMO;V]S<
+MW-W=W=[>WM_?W^#@X.'AX>+BXN/CX^3DY.7EY>;FYN?GY^CHZ.GIZ>KJZNOK
+MZ^SL[.WM[>[N[N_O[_#P\/'Q\?+R\O/S\_3T]/7U]?;V]O?W]_CX^/GY^?KZ
+M^OO[^_S\_/W]_?[^_O___R'Y!`$``/X`+``````,``P`!P@Z`/\)'$APX)L?
+M"!,J_/<#F;B'$!\:8"BNX,`#%"T*Q/BCHD:.'BV"U/AOY,>,)SN2Y&C@@,N7
+&+@$$!``[
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>ex99-1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<PAGE>
+
+FOR IMMEDIATE RELEASE                           CONTACT: MICHAEL BURKE
+NASDAQ: IMGC                                             EXEC. VP & CFO
+                                                CONTACT: CATHY YUDZEVICH
+                                                         IR MANAGER
+                                                         (518) 782-1122
+
+              INTERMAGNETICS REPORTS Q1 NET INCOME OF $5.3 MILLION
+
+         o  REVENUES CLIMB TO NEARLY $60 MILLION WITH STRONG CONTRIBUTIONS FROM
+            ALL BUSINESS SEGMENTS
+         o  NEWLY ACQUIRED BUSINESSES PERFORM TO TARGETED LEVELS
+         o  DEBT LEVELS AGGRESSIVELY REDUCED, BALANCE SHEET REMAINS STRONG
+         o  COMPANY REAFFIRMS REVENUE, PROFIT PROJECTIONS FOR RECORD FISCAL 2005
+
+LATHAM, N.Y., SEPTEMBER 22, 2004--Intermagnetics General Corporation (NASDAQ:
+IMGC), citing solid performance in "historic" operations and strong
+contributions from recently acquired businesses, today announced that
+first-quarter net income climbed to $5.7 million, or $0.21 per diluted share,
+excluding acquisition-related expenses and the non-cash effects of the scheduled
+vesting of performance-based stock compensation charges and recovery of certain
+charges from a prior divestiture. Reported net income was $5.3 million, or $0.20
+per diluted share. Net income for the prior-year quarter was $262,000, or $0.01
+per diluted share. All per share amounts have been adjusted for the recent
+3-for-2 stock split completed in August 2004.
+
+Net sales for the quarter ended August 29, 2004, increased to $59.7 million,
+compared with $22.3 million a year earlier. Sales and earnings for the
+prior-year first quarter were affected by a planned reduction in deliveries of
+magnet systems to accommodate a strategic enhancement to the company's exclusive
+supply agreement with its major customer, an integrator of magnetic resonance
+imaging systems.
+
+"We are extremely pleased with our first-quarter performance--across the
+board--in terms of the entire P&L, the balance sheet and the overall success of
+our newly broadened base of businesses," said Glenn H. Epstein, chairman and
+chief executive officer. "Our revenue is right on target for the conclusion of
+the slower summer sales season even when taking into account the later than
+anticipated closing of our acquisition of MRI Devices (MRID).
+
+"Our newly acquired businesses--Invivo and MRID--have been performing well, as
+have our historical businesses," Epstein said. "The Instrumentation segment was
+especially strong, with a nearly 42 percent increase in sales and more than four
+times the operating profit of a year earlier."
+
+SMOOTH INTEGRATION OF ACQUIRED BUSINESSES
+
+Epstein said that the integration of Invivo, a maker of MRI-related patient
+monitoring systems and other devices acquired early in 2004, has been
+essentially completed and that the integration of MRID is proceeding on plan.
+Invivo contributed $18.6 million in
+
+                                     -More-
+
+
+<PAGE>
+
+
+
+
+revenue, an improvement of more than 15 percent from a year earlier. MRID, a
+maker of specialized Radio Frequency (RF) coils and sub-systems for MRI
+equipment, contributed about $5 million in revenue during its first six weeks as
+part of Intermagnetics.
+
+"We are highly confident that these integrations will continue to progress
+smoothly and that both the key management and overall employee base will
+contribute to the long-term growth of our company," Epstein said.
+
+Epstein noted that this is the last quarter where stand-alone revenue figures
+will be available for MRID due to its physical merger into one operating
+division with the pre-existing RF coil business of Medical Advances, Inc. (MAI).
+Expectations remain that combined revenues this fiscal year will still
+demonstrate growth over the prior year despite some product rationalization
+activities currently underway.
+
+STRONG RESULTS FROM ALL BUSINESS SEGMENTS
+
+"The operating units we had in place prior to the acquisitions all turned in
+strong performances during the first quarter," Epstein said. "Magnet Systems &
+Components sales (exclusive of MRID) were consistent with seasonal expectations,
+and the RF coil product lines continued to benefit from the efforts of the
+Invivo sales team. The direct sales potential of MRID's RF coils are also
+expected to benefit from the combined global sales effort in the coming quarter.
+All businesses within the segment contributed to producing a $7.6 million
+operating profit, compared with $297,000 in last year's first quarter.
+
+"Invivo's $18.6 million in sales resulted in a $1.5 million operating profit for
+the new Medical Devices segment," Epstein added. "The Instrumentation segment,
+consisting of Polycold Systems, Inc., had an exceptional quarter, with sales
+climbing 42 percent to $8.2 million and operating profit increasing to $2.5
+million, from slightly less than $0.6 million last year. Polycold continues to
+see increases in demand for vacuum-related products across a broad range of
+non-semiconductor related customers in Europe, the U.S. and the Pacific Rim."
+
+The Energy Technology segment achieved significant technical and prototype
+device milestones on revenue of $1.5 million and an overall investment of $2.1
+million, both of which were in line with anticipated levels of activity for this
+emerging business area.
+
+BALANCE SHEET REMAINS STRONG
+
+The company reported a strong balance sheet with operating cash flow of nearly
+$5.9 million during the quarter, resulting in a cash position of $10.8 million
+at quarter-end net of $11.1 million of repayment of debt, $10 million of which
+was in excess of scheduled requirements. Total long-term debt now stands at
+$94.3 million. Earnings before interest, taxes and depreciation (EBITDA) reached
+$10.7 million. Epstein said the company's strengthening cash flow continues to
+provide the flexibility to aggressively pay down debt while maintaining the
+ability to invest in ongoing growth opportunities throughout the operating
+businesses.
+
+
+                                     -More-
+
+
+<PAGE>
+
+
+PERFORMANCE AGAINST GOALS
+
+Epstein noted that Intermagnetics' first-quarter gross margin of 45 percent
+substantially exceeded the company's recently enhanced target of 42 percent due
+to favorable product mix and continued cost reduction efforts, with particular
+contributions from accelerating efficiencies at Polycold. He commented that
+while it remains premature to revise consolidated gross margin targets upward,
+the overall financial model will be re-examined once MRID has been included in
+results for a full quarter of operations. Operating income as a percent of sales
+was 16 percent, which exceeded the ongoing target of 15 percent. Return on
+assets, at 49 percent, was consistent with the long-term goal of 50 percent.
+Return on equity was very strong--19 percent--versus the recently raised goal of
+15 percent.
+
+"Our overall efficiency in utilizing working capital was not to our historical
+standard--21 percent versus our goal of requiring less than 15 percent of
+sales--largely because of the effects of the acquired companies' current
+inventories and accounts receivable," Epstein said. "These metrics are in the
+process of being prioritized, and we expect to demonstrate improvement in the
+coming quarters."
+
+ACQUISITION-RELATED, NON-CASH ITEMS DETAILED
+
+Among the items excluded in comparisons and operating EPS projections is about
+$0.12 in non-cash performance-based stock compensation expense, expected to be
+split evenly over the four quarters. Another $0.03 in final charges related to
+the Invivo acquisition are expected to consist of about $0.01 in each of the
+first three quarters, and $0.07 to $0.10 in MRID acquisition charges are
+expected to be spread out through the year, with $0.01 in the first quarter,
+$0.02 to $0.04 in the second quarter and the balance in the second half of the
+year. Epstein noted that guidance has been adjusted for the recent stock split
+yet remains consistent with earlier projections on an overall basis, but
+adjusted slightly for estimated timing on the charges to be actually incurred.
+
+Epstein also explained that a non-cash gain of $0.03 ($1.1 million) was
+recognized in the first quarter as an adjustment to an environmental reserve
+established with the divestiture of IGC-Advanced Superconductors (a business
+focused on traditional, low- temperature superconductors) in 2001.
+
+FORECAST FOR FISCAL YEAR REMAINS STRONG, Q2 OUTLOOK PROVIDED
+
+"Based on the strength of our traditional and acquired businesses and the growth
+we see ahead in our core market segments, we remain highly confident that we
+will meet our earlier projections of revenue for fiscal 2005 of about $300
+million and earnings per share on a normalized basis--excluding
+acquisition-related and non-cash performance-based stock compensation and other
+charges or benefits--to be in the $1.03 to $1.10 range," Epstein said. "While
+our first-quarter SG&A (selling, general and administrative expense) was up in
+total dollars, it was in line with our evolving operating model, and we believe
+we are now well positioned to receive incrementally accelerating benefits from
+revenue gains in the long term from a relatively fixed base of facilities,
+engineering and manufacturing costs.
+
+"Our current outlook for the `new Intermagnetics' second quarter is for record
+revenue and profit, with growth in the range of 25 percent to what we just
+achieved during the first quarter."
+                                     -More-
+
+<PAGE>
+
+
+CONFERENCE CALL TODAY
+
+The company will discuss its first-quarter results as well as other developments
+during a conference call today beginning at 11 a.m. EDT. The call will be
+broadcast live and archived over the Internet through the company's web site
+www.intermagnetics.com under the Investor Relations section. The domestic
+dial-in number for the live call is (877) 407-8037. The international dial-in
+number is (201) 689-8037. No conference code is required for the live call. The
+company will also make available a digital replay beginning today at 2 p.m. EDT
+through midnight September 27, 2004, by dialing (201) 612-7415 - account number
+2926 and requesting conference 117206.
+
+Intermagnetics draws on the financial strength, operational excellence and
+technical leadership in its expanding business of Medical Technology that
+encompasses Magnetic Resonance Imaging Systems & Components and Patient
+Monitoring. Intermagnetics is also a key supplier to the markets within
+Instrumentation and has become a prominent participant in superconducting
+applications for Energy Technology. The company has a more than 30-year history
+as a successful developer, manufacturer and marketer of superconducting
+materials, high-field magnets, medical systems & components and other
+specialized high-value added devices.
+
+
+
+SAFE HARBOR STATEMENT: The statements contained in this press release that are
+not historical fact are "forward-looking statements" which involve various
+important assumptions, risks, uncertainties and other factors. These
+forward-looking statements are based on currently available competitive,
+financial and economic data and management's views and assumptions regarding
+future events. Such forward-looking statements are inherently uncertain and are
+subject to risks, including but not limited to: possible future legal
+proceedings; the company's ability to meet the performance, quality and price
+requirements of our customers and maintain gross margin levels through continued
+production cost reductions and manufacturing efficiencies; the ability of the
+company's largest customer to maintain and grow its share of the market for MRI
+systems; continued improvement in order trends from the Instrumentation segment;
+the company's ability to successfully integrate Invivo Corporation and MRI
+Devices Corporation; and the company's ability to invest sufficient resources in
+and obtain third-party funding for its HTS development efforts and avoid the
+potential adverse impact of competitive emerging patents; as well as other risks
+and uncertainties set forth herein and in the company's Annual Report on Forms
+10-K and 10-Q. Except for the company's continuing obligation to disclose
+material information under federal securities law, the company is not obligated
+to update its forward-looking statements even though situations may change in
+the future. The company qualifies all of its forward-looking statements by these
+cautionary statements.
+
+                                 -TABLES FOLLOW-
+
+<PAGE>
+                       INTERMAGNETICS GENERAL CORPORATION
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                (Dollars in Thousands, Except Per Share Amounts)
+                                   (Unaudited)
+<TABLE>
+<CAPTION>
+                                                                      Three Months Ended
+                                                                -------------------------------
+                                                                   August 29,       August 24,
+                                                                     2004             2003
+                                                                --------------   --------------
+<S>                                                                     <C>              <C>
+
+Net sales                                                            $  59,748        $  22,269
+
+Cost of products sold                                                   32,734           13,784
+                                                                 --------------   --------------
+
+Gross margin                                                            27,014            8,485
+
+Product research and development                                         5,124            2,908
+Selling, general and administrative                                     11,514            4,788
+Stock based compensation                                                 1,127               86
+Amortization of intangible assets                                        1,395              461
+                                                                 --------------   --------------
+                                                                        19,160            8,243
+                                                                 --------------   --------------
+
+Operating income                                                         7,854              242
+Interest and other income                                                  202              281
+Interest and other expense                                              (1,014)            (122)
+Gain on prior period sale of division                                    1,094
+                                                                 --------------   --------------
+  Income before income taxes                                             8,136              401
+Provision for income taxes                                               2,823              139
+                                                                 --------------   --------------
+
+NET INCOME                                                            $  5,313           $  262
+                                                                 ==============   ==============
+Earnings per Common Share:
+  Basic                                                                  $0.20            $0.01
+                                                                 ==============   ==============
+  Diluted                                                                $0.20            $0.01
+                                                                 ==============   ==============
+
+Shares:
+       Basic                                                        26,678,519       24,725,249
+                                                                 ==============   ==============
+       Diluted                                                      27,236,934       25,217,394
+                                                                 ==============   ==============
+</TABLE>
+
+<PAGE>
+                       INTERMAGNETICS GENERAL CORPORATION
+                      RECONCILING STATEMENTS OF OPERATIONS
+                (Dollars in Thousands, Except Per Share Amounts)
+                                   (Unaudited)
+<TABLE>
+<CAPTION>
+                                                                        Three Months Ended
+                                                                 ---------------------------------
+                                                                   August 29,        August 24,
+Operations without Acquisition and Non-cash Items:                    2004              2003
+                                                                 ---------------   ---------------
+<S>                                                                       <C>               <C>
+
+Net sales                                                           $    59,748       $    22,269
+
+Cost of products sold                                                    32,596            13,784
+                                                                 ---------------   ---------------
+
+Gross margin                                                             27,152             8,485
+
+Product research and development                                          5,106             2,908
+Selling, general and administrative                                      11,153             4,788
+Stock based compensation                                                      -                 -
+Amortization of intangible assets                                         1,395               461
+                                                                 ---------------   ---------------
+                                                                         17,654             8,157
+                                                                 ---------------   ---------------
+
+Operating income                                                          9,498               328
+Interest and other income                                                   202               281
+Interest and other expense                                              (1,014)             (122)
+Gain on prior period sale of division                                         -                 -
+                                                                 ---------------   ---------------
+  Income before income taxes                                              8,686               487
+Provision for income taxes                                                3,014               169
+                                                                 ---------------   ---------------
+
+NET INCOME                                                          $     5,672       $       318
+                                                                 ===============   ===============
+Earnings per Common Share:
+  Basic                                                                   $0.21             $0.01
+                                                                 ===============   ===============
+  Diluted                                                                 $0.21             $0.01
+                                                                 ===============   ===============
+
+Shares:
+       Basic                                                         26,678,519        24,725,249
+                                                                 ===============   ===============
+       Diluted                                                       27,236,934        25,217,394
+                                                                 ===============   ===============
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                         Three Months Ended
+                                                                  ----------------------------------
+                                                                     August 29,        August 24,
+Reconciliation of Financial Statements to GAAP Equivalent:              2004              2003
+                                                                  --------------    ----------------
+<S>                                                                       <C>                <C>
+Pro-forma net income                                                   $  5,672            $  318
+Acquisition related charges                                                (517)
+Non-cash Items:
+   Gain on prior period sale of division                                  1,094
+   Stock based compensation                                              (1,127)              (86)
+Provision for taxes relating to pro-forma adjustments                       191                30
+                                                                  --------------     -------------
+As Reported Net Income                                                 $  5,313            $  262
+                                                                  ==============     =============
+</TABLE>
+
+<PAGE>
+                       INTERMAGNETICS GENERAL CORPORATION
+                      Condensed Consolidated Balance Sheets
+                             (Dollars in Thousands)
+                               (unaudited)
+<TABLE>
+<CAPTION>
+                                                                  August 29,          May 30,
+                                                                     2004              2004
+                                                                --------------     -------------
+<S>                                                                    <C>               <C>
+ASSETS
+CURRENT ASSETS
+  Cash and short-term investments                                   $  10,825         $  11,868
+  Trade accounts receivable                                            57,622            41,218
+  Costs and estimated earnings in
+     excess of billings on uncompleted contracts                           86               127
+  Inventories                                                          34,401            27,037
+  Income tax receivable                                                 1,756             4,285
+  Prepaid expenses and other                                            9,324             8,941
+                                                                --------------     -------------
+
+  TOTAL CURRENT ASSETS                                                114,014            93,476
+
+PROPERTY, PLANT AND EQUIPMENT, net                                     42,799            36,736
+
+GOODWILL, INTANGIBLE AND OTHER ASSETS                                 239,496           154,723
+                                                                --------------     -------------
+                                                                    $ 396,309         $ 284,935
+                                                                ==============     =============
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES
+  Current portion of long-term debt                                 $   4,481         $   4,171
+  Accounts payable                                                     11,078            10,242
+  Salaries, wages and related items                                    12,747            10,799
+  Customer advances and deposits                                        2,762             1,302
+  Product warranty reserve                                              3,145             3,189
+  Other liabilities and accrued expenses                               11,364            11,753
+                                                                --------------     -------------
+TOTAL CURRENT LIABILITIES                                              45,577            41,456
+
+LONG-TERM DEBT,  less current portion                                  94,344            57,635
+NOTE PAYABLE                                                            5,000
+DEFERRED INCOME TAXES                                                  10,050            10,050
+DERIVATIVE LIABILITY                                                      189               225
+
+SHAREHOLDERS' EQUITY                                                  241,149           175,569
+                                                                --------------     -------------
+                                                                    $ 396,309         $ 284,935
+                                                                ==============     =============
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                INTERMAGNETICS GENERAL CORPORATION
+
+SUMMARY OF PERFORMANCE AGAINST GOALS
+
+
+                                                                         Three Months Ended
+                                                         --------------------------------------------
+                                                           August 29, 2004           August 24, 2003               Goal
+                                                         --------------------      ------------------          -------------
+
+<S>                                                             <C>                       <C>                       <C>
+Gross Margin (2)                                                45%                       38%                       42%
+Operating Income:
+  Percent of Sales (2)                                          16%                        2%                       15%
+  Percent of Net Operating Assets (1) (2)                       49%                        3%                       50%
+Return on Equity (1) (2)                                        19%                        1%                       15%
+Working Capital Efficiency (Working
+   capital, less cash divided by net sales) (1) (2)             21%                       25%                       15%
+</TABLE>
+
+(1) Based on annualized data
+(2) Based on normalized data
+
+             SEGMENT DATA
+<TABLE>
+<CAPTION>
+                                                                            Three Months Ended
+                                          ----------------------------------------------------------------------------------------
+                                                                              August 29, 2004
+                                          ----------------------------------------------------------------------------------------
+(Dollars in Thousands)                     Magnetic Resonance      Medical                                  Energy
+                                                Imaging            Devices          Instrumentation       Technology        Total
+                                          --------------------   ----------         ----------------      ----------       -------
+<S>                                               <C>                <C>                   <C>                 <C>            <C>
+Net sales to external customers:
+  Magnet systems & components                   $31,341                                                                   $ 31,341
+  Patient Monitors                                                   18,632                                                 18,632
+  Refrigeration equipment                                                               $ 8,225                              8,225
+  Other                                                                                                     $ 1,550          1,550
+                                               --------            --------            --------             -------       --------
+          Total                                  31,341              18,632               8,225               1,550         59,748
+
+Intersegment sales                                1,467                                                                      1,467
+Segment operating profit (loss) (2)               7,570               1,517               2,513              (2,102)         9,498
+Non-recurring charges                            (1,435)               (209)                                                (1,644)
+
+Total assets                                   $342,551             $32,591             $11,068              10,099       $396,309
+
+<CAPTION>
+                                                                              August 24, 2003
+                                          ----------------------------------------------------------------------------------------
+                                           Magnetic Resonance      Medical                                  Energy
+                                                Imaging            Devices          Instrumentation       Technology        Total
+                                          --------------------   ----------         ----------------      ----------       -------
+<S>                                               <C>                <C>                   <C>                 <C>            <C>
+
+Net sales to external customers:
+  Magnet systems & components                   $14,427                                                                    $14,427
+  Refrigeration equipment                                                                $5,810                              5,810
+  Other                                                                                                      $2,032          2,032
+                                               --------            --------            --------             -------       --------
+          Total                                  14,427                   -               5,810               2,032         22,269
+
+
+Segment operating profit (loss) (2)                 297                   -                 593                (562)           328
+Non-recurring charges                               (86)                                                                       (86)
+
+Total assets                                   $162,854                   -              $9,339             $10,673       $182,866
+
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                             Three Months Ended
+                                                                    ------------------------------------
+
+                                                                      August 29, 2004    August 24, 2003
+                                                                    -----------------   ----------------
+<S>                                                                         <C>                <C>
+
+Reconciliation of income before income taxes:
+
+Total profit from reportable segments                                $         7,854     $          242
+Intercompany profit in ending inventory
+                                                                    -----------------   ----------------
+Net operating profit                                                           7,854                242
+
+Interest and other income                                                        202                281
+Interest and other expense                                                    (1,014)              (122)
+Gain on prior period sale of division                                          1,094
+                                                                    -----------------   ----------------
+Income before income taxes                                           $         8,136     $          401
+                                                                    =================   ================
+</TABLE>
+
+                                      ####
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

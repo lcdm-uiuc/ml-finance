@@ -1,0 +1,875 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WRRgtkILPtGscsL1aUh0wp9VL0/ySy/mUqSt3Q1qJJfmsC4iBM3AVa9I4EsTN63q
+ gcIiHDbO2HiLJThDmcZ+WA==
+
+<SEC-DOCUMENT>0000950144-04-009249.txt : 20040921
+<SEC-HEADER>0000950144-04-009249.hdr.sgml : 20040921
+<ACCEPTANCE-DATETIME>20040921160652
+ACCESSION NUMBER:		0000950144-04-009249
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20040921
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20040921
+DATE AS OF CHANGE:		20040921
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JABIL CIRCUIT INC
+		CENTRAL INDEX KEY:			0000898293
+		STANDARD INDUSTRIAL CLASSIFICATION:	PRINTED CIRCUIT BOARDS [3672]
+		IRS NUMBER:				381886260
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14063
+		FILM NUMBER:		041039426
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10560 NINTH ST NORTH
+		CITY:			ST PETERSBURG
+		STATE:			FL
+		ZIP:			33716
+		BUSINESS PHONE:		7275779749
+
+	MAIL ADDRESS:	
+		STREET 1:		10560 NINTH STREET NORTH
+		CITY:			ST PETERSBURG
+		STATE:			FL
+		ZIP:			33716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>g91019e8vk.htm
+<DESCRIPTION>JABIL CIRCUIT, INC.
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Jabil Circuit, Inc.</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt">CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+<P align="center" style="font-size: 10pt">Date of Report (Date of earliest event reported): September&nbsp;21, 2004
+
+
+<P align="center" style="font-size: 24pt"><B>JABIL CIRCUIT, INC.</B>
+
+
+<DIV align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="100%">
+(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="75%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>001-14063</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>38-1886260</B></TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction<BR>
+of incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer<BR>
+Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>10560 Dr.&nbsp;Martin Luther King, Jr. Street North, St. Petersburg, Florida 33716</B>
+
+
+<DIV align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="100%">
+(Address of principal executive offices) (Zip Code)</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: <B>(727)&nbsp;577-9749</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>N/A</B>
+
+
+<DIV align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="100%">
+(Former name or former address, if changed since last report)</DIV>
+
+<P align="left" style="font-size: 10pt">
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing<br>
+ obligation of the registrant under any of the following provisions (see General Instruction A.2. below):</DIV>
+<P align="left" style="font-size: 10pt">[&nbsp;&nbsp;&nbsp;]  Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<br>
+[&nbsp;&nbsp;&nbsp;]  Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)<br>
+[&nbsp;&nbsp;&nbsp;]  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))<br>
+[&nbsp;&nbsp;&nbsp;]  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+<P>
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">Item&nbsp;2.02. Results of Operations and Financial Condition.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;9.01 Financial Statements and Exhibits.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003">EXHIBIT INDEX</A></TD></TR>
+<TR><TD colspan="9"><A HREF="g91019exv99w1.txt">Ex-99.1 Press Release</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link2 "Item&nbsp;2.02. Results of Operations and Financial Condition." -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;2.02. Results of Operations and Financial Condition.</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On September&nbsp;21, 2004, Jabil Circuit, Inc. issued a press release
+announcing its results of operations for the fourth fiscal quarter and fiscal
+year ended August&nbsp;31, 2004. A copy of the press release is furnished as
+Exhibit&nbsp;99.1 hereto and is incorporated herein by reference.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The information furnished herewith pursuant to Item&nbsp;2.02 of this Current
+Report shall not be deemed to be &#147;filed&#148; for the purposes of Section&nbsp;18 of the
+Securities Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;), or otherwise
+subject to the liabilities of that section. The information in this Current
+Report shall not be incorporated by reference into any filing under the
+Securities Act of 1933, as amended, or the Exchange Act, whether made before or
+after the date of this Current Report, regardless of any general incorporation
+language in the filing.
+
+<!-- link2 "Item&nbsp;9.01 Financial Statements and Exhibits." -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01 Financial Statements and Exhibits.</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;Exhibits
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following exhibit is furnished herewith:
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="55%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="10%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="85%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Number</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press release dated September&nbsp;21, 2004.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+<P align="left" style="font-size: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, as
+amended, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">JABIL CIRCUIT, INC.<BR>
+(Registrant)<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>September 21, 2004</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000">/s/ Forbes I.J. Alexander
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">Forbes I.J. Alexander,<br> Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<!-- link1 "EXHIBIT INDEX" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>EXHIBIT INDEX</B>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">99.1</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Press release dated September&nbsp;21, 2004</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>g91019exv99w1.txt
+<DESCRIPTION>EX-99.1 PRESS RELEASE
+<TEXT>
+<PAGE>
+[JABIL CIRCUIT NEWS LOGO]
+
+This news release contains forward-looking statements, including those regarding
+the anticipated outlook for our business, our currently estimated first quarter
+and full fiscal year 2005 revenues and earnings results and our long-term
+outlook for our company, our industry and our customers. These statements are
+based on current expectations, forecasts and assumptions involving risks and
+uncertainties that could cause actual outcomes and results to differ materially.
+These risks and uncertainties include, but are not limited to: fluctuations in
+operating results; changes in technology; competition; anticipated growth for us
+and our industry may not occur; managing rapid growth; managing any rapid
+declines in customer demand that may occur; our ability to successfully
+consummate our acquisitions; managing the integration of businesses we acquire;
+risks associated with international sales and operations; retaining key
+personnel; our dependence on a limited number of customers; the consolidation of
+our customer base; business and competitive factors generally affecting the
+electronic manufacturing services industry, our customers and our business;
+other factors that we may not have currently identified or quantified; and other
+risks, relevant factors and uncertainties identified in our Annual Report on
+Form 10-K for the fiscal year ended August 31, 2003, any subsequent Reports on
+Form 10-Q and Form 8-K and our other securities filings. Jabil disclaims any
+intention or obligation to update or revise any forward-looking statements,
+whether as a result of new information, future events or otherwise.
+
+
+         JABIL CIRCUIT REPORTS FOURTH QUARTER & FISCAL YEAR 2004 RESULTS
+               Company Posts Record Revenues for Quarter and Year
+
+
+ST. PETERSBURG, FL - SEPTEMBER 21, 2004...Jabil Circuit, Inc. (NYSE: JBL), a
+global electronics manufacturing services provider, today reported results for
+the fourth fiscal quarter and fiscal year 2004, ended August 31, 2004.
+
+FISCAL FOURTH QUARTER 2004
+Revenue for the fourth fiscal quarter of 2004 increased 25 percent to $1.6
+billion compared to $1.3 billion for the same period of fiscal 2003.
+
+Under accounting principles generally accepted in the United States of America
+("GAAP"), net income for the fourth quarter of fiscal 2004 increased to $44.3
+million as compared to $20.1 million for the same period in fiscal 2003. GAAP
+diluted earnings per share for the fourth quarter of fiscal 2004 were $0.22
+compared to $0.10 for the same period of fiscal 2003.
+
+Jabil's fourth quarter of fiscal 2004 core earnings increased 32 percent to
+$54.7 million, compared to $41.4 million for the fourth quarter of fiscal 2003.
+Core earnings per share increased 35 percent to $0.27 per diluted share for the
+period, compared to $0.20 for the fourth quarter of fiscal 2003. (Jabil defines
+core earnings as GAAP net income before amortization of intangibles,
+acquisition-related charges, restructuring and impairment charges and other
+income/loss, net of tax. Jabil reports core earnings to provide its investors
+with an alternative method for assessing its earnings from what it believes to
+be its core manufacturing operations. See the accompanying reconciliation of
+Jabil's core earnings to its GAAP net income and additional information in the
+supplemental information below).
+
+Gross profit for the fourth quarter of fiscal 2004 increased 14 percent to
+$137.7 million or 8.5 percent of revenue compared to $120.4 million or 9.3
+percent of revenue for the same period of fiscal 2003.
+
+On a GAAP basis, operating income for the fourth quarter of fiscal 2004
+increased to $56.9 million compared to $27.4 million for the same period of
+fiscal 2003.
+
+Core operating income for the fourth quarter of fiscal 2004 increased 28 percent
+to $67.7 million or 4.2 percent of revenue compared to $52.8 million or 4.1
+percent of revenue for the fourth quarter of fiscal 2003. (Jabil defines core
+operating income as GAAP operating income before amortization of intangibles,
+acquisition-related charges and restructuring and impairment charges. Jabil
+reports core operating income to provide its investors with an alternative
+method for assessing its operating income from what it believes to be its core
+manufacturing operations. See the accompanying reconciliation of Jabil's core
+operating income to its GAAP operating income and additional information in the
+supplemental information below).
+
+
+
+                                   ( M O R E )
+
+
+
+<PAGE>
+Q4 2004 Earnings Release--Add One
+September 21, 2004
+
+
+OTHER QUARTERLY HIGHLIGHTS
+
+- -        Cash flow from operations was approximately $100 million for the fourth
+         quarter of fiscal 2004.
+- -        Sales cycle for the fourth quarter of fiscal 2004 was 26 days.
+- -        Calculated inventory turns for the fourth quarter of fiscal 2004 were
+         nine.
+- -        Capital expenditures for the fourth quarter of fiscal 2004 were
+         approximately $77 million.
+- -        Depreciation for the fourth quarter of fiscal 2004 was approximately
+         $45 million.
+- -        Cash balances were $621 million at the end of the fourth quarter of
+         fiscal 2004.
+- -        Return on Invested Capital (ROIC) was consistent at 15 percent for the
+         fourth quarter of fiscal 2004.
+
+FISCAL YEAR 2004
+Fiscal year revenues increased 32 percent to $6.3 billion, compared to $4.7
+billion in fiscal 2003.
+
+On a GAAP basis, net income for fiscal year 2004 was $166.9 million compared to
+$43.0 million for fiscal 2003. GAAP diluted earnings per share for fiscal 2004
+were $0.81 compared to $0.21 for fiscal 2003.
+
+Jabil's fiscal year 2004 core earnings after taxes increased 46 percent to
+$209.1 million, compared to $142.7 million for fiscal 2003. Core earnings per
+share increased 44 percent to $1.02 per diluted share for the fiscal year,
+compared to $0.71 for fiscal 2003. (Jabil defines core earnings as GAAP net
+income before amortization of intangibles, acquisition-related charges,
+restructuring and impairment charges and other income/loss, net of tax. Jabil
+reports core earnings and core earnings per share to provide its investors with
+an alternative method for assessing its earnings from what it believes to be its
+core manufacturing operations. See the accompanying reconciliation of Jabil's
+core earnings to its GAAP net income and additional information in the
+supplemental information below).
+
+Gross profit for fiscal year 2004 increased 24 percent to $538.4 million or 8.6
+percent of revenue compared to $435.5 million or 9.2 percent of revenue for
+fiscal year 2003.
+
+On a GAAP basis, operating income for fiscal year 2004 was $216.0 million
+compared to $44.5 million for the fiscal year 2003.
+
+Core operating income for fiscal year 2004 increased 44 percent to $261.1
+million or 4.2 percent of revenue compared to $181.9 million or 3.8 percent of
+revenue for fiscal 2003. (Jabil defines core operating income as GAAP operating
+income before amortization of intangibles, acquisition-related charges and
+restructuring and impairment charges. Jabil reports core operating income to
+provide its investors with an alternative method for assessing its operating
+income from what it believes to be its core manufacturing operations. See the
+accompanying reconciliation of Jabil's core operating income to its GAAP
+operating income and additional information in the supplemental information
+below).
+
+FISCAL YEAR SUMMARY AND BUSINESS OUTLOOK
+"We are pleased to conclude our fiscal year with a quarter that proved to be at
+the high end of our expectations, making this both a record quarter and fiscal
+year. We grew revenues 32 percent, increased core earnings 46 percent and
+improved core earnings per share 44 percent over fiscal 2004. Looking ahead, we
+plan to grow our business with the steady trend to outsourcing and believe 2005
+will be another strong year for Jabil," said Timothy L. Main, President and
+Chief Executive Officer.
+
+Jabil provided guidance for its full fiscal year 2005 indicating that it
+currently foresees revenue in a range of $7.2 to $7.4 billion, core earnings
+growth of 18 to 22 percent and core earnings per share in a range of $1.20 to
+$1.24 per diluted share, depending upon levels of production. GAAP earnings per
+share are currently estimated to be $1.05 to $1.09 per diluted share. (Expected
+GAAP earnings per share for the full fiscal year are currently estimated to
+include $0.15 per share for amortization of intangibles and acquisition related
+charges.)
+
+Jabil management also reiterated guidance for its first fiscal quarter of 2005,
+indicating they currently expect revenue to range from $1.75 to $1.85 billion
+and core earnings per share to be in a range of $0.30 to $0.32 per diluted
+share, depending upon levels of production. GAAP earnings per share are
+currently estimated to be $0.26 to $0.28 per diluted share. (Expected GAAP
+earnings per share for the quarter are currently estimated to include $0.04 per
+share for amortization of intangibles.)
+
+
+<PAGE>
+Q4 2004 Earnings Release--Add Three
+September 21, 2004
+
+
+SUPPLEMENTAL INFORMATION
+The financial results disclosed in this release include certain measures
+calculated and presented in accordance with GAAP. In addition to the GAAP
+financial measures, Jabil provides supplemental, non-GAAP financial measures to
+facilitate evaluation of Jabil's core operating performance. The non-GAAP
+financial measures disclosed in this release exclude certain amounts that are
+included in the most directly comparable GAAP measures. The non-GAAP, or core
+financial measures disclosed in this release do not have standard meanings and
+may vary from the non-GAAP financial measures used by other companies.
+
+Due to its acquisitions and restructuring programs, Jabil has incurred
+significant incremental charges that are included in the GAAP financial measures
+disclosed in this release. Management believes that the incremental nature of
+these amounts does not impact the performance of its core manufacturing
+operations. Management believes core financial measures (which exclude the
+effects of the amortization of intangibles, acquisition related charges,
+restructuring and impairment charges and other income) are a useful measure that
+facilitates evaluating the past and future performance of Jabil's ongoing
+operations on a comparable basis. Jabil reports core earnings and core operating
+income to provide its investors with an alternative method for assessing its
+earnings and operating income from what it believes to be its core manufacturing
+operations. Included in this release is a GAAP Consolidated Statement of Income,
+a non-GAAP Consolidated Statement of Income, as well as a reconciliation of the
+disclosed core financial measures to the most directly comparable GAAP financial
+measures.
+
+COMPANY CONFERENCE CALL INFORMATION
+Jabil Circuit will conduct a conference call to announce its fourth quarter and
+fiscal 2004 earnings today at 4:30 p.m. EDT, live on the Internet at
+http://jabil.com. This earnings conference call will be recorded and
+archived for playback on the web at http://jabil.com.
+
+The news release and information about Jabil's earnings will also be available
+in the investor relations' section of the web site (jabil.com) by approximately
+4:00 p.m., EDT. A taped replay of the conference call will also be available
+September 21, 2004 at approximately 7:30 p.m. EDT through midnight on September
+22, 2004. To access the replay, call (800) 642-1687 from within the United
+States, or (706) 645-9291 outside the United States. The passcode is 112853.
+
+Jabil Circuit, Inc. is a global leader in the Electronic Manufacturing Services
+(EMS) industry, offering innovative solutions to world leading electronics
+companies in the aerospace, automotive, computing, consumer, defense,
+instrumentation, medical, networking, peripherals, storage and
+telecommunications industry sectors. Jabil offers circuit design, board design
+from schematic, mechanical and production design, product realization services,
+product research and development, testing prototype assembly, volume board
+assembly, system assembly, enclosure services, direct fulfillment, repair and
+warranty services from facilities in the Americas, Europe and Asia. Jabil common
+stock is traded on the New York Stock Exchange under the symbol "JBL." Further
+information about Jabil can be found on its web site at jabil.com.
+
+
+Investor & Media Contact:
+Beth Walters
+(727) 803-3511
+investor_relations@jabil.com
+
+<PAGE>
+
+
+
+                      JABIL CIRCUIT, INC. AND SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+                                 (IN THOUSANDS)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                          August 31,      August 31,
+                                                            2004             2003
+                                                          ----------      ----------
+<S>                                                       <C>             <C>
+ASSETS
+Current assets
+    Cash and cash equivalents                             $  621,322      $  699,748
+    Accounts receivable, net                                 777,357         759,696
+    Inventories                                              656,681         510,218
+    Refundable income taxes                                       --          27,757
+    Prepaid expenses and other current assets                 70,143          62,942
+    Deferred income taxes                                     57,172          33,586
+                                                          ----------      ----------
+          Total current assets                             2,182,675       2,093,947
+
+Property, plant and equipment, net                           776,353         746,204
+Goodwill and intangible assets, net                          352,426         381,319
+Deferred income taxes                                          5,923              --
+Other assets                                                  11,979          23,275
+                                                          ----------      ----------
+                                                          $3,329,356      $3,244,745
+                                                          ==========      ==========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities
+    Current installments of notes payable,
+      long-term debt and long-term lease obligations      $    4,412      $  347,237
+    Accounts payable                                         937,636         712,697
+    Accrued expenses                                         213,418         203,284
+    Income taxes payable                                       3,618              --
+                                                          ----------      ----------
+          Total current liabilities                        1,159,084       1,263,218
+
+Notes payable, long-term debt and long-term
+  lease obligations, less current installments               305,194         297,018
+Deferred income taxes                                             --          19,223
+Other liabilities                                             45,738          76,810
+                                                          ----------      ----------
+          Total liabilities                                1,510,016       1,656,269
+                                                          ----------      ----------
+Stockholders' equity
+    Common stock                                                 201             199
+    Additional paid-in capital                               976,129         944,145
+    Retained earnings                                        789,953         623,053
+    Accumulated other comprehensive income                    53,057          21,079
+                                                          ----------      ----------
+          Total stockholders' equity                       1,819,340       1,588,476
+                                                          ----------      ----------
+                                                          $3,329,356      $3,244,745
+                                                          ==========      ==========
+</TABLE>
+
+
+
+
+<PAGE>
+                      JABIL CIRCUIT, INC. AND SUBSIDIARIES
+              UNITED STATES GAAP CONSOLIDATED STATEMENTS OF INCOME
+                    (IN THOUSANDS, EXCEPT FOR PER SHARE DATA)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                        Three months ended                Twelve months ended
+                                                                  -----------------------------       ----------------------------
+                                                                  August 31,        August 31,        August 31,        August 31,
+                                                                      2004             2003              2004               2003
+                                                                  -----------       -----------       -----------       -----------
+<S>                                                               <C>               <C>               <C>               <C>
+Net revenue                                                       $ 1,626,177       $ 1,296,015       $ 6,252,897       $ 4,729,482
+Cost of revenue                                                     1,488,488         1,175,611         5,714,517         4,294,016
+                                                                  -----------       -----------       -----------       -----------
+Gross profit                                                          137,689           120,404           538,380           435,466
+Operating expenses:
+    Selling, general and administrative                                65,596            65,051           263,504           243,663
+    Research and development                                            4,405             2,506            13,813             9,906
+    Amortization of intangibles                                        10,806            12,514            43,709            36,870
+    Acquisition related charges (1)                                        --             3,934             1,339            15,266
+    Restructuring and impairment charges (2)                               --             8,958                --            85,308
+                                                                  -----------       -----------       -----------       -----------
+Operating income                                                       56,882            27,441           216,015            44,453
+    Other loss (income) (3)                                                --                --             6,370            (2,600)
+    Interest income                                                    (1,679)           (1,684)           (7,237)           (6,920)
+    Interest expense                                                    4,249             5,246            19,369            17,019
+                                                                  -----------       -----------       -----------       -----------
+Income before income taxes                                             54,312            23,879           197,513            36,954
+    Income tax expense (benefit)                                       10,054             3,807            30,613            (6,053)
+                                                                  -----------       -----------       -----------       -----------
+Net income                                                        $    44,258       $    20,072       $   166,900       $    43,007
+                                                                  ===========       ===========       ===========       ===========
+Earnings per share:
+Basic                                                             $      0.22       $      0.10       $      0.83       $      0.22
+                                                                  ===========       ===========       ===========       ===========
+Diluted                                                           $      0.22       $      0.10       $      0.81       $      0.21
+                                                                  ===========       ===========       ===========       ===========
+Common shares used in the calculation of earnings per share:
+Basic                                                                 201,110           199,059           200,430           198,495
+                                                                  ===========       ===========       ===========       ===========
+Diluted                                                               205,165           203,980           205,849           202,103
+                                                                  ===========       ===========       ===========       ===========
+</TABLE>
+
+1) There were no acquisition-related charges during the three months ended
+August 31, 2004. During the twelve months ended August 31, 2004, we recorded
+acquisition-related charges of $1.3 million ($1.0 million after-tax) primarily
+in connection with the acquisitions of certain operations of Royal Philips
+Electronics ("Philips") and NEC Corporation ("NEC"). During the three months
+ended August 31, 2003, we recorded acquisition-related charges of $3.9 million
+($2.7 million after-tax) primarily in connection with the acquisitions of
+certain operations of Philips and NEC. During the twelve months ended August 31,
+2003, we recorded acquisition-related charges of $15.3 million ($9.8 million
+after-tax) in connection with the acquisitions of certain operations of Quantum
+Corporation, Alcatel Business Systems, Valeo S.A., Lucent Technologies of
+Shanghai, Seagate Technology - Reynosa, S. de R.L. de C.V., Philips and NEC.
+
+(2) There were no restructuring and impairment charges during the three and
+twelve months ended August 31, 2004. During the three months and twelve months
+ended August 31, 2003, we recorded restructuring and impairment charges of $9.0
+million ($8.3 million after-tax) and $85.3 million ($60.7 million after-tax),
+respectively, related to the restructuring of our business.
+
+(3) During the twelve months ended August 31, 2004, we recorded a loss of $6.4
+million ($4.0 million after-tax) on the write-off of unamortized issuance costs
+associated with our $345 million, 20-year, 1.75% convertible subordinated notes
+("Convertible Notes"). The Convertible Notes were retired in May 2004. During
+the twelve months ended August 31, 2003, we recorded $2.6 million ($1.6 million
+after-tax) of other income related to proceeds received in connection with
+facility closure costs.
+
+<PAGE>
+                      JABIL CIRCUIT, INC. AND SUBSIDIARIES
+                   NON-GAAP CONSOLIDATED STATEMENTS OF INCOME
+                    (IN THOUSANDS, EXCEPT FOR PER SHARE DATA)
+                                   (UNAUDITED)
+
+
+<TABLE>
+<CAPTION>
+                                                                          Three months ended               Twelve months ended
+                                                                       --------------------------     ---------------------------
+                                                                       August 31,    August 31,        August 31,      August 31,
+                                                                           2004         2003               2004           2003
+                                                                       -----------   -----------       -----------    -----------
+<S>                                                                    <C>           <C>               <C>            <C>
+Net revenue                                                            $ 1,626,177   $ 1,296,015       $ 6,252,897    $ 4,729,482
+Cost of revenue                                                          1,488,488     1,175,611         5,714,517      4,294,016
+                                                                       -----------   -----------       -----------    -----------
+Gross profit                                                               137,689       120,404           538,380        435,466
+
+Operating expenses:
+    Selling, general and administrative                                     65,596        65,051           263,504        243,663
+    Research and development                                                 4,405         2,506            13,813          9,906
+                                                                       -----------   -----------       -----------    -----------
+Core operating income (Non-GAAP) (1)                                        67,688        52,847           261,063        181,897
+
+    Interest income                                                         (1,679)       (1,684)           (7,237)        (6,920)
+    Interest expense                                                         4,249         5,246            19,369         17,019
+                                                                       -----------   -----------       -----------    -----------
+Core earnings before income taxes                                           65,118        49,285           248,931        171,798
+
+    Income tax expense (Non-GAAP) (1)                                       10,420         7,886            39,830         29,050
+                                                                       -----------   -----------       -----------    -----------
+Core earnings (Non-GAAP) (1)                                           $    54,698   $    41,399       $   209,101    $   142,748
+                                                                       ===========   ===========       ===========    ===========
+Core earnings per share: (Non-GAAP) (1)
+Basic                                                                  $      0.27   $      0.21       $      1.04    $      0.72
+                                                                       ===========   ===========       ===========    ===========
+Diluted                                                                $      0.27   $      0.20       $      1.02    $      0.71
+                                                                       ===========   ===========       ===========    ===========
+Common shares used in the calculation of core earnings per share:
+Basic                                                                      201,110       199,059           200,430        198,495
+                                                                       ===========   ===========       ===========    ===========
+Diluted                                                                    205,165       203,980           205,849        202,103
+                                                                       ===========   ===========       ===========    ===========
+</TABLE>
+
+(1) The Non-GAAP Consolidated Statements of Income presented above exclude
+certain amounts that are included in the U.S. GAAP Consolidated Statements of
+Income, specifically the effects of the amortization of intangibles, acquisition
+related charges, restructuring and impairment charges and other income. Also
+included in this release is a reconciliation of the disclosed non-GAAP, or core
+financial measures to the most directly comparable GAAP financial measures.
+Jabil provides supplemental, non-GAAP financial measures to facilitate
+evaluation of the Company's core operating performance. The non-GAAP financial
+measures disclosed in this release do not have standard meanings and may vary
+from the non-GAAP financial measures used by other companies.
+
+
+<PAGE>
+                      JABIL CIRCUIT, INC. AND SUBSIDIARIES
+                                SUPPLEMENTAL DATA
+       RECONCILIATION OF U.S. GAAP FINANCIAL RESULTS TO NON-GAAP MEASURES
+                    (IN THOUSANDS, EXCEPT FOR PER SHARE DATA)
+                                   (UNAUDITED)
+
+
+<TABLE>
+<CAPTION>
+                                                         Three months ended            Twelve months ended
+                                                      ------------------------      -------------------------
+                                                      August 31,     August 31,     August 31,     August 31,
+                                                        2004            2003          2004            2003
+                                                      ---------      ---------      ---------      ----------
+<S>                                                   <C>            <C>            <C>            <C>
+OPERATING INCOME (GAAP)                               $  56,882      $  27,441      $ 216,015       $  44,453
+Amortization of intangibles                              10,806         12,514         43,709          36,870
+Acquisition-related charges                                  --          3,934          1,339          15,266
+Restructuring and impairment charges                         --          8,958             --          85,308
+                                                      ---------      ---------      ---------       ---------
+CORE OPERATING INCOME (NON-GAAP)                      $  67,688      $  52,847      $ 261,063       $ 181,897
+                                                      =========      =========      =========       =========
+
+
+NET INCOME (GAAP)                                     $  44,258      $  20,072      $ 166,900       $  43,007
+Amortization of intangibles, net of tax                  10,440         10,374         37,239          30,848
+Acquisition-related charges, net of tax                      --          2,684            987           9,827
+Restructuring and impairment charges, net of tax             --          8,269             --          60,688
+Other loss (income), net of tax                              --             --          3,975          (1,622)
+                                                      ---------      ---------      ---------       ---------
+CORE EARNINGS (NON-GAAP)                              $  54,698      $  41,399      $ 209,101       $ 142,748
+                                                      =========      =========      =========       =========
+
+
+EARNINGS PER SHARE: (GAAP)
+Basic                                                 $    0.22      $    0.10      $    0.83       $    0.22
+                                                      =========      =========      =========       =========
+Diluted                                               $    0.22      $    0.10      $    0.81       $    0.21
+                                                      =========      =========      =========       =========
+
+CORE EARNINGS PER SHARE: (NON-GAAP)
+Basic                                                 $    0.27      $    0.21      $    1.04       $    0.72
+                                                      =========      =========      =========       =========
+Diluted                                               $    0.27      $    0.20      $    1.02       $    0.71
+                                                      =========      =========      =========       =========
+
+COMMON SHARES USED IN THE CALCULATIONS OF
+   EARNINGS PER SHARE:
+Basic                                                   201,110        199,059        200,430         198,495
+                                                      =========      =========      =========       =========
+Diluted                                                 205,165        203,980        205,849         202,103
+                                                      =========      =========      =========       =========
+</TABLE>
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
